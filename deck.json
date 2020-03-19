@@ -3951,9 +3951,549 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "paste-014293712b6ba00090ab87b322be479a18420b7a.jpg",
+                "paste-0167dafdf3f201f3030811acc79f36b3f0403ba7.jpg",
+                "paste-07f39d10732532a98b955fe62bd159f7d17e86d0.jpg",
+                "paste-09c1c23be9aaf32245c04ccb5c676c4cb142fef1.jpg",
+                "paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg",
+                "paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg",
+                "paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg",
+                "paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg",
+                "paste-3647bf466298190ab2da64405b0fc52630a08b59.jpg",
+                "paste-38ae98f40ca262b11e6b21f77792a0dba374b97a.jpg",
+                "paste-3e5a485d58cfdfc92289e90cc6987d295d392fd0.jpg",
+                "paste-4389a585ca6bda5d727c6aaf8c5a0bf5a3652afd.jpg",
+                "paste-4bc7d10dcb70acbe70ce5b7b21d460bc3025a435.jpg",
+                "paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg",
+                "paste-502a5960d748b2a0336f4b6bc1b88f16da012161.jpg",
+                "paste-577a0638af6cf3babfbb06617d6376934edb5abb.jpg",
+                "paste-5c7e32432600a029c4ac050d84ab7e93b5bc47e1.jpg",
+                "paste-626dca5b5a12135ee9a29a27d8e22441fe883a31.jpg",
+                "paste-64fdbebec8114940f7574f6bb75438e6e7633039.jpg",
+                "paste-6a9844db4a7c5602e577a6bbddae06291039eea9.jpg",
+                "paste-6ebe999b18b1bd3821d68e7e8498b18af43f9f21.jpg",
+                "paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg",
+                "paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg",
+                "paste-7eb1c8a61ee6cadf261368def08b958c7b2e3f0d.jpg",
+                "paste-871dc4e09e01411408f9a14280a8bb44268f966d.jpg",
+                "paste-89d1b5baee4373c14f2f6281637fa9bd0b2097ee.jpg",
+                "paste-8bf93346d28044c8902a032aa6cfc9a7c519cec5.jpg",
+                "paste-8d854cc150ee1cfa48b1063cf144cb932c2eaae2.jpg",
+                "paste-90b20fe56f1caef14f313deb4f7a124f2c7bf60c.jpg",
+                "paste-a1936115a426a4738472ee7725331f74eeea958e.jpg",
+                "paste-a8836b58da5f2e4a7fe763f3636e33983a999c6d.jpg",
+                "paste-ac4996abd46062f42d3a4c27bf98e7524776ec57.jpg",
+                "paste-acc1ed9db2cb525cf08c6692bb8d1c6573727878.jpg",
+                "paste-b51530d121a637697669e02aaf60a655aec6c389.jpg",
+                "paste-bbed21dc55c197b391d35eb95556d0f1322279a7.jpg",
+                "paste-c3e16439adf57af691d603d28326d0be60118d87.jpg",
+                "paste-c5c092db18a64c85f79a43688384d0aa40e8a268.jpg",
+                "paste-cce85e9f93015f12351806e4f1dfd9a9c2cc275d.jpg",
+                "paste-cee8139cb5f3dcb8a7393077197c2126bdf52f77.jpg",
+                "paste-cf852f0407788528b2e1987c7ad658a79f1b7e5e.jpg",
+                "paste-d436165284762d78093adc4ab45d4817c608027f.jpg",
+                "paste-d67e79a1c012e527deb503de5d181107e28c4d95.jpg",
+                "paste-dac2b5a7cf256ebb990f83df46854b4a5ebf4061.jpg",
+                "paste-e6e7361419cf1f0a5f0e30d731c62d0d28b8b577.jpg",
+                "paste-e73295c17f3440f5172158803f8789521cbf2312.jpg",
+                "paste-e7d3dfc58a5752343598850f36685615bc15c6bd.jpg",
+                "paste-ea2a9e10c5c671b9427525a7b7e62bfe8e05442c.jpg",
+                "paste-ecdb47cac2cc36d3e7ad9e1797ba879d48a06dd6.jpg",
+                "paste-ed3c3cbf55880f77abbc2677c70f15eabbea0a86.jpg",
+                "paste-ef4c58e54f3d54c1c1fe37a86165f888399bce45.jpg",
+                "paste-ef7313db38811bcf779047a9f8dc31a7907c7771.jpg",
+                "paste-f5053cc02fb401b4e926f82f3aa740dc4ff6fe34.jpg",
+                "paste-f5b1d1975d9958db48fdbba1e4e83f6c08f71f42.jpg",
+                "paste-f7cc693a1efb6b56bf2f3a5632c844e19663ecba.jpg",
+                "paste-f94a23273e4316d6b1fae3d5de8602e0cffee8a3.jpg",
+                "paste-faafe375686cc7f220e83c0dd6f95ac44f0c1273.jpg",
+                "paste-fd999d501ed41aa59a93ecae09db14026d6a9c25.jpg"
+            ],
             "name": "Algoritmy a Datové Struktury 1",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: \\(\\mathcal{O}, \\Omega\\)",
+                        "<img src=\"paste-014293712b6ba00090ab87b322be479a18420b7a.jpg\"><div><img src=\"paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg\"><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OUM7W{j|k",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: BFS",
+                        "<img src=\"paste-5c7e32432600a029c4ac050d84ab7e93b5bc47e1.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "L2T,<$amjS",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus",
+                        "bfs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-6a9844db4a7c5602e577a6bbddae06291039eea9.jpg\">",
+                        "<img src=\"paste-c5c092db18a64c85f79a43688384d0aa40e8a268.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Q95SnRh`ug",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><img src=\"paste-faafe375686cc7f220e83c0dd6f95ac44f0c1273.jpg\"><br></div>",
+                        "<img src=\"paste-f94a23273e4316d6b1fae3d5de8602e0cffee8a3.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "nL{f)|q7u@",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: klasifikace hran",
+                        "<img src=\"paste-e7d3dfc58a5752343598850f36685615bc15c6bd.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "JnlA/FElYN",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bfs",
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: DFS",
+                        "<div><img src=\"paste-0167dafdf3f201f3030811acc79f36b3f0403ba7.jpg\"><img src=\"paste-bbed21dc55c197b391d35eb95556d0f1322279a7.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "r/<h,$Tuu8",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus",
+                        "dfs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-90b20fe56f1caef14f313deb4f7a124f2c7bf60c.jpg\">",
+                        "<img src=\"paste-ac4996abd46062f42d3a4c27bf98e7524776ec57.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "e,.80>RIQ0",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-3e5a485d58cfdfc92289e90cc6987d295d392fd0.jpg\">",
+                        "<img src=\"paste-e73295c17f3440f5172158803f8789521cbf2312.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "pk0[GGODE)",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-8d854cc150ee1cfa48b1063cf144cb932c2eaae2.jpg\">",
+                        "<img src=\"paste-ed3c3cbf55880f77abbc2677c70f15eabbea0a86.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "K6~K`EzbH&",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: klasifikace hran (DFS)",
+                        "<img src=\"paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg\"><div><img src=\"paste-c3e16439adf57af691d603d28326d0be60118d87.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B?<*%V#F#v",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice",
+                        "dfs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-577a0638af6cf3babfbb06617d6376934edb5abb.jpg\">",
+                        "<img src=\"paste-626dca5b5a12135ee9a29a27d8e22441fe883a31.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Kh8T6[p2Z+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: mosty v neorientovaném grafu",
+                        "<div><img src=\"paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg\"><img src=\"paste-b51530d121a637697669e02aaf60a655aec6c389.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "EQ7;w+Kfg0",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-8bf93346d28044c8902a032aa6cfc9a7c519cec5.jpg\">",
+                        "<img src=\"paste-ea2a9e10c5c671b9427525a7b7e62bfe8e05442c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "fW8)LfBy,}",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dfs",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: topologické uspořádaní",
+                        "<img src=\"paste-f5b1d1975d9958db48fdbba1e4e83f6c08f71f42.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "q@hnq#$}un",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-cf852f0407788528b2e1987c7ad658a79f1b7e5e.jpg\">",
+                        "<img src=\"paste-fd999d501ed41aa59a93ecae09db14026d6a9c25.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "qjBl^R7K^.",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-4389a585ca6bda5d727c6aaf8c5a0bf5a3652afd.jpg\">",
+                        "<img src=\"paste-4bc7d10dcb70acbe70ce5b7b21d460bc3025a435.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "ys|0NY~NIz",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dfs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: slabá a silná souvislost",
+                        "<img src=\"paste-89d1b5baee4373c14f2f6281637fa9bd0b2097ee.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "kB6wR9z|mF",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-871dc4e09e01411408f9a14280a8bb44268f966d.jpg\">",
+                        "<img src=\"paste-f7cc693a1efb6b56bf2f3a5632c844e19663ecba.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "M2!{WEZr?9",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: zdrojová a stoková hrana",
+                        "<img src=\"paste-38ae98f40ca262b11e6b21f77792a0dba374b97a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Oy6D<?60pa",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-3647bf466298190ab2da64405b0fc52630a08b59.jpg\">",
+                        "<img src=\"paste-dac2b5a7cf256ebb990f83df46854b4a5ebf4061.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "GR_ULq)u}Y",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "souvislost",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: komponenty silné souvislosti",
+                        "<img src=\"paste-7eb1c8a61ee6cadf261368def08b958c7b2e3f0d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "l6mnXg|.Pw",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: strom nejkratších cest",
+                        "<img src=\"paste-a8836b58da5f2e4a7fe763f3636e33983a999c6d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "m<1w|2|>M7",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: dijkstra",
+                        "<img src=\"paste-64fdbebec8114940f7574f6bb75438e6e7633039.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "unTfVU7rWj",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: relaxace",
+                        "<img src=\"paste-09c1c23be9aaf32245c04ccb5c676c4cb142fef1.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NA<u/ZkmRE",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-d67e79a1c012e527deb503de5d181107e28c4d95.jpg\">",
+                        "<img src=\"paste-07f39d10732532a98b955fe62bd159f7d17e86d0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "rGYa32|/WB",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "relaxace",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-502a5960d748b2a0336f4b6bc1b88f16da012161.jpg\">",
+                        "<img src=\"paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "GU8swz[8dC",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "relaxace",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-ecdb47cac2cc36d3e7ad9e1797ba879d48a06dd6.jpg\">",
+                        "<img src=\"paste-cce85e9f93015f12351806e4f1dfd9a9c2cc275d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "usQ?p<{oFm",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "relaxace",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-ef7313db38811bcf779047a9f8dc31a7907c7771.jpg\">",
+                        "<img src=\"paste-ef4c58e54f3d54c1c1fe37a86165f888399bce45.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "A@t:<YJNl",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dijkstra",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-f5053cc02fb401b4e926f82f3aa740dc4ff6fe34.jpg\">",
+                        "<img src=\"paste-a1936115a426a4738472ee7725331f74eeea958e.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "q4Ke`3vIFT",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "dijkstra",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: Bellman-ford",
+                        "<img src=\"paste-6ebe999b18b1bd3821d68e7e8498b18af43f9f21.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "e;ksr77iL~",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: fáze výpočtu",
+                        "<img src=\"paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "mCV*AjPg`y",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bellman-ford",
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg\">",
+                        "<img src=\"paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg\"><div><img src=\"paste-acc1ed9db2cb525cf08c6692bb8d1c6573727878.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Nx)q5BYTxi",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bellman-ford",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-cee8139cb5f3dcb8a7393077197c2126bdf52f77.jpg\">",
+                        "<div><img src=\"paste-d436165284762d78093adc4ab45d4817c608027f.jpg\"><br></div><div><br></div><img src=\"paste-e6e7361419cf1f0a5f0e30d731c62d0d28b8b577.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "O<f=Sz>^DF",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bellman-ford",
+                        "věta"
+                    ]
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -4050,6 +4590,7 @@
             ],
             "sortf": 0,
             "tags": [
+                "bellman-ford",
                 "věta"
             ],
             "tmpls": [
