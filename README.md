@@ -1,7 +1,6 @@
 # Anki MFF
-Kolekce Anki balíčků k různým předmětům na MFF (informatika).
+Kolekce Anki balíčků k různým předmětům na MFF (informatika), aktuálně:
 
-Aktuálně se jedná o:
 - Algoritmy a Datové Struktury 1
 - Lineární Algebra 1
 - Lineární Algebra 2
