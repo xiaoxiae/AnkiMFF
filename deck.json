@@ -3955,22 +3955,32 @@
                 "paste-014293712b6ba00090ab87b322be479a18420b7a.jpg",
                 "paste-0167dafdf3f201f3030811acc79f36b3f0403ba7.jpg",
                 "paste-07f39d10732532a98b955fe62bd159f7d17e86d0.jpg",
+                "paste-095205fa857f81fc77c89ba2fc4e47f8dcc5ebfd.jpg",
                 "paste-09c1c23be9aaf32245c04ccb5c676c4cb142fef1.jpg",
+                "paste-0fa5d227ce59bbe403e7cd54959b9cdcf90cb6b4.jpg",
+                "paste-135703ea0f09cf3b6d6b56586c2627fc0291407b.jpg",
+                "paste-136932a58d3e3ed32ec66be64806074a114c55e3.jpg",
                 "paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg",
                 "paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg",
+                "paste-21dbe8cc044a799408559a6ccbc512885a7a4276.jpg",
                 "paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg",
+                "paste-2d3fbe821ffe0271c8af808dc653b9a1c3619812.jpg",
                 "paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg",
                 "paste-3647bf466298190ab2da64405b0fc52630a08b59.jpg",
                 "paste-38ae98f40ca262b11e6b21f77792a0dba374b97a.jpg",
                 "paste-3e5a485d58cfdfc92289e90cc6987d295d392fd0.jpg",
+                "paste-406dccfb6f8bdd2a6eb54165870b43c713f1836c.jpg",
                 "paste-4389a585ca6bda5d727c6aaf8c5a0bf5a3652afd.jpg",
+                "paste-493f1cfb05f012c4d43c328aac55507467d4a43d.jpg",
                 "paste-4bc7d10dcb70acbe70ce5b7b21d460bc3025a435.jpg",
                 "paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg",
                 "paste-502a5960d748b2a0336f4b6bc1b88f16da012161.jpg",
                 "paste-577a0638af6cf3babfbb06617d6376934edb5abb.jpg",
                 "paste-5c7e32432600a029c4ac050d84ab7e93b5bc47e1.jpg",
                 "paste-626dca5b5a12135ee9a29a27d8e22441fe883a31.jpg",
+                "paste-631a1863ca324bdad40658abf9ea0d77d4dd44bb.jpg",
                 "paste-64fdbebec8114940f7574f6bb75438e6e7633039.jpg",
+                "paste-6a15dd3cffaf2e1911a11bf854a3a5d0dd40c415.jpg",
                 "paste-6a9844db4a7c5602e577a6bbddae06291039eea9.jpg",
                 "paste-6ebe999b18b1bd3821d68e7e8498b18af43f9f21.jpg",
                 "paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg",
@@ -4468,7 +4478,7 @@
                     "data": "",
                     "fields": [
                         "<img src=\"paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg\">",
-                        "<img src=\"paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg\"><div><img src=\"paste-acc1ed9db2cb525cf08c6692bb8d1c6573727878.jpg\"><br></div>"
+                        "<img src=\"paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg\"><div><img src=\"paste-acc1ed9db2cb525cf08c6692bb8d1c6573727878.jpg\"><br></div><div><img src=\"paste-095205fa857f81fc77c89ba2fc4e47f8dcc5ebfd.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "Nx)q5BYTxi",
@@ -4491,6 +4501,94 @@
                     "tags": [
                         "bellman-ford",
                         "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-631a1863ca324bdad40658abf9ea0d77d4dd44bb.jpg\">",
+                        "<img src=\"paste-135703ea0f09cf3b6d6b56586c2627fc0291407b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "HiCMvg,;%#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bellman-ford",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: Floyd-Warshall",
+                        "<img src=\"paste-0fa5d227ce59bbe403e7cd54959b9cdcf90cb6b4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "F@*XuZ:+hB",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus",
+                        "floyd-warshall"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: Jarníkův",
+                        "<img src=\"paste-406dccfb6f8bdd2a6eb54165870b43c713f1836c.jpg\"><div><img src=\"paste-6a15dd3cffaf2e1911a11bf854a3a5d0dd40c415.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lYT!As>jS6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus",
+                        "kostry"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: elementární řez",
+                        "<img src=\"paste-2d3fbe821ffe0271c8af808dc653b9a1c3619812.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "ka`,ugS%~m",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-493f1cfb05f012c4d43c328aac55507467d4a43d.jpg\">",
+                        "<img src=\"paste-21dbe8cc044a799408559a6ccbc512885a7a4276.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "s9=14p*/(?",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: Borůvkův",
+                        "<img src=\"paste-136932a58d3e3ed32ec66be64806074a114c55e3.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "s}N=tXiD,6",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "algoritmus",
+                        "kostry"
                     ]
                 }
             ]
@@ -4590,8 +4688,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "bellman-ford",
-                "věta"
+                "algoritmus",
+                "kostry"
             ],
             "tmpls": [
                 {
