@@ -2768,6 +2768,7 @@
             "extendNew": 10,
             "extendRev": 50,
             "inactiveTags": [
+                "tvrzení",
                 "věta"
             ],
             "media_files": [
@@ -4155,6 +4156,7 @@
                 "paste-0fa5d227ce59bbe403e7cd54959b9cdcf90cb6b4.jpg",
                 "paste-135703ea0f09cf3b6d6b56586c2627fc0291407b.jpg",
                 "paste-136932a58d3e3ed32ec66be64806074a114c55e3.jpg",
+                "paste-195a112d0bf7e05531dd155a0aaea219805205fb.jpg",
                 "paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg",
                 "paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg",
                 "paste-21dbe8cc044a799408559a6ccbc512885a7a4276.jpg",
@@ -4375,7 +4377,7 @@
                     "data": "",
                     "fields": [
                         "D: klasifikace hran (DFS)",
-                        "<img src=\"paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg\"><div><img src=\"paste-c3e16439adf57af691d603d28326d0be60118d87.jpg\"><br></div>"
+                        "<img src=\"paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg\"><div><img src=\"paste-c3e16439adf57af691d603d28326d0be60118d87.jpg\"><br></div><div><img src=\"paste-195a112d0bf7e05531dd155a0aaea219805205fb.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "B?<*%V#F#v",
@@ -4969,7 +4971,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
@@ -5003,7 +5005,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Front}}\n<div align=right>{{Tags}}</div>"
                 }
             ],
             "type": 0,
