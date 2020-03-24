@@ -1397,6 +1397,7 @@
                 "paste-04431f0d4ef503fa589c95a615a53fa04fe0c52e.jpg",
                 "paste-07843013f7d430dc9270fca47cfd076ce0ace187.jpg",
                 "paste-07f39d10732532a98b955fe62bd159f7d17e86d0.jpg",
+                "paste-094b86e7f21e7ddab582f7fa800b09132d878552.jpg",
                 "paste-095205fa857f81fc77c89ba2fc4e47f8dcc5ebfd.jpg",
                 "paste-09c1c23be9aaf32245c04ccb5c676c4cb142fef1.jpg",
                 "paste-0d0c72207e20b1310deb69716a8d2c54d35ba6ee.jpg",
@@ -1419,6 +1420,7 @@
                 "paste-3d593b537edcfd02c220285865e80ab9443fb125.jpg",
                 "paste-3e5a485d58cfdfc92289e90cc6987d295d392fd0.jpg",
                 "paste-3f139c50e21ce77fbb9c92186fb7715aab56bc45.jpg",
+                "paste-3fdcc8fda9e1d26e7e9b67cc53ec7abecb12f352.jpg",
                 "paste-406dccfb6f8bdd2a6eb54165870b43c713f1836c.jpg",
                 "paste-431b26bfb2116ffad6b7b77c7a188e5f551895e6.jpg",
                 "paste-4389a585ca6bda5d727c6aaf8c5a0bf5a3652afd.jpg",
@@ -1442,6 +1444,7 @@
                 "paste-6a9844db4a7c5602e577a6bbddae06291039eea9.jpg",
                 "paste-6ebe999b18b1bd3821d68e7e8498b18af43f9f21.jpg",
                 "paste-6ee6e2f8d3d478ab73d1985f9926f2d503d90025.jpg",
+                "paste-719c44fa4d4acfa78a595d4f6791c8b1899861bc.jpg",
                 "paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg",
                 "paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg",
                 "paste-7eb1c8a61ee6cadf261368def08b958c7b2e3f0d.jpg",
@@ -2229,6 +2232,34 @@
                     "tags": [
                         "algoritmus",
                         "avl"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: obecný vyhledávací strom",
+                        "<img src=\"paste-719c44fa4d4acfa78a595d4f6791c8b1899861bc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Hlzj~(em+t",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: (a-b)-strom",
+                        "<img src=\"paste-3fdcc8fda9e1d26e7e9b67cc53ec7abecb12f352.jpg\"><div><img src=\"paste-094b86e7f21e7ddab582f7fa800b09132d878552.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "w4uIe2vEM7",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
                     ]
                 }
             ]
@@ -5084,8 +5115,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "algoritmus",
-                "avl"
+                "definice"
             ],
             "tmpls": [
                 {
