@@ -717,6 +717,7 @@
                 "paste-07b9b8f39f82c7d6b1df2e1f697afd1d8e014a50.jpg",
                 "paste-085041f6cdb59c859e3e38e2bb3f5f1cf52c52fd.jpg",
                 "paste-09953a8f97006c0564d75a85b5b3ac219878fc70.jpg",
+                "paste-0b4985253440d8304cfc465e2727a3f1909eca70.jpg",
                 "paste-0c1ca2e8587bafff4e364c0dc952b7b4989c32a9.jpg",
                 "paste-0e0782382ab6b78d5e3ae71f1d46181219ee588f.jpg",
                 "paste-164f5dcfeaf4ab5eea370dd5ace2bb3d107b5058.jpg",
@@ -726,6 +727,8 @@
                 "paste-3701867e38b99e1315a9e537c87776d8d0e90bba.jpg",
                 "paste-3a06e04a6b1578681679fe222e856dcc9bd4658a.jpg",
                 "paste-4b0dcef57ffe2c71a9c80d5100a65a054a888d00.jpg",
+                "paste-4bd35d1e6637cb4fea50c29f502c6daee2e48c7f.jpg",
+                "paste-4d0a06c88d1d6beff68e61fa055b546686178e14.jpg",
                 "paste-4e4ef88d9814bde0e89bf6dec4b5b6b1c902c92f.jpg",
                 "paste-5ecf63561c1acfa9c1cb2cec1321edf4ecbccc4b.jpg",
                 "paste-653d9f8d5cd982053ac3963df5f01b22acd340a6.jpg",
@@ -741,15 +744,25 @@
                 "paste-94ec1bd5415676a079ab433011863854c3e10d9b.jpg",
                 "paste-95f6ebc9c1d2196dfa40e7eaf4b304d99de921a9.jpg",
                 "paste-98f5440d6d6985c33a202829756344a1e98c991d.jpg",
+                "paste-99c5203d27e106a56d5f13f2a277aff39c8bbbd8.jpg",
+                "paste-9a8ab290034e6993150baf496e4037711ddcdbd4.jpg",
                 "paste-9cd9bcde853b7add3cd46a7187e9698a37b52f72.jpg",
                 "paste-a49a59a5aef4e9cf451a0016de1fc25841e8b711.jpg",
+                "paste-a628e03180536c097d5beb4b18f723a1c9d0e71d.jpg",
                 "paste-a92963f9e8dc1e07d268126d240daeb71e62090e.jpg",
                 "paste-b24ffd1137a5940e54ce16b7d97f1ff8a35d09a9.jpg",
                 "paste-b4b270342b84dcd0583812fefb004ec8ca0e1d73.jpg",
+                "paste-b5cd3369393229dc9dd51a23e3ccb0248b6ff108.jpg",
                 "paste-b7cbee8195c7d488cc0e00a3fd3537584fde8a71.jpg",
                 "paste-bad8706a33e5676516063a181bd2ab885f62c835.jpg",
                 "paste-bca4fe845adf7cb37515b25f46d19dfb2540594b.jpg",
+                "paste-c33583fcc01137bda87454a65aa55b7fe76313f5.jpg",
+                "paste-cb787bab27f72cc06062493e68e58ff394d8a4f1.jpg",
+                "paste-d6263ae80bd1a0018cee9aba87da5790f1ee20bc.jpg",
                 "paste-d95f3cb5e9fe8c4646bffe9e982be473f1880ee0.jpg",
+                "paste-daa8e3d82046596b29f4b1952faa5219ea040731.jpg",
+                "paste-dbbec83a9d88ac597088a450efb629e5f1a6b8c9.jpg",
+                "paste-dccdfd00b20de78bb38ba384f2e1d40898005e8d.jpg",
                 "paste-dd6568257d75d20b0e8d69164bfc1a9fe2593ecc.jpg",
                 "paste-e4b5b34423aecd971383bc9eee3403180d82fb92.jpg",
                 "paste-e4fefd13c4a1699b88529100601d28e574802205.jpg",
@@ -1378,6 +1391,104 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Spojitost",
+                        "<img src=\"paste-99c5203d27e106a56d5f13f2a277aff39c8bbbd8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "tqGdz85D6g",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-4d0a06c88d1d6beff68e61fa055b546686178e14.jpg\">",
+                        "<img src=\"paste-dbbec83a9d88ac597088a450efb629e5f1a6b8c9.jpg\"><div><img src=\"paste-4bd35d1e6637cb4fea50c29f502c6daee2e48c7f.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Jg))T7<cRZ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-0b4985253440d8304cfc465e2727a3f1909eca70.jpg\">",
+                        "<img src=\"paste-c33583fcc01137bda87454a65aa55b7fe76313f5.jpg\"><div><img src=\"paste-cb787bab27f72cc06062493e68e58ff394d8a4f1.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "q.w)DNA.N",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Extrémy funkce",
+                        "<img src=\"paste-dccdfd00b20de78bb38ba384f2e1d40898005e8d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "hx!}YHwpY{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-9a8ab290034e6993150baf496e4037711ddcdbd4.jpg\"><div><img src=\"paste-b5cd3369393229dc9dd51a23e3ccb0248b6ff108.jpg\"><br></div>",
+                        "<div><img src=\"paste-a628e03180536c097d5beb4b18f723a1c9d0e71d.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "MW!rOLUSYX",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Limita a spojitost v metrických prostorech",
+                        "<img src=\"paste-daa8e3d82046596b29f4b1952faa5219ea040731.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "PBP>hc8M-l",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Kompaktní množiny v \\(\\mathbb{R}^n\\)",
+                        "<img src=\"paste-d6263ae80bd1a0018cee9aba87da5790f1ee20bc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "M_im<TY[Ig",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
                     ]
                 }
             ]
