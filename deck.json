@@ -1520,6 +1520,7 @@
                 "paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg",
                 "paste-21dbe8cc044a799408559a6ccbc512885a7a4276.jpg",
                 "paste-22096cdff7d315513334c48493028d0d0563585e.jpg",
+                "paste-2bc0ed0815ef47038784c9be464ca0cfc07b0a8a.jpg",
                 "paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg",
                 "paste-2d3fbe821ffe0271c8af808dc653b9a1c3619812.jpg",
                 "paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg",
@@ -1558,14 +1559,18 @@
                 "paste-719c44fa4d4acfa78a595d4f6791c8b1899861bc.jpg",
                 "paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg",
                 "paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg",
+                "paste-7cce9cef51ad976148f24a579fa1bf5c53009d70.jpg",
                 "paste-7eb1c8a61ee6cadf261368def08b958c7b2e3f0d.jpg",
+                "paste-83ff1e986c91f3304c762b86daafeb7c8f236b32.jpg",
                 "paste-871dc4e09e01411408f9a14280a8bb44268f966d.jpg",
                 "paste-89d1b5baee4373c14f2f6281637fa9bd0b2097ee.jpg",
                 "paste-8bf93346d28044c8902a032aa6cfc9a7c519cec5.jpg",
                 "paste-8d854cc150ee1cfa48b1063cf144cb932c2eaae2.jpg",
                 "paste-8dd79c073e22dd61742d3a03ab599693820d3a90.jpg",
                 "paste-90b20fe56f1caef14f313deb4f7a124f2c7bf60c.jpg",
+                "paste-953463946af9d923ac0d986a643dbbfd5c964c7e.jpg",
                 "paste-96ec64f7afe65b390711cc1ed738dbf3a265744c.jpg",
+                "paste-99198c1ad597e048feabc2ecb2a45901fb2df224.jpg",
                 "paste-9dddc987a564124915ef383f754b31699eb833ea.jpg",
                 "paste-a1936115a426a4738472ee7725331f74eeea958e.jpg",
                 "paste-a8836b58da5f2e4a7fe763f3636e33983a999c6d.jpg",
@@ -2370,7 +2375,38 @@
                     "guid": "w4uIe2vEM7",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
+                        "a-b",
                         "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-83ff1e986c91f3304c762b86daafeb7c8f236b32.jpg\">",
+                        "<img src=\"paste-2bc0ed0815ef47038784c9be464ca0cfc07b0a8a.jpg\"><div><img src=\"paste-7cce9cef51ad976148f24a579fa1bf5c53009d70.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "uEjtMXbzuQ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "a-b",
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A: vkládaní do a-b stromu",
+                        "<img src=\"paste-99198c1ad597e048feabc2ecb2a45901fb2df224.jpg\"><div><img src=\"paste-953463946af9d923ac0d986a643dbbfd5c964c7e.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "yTC.uQvK]P",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "a-b",
+                        "algoritmus"
                     ]
                 }
             ]
@@ -5226,7 +5262,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "definice"
+                "a-b",
+                "algoritmus"
             ],
             "tmpls": [
                 {
