@@ -41,6 +41,7 @@
                 "paste-5a69d5b7d588c448dbaed19eaacdf36b7d3969ed.jpg",
                 "paste-5ddb4dd0171e00c6807bd1fbdddfa06169800784.jpg",
                 "paste-5ef7ac47a94f8a2e976c84d9372edb1c8d99c62d.jpg",
+                "paste-604ab29fca7eb696035f4904cdad0b6b719f372f.jpg",
                 "paste-61290be12b37a0965ad8eee4b63b9a8f85cd7fd7.jpg",
                 "paste-6706ad788a559522e5ba5ff35127113b66f56e24.jpg",
                 "paste-67368bb04f53ba79f0396a59574d203398acc0e6.jpg",
@@ -53,12 +54,16 @@
                 "paste-7436a477d9c8c71e493e2803dda6775aa1bf0f3c.jpg",
                 "paste-767e8280259bd7f8beee691f018a4436c37af9e4.jpg",
                 "paste-790769d80a41cafcb92b9796609c5d80903e4ae1.jpg",
+                "paste-79e767392cea5e6f5ca92552749b06cd4aaa90c9.jpg",
                 "paste-82c82817c55549d07a1cb4d7a05fe72eb7b2bb55.jpg",
                 "paste-8454b4b1ebbd27485c3cdeae2449dad19d872741.jpg",
                 "paste-85a93274c0c5afcdf221f594544a8db6b888d747.jpg",
                 "paste-86ddef4d82e4d650df2e61513511d60d624ecfa6.jpg",
                 "paste-8908d802bda67ace76c8149a2ebd684f28b2e9c6.jpg",
                 "paste-89c19148dd7fdd881eb6d45ae11936acb7e58b2e.jpg",
+                "paste-90abbe1aa2612ee77c116a3194a0fb336136534e.jpg",
+                "paste-928af7dc136d3e22734b5225667870b9729bf474.jpg",
+                "paste-93565d2a119d6f4a59a8224029377ed6e31f45de.jpg",
                 "paste-958b66548d6bd2ed4b622a1333db72c9d8d6ffc3.jpg",
                 "paste-95af51f1da14d4d6978fb25b3df623690930bd46.jpg",
                 "paste-97954852638a0ff32c3fa67d904951c621e4b9b0.jpg",
@@ -66,17 +71,21 @@
                 "paste-a2d72ce6cc4a3d54209a7acc311c6fcd9c5e7789.jpg",
                 "paste-a7db44893ae66fb72a8cb6a1e7a0d120217052d7.jpg",
                 "paste-a995b1e3f981c4178fd3442f6d6d02bea47af247.jpg",
+                "paste-ab0a7d1874c53768c32167804120b9c98b5af5f4.jpg",
                 "paste-b1298caceb27900553fffc6dd9580bc287a3e2d7.jpg",
                 "paste-b65cb696b17cacc48d4def75d594499d47344c3f.jpg",
                 "paste-b6cb9dca2bb53f86639bba4ccfd991f658496ea3.jpg",
                 "paste-b72dbeaf15d90b94cfd48d1c5d44faca759354c8.jpg",
+                "paste-bd44ceb7225cb2743e856371dddff552f16d2762.jpg",
                 "paste-c2a3dd6ec24a640b5be855fa6b5147c95b029c31.jpg",
                 "paste-c673b2ad8c9740fae773924535250a57f3e18d60.jpg",
                 "paste-c6c6db7e53b5388a38c189811e25a997f39853c7.jpg",
                 "paste-ca9c3315c520922dbdd8859ebef70e7f7027dfe0.jpg",
                 "paste-ccf1ed8ce5705a1a5d9d8dbac50ca48113075f3f.jpg",
                 "paste-cebed460a1e9dfd92a0c19c71efa6c691119c59c.jpg",
+                "paste-d22786ed46191b626bd6f47053490d14097784f2.jpg",
                 "paste-d3c7b05830633b0aeca18f879caec7a7a79ce5df.jpg",
+                "paste-d4f3e39d9b39ea165c0b9aca459b4c239bf1802a.jpg",
                 "paste-d7d5d7972e0384f9e127f6071d338e6ad4b7dc8b.jpg",
                 "paste-e21d9770a40f4ae00bcd7d66d0e15a42b8b50256.jpg",
                 "paste-e7305455da0983fc902c5aa9bef4af4e54128886.jpg",
@@ -87,9 +96,11 @@
                 "paste-ee92fea16bc1b2c4e5745864c75da19b8bddb530.jpg",
                 "paste-f1f6b222af0a7043055d4d4c4b47416291c68ed9.jpg",
                 "paste-f2a7d8fb68863f62f4f72d11890294f1877c3e86.jpg",
+                "paste-f3a1edc48035bbf786665c6cca892c1cf951b30c.jpg",
                 "paste-f5fbc5e36689fc56568ef4b45b7889ff7a12c282.jpg",
                 "paste-f9be814e134c3c88adcf3a0049337e338ea40630.jpg",
-                "paste-fc7efc936dce3f802f9aa087328c36f55ac52fbc.jpg"
+                "paste-fc7efc936dce3f802f9aa087328c36f55ac52fbc.jpg",
+                "paste-fcce634dfa4a360665637cdf6d25c39554f7ee40.jpg"
             ],
             "name": "Lineární Algebra 2",
             "notes": [
@@ -690,6 +701,76 @@
                     ],
                     "flags": 0,
                     "guid": "v!lxl6Qp/^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Adjugovaná matice",
+                        "<img src=\"paste-90abbe1aa2612ee77c116a3194a0fb336136534e.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "N?|({FX~)`",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-bd44ceb7225cb2743e856371dddff552f16d2762.jpg\">",
+                        "<img src=\"paste-93565d2a119d6f4a59a8224029377ed6e31f45de.jpg\"><div><img src=\"paste-928af7dc136d3e22734b5225667870b9729bf474.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "t@myPZ@5M?",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-79e767392cea5e6f5ca92552749b06cd4aaa90c9.jpg\">",
+                        "<img src=\"paste-f3a1edc48035bbf786665c6cca892c1cf951b30c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "r7Dph>&Qnd",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: Rovnoběžnostěn",
+                        "<img src=\"paste-ab0a7d1874c53768c32167804120b9c98b5af5f4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "d|&ZOxHo[:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-d22786ed46191b626bd6f47053490d14097784f2.jpg\">",
+                        "<div><img src=\"paste-604ab29fca7eb696035f4904cdad0b6b719f372f.jpg\"><br></div><img src=\"paste-d4f3e39d9b39ea165c0b9aca459b4c239bf1802a.jpg\"><div><img src=\"paste-fcce634dfa4a360665637cdf6d25c39554f7ee40.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "oh%3BVZL1y",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "věta"
@@ -5262,8 +5343,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "a-b",
-                "algoritmus"
+                "věta"
             ],
             "tmpls": [
                 {
