@@ -1676,7 +1676,10 @@
                 "paste-0fa5d227ce59bbe403e7cd54959b9cdcf90cb6b4.jpg",
                 "paste-135703ea0f09cf3b6d6b56586c2627fc0291407b.jpg",
                 "paste-136932a58d3e3ed32ec66be64806074a114c55e3.jpg",
+                "paste-15adf84c83021f7b5580ee08a86d17eada22fc1c.jpg",
                 "paste-195a112d0bf7e05531dd155a0aaea219805205fb.jpg",
+                "paste-1bcd5d6c817b81dc8cf97ff45337fe86691f1d29.jpg",
+                "paste-207e50922b9c57b45a71c80ff8847d276062bcf7.jpg",
                 "paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg",
                 "paste-21a26d2f1aa577809634fd419a14d8d6ec953ab0.jpg",
                 "paste-21dbe8cc044a799408559a6ccbc512885a7a4276.jpg",
@@ -1684,10 +1687,13 @@
                 "paste-2bc0ed0815ef47038784c9be464ca0cfc07b0a8a.jpg",
                 "paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg",
                 "paste-2d3fbe821ffe0271c8af808dc653b9a1c3619812.jpg",
+                "paste-3101e0dad6459c3c8dd1a07d27201725468d2abb.jpg",
+                "paste-33037177432c4930d9b71504ce2a96ff00eb3af6.jpg",
                 "paste-33254c80ef5c647ab5248378b483ad39a7a7f4ea.jpg",
                 "paste-3647bf466298190ab2da64405b0fc52630a08b59.jpg",
                 "paste-386dd858b1a4e9130000c830b8515c71d4307f99.jpg",
                 "paste-38ae98f40ca262b11e6b21f77792a0dba374b97a.jpg",
+                "paste-391cceea2bb8ef3914af5fb6e83c9974bb59a762.jpg",
                 "paste-3c3b1d0ab233cb30e976e61085f279cee3236864.jpg",
                 "paste-3c7d67885d33bfd1af759dda9440b836ea8fb934.jpg",
                 "paste-3d593b537edcfd02c220285865e80ab9443fb125.jpg",
@@ -1702,6 +1708,7 @@
                 "paste-47750df165939ac0c752e0d7cce522456f4a8821.jpg",
                 "paste-493f1cfb05f012c4d43c328aac55507467d4a43d.jpg",
                 "paste-4bc7d10dcb70acbe70ce5b7b21d460bc3025a435.jpg",
+                "paste-4e04285fef95d2ee5f9aa6bc2e59defe7de86c39.jpg",
                 "paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg",
                 "paste-502a5960d748b2a0336f4b6bc1b88f16da012161.jpg",
                 "paste-564b4817a39fe5e7ff1efa951296f9add3a3dc49.jpg",
@@ -1753,6 +1760,7 @@
                 "paste-d436165284762d78093adc4ab45d4817c608027f.jpg",
                 "paste-d67e79a1c012e527deb503de5d181107e28c4d95.jpg",
                 "paste-dac2b5a7cf256ebb990f83df46854b4a5ebf4061.jpg",
+                "paste-dfd1753bfb2a12540ef9a35113a5a46c03574b3c.jpg",
                 "paste-e03ca53164efc74345ba80a5e4b7bc3c8b788e1c.jpg",
                 "paste-e2fe37900d695a73ba4bcb5081856e98cedc259b.jpg",
                 "paste-e4ec65bf9cc0239e4cf22fbb4d05fa5c3000f7ff.jpg",
@@ -1761,12 +1769,14 @@
                 "paste-e7d3dfc58a5752343598850f36685615bc15c6bd.jpg",
                 "paste-e8a19f106c6b266e7b563c91fe4b7381055b475a.jpg",
                 "paste-ea2a9e10c5c671b9427525a7b7e62bfe8e05442c.jpg",
+                "paste-eaf67d4c7e4369c20b9c25ce1cfcf9cf14bdb48b.jpg",
                 "paste-ec470bd09962488b4115d7e236deddcd97189402.jpg",
                 "paste-ecdb47cac2cc36d3e7ad9e1797ba879d48a06dd6.jpg",
                 "paste-ed3c3cbf55880f77abbc2677c70f15eabbea0a86.jpg",
                 "paste-ef4c58e54f3d54c1c1fe37a86165f888399bce45.jpg",
                 "paste-ef7313db38811bcf779047a9f8dc31a7907c7771.jpg",
                 "paste-f177b2d1f91e2a357e5a80f92fd377be645dfa38.jpg",
+                "paste-f42a71c52e2e4378c5660ad254db4d742d0d11ee.jpg",
                 "paste-f5053cc02fb401b4e926f82f3aa740dc4ff6fe34.jpg",
                 "paste-f5b1d1975d9958db48fdbba1e4e83f6c08f71f42.jpg",
                 "paste-f7cc693a1efb6b56bf2f3a5632c844e19663ecba.jpg",
@@ -2568,6 +2578,63 @@
                     "tags": [
                         "a-b",
                         "algoritmus"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "D: LLRB strom",
+                        "<img src=\"paste-207e50922b9c57b45a71c80ff8847d276062bcf7.jpg\"><div><img src=\"paste-15adf84c83021f7b5580ee08a86d17eada22fc1c.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PWOHpQQr60",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-1bcd5d6c817b81dc8cf97ff45337fe86691f1d29.jpg\">",
+                        "<img src=\"paste-4e04285fef95d2ee5f9aa6bc2e59defe7de86c39.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "I#FQ$FZJvb",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-eaf67d4c7e4369c20b9c25ce1cfcf9cf14bdb48b.jpg\">",
+                        "<img src=\"paste-dfd1753bfb2a12540ef9a35113a5a46c03574b3c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "lv<NrE>;Y+",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "věta"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-391cceea2bb8ef3914af5fb6e83c9974bb59a762.jpg\">",
+                        "<img src=\"paste-f42a71c52e2e4378c5660ad254db4d742d0d11ee.jpg\"><div><img src=\"paste-33037177432c4930d9b71504ce2a96ff00eb3af6.jpg\"><br></div><div><img src=\"paste-3101e0dad6459c3c8dd1a07d27201725468d2abb.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j)?7XEjaSB",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "bvs",
+                        "věta,"
                     ]
                 }
             ]
@@ -5423,7 +5490,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "věta"
+                "bvs",
+                "věta,"
             ],
             "tmpls": [
                 {
