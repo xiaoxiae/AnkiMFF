@@ -789,6 +789,7 @@
             "extendNew": 10,
             "extendRev": 50,
             "inactiveTags": [
+                "marked",
                 "věta"
             ],
             "media_files": [
@@ -1410,7 +1411,6 @@
                     "guid": "fKvtNHXmf.",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "marked",
                         "věta"
                     ]
                 },
