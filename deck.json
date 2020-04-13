@@ -145,7 +145,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Skalární součin (nad&nbsp;\\(\\mathbb{R}\\) i \\(\\mathbb{C}\\))",
+                        "Skalární součin (nad&nbsp;\\(\\mathbb{R}\\) i \\(\\mathbb{C}\\))",
                         "<img src=\"paste-562f3ccfa471bcad2ab9ffba26cfb14e81f801e9.jpg\"><div><img src=\"paste-a7db44893ae66fb72a8cb6a1e7a0d120217052d7.jpg\"><br></div><div>- nad \\(\\mathbb{C}\\) jsou komplexně sdružené</div>"
                     ],
                     "flags": 0,
@@ -159,7 +159,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Norma indukovaná skalárním součinem",
+                        "Norma indukovaná skalárním součinem",
                         "<img src=\"paste-f2a7d8fb68863f62f4f72d11890294f1877c3e86.jpg\">"
                     ],
                     "flags": 0,
@@ -173,7 +173,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Kolmost vektorů",
+                        "Kolmost vektorů",
                         "<img src=\"paste-5ddb4dd0171e00c6807bd1fbdddfa06169800784.jpg\">"
                     ],
                     "flags": 0,
@@ -187,49 +187,49 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Pythagorova věta",
+                        "Pythagorova věta",
                         "<img src=\"paste-6c6d59a343d49744a2f346826748d36cd992ea96.jpg\"><div>- nad \\(\\mathbb{R}\\) platí i obrácená implikace, ale nad \\(\\mathbb{C}\\) ne</div>"
                     ],
                     "flags": 0,
                     "guid": "w9%,BU[FrR",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Cauchyho-Schwartzova nerovnost",
+                        "Cauchyho-Schwartzova nerovnost",
                         "<img src=\"paste-b1298caceb27900553fffc6dd9580bc287a3e2d7.jpg\"><div><img src=\"paste-27fba58ba077549b01a548839f6c652943a7d19b.jpg\"><br></div><div><img src=\"paste-97954852638a0ff32c3fa67d904951c621e4b9b0.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "cAy@^*pmI?",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Trojúhelníková nerovnost",
+                        "Trojúhelníková nerovnost",
                         "<img src=\"paste-95af51f1da14d4d6978fb25b3df623690930bd46.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "Co=P}?W4-[",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Norma",
+                        "Norma",
                         "<img src=\"paste-6cb1c2ab95bea73bfa964600b3ed31b0dc95dc56.jpg\">"
                     ],
                     "flags": 0,
@@ -243,21 +243,21 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Norma indukovaná skalárním součinem je normou",
+                        "Norma indukovaná skalárním součinem je normou",
                         "<img src=\"paste-10224c394e10c0a3513a3eeca309df14848badc6.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "rlJ%dK}{W2",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Metrika",
+                        "Metrika",
                         "<img src=\"paste-72d30d711ef9f8d4f747da1c5046ab9d0c3db780.jpg\"><div><img src=\"paste-d3c7b05830633b0aeca18f879caec7a7a79ce5df.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -271,7 +271,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Ortogonální a ortonormalní systém",
+                        "Ortogonální a ortonormalní systém",
                         "<img src=\"paste-767e8280259bd7f8beee691f018a4436c37af9e4.jpg\">"
                     ],
                     "flags": 0,
@@ -292,56 +292,56 @@
                     "guid": "dK%?P#{N)s",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "tvrzení"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Fourierovy koeficienty",
+                        "Fourierovy koeficienty",
                         "<img src=\"paste-44dfa60bac59dbfdc6369cc7d0fc9a58483d70cf.jpg\"><div><img src=\"paste-a995b1e3f981c4178fd3442f6d6d02bea47af247.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "J{0j#ge<yp",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Gramova-Smidtova ortogonalizace",
+                        "Gramova-Smidtova ortogonalizace",
                         "<img src=\"paste-ed3175811afcb045ea4116934130676530dd9597.jpg\"><div><br></div><div><img src=\"paste-0bee081ca45043f472786b822f130fdb6780878d.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "P9VnmKC)@m",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Existence ortonormální báze a její rozšíření",
+                        "Existence ortonormální báze a její rozšíření",
                         "<img src=\"paste-70bb5bf0d64f2ad62aa832d5556c69ca1621a885.jpg\"><div><img src=\"paste-36b2c8c5bf1575fe6b527df65dfbe39d39a870a6.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "fiIEasPe,a",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Ortonogonální doplňek",
+                        "Ortonogonální doplňek",
                         "<img src=\"paste-ee92fea16bc1b2c4e5745864c75da19b8bddb530.jpg\">"
                     ],
                     "flags": 0,
@@ -355,35 +355,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Vlastnosti ortogonálního doplňku množiny",
+                        "Vlastnosti ortogonálního doplňku množiny",
                         "<img src=\"paste-0f49abec7ed6c1ca9e1df55c7a755121ca1c3421.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "NfnQAB6KrT",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Vlastnosti ortogonálního doplňku podprostoru",
+                        "Vlastnosti ortogonálního doplňku podprostoru",
                         "<img src=\"paste-e7305455da0983fc902c5aa9bef4af4e54128886.jpg\"><div><img src=\"paste-7436a477d9c8c71e493e2803dda6775aa1bf0f3c.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "mW11Sc>6^Q",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Ortogonální projekce",
+                        "Ortogonální projekce",
                         "<img src=\"paste-99fc2e83a25fc0847de8b6b4a02283ca07f2358e.jpg\">"
                     ],
                     "flags": 0,
@@ -397,56 +397,56 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O kolmici",
+                        "O kolmici",
                         "<br><img src=\"paste-f5fbc5e36689fc56568ef4b45b7889ff7a12c282.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "uu5`Oz!e<L",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O ortogonální projekci",
+                        "O ortogonální projekci",
                         "<img src=\"paste-790769d80a41cafcb92b9796609c5d80903e4ae1.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "z|eZT4+WjQ",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Gramova matice",
+                        "Gramova matice",
                         "<img src=\"paste-c673b2ad8c9740fae773924535250a57f3e18d60.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "xW/e1@%7F-",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Ortogonální doplňek v \\(\\mathbb{R}^n\\)",
+                        "Ortogonální doplňek v \\(\\mathbb{R}^n\\)",
                         "<img src=\"paste-2468738a2bfe865c3ee520ecf1df65d34b1a41c0.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "w,?8no!A6(",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -460,21 +460,21 @@
                     "guid": "d5Rc];s[UC",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Ortogonální projekce v \\(\\mathbb{R}^m\\)",
+                        "Ortogonální projekce v \\(\\mathbb{R}^m\\)",
                         "<img src=\"paste-4e2ba4e213d351a3c98cc0317cf192fb48d093c4.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "KlH]~jKIZ<",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -488,7 +488,7 @@
                     "guid": "fi/J-mv4/J",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -502,28 +502,28 @@
                     "guid": "qhPm:tSJLw",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Metoda nejmenších čtverců",
+                        "Metoda nejmenších čtverců",
                         "<img src=\"paste-d7d5d7972e0384f9e127f6071d338e6ad4b7dc8b.jpg\"><div><img src=\"paste-b72dbeaf15d90b94cfd48d1c5d44faca759354c8.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "i_JD*`1*bd",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Ortogonalní a unitární matice",
+                        "Ortogonalní a unitární matice",
                         "<img src=\"paste-27863eafaa0a2743862e2e923265c2dcab3c778c.jpg\">"
                     ],
                     "flags": 0,
@@ -537,28 +537,28 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Charakterizace ortonormálních matic",
+                        "Charakterizace ortonormálních matic",
                         "<img src=\"paste-55b3d11c9359bf3bec0738dc3fccefc667a8836d.jpg\"><div><img src=\"paste-c2a3dd6ec24a640b5be855fa6b5147c95b029c31.jpg\"><br></div><div><img src=\"paste-89c19148dd7fdd881eb6d45ae11936acb7e58b2e.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "scKq3[E2pG",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Součin ortogonálních matic",
+                        "Součin ortogonálních matic",
                         "<img src=\"paste-2f718bace08240260c9c8bc14e0e66c9d6a5c82d.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "rLJHNBnH8X",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -572,7 +572,7 @@
                     "guid": "A[meQaqnN1",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -586,7 +586,7 @@
                     "guid": "Mn*/utO#1]",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -600,14 +600,14 @@
                     "guid": "kh<gZN?a6>",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: determinant",
+                        "Determinant",
                         "<img src=\"paste-82c82817c55549d07a1cb4d7a05fe72eb7b2bb55.jpg\">"
                     ],
                     "flags": 0,
@@ -628,7 +628,7 @@
                     "guid": "K`525Q_gTk",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -642,7 +642,7 @@
                     "guid": "f(JdBZS_O0",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -656,21 +656,21 @@
                     "guid": "AK4iF7)pBL",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Výpočet determinantu přes Gaussovu eliminaci",
+                        "Výpočet determinantu přes Gaussovu eliminaci",
                         "<img src=\"paste-29a9d2f0bbeee0473a6f8a4f9e42323e9f327591.jpg\"><div><img src=\"paste-5a69d5b7d588c448dbaed19eaacdf36b7d3969ed.jpg\"><br></div><div><img src=\"paste-8908d802bda67ace76c8149a2ebd684f28b2e9c6.jpg\"><br></div><div><img src=\"paste-ccf1ed8ce5705a1a5d9d8dbac50ca48113075f3f.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "n=r~vzsO|^",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -684,7 +684,7 @@
                     "guid": "La.`qW>Z8T",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -698,7 +698,7 @@
                     "guid": ")=-6Q91==",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -712,7 +712,7 @@
                     "guid": "o:#l6_iN^g",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -726,7 +726,7 @@
                     "guid": "JE(?nn[rS2",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -740,14 +740,14 @@
                     "guid": "v!lxl6Qp/^",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Adjugovaná matice",
+                        "Adjugovaná matice",
                         "<img src=\"paste-90abbe1aa2612ee77c116a3194a0fb336136534e.jpg\">"
                     ],
                     "flags": 0,
@@ -768,7 +768,7 @@
                     "guid": "t@myPZ@5M?",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -782,14 +782,14 @@
                     "guid": "r7Dph>&Qnd",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Rovnoběžnostěn",
+                        "Rovnoběžnostěn",
                         "<img src=\"paste-ab0a7d1874c53768c32167804120b9c98b5af5f4.jpg\">"
                     ],
                     "flags": 0,
@@ -810,14 +810,14 @@
                     "guid": "oh%3BVZL1y",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Vlastní čísla a vlastní vektory",
+                        "Vlastní čísla a vlastní vektory",
                         "<img src=\"paste-4341ec8adae995a5df7c1133154ca78cc092ea0b.jpg\">"
                     ],
                     "flags": 0,
@@ -838,7 +838,7 @@
                     "guid": "tMoz,`jJbc",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -852,14 +852,14 @@
                     "guid": "bNLu}umNJ$",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Charakteristický polynom",
+                        "Charakteristický polynom",
                         "<img src=\"paste-657d7375678a522c5b48d3fcf0537fe0105285af.jpg\">"
                     ],
                     "flags": 0,
@@ -880,14 +880,14 @@
                     "guid": "yNuX<-u`K(",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Algebraická a geometrická násobnost vlastního čísla",
+                        "Algebraická a geometrická násobnost vlastního čísla",
                         "<img src=\"paste-f7d62cffb368067f890652695a8fd6a67009d783.jpg\">"
                     ],
                     "flags": 0,
@@ -901,14 +901,14 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Součin a součet vlastních čísel",
+                        "Součin a součet vlastních čísel",
                         "<img src=\"paste-6d032a45835ca072c51b49f6fb06ebe71fda41b1.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "o#)9i,ThlA",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -922,7 +922,7 @@
                     "guid": "DOPi7t2@N:",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -936,14 +936,14 @@
                     "guid": "kPX%ka+u-5",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Spektrum a spektrální poloměr",
+                        "Spektrum a spektrální poloměr",
                         "<img src=\"paste-87d86f50ebf94c2366837e5371241170780f9135.jpg\">"
                     ],
                     "flags": 0,
@@ -957,7 +957,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Matice společnice",
+                        "Matice společnice",
                         "<img src=\"paste-1754cc7c678e70c0a3aa4e16f106218c516dd912.jpg\">"
                     ],
                     "flags": 0,
@@ -978,7 +978,7 @@
                     "guid": "M3s+eVcjLm",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -992,7 +992,7 @@
                     "guid": "v=YBAC&E!l",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1006,14 +1006,14 @@
                     "guid": "j{}QOL&]4:",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Podobnost",
+                        "Podobnost",
                         "<img src=\"paste-377909a03c1e356b6e0c72e4b3f90839a67f1428.jpg\">"
                     ],
                     "flags": 0,
@@ -1034,7 +1034,7 @@
                     "guid": "FQ0We&!w=E",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1048,14 +1048,14 @@
                     "guid": "zJMCD!A$|]",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Diagonalizovatelnost",
+                        "Diagonalizovatelnost",
                         "<img src=\"paste-5fd913c92afb90bf729181069387d754923cc10d.jpg\">"
                     ],
                     "flags": 0,
@@ -1076,7 +1076,7 @@
                     "guid": "cyLp(YmiT5",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1090,7 +1090,7 @@
                     "guid": "C*VhTr-bZ@",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1104,7 +1104,7 @@
                     "guid": "FH/c)z0gR^",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 }
             ]
@@ -1203,7 +1203,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: mohutnost a spočetnost",
+                        "Mohutnost a spočetnost",
                         "<img src=\"paste-e4fefd13c4a1699b88529100601d28e574802205.jpg\">"
                     ],
                     "flags": 0,
@@ -1217,7 +1217,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: \\(\\mathbb{R}\\)",
+                        "\\(\\mathbb{R}\\)",
                         "<img src=\"paste-fc9bcfdfe9e6d3ec6afd6990e5bf8460cbf067c2.jpg\">"
                     ],
                     "flags": 0,
@@ -1231,35 +1231,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: hustota \\(\\mathbb{Q}\\) v \\(\\mathbb{R}\\)",
+                        "Hustota \\(\\mathbb{Q}\\) v \\(\\mathbb{R}\\)",
                         "<img src=\"paste-07b9b8f39f82c7d6b1df2e1f697afd1d8e014a50.jpg\"><div>Důkaz: useknutí desetinného rozvoje</div>"
                     ],
                     "flags": 0,
                     "guid": "C@<J]El}=T",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: nespočetnost \\(\\mathbb{R}\\)",
+                        "Nespočetnost \\(\\mathbb{R}\\)",
                         "<img src=\"paste-bca4fe845adf7cb37515b25f46d19dfb2540594b.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "P-uY/49u+<",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: omezenost, maxima/minima, supema/infima",
+                        "Omezenost, maxima/minima, supema/infima množiny",
                         "<img src=\"paste-0e0782382ab6b78d5e3ae71f1d46181219ee588f.jpg\">"
                     ],
                     "flags": 0,
@@ -1273,7 +1273,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: absolutní hodnota",
+                        "Absolutní hodnota",
                         "<img src=\"paste-023b4ae6c4beb93a749d3142925b350f7efd43da.jpg\">"
                     ],
                     "flags": 0,
@@ -1287,7 +1287,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: metrický prostor",
+                        "Metrický prostor",
                         "<img src=\"paste-4b0dcef57ffe2c71a9c80d5100a65a054a888d00.jpg\">"
                     ],
                     "flags": 0,
@@ -1301,35 +1301,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Bernoulliova nerovnost",
+                        "Bernoulliova nerovnost",
                         "<img src=\"paste-6ed12b9264fbbfb5870e362b5010cedbfca99765.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "it3a)k?_4v",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: A/G nerovnost",
+                        "A/G nerovnost",
                         "<img src=\"paste-164f5dcfeaf4ab5eea370dd5ace2bb3d107b5058.jpg\"><br>"
                     ],
                     "flags": 0,
                     "guid": "POg?ic=A.5",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: posloupnost",
+                        "Posloupnost",
                         "<img src=\"paste-09953a8f97006c0564d75a85b5b3ac219878fc70.jpg\">"
                     ],
                     "flags": 0,
@@ -1343,7 +1343,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: omezenost, rostoucnost, klesajícnost posloupnosti",
+                        "Omezenost, rostoucnost, klesajícnost posloupnosti",
                         "<img src=\"paste-95f6ebc9c1d2196dfa40e7eaf4b304d99de921a9.jpg\">"
                     ],
                     "flags": 0,
@@ -1357,7 +1357,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: vlastní limita",
+                        "Vlastní limita",
                         "<img src=\"paste-6f38cd8f4087142533037edb89b689a290d47d1e.jpg\">"
                     ],
                     "flags": 0,
@@ -1371,7 +1371,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: nevlastní limita",
+                        "Nevlastní limita",
                         "<img src=\"paste-92b95842a00b7c68771e97cdb2a12b0bcb4b9740.jpg\">"
                     ],
                     "flags": 0,
@@ -1385,35 +1385,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: jednoznačnost limity",
+                        "Jednoznačnost limity",
                         "<img src=\"paste-653d9f8d5cd982053ac3963df5f01b22acd340a6.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "hdPzCjii7,",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O limitě monotónní posloupnosti",
+                        "O limitě monotónní posloupnosti",
                         "<img src=\"paste-d95f3cb5e9fe8c4646bffe9e982be473f1880ee0.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "ssgHQPQx8s",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: podposloupnost",
+                        "Podposloupnost",
                         "<img src=\"paste-5ecf63561c1acfa9c1cb2cec1321edf4ecbccc4b.jpg\">"
                     ],
                     "flags": 0,
@@ -1427,77 +1427,77 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O limitě podposloupnosti",
+                        "O limitě podposloupnosti",
                         "<img src=\"paste-e5aeb2dcdc7aa891c8cad87aa241bc2d612ecad7.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "zL7z?w]Z:j",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Aritmetika limit",
+                        "Aritmetika limit posloupností",
                         "<img src=\"paste-b24ffd1137a5940e54ce16b7d97f1ff8a35d09a9.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "h,si4E=R_|",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Násobení limitní nulou",
+                        "Násobení limitní nulou",
                         "<img src=\"paste-8189a1b14a0efe2ac1b9a4019cf132c1ad65143f.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "n=YGJYDyA",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O limitě a uspořádání",
+                        "O limitě a uspořádání",
                         "<img src=\"paste-085041f6cdb59c859e3e38e2bb3f5f1cf52c52fd.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "szcE-7!x[v",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O dvou policajtech",
+                        "O dvou policajtech",
                         "<img src=\"paste-6df231242d551bc9a2fac1a660173624b2e43a22.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "lGdS_{Kt@f",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Hromadný bod",
+                        "Hromadný bod",
                         "<img src=\"paste-b4b270342b84dcd0583812fefb004ec8ca0e1d73.jpg\">1"
                     ],
                     "flags": 0,
@@ -1511,35 +1511,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: O monotónní podposloupnosti",
+                        "O monotónní podposloupnosti",
                         "<img src=\"paste-b7cbee8195c7d488cc0e00a3fd3537584fde8a71.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "F79Z>x:m|-",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Bolzanova-Weierstrassova",
+                        "Bolzanova-Weierstrassova",
                         "<img src=\"paste-4e4ef88d9814bde0e89bf6dec4b5b6b1c902c92f.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "z:{-&YJh];",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Limes superior a Limes inferior",
+                        "Limes superior a Limes inferior",
                         "<img src=\"paste-0c1ca2e8587bafff4e364c0dc952b7b4989c32a9.jpg\">"
                     ],
                     "flags": 0,
@@ -1553,7 +1553,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Řada a její součet",
+                        "Řada a její součet",
                         "<img src=\"paste-ed33d30a9af4ca5c3470ece029771023e6816044.jpg\">"
                     ],
                     "flags": 0,
@@ -1567,7 +1567,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Funkce",
+                        "Funkce",
                         "<img src=\"paste-8a9a458ffb00d012c9bb2ad000b962d4878c2e34.jpg\">"
                     ],
                     "flags": 0,
@@ -1581,7 +1581,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Inverzní funkce",
+                        "Inverzní funkce",
                         "<img src=\"paste-3383b3f7d0fa18599a1b3ffb1388ce963a29d136.jpg\">"
                     ],
                     "flags": 0,
@@ -1595,7 +1595,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Eulerovo číslo, exponenciální funkce",
+                        "Eulerovo číslo, exponenciální funkce",
                         "<img src=\"paste-785e19456c47154bbad9d44c7f9c07fb4468200d.jpg\">"
                     ],
                     "flags": 0,
@@ -1609,35 +1609,35 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Funkce exp převádí součet na součin",
+                        "Funkce exp převádí součet na součin",
                         "<img src=\"paste-06e6dc06a858eca2cb3ca919b8199cd8c48a3cf6.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "l#f%f$L4[7",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Logaritmus",
+                        "Logaritmus",
                         "<img src=\"paste-3701867e38b99e1315a9e537c87776d8d0e90bba.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "K56BEIB$=k",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: exp a log",
+                        "\\(b^x\\), \\(\\log_b x\\)",
                         "<img src=\"paste-dd6568257d75d20b0e8d69164bfc1a9fe2593ecc.jpg\"><div>- vlastně říká \\(b^x = e^{x \\cdot \\ln b}\\), což je to samé (zlogaritmujeme obě strany)</div>"
                     ],
                     "flags": 0,
@@ -1651,7 +1651,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Goniometrické funkce",
+                        "Goniometrické funkce",
                         "<img src=\"paste-f47035038f95de7f61654af9a1df7909a49d7907.jpg\">"
                     ],
                     "flags": 0,
@@ -1665,7 +1665,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Cyklometrické funkce",
+                        "Cyklometrické funkce",
                         "<img src=\"paste-30bcbaefaa919009070bf34dac8c4679c2deae38.jpg\">"
                     ],
                     "flags": 0,
@@ -1679,7 +1679,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Okolí bodu",
+                        "Okolí bodu",
                         "<img src=\"paste-a92963f9e8dc1e07d268126d240daeb71e62090e.jpg\">"
                     ],
                     "flags": 0,
@@ -1693,7 +1693,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Limita funkce",
+                        "Limita funkce",
                         "<img src=\"paste-f18fe02fa43bb0c059bc97dda650c8f7dfb9d23f.jpg\">"
                     ],
                     "flags": 0,
@@ -1707,7 +1707,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Jednostranné limity",
+                        "Jednostranné limity",
                         "<img src=\"paste-a49a59a5aef4e9cf451a0016de1fc25841e8b711.jpg\">"
                     ],
                     "flags": 0,
@@ -1721,77 +1721,77 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Jednoznačnost limity funkce",
+                        "Jednoznačnost limity funkce",
                         "<img src=\"paste-2a866bb1d497af1ff44185e98cf39800d3d95208.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "kW+wWRa!lA",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Heineho definice limity funkce",
+                        "Heineho definice limity funkce",
                         "<div><img src=\"paste-7f8d3950c8cb6a37377e490283705eadbcb73027.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "fKvtNHXmf.",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Aritmetika limit funkcí",
+                        "Aritmetika limit funkcí",
                         "<img src=\"paste-bad8706a33e5676516063a181bd2ab885f62c835.jpg\"><div><img src=\"paste-e4b5b34423aecd971383bc9eee3403180d82fb92.jpg\"><br></div><div><img src=\"paste-9cd9bcde853b7add3cd46a7187e9698a37b52f72.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "p@R4=KWX[/",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Limity funkcí a uspořádání",
+                        "Limity funkcí a uspořádání",
                         "<img src=\"paste-ea63a245d135c307b516fc6073582cbe3783d0ef.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "g.K)?R(xkE",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Limita monotónní funkce",
+                        "Limita monotónní funkce",
                         "<img src=\"paste-00abb6819bd1f6441d8474cb7d463cab5395b84d.jpg\"><div><img src=\"paste-8ecd77475c8a7ca391ffe32c6e20549089a3b7fd.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "N[9b6{L3:y",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Spojitost funkce",
+                        "Spojitost funkce",
                         "<img src=\"paste-fdb4ee8105e748fd75b394f7fcbed9c96b2c74c6.jpg\">"
                     ],
                     "flags": 0,
@@ -1805,21 +1805,21 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "V: Limita složené funkce",
+                        "Limita složené funkce",
                         "<img src=\"paste-94ec1bd5415676a079ab433011863854c3e10d9b.jpg\"><div><img src=\"paste-3a06e04a6b1578681679fe222e856dcc9bd4658a.jpg\"><br></div><div><img src=\"paste-98f5440d6d6985c33a202829756344a1e98c991d.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "I.YotgN:Yr",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Spojitost",
+                        "Spojitost na intervalu",
                         "<img src=\"paste-99c5203d27e106a56d5f13f2a277aff39c8bbbd8.jpg\">"
                     ],
                     "flags": 0,
@@ -1840,7 +1840,7 @@
                     "guid": "Jg))T7<cRZ",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1854,14 +1854,14 @@
                     "guid": "q.w)DNA.N",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Extrémy funkce",
+                        "Extrémy funkce",
                         "<img src=\"paste-dccdfd00b20de78bb38ba384f2e1d40898005e8d.jpg\">"
                     ],
                     "flags": 0,
@@ -1882,14 +1882,14 @@
                     "guid": "MW!rOLUSYX",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Limita a spojitost v metrických prostorech",
+                        "Limita a spojitost v metrických prostorech",
                         "<img src=\"paste-daa8e3d82046596b29f4b1952faa5219ea040731.jpg\">"
                     ],
                     "flags": 0,
@@ -1903,7 +1903,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Kompaktní množiny v \\(\\mathbb{R}^n\\)",
+                        "Kompaktní množiny v \\(\\mathbb{R}^n\\)",
                         "<img src=\"paste-d6263ae80bd1a0018cee9aba87da5790f1ee20bc.jpg\">"
                     ],
                     "flags": 0,
@@ -1917,7 +1917,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: Derivace",
+                        "Derivace",
                         "<img src=\"paste-73a887a0be800b2c7cb9cf033cb1c1696f7d0b9a.jpg\">"
                     ],
                     "flags": 0,
@@ -1938,7 +1938,7 @@
                     "guid": "zm*<KKlv7M",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1952,7 +1952,7 @@
                     "guid": "DLF6vq+97<",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1966,7 +1966,7 @@
                     "guid": "D3?xSI`6ob",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -1980,7 +1980,7 @@
                     "guid": "xX{HO:$wyY",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 }
             ]
@@ -2122,7 +2122,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: \\(\\mathcal{O}, \\Omega\\)",
+                        "\\(\\mathcal{O}, \\Omega\\)",
                         "<img src=\"paste-014293712b6ba00090ab87b322be479a18420b7a.jpg\"><div><img src=\"paste-20fed8c3045e7bc94906ec589d152d0d79f6640d.jpg\"><br></div><div><br></div>"
                     ],
                     "flags": 0,
@@ -2159,7 +2159,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2174,14 +2174,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: klasifikace hran",
+                        "klasifikace hran v BFS",
                         "<img src=\"paste-e7d3dfc58a5752343598850f36685615bc15c6bd.jpg\">"
                     ],
                     "flags": 0,
@@ -2196,7 +2196,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: DFS",
+                        "DFS",
                         "<div><img src=\"paste-0167dafdf3f201f3030811acc79f36b3f0403ba7.jpg\"><img src=\"paste-bbed21dc55c197b391d35eb95556d0f1322279a7.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2219,7 +2219,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2234,7 +2234,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "dfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2249,14 +2249,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "dfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: klasifikace hran (DFS)",
+                        "klasifikace hran v DFS",
                         "<img src=\"paste-2d3f746ad5890e5d4bab01a691b6ef5d7850a29b.jpg\"><div><img src=\"paste-c3e16439adf57af691d603d28326d0be60118d87.jpg\"><br></div><div><img src=\"paste-195a112d0bf7e05531dd155a0aaea219805205fb.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2278,21 +2278,23 @@
                     "guid": "Kh8T6[p2Z+",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz",
+                        "mosty"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: mosty v neorientovaném grafu",
+                        "mosty v neorientovaném grafu",
                         "<div><img src=\"paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg\"><img src=\"paste-b51530d121a637697669e02aaf60a655aec6c389.jpg\"><br><div><br></div></div>"
                     ],
                     "flags": 0,
                     "guid": "EQ7;w+Kfg0",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "mosty"
                     ]
                 },
                 {
@@ -2307,14 +2309,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "dfs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: topologické uspořádaní",
+                        "topologické uspořádaní",
                         "<img src=\"paste-f5b1d1975d9958db48fdbba1e4e83f6c08f71f42.jpg\">"
                     ],
                     "flags": 0,
@@ -2335,7 +2337,7 @@
                     "guid": "qjBl^R7K^.",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2349,21 +2351,23 @@
                     "guid": "ys|0NY~NIz",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "dfs"
+                        "dfs",
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: slabá a silná souvislost",
+                        "slabá a silná souvislost",
                         "<img src=\"paste-89d1b5baee4373c14f2f6281637fa9bd0b2097ee.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "kB6wR9z|mF",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "definice"
+                        "definice",
+                        "souvislost"
                     ]
                 },
                 {
@@ -2377,14 +2381,15 @@
                     "guid": "M2!{WEZr?9",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz",
+                        "souvislost"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: zdrojová a stoková hrana",
+                        "zdrojová a stoková hrana",
                         "<img src=\"paste-38ae98f40ca262b11e6b21f77792a0dba374b97a.jpg\">"
                     ],
                     "flags": 0,
@@ -2405,29 +2410,30 @@
                     "guid": "GR_ULq)u}Y",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "souvislost",
-                        "věta"
+                        "důkaz",
+                        "souvislost"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: komponenty silné souvislosti",
+                        "komponenty silné souvislosti",
                         "<img src=\"paste-7eb1c8a61ee6cadf261368def08b958c7b2e3f0d.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "l6mnXg|.Pw",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "souvislost"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: strom nejkratších cest",
+                        "strom nejkratších cest",
                         "<img src=\"paste-a8836b58da5f2e4a7fe763f3636e33983a999c6d.jpg\">"
                     ],
                     "flags": 0,
@@ -2441,28 +2447,30 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: dijkstra",
+                        "Dijkstra",
                         "<img src=\"paste-64fdbebec8114940f7574f6bb75438e6e7633039.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "unTfVU7rWj",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "dijkstra"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: relaxace",
+                        "relaxace",
                         "<img src=\"paste-09c1c23be9aaf32245c04ccb5c676c4cb142fef1.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "NA<u/ZkmRE",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "relaxace"
                     ]
                 },
                 {
@@ -2476,8 +2484,8 @@
                     "guid": "rGYa32|/WB",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "relaxace",
-                        "věta"
+                        "důkaz",
+                        "relaxace"
                     ]
                 },
                 {
@@ -2491,8 +2499,8 @@
                     "guid": "GU8swz[8dC",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "relaxace",
-                        "věta"
+                        "důkaz",
+                        "relaxace"
                     ]
                 },
                 {
@@ -2506,8 +2514,8 @@
                     "guid": "usQ?p<{oFm",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "relaxace",
-                        "věta"
+                        "důkaz",
+                        "relaxace"
                     ]
                 },
                 {
@@ -2522,7 +2530,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "dijkstra",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2537,7 +2545,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "dijkstra",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2551,14 +2559,15 @@
                     "guid": "e;ksr77iL~",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "bellman-ford"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: fáze výpočtu",
+                        "fáze výpočtu",
                         "<img src=\"paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg\">"
                     ],
                     "flags": 0,
@@ -2581,7 +2590,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bellman-ford",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2596,7 +2605,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bellman-ford",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2611,14 +2620,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bellman-ford",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: Floyd-Warshall",
+                        "Floyd-Warshall",
                         "<img src=\"paste-0fa5d227ce59bbe403e7cd54959b9cdcf90cb6b4.jpg\">"
                     ],
                     "flags": 0,
@@ -2633,7 +2642,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: Jarníkův",
+                        "Jarníkův",
                         "<img src=\"paste-406dccfb6f8bdd2a6eb54165870b43c713f1836c.jpg\"><div><img src=\"paste-6a15dd3cffaf2e1911a11bf854a3a5d0dd40c415.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2648,14 +2657,15 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: elementární řez",
+                        "elementární řez",
                         "<img src=\"paste-2d3fbe821ffe0271c8af808dc653b9a1c3619812.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "ka`,ugS%~m",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "definice"
+                        "definice",
+                        "kostry"
                     ]
                 },
                 {
@@ -2669,14 +2679,15 @@
                     "guid": "s9=14p*/(?",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "důkaz",
+                        "kostry"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: Borůvkův",
+                        "Borůvkův",
                         "<img src=\"paste-136932a58d3e3ed32ec66be64806074a114c55e3.jpg\">"
                     ],
                     "flags": 0,
@@ -2691,7 +2702,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: Union-find s keříky",
+                        "union-find (union, find)",
                         "<img src=\"paste-22096cdff7d315513334c48493028d0d0563585e.jpg\"><div><img src=\"paste-e4ec65bf9cc0239e4cf22fbb4d05fa5c3000f7ff.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2713,15 +2724,15 @@
                     "guid": "J|(va;%NA;",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "union-find",
-                        "věta"
+                        "důkaz",
+                        "union-find"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: binarní (vyhledávací) strom",
+                        "binarní (vyhledávací) strom",
                         "<img src=\"paste-d1ed432108f4332827cf88bc19a1a8c9d7fb0fb0.jpg\"><div><img src=\"paste-431b26bfb2116ffad6b7b77c7a188e5f551895e6.jpg\"><br></div><div><img src=\"paste-bc7a7750a33f7d2721b164574cd721a720811a4d.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2736,7 +2747,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: BVS: show, find, min, insert, delete",
+                        "BVS (show, find, min, insert, delete)",
                         "<img src=\"paste-5793f16969c50b37063e0a0a87809590141a32fa.jpg\"><div><br><div><img src=\"paste-606288b7fafc2eee503b00f3885ab97adce3305f.jpg\"><br></div><div><br></div><div><img src=\"paste-e8a19f106c6b266e7b563c91fe4b7381055b475a.jpg\"><br></div><div><br></div><div><img src=\"paste-657bae6e1766227657fe57458393defe437b517d.jpg\"><br></div><div><br></div><div><img src=\"paste-3c3b1d0ab233cb30e976e61085f279cee3236864.jpg\"><br></div><div><img src=\"paste-e2fe37900d695a73ba4bcb5081856e98cedc259b.jpg\"><br></div><div><br></div><div><br></div></div>"
                     ],
                     "flags": 0,
@@ -2751,7 +2762,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: dokonale vyvážený bvs",
+                        "dokonale vyvážený bvs",
                         "<img src=\"paste-be3bd9c24609adff3a82e7e82b7b3a8c2d4b6698.jpg\"><div><img src=\"paste-cce94ef182519d2c1233470021a9fe3eadcba73c.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2774,14 +2785,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "bvs",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: hloubkové vyvážení",
+                        "hloubkové vyvážení",
                         "<img src=\"paste-ec470bd09962488b4115d7e236deddcd97189402.jpg\">"
                     ],
                     "flags": 0,
@@ -2804,7 +2815,7 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "avl",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
@@ -2841,7 +2852,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: AVL delete",
+                        "AVL delete",
                         "<img src=\"paste-96ec64f7afe65b390711cc1ed738dbf3a265744c.jpg\"><div><img src=\"paste-07843013f7d430dc9270fca47cfd076ce0ace187.jpg\"><br></div><div><img src=\"paste-564b4817a39fe5e7ff1efa951296f9add3a3dc49.jpg\"><br></div><div><img src=\"paste-0d0c72207e20b1310deb69716a8d2c54d35ba6ee.jpg\"><br></div><div><img src=\"paste-438c5f2fb76f5222ea7bb2c9305ace3fcdf9b994.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2856,7 +2867,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: obecný vyhledávací strom",
+                        "obecný vyhledávací strom",
                         "<img src=\"paste-719c44fa4d4acfa78a595d4f6791c8b1899861bc.jpg\">"
                     ],
                     "flags": 0,
@@ -2870,7 +2881,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: (a-b)-strom",
+                        "(a-b)-strom",
                         "<img src=\"paste-3fdcc8fda9e1d26e7e9b67cc53ec7abecb12f352.jpg\"><div><img src=\"paste-094b86e7f21e7ddab582f7fa800b09132d878552.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2893,14 +2904,14 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "a-b",
-                        "věta"
+                        "důkaz"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A: vkládaní do a-b stromu",
+                        "vkládaní do a-b stromu",
                         "<img src=\"paste-99198c1ad597e048feabc2ecb2a45901fb2df224.jpg\"><div><img src=\"paste-953463946af9d923ac0d986a643dbbfd5c964c7e.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2915,14 +2926,15 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "D: LLRB strom",
+                        "LLRB strom",
                         "<img src=\"paste-207e50922b9c57b45a71c80ff8847d276062bcf7.jpg\"><div><img src=\"paste-15adf84c83021f7b5580ee08a86d17eada22fc1c.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "PWOHpQQr60",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "definice"
+                        "definice",
+                        "rb"
                     ]
                 },
                 {
@@ -2936,7 +2948,8 @@
                     "guid": "I#FQ$FZJvb",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "amortizace",
+                        "důkaz"
                     ]
                 },
                 {
@@ -2950,7 +2963,8 @@
                     "guid": "lv<NrE>;Y+",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "věta"
+                        "amortizace",
+                        "důkaz"
                     ]
                 },
                 {
@@ -2964,8 +2978,8 @@
                     "guid": "j)?7XEjaSB",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "bvs",
-                        "věta"
+                        "amortizace",
+                        "důkaz"
                     ]
                 }
             ]
