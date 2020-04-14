@@ -11,10 +11,7 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "inactiveTags": [
-                "tvrzení",
-                "věta"
-            ],
+            "inactiveTags": [],
             "media_files": [
                 "paste-0bee081ca45043f472786b822f130fdb6780878d.jpg",
                 "paste-0c924736bf80835bf9be63f6f28868bc9eb32638.jpg",
@@ -1055,7 +1052,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Diagonalizovatelnost",
+                        "Diagonalizovatelnost, spektrální rozklad",
                         "<img src=\"paste-5fd913c92afb90bf729181069387d754923cc10d.jpg\">"
                     ],
                     "flags": 0,
