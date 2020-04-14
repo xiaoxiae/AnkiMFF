@@ -1122,6 +1122,7 @@
             ],
             "media_files": [
                 "paste-00abb6819bd1f6441d8474cb7d463cab5395b84d.jpg",
+                "paste-00eab268dea4d7e2e85e9dad181d089e6b7f578a.jpg",
                 "paste-023b4ae6c4beb93a749d3142925b350f7efd43da.jpg",
                 "paste-06e6dc06a858eca2cb3ca919b8199cd8c48a3cf6.jpg",
                 "paste-07b9b8f39f82c7d6b1df2e1f697afd1d8e014a50.jpg",
@@ -1132,31 +1133,48 @@
                 "paste-0e0782382ab6b78d5e3ae71f1d46181219ee588f.jpg",
                 "paste-164f5dcfeaf4ab5eea370dd5ace2bb3d107b5058.jpg",
                 "paste-1a2ae6964c56f8a26adb8d222998a6df18a13a64.jpg",
+                "paste-1bc5c46080bf46c237fd1f850b31c5d1640f13df.jpg",
+                "paste-1c478d0315fb66f4520bf71bfe4b145b23d4ab85.jpg",
                 "paste-233d8f682c803c406662d2073633c40cdb15ac98.jpg",
+                "paste-23679907707cc0d7f5a02915a316acdc8fcde229.jpg",
+                "paste-26cfb64f1c3d16142e11f2af2a4020cfe365578d.jpg",
+                "paste-2a36056b43876681ce0a9ae7a3a6340685fbbee8.jpg",
                 "paste-2a866bb1d497af1ff44185e98cf39800d3d95208.jpg",
                 "paste-30bcbaefaa919009070bf34dac8c4679c2deae38.jpg",
                 "paste-3383b3f7d0fa18599a1b3ffb1388ce963a29d136.jpg",
                 "paste-3701867e38b99e1315a9e537c87776d8d0e90bba.jpg",
                 "paste-3a06e04a6b1578681679fe222e856dcc9bd4658a.jpg",
+                "paste-3a5e5b2eb645f8d45fb7fd6e33089f4c76a1f2c0.jpg",
+                "paste-3dcbff542c1cae9d9d76f424a73cdc965a90dd0d.jpg",
+                "paste-4664717c06f82a71b3abf03b7e28e5315370cce8.jpg",
                 "paste-4b0dcef57ffe2c71a9c80d5100a65a054a888d00.jpg",
                 "paste-4bd35d1e6637cb4fea50c29f502c6daee2e48c7f.jpg",
                 "paste-4d0a06c88d1d6beff68e61fa055b546686178e14.jpg",
                 "paste-4e4ef88d9814bde0e89bf6dec4b5b6b1c902c92f.jpg",
+                "paste-515d72f9be1525adf9546702ec577c4336a143a2.jpg",
                 "paste-551057748d093635df6ebb24619e1f6a269c9b9f.jpg",
+                "paste-5c67d7f085413080bae92854c3da0d0ba08a0c00.jpg",
                 "paste-5ecf63561c1acfa9c1cb2cec1321edf4ecbccc4b.jpg",
                 "paste-653d9f8d5cd982053ac3963df5f01b22acd340a6.jpg",
                 "paste-65bb6a6425529680b1891cd72b954050a97d4772.jpg",
+                "paste-65f0f370b598f412c2720fc97cbf138dd00c783a.jpg",
+                "paste-668ec024cf525f330fe807ceffe6b68e894e189b.jpg",
+                "paste-6db4cf03bdf4d219f7de058e4f6f4f64dcbb6a57.jpg",
                 "paste-6df231242d551bc9a2fac1a660173624b2e43a22.jpg",
                 "paste-6ed12b9264fbbfb5870e362b5010cedbfca99765.jpg",
                 "paste-6f38cd8f4087142533037edb89b689a290d47d1e.jpg",
                 "paste-73a887a0be800b2c7cb9cf033cb1c1696f7d0b9a.jpg",
                 "paste-785e19456c47154bbad9d44c7f9c07fb4468200d.jpg",
+                "paste-7be144f1f53ecdae1a8ee7909e24b08a23f0f412.jpg",
                 "paste-7f8d3950c8cb6a37377e490283705eadbcb73027.jpg",
                 "paste-8189a1b14a0efe2ac1b9a4019cf132c1ad65143f.jpg",
                 "paste-8225c8ceee8a9d4deea4aff0b77ae7ead0841e67.jpg",
+                "paste-87e72aa1d3e922c20c806720c5ce7789935e97c3.jpg",
                 "paste-8a9a458ffb00d012c9bb2ad000b962d4878c2e34.jpg",
                 "paste-8ce9cca22c09bb98756e87a0f21fa97a78a6bb91.jpg",
+                "paste-8d9890f29c744728615328dd500684d8d537039b.jpg",
                 "paste-8ecd77475c8a7ca391ffe32c6e20549089a3b7fd.jpg",
+                "paste-8f1bdb1c312f33002699f7cf8a19e8594919f01b.jpg",
                 "paste-92b95842a00b7c68771e97cdb2a12b0bcb4b9740.jpg",
                 "paste-94ec1bd5415676a079ab433011863854c3e10d9b.jpg",
                 "paste-95f6ebc9c1d2196dfa40e7eaf4b304d99de921a9.jpg",
@@ -1168,13 +1186,18 @@
                 "paste-a628e03180536c097d5beb4b18f723a1c9d0e71d.jpg",
                 "paste-a92963f9e8dc1e07d268126d240daeb71e62090e.jpg",
                 "paste-aa4fa35d0f8fc58657ccd3ef4c5c99f63476c84d.jpg",
+                "paste-ada228cda095a0a0126485012c02d7c3e7f47486.jpg",
                 "paste-b24ffd1137a5940e54ce16b7d97f1ff8a35d09a9.jpg",
                 "paste-b4b270342b84dcd0583812fefb004ec8ca0e1d73.jpg",
                 "paste-b5cd3369393229dc9dd51a23e3ccb0248b6ff108.jpg",
                 "paste-b7cbee8195c7d488cc0e00a3fd3537584fde8a71.jpg",
                 "paste-bad8706a33e5676516063a181bd2ab885f62c835.jpg",
                 "paste-bca4fe845adf7cb37515b25f46d19dfb2540594b.jpg",
+                "paste-c0079e89ef62d123cd8132a62696d022e36238d6.jpg",
+                "paste-c1b0e8550dbcd273959b0b323c2e11ca923203a8.jpg",
                 "paste-c33583fcc01137bda87454a65aa55b7fe76313f5.jpg",
+                "paste-c58bb544e27398f860b770317f5f20deec23757c.jpg",
+                "paste-c6314e6516f26a641457513dcc6dc738b2a73275.jpg",
                 "paste-cb787bab27f72cc06062493e68e58ff394d8a4f1.jpg",
                 "paste-d6263ae80bd1a0018cee9aba87da5790f1ee20bc.jpg",
                 "paste-d95f3cb5e9fe8c4646bffe9e982be473f1880ee0.jpg",
@@ -1191,6 +1214,7 @@
                 "paste-f18fe02fa43bb0c059bc97dda650c8f7dfb9d23f.jpg",
                 "paste-f383aef55263d6ebd7e46f7e7d452c22169744a9.jpg",
                 "paste-f47035038f95de7f61654af9a1df7909a49d7907.jpg",
+                "paste-f63d96e39fb4538b9c50a9a6da9bdede47e7fb69.jpg",
                 "paste-fc9bcfdfe9e6d3ec6afd6990e5bf8460cbf067c2.jpg",
                 "paste-fdb4ee8105e748fd75b394f7fcbed9c96b2c74c6.jpg"
             ],
@@ -1978,6 +2002,202 @@
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
                         "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "l'Hospitalovo pravidlo",
+                        "<img src=\"paste-5c67d7f085413080bae92854c3da0d0ba08a0c00.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "kAmGkS1~39",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-c58bb544e27398f860b770317f5f20deec23757c.jpg\">",
+                        "<img src=\"paste-c0079e89ef62d123cd8132a62696d022e36238d6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "KI]gS`7UoF",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-7be144f1f53ecdae1a8ee7909e24b08a23f0f412.jpg\">",
+                        "<img src=\"paste-23679907707cc0d7f5a02915a316acdc8fcde229.jpg\"><div><img src=\"paste-87e72aa1d3e922c20c806720c5ce7789935e97c3.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Bt^x!;cfQF",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-c1b0e8550dbcd273959b0b323c2e11ca923203a8.jpg\">",
+                        "<img src=\"paste-4664717c06f82a71b3abf03b7e28e5315370cce8.jpg\"><div><img src=\"paste-c6314e6516f26a641457513dcc6dc738b2a73275.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "hxoelLKh^F",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-3dcbff542c1cae9d9d76f424a73cdc965a90dd0d.jpg\">",
+                        "<img src=\"paste-1c478d0315fb66f4520bf71bfe4b145b23d4ab85.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Oo;Pe2b*t}",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Derivace vyšších řádů",
+                        "<img src=\"paste-668ec024cf525f330fe807ceffe6b68e894e189b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "EFsG{GyhMc",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "(ryzí) konvexnost, konkávnost",
+                        "<img src=\"paste-26cfb64f1c3d16142e11f2af2a4020cfe365578d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "v$MC(@J_J5",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Konvexita, konkavita a druhá derivace",
+                        "<img src=\"paste-1bc5c46080bf46c237fd1f850b31c5d1640f13df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "D}JO@(QMZg",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Spojitost derivace v krajním bodě",
+                        "<img src=\"paste-8d9890f29c744728615328dd500684d8d537039b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "w/NME(;l(W",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Taylorův polynom",
+                        "<img src=\"paste-3a5e5b2eb645f8d45fb7fd6e33089f4c76a1f2c0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "G$O/]M>rE=",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<img src=\"paste-6db4cf03bdf4d219f7de058e4f6f4f64dcbb6a57.jpg\">",
+                        "<img src=\"paste-515d72f9be1525adf9546702ec577c4336a143a2.jpg\"><div><img src=\"paste-f63d96e39fb4538b9c50a9a6da9bdede47e7fb69.jpg\"><br></div><div><img src=\"paste-65f0f370b598f412c2720fc97cbf138dd00c783a.jpg\"><br></div><div><img src=\"paste-2a36056b43876681ce0a9ae7a3a6340685fbbee8.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "gp~X>!hkdp",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Zbytek Taylorova polynomu",
+                        "<img src=\"paste-ada228cda095a0a0126485012c02d7c3e7f47486.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "iUZ|^gNv&N",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Lagrangeův odhad zbytku",
+                        "<img src=\"paste-00eab268dea4d7e2e85e9dad181d089e6b7f578a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "v4<Vpw}{K2",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "důkaz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Taylorova řada",
+                        "<img src=\"paste-8f1bdb1c312f33002699f7cf8a19e8594919f01b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "fV}oY),bu!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "definice"
                     ]
                 }
             ]
@@ -5832,7 +6052,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "věta"
+                "definice"
             ],
             "tmpls": [
                 {
