@@ -11,7 +11,9 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "inactiveTags": [],
+            "inactiveTags": [
+                "definice"
+            ],
             "media_files": [
                 "paste-0bee081ca45043f472786b822f130fdb6780878d.jpg",
                 "paste-0c924736bf80835bf9be63f6f28868bc9eb32638.jpg",
