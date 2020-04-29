@@ -6111,6 +6111,19 @@
                     ]
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "379e94be-89e8-11ea-923a-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "C#",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
