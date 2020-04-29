@@ -4,6 +4,8 @@ Kolekce Anki balíčků k různým předmětům na MFF (informatika), aktuálně
 - Algoritmy a Datové Struktury 1
 - Lineární Algebra 1
 - Lineární Algebra 2
+- C (k předmětu „The C Programming Language“)
+- C# (k předmětu „Programování 2“)
 - Matematická Analýza 1
 - Úvod do počítačových sítí
 

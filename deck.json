@@ -6611,6 +6611,350 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7ccbb72a-8a00-11ea-aa7f-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-039f5870d76fd0dc18600204f5616ade0ae8b809.jpg",
+                "paste-07c4341979da47fb08482d3a72f88a09d32d9fee.jpg",
+                "paste-0fcb1c5a2349b49c407b135b5ad43aa7585c2311.jpg",
+                "paste-10ba72ada2ba084f6ac26e58b69625b35779fbdc.jpg",
+                "paste-11eb35c33386e2a31f5addb30635f38bb940c7d9.jpg",
+                "paste-12647f4b6c3b88ea31ad46c5c05684c80233c0c3.jpg",
+                "paste-12e795a554563e9a7558865ea97cd03fa3e63736.jpg",
+                "paste-1334b91d7170258a7d9fe754d7b35061a3f76144.jpg",
+                "paste-1811c1e5767c2be1455e5275f4c0401cbcd3a8a2.jpg",
+                "paste-19066c7a01ae7afb1b1c681a79fcfdb753ea0854.jpg",
+                "paste-28732707d492c7ec0d8b03dec3e512dc3074d2bd.jpg",
+                "paste-2eed48991e160bdcee612a604198bdbb73c000ef.jpg",
+                "paste-40e85ff4d9fee939e17eb804678328131f89e5e2.jpg",
+                "paste-42c50044a0b29d59e8c2d8130fc478e20c25e742.jpg",
+                "paste-4b3edefe192667e351dc2c29284d8b3a46949aac.jpg",
+                "paste-5982a73fc9ff7ad6c43ff5afa631b0071a4086ec.jpg",
+                "paste-611f36e81abdd9eb7dff50cd881b1bc6aae80418.jpg",
+                "paste-793045fe630ebbb14d220eaf87ffd987e403a321.jpg",
+                "paste-7e152c1828c52579ecc801065f5b7ea4dbcf25bd.jpg",
+                "paste-818a0fc4c624fb4f7834f5be8709fe2e77757c09.jpg",
+                "paste-81bb4c79a695572c1df6e7b8ba2a0dd88ffb07b4.jpg",
+                "paste-8686e2e4c2c7794542ad9a7399dca651e2345236.jpg",
+                "paste-88dd476b0a530dd939c869aef89e4f512bc36dce.jpg",
+                "paste-9852f3489c30bd2070e7ea7f37789a937eecf02a.jpg",
+                "paste-99f9ebe9630597f57302f6edf589354ec42ba795.jpg",
+                "paste-9f6a3c40cd72a79e453db655682627cf08fa4f34.jpg",
+                "paste-a57cb2d167eddcf1782581a8fb2d9064558e64ac.jpg",
+                "paste-a59efa47f0f8d950932cc5155c0485f0b4c5792c.jpg",
+                "paste-b30d68a23f6def9913f1d8cfc77ed7c7f1033ca1.jpg",
+                "paste-b3a155f85bf7861d87d00c4d0af495419e59f961.jpg",
+                "paste-b9dfcd1dcf9172c2db69c7a1f2acbe2c91e1553b.jpg",
+                "paste-b9f2a657245bbf96847bda1bfffe7a7146b58ecd.jpg",
+                "paste-c09ab6ad101b9fc0bb9fee701aec839b7f91db9e.jpg",
+                "paste-c0a6c4284ec542869153a5fbf5e693fbba15bb1c.jpg",
+                "paste-c442d60f9129358ec28979112248eb3237b1e80b.jpg",
+                "paste-c4e257713c0f4663f37cf0239c6a506fdca06fed.jpg",
+                "paste-c657c6564847e3421b9a2a9526e87d4505da7d50.jpg",
+                "paste-c6863233b7c61ae4e1334436fff02fd8c5dcba93.jpg",
+                "paste-d0d563118d596b006334777930901330ccefaa0d.jpg",
+                "paste-d4077fae5bdce174f5434feae6a8d54ab682002a.jpg",
+                "paste-d6911930abc35a68224222f155a46de1a3da32b6.jpg",
+                "paste-dab9c6bd50336545e707fe579fa431bc075555d7.jpg",
+                "paste-dc53c5362ade7e677ba5c23d63b1bb1efebe18f1.jpg",
+                "paste-de54e1b371e7f8a5db0430e9c5aba2a11a4eb40a.jpg",
+                "paste-e2c111bb47ef5a978582c937ef68ff1ee7ec3696.jpg",
+                "paste-e3ef767b8f6d6cfdb225b177b88f589c764355ae.jpg",
+                "paste-e6637cb988b26c0c167d22c05241fb1bc7101d45.jpg",
+                "paste-e9179c9ed6aee7bf52f86b14e081b74f15953938.jpg",
+                "paste-ec3f895cd7e066f6a8a1d4280d2a5f1d0ac9cb0e.jpg",
+                "paste-edad38db73dd3dc52a6d53a4186e1eaddddf4684.jpg",
+                "paste-eec5482cbcd5e57b7806d5705aee760bd63527fa.jpg",
+                "paste-efc337ae27c3db4da46f5d9fea43927f94da91b9.jpg",
+                "paste-eff4239cbc049dca926f77a18c3fcc98fe0c27fc.jpg"
+            ],
+            "name": "C",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "compiling with gcc",
+                        "<img src=\"paste-c4e257713c0f4663f37cf0239c6a506fdca06fed.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "C{PVz1X;aJ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "return",
+                        "<img src=\"paste-19066c7a01ae7afb1b1c681a79fcfdb753ea0854.jpg\"><div><img src=\"paste-de54e1b371e7f8a5db0430e9c5aba2a11a4eb40a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "LJEW`v{rwV",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "boolean type",
+                        "<img src=\"paste-e9179c9ed6aee7bf52f86b14e081b74f15953938.jpg\"><div><img src=\"paste-a57cb2d167eddcf1782581a8fb2d9064558e64ac.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "cOsFMn$%fg",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "hex, oct, bin numbers",
+                        "<img src=\"paste-d4077fae5bdce174f5434feae6a8d54ab682002a.jpg\"><div>- binary numbers start with 0b</div><div>&nbsp; - technically not a part of the standard, but included in most popular compilers</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L7!Pl;{gpF",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "signedness",
+                        "<img src=\"paste-b30d68a23f6def9913f1d8cfc77ed7c7f1033ca1.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "scEm_)]/qa",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "numeric printf modifiers",
+                        "<img src=\"paste-9852f3489c30bd2070e7ea7f37789a937eecf02a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "jm}5aq^[n*",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "sizeof",
+                        "<img src=\"paste-e6637cb988b26c0c167d22c05241fb1bc7101d45.jpg\"><div><img src=\"paste-2eed48991e160bdcee612a604198bdbb73c000ef.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Q@iTWMq<MY",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "getchar",
+                        "<img src=\"paste-5982a73fc9ff7ad6c43ff5afa631b0071a4086ec.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "p{Ez-<`N(~",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "arrays",
+                        "<img src=\"paste-12e795a554563e9a7558865ea97cd03fa3e63736.jpg\"><div><img src=\"paste-d6911930abc35a68224222f155a46de1a3da32b6.jpg\"><br></div><div><img src=\"paste-dc53c5362ade7e677ba5c23d63b1bb1efebe18f1.jpg\"><br></div><div><img src=\"paste-e3ef767b8f6d6cfdb225b177b88f589c764355ae.jpg\"><br></div><div><img src=\"paste-88dd476b0a530dd939c869aef89e4f512bc36dce.jpg\"><br></div><div><img src=\"paste-c442d60f9129358ec28979112248eb3237b1e80b.jpg\"><br></div><div><img src=\"paste-b9f2a657245bbf96847bda1bfffe7a7146b58ecd.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "s$>w+p~wSr",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "functions",
+                        "<img src=\"paste-7e152c1828c52579ecc801065f5b7ea4dbcf25bd.jpg\"><div><img src=\"paste-c0a6c4284ec542869153a5fbf5e693fbba15bb1c.jpg\"><br></div><div><img src=\"paste-eff4239cbc049dca926f77a18c3fcc98fe0c27fc.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "IDEIef)6yI",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "strings",
+                        "<img src=\"paste-eec5482cbcd5e57b7806d5705aee760bd63527fa.jpg\"><div><img src=\"paste-793045fe630ebbb14d220eaf87ffd987e403a321.jpg\"><br></div><div><img src=\"paste-efc337ae27c3db4da46f5d9fea43927f94da91b9.jpg\"><br></div><div><img src=\"paste-ec3f895cd7e066f6a8a1d4280d2a5f1d0ac9cb0e.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mDXz*A)YD4",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "gcc warnings",
+                        "<img src=\"paste-039f5870d76fd0dc18600204f5616ade0ae8b809.jpg\"><div><img src=\"paste-e2c111bb47ef5a978582c937ef68ff1ee7ec3696.jpg\"><br></div><div><img src=\"paste-b3a155f85bf7861d87d00c4d0af495419e59f961.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L6.T7DT?R_",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "generic conversion algorithm",
+                        "<img src=\"paste-81bb4c79a695572c1df6e7b8ba2a0dd88ffb07b4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "AyGWZ*$e=Q",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "error handling",
+                        "lol, no<div><br></div><div><br></div><div><br></div><div>ok, a little</div><div><img src=\"paste-99f9ebe9630597f57302f6edf589354ec42ba795.jpg\"><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K|:s+0)M5_",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "file API",
+                        "<img src=\"paste-42c50044a0b29d59e8c2d8130fc478e20c25e742.jpg\"><div><img src=\"paste-9f6a3c40cd72a79e453db655682627cf08fa4f34.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lqu$R.IwxR",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "I/O",
+                        "<img src=\"paste-40e85ff4d9fee939e17eb804678328131f89e5e2.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "c**Y-zL{yq",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "pointers",
+                        "<br><img src=\"paste-12647f4b6c3b88ea31ad46c5c05684c80233c0c3.jpg\"><div><img src=\"paste-dab9c6bd50336545e707fe579fa431bc075555d7.jpg\"><br></div><div><img src=\"paste-a59efa47f0f8d950932cc5155c0485f0b4c5792c.jpg\"><div><img src=\"paste-b9dfcd1dcf9172c2db69c7a1f2acbe2c91e1553b.jpg\"></div></div><div><img src=\"paste-1334b91d7170258a7d9fe754d7b35061a3f76144.jpg\"><br></div><div><img src=\"paste-c09ab6ad101b9fc0bb9fee701aec839b7f91db9e.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ApEz.lg&)E",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "arrays and pointers",
+                        "<div><img src=\"paste-1811c1e5767c2be1455e5275f4c0401cbcd3a8a2.jpg\"></div><div><br></div><div><img src=\"paste-10ba72ada2ba084f6ac26e58b69625b35779fbdc.jpg\"><br></div><div><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mc`izlxo}|",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "main arguments",
+                        "<img src=\"paste-8686e2e4c2c7794542ad9a7399dca651e2345236.jpg\"><div><img src=\"paste-818a0fc4c624fb4f7834f5be8709fe2e77757c09.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P+>HO(<rHL",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "structures",
+                        "<img src=\"paste-611f36e81abdd9eb7dff50cd881b1bc6aae80418.jpg\"><div><img src=\"paste-4b3edefe192667e351dc2c29284d8b3a46949aac.jpg\"><br></div><div><img src=\"paste-edad38db73dd3dc52a6d53a4186e1eaddddf4684.jpg\"><br></div><div><br></div><div><img src=\"paste-c657c6564847e3421b9a2a9526e87d4505da7d50.jpg\"><br></div><div><img src=\"paste-c6863233b7c61ae4e1334436fff02fd8c5dcba93.jpg\"><br></div><div><img src=\"paste-07c4341979da47fb08482d3a72f88a09d32d9fee.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "q/v0cEgx^i",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "structure member access",
+                        "<img src=\"paste-d0d563118d596b006334777930901330ccefaa0d.jpg\"><img src=\"paste-11eb35c33386e2a31f5addb30635f38bb940c7d9.jpg\"><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "cgvn/p-^gg",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "structure assignment",
+                        "<img src=\"paste-28732707d492c7ec0d8b03dec3e512dc3074d2bd.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "t[(]fcg$;T",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "struct initialization",
+                        "<img src=\"paste-0fcb1c5a2349b49c407b135b5ad43aa7585c2311.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "jd.%UdF={-",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
