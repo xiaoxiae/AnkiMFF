@@ -6121,9 +6121,496 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "paste-0096e6d17578f2fdab43cd12e083b264807dadf2.jpg",
+                "paste-00a4a907cf6151a02de7c7892c5adb2f1c1a6db2.jpg",
+                "paste-036c6271bfdd6331619a0f05a23689f335fe8371.jpg",
+                "paste-0fdd1fd08e50f2c25e6b2b0977e1170b0cfe7062.jpg",
+                "paste-118f8c50405a12148badf570c4b5e85bb31a8561.jpg",
+                "paste-1b001b402c432ce85de8c70c7e68c31e1dd4e7a9.jpg",
+                "paste-1b81b9cc33bd22c604d55260ba3ae9a3f6a22958.jpg",
+                "paste-1ed0c332892094dd2cc87d04b16911eb5e5bef60.jpg",
+                "paste-203ee7d03abf1aad73e64205183dc4c2c3612533.jpg",
+                "paste-21d8ae2e2bf809b15910a17d647bcb6f4cb1c600.jpg",
+                "paste-224ce08f6f7bed97d88bfd808b4c878fe23f6a6f.jpg",
+                "paste-24f269dc1e54847e506a23dca4e45905dfc913d1.jpg",
+                "paste-2d53f75e3847d0ff43f8d364a826f98669d0711b.jpg",
+                "paste-30093b14015dc9bdd754ca681ef8b288c5cfaec3.jpg",
+                "paste-30d087f49a19e19456eeb7a55b688a6bc2d7f2f3.jpg",
+                "paste-30d17d613e6dc4930e3a9cbf350e448951f3ca1a.jpg",
+                "paste-31c7ad2ecfd679fe6f58aa2821e1eb78a2bdaade.jpg",
+                "paste-3609c948dea1be47457be2d4557f9cf9f6a5d303.jpg",
+                "paste-37432309071c64b462534b50b30d7203d1352526.jpg",
+                "paste-39b03b8681282b729f34a0c80ac1d8c94a205d1b.jpg",
+                "paste-3f0ff93316a29abfe71d53347626fc7ae0afff1e.jpg",
+                "paste-3f2a258d6c84b3aa9a71a0a2ad092961547b5035.jpg",
+                "paste-44a97673d36b120f1d35e8b2c21fbd578289bbab.jpg",
+                "paste-45403cc2850b671cca05de648c626284aeeb5f08.jpg",
+                "paste-46055957d285056b9d0a987e01041be1031abc0e.jpg",
+                "paste-4b734454afd38dee393c85313326e974dee05cd7.jpg",
+                "paste-4eb1cfbcf991fd931b330c695c2404485c3daa01.jpg",
+                "paste-4f7278fadde0b800c8da6d327e8dc7509c5fb919.jpg",
+                "paste-505cfbc16525d7f99e758c90dfe25bf7d3d44335.jpg",
+                "paste-54b1b1b919a99feecf65bc63487a5f70b9dccae4.jpg",
+                "paste-54cb8308e8a7b3a8e92bfe2e0c31236ed83cf514.jpg",
+                "paste-584e025556014032db67a40c37e9df34f0d80cbc.jpg",
+                "paste-60d82efa840ca7f6321768da461cdde881d48c31.jpg",
+                "paste-6268c707bb704145ddfc87d6d9f59e498a702054.jpg",
+                "paste-6e9f09406beaa4ae65c54d9e038efda95f726754.jpg",
+                "paste-6fcbe9fe1f5d766794201740b7792c2ad2cbe10c.jpg",
+                "paste-71eb2b232a68d85cb20281005809e2dfe5ec084d.jpg",
+                "paste-7681fba1eed4abfa11ba63724f84526be17752d9.jpg",
+                "paste-79e72eb48eac0f04cedd3f5e40c6ee3a84d9ecd5.jpg",
+                "paste-813cf0e4b18b7a7c8130deca5f62d6ce371e07f5.jpg",
+                "paste-857cb3e5e61cf8eeeb98af59bf556b4554c4e702.jpg",
+                "paste-8ff89620065cd202faca5a022f134aaa7511bc3b.jpg",
+                "paste-90eb950519d23bab78d3c0f15ad9feb2045ed6f4.jpg",
+                "paste-91dd61cf39b2b60d11f1cd894ca230ef11064071.jpg",
+                "paste-94adb8a636141ca4caf587d501cd1df03a6e2752.jpg",
+                "paste-97cf07924e791464d199c2db7272897e7844703c.jpg",
+                "paste-9fc17d7ebc7ea464ecd300f97c4a2e7279380f57.jpg",
+                "paste-a3ea90a337b6a1c7e45e808ef9db5cfbe0b86c6e.jpg",
+                "paste-a46d130ed2e3bdb1f0fcf9eae5fe929cc2de4647.jpg",
+                "paste-a4e88655b93221b7d86fea249f21adc11d9acf97.jpg",
+                "paste-a6c8f26bcd6ecda19090e41fdcd1685c44d8b478.jpg",
+                "paste-a7c9fc38846d19f0059936cef2a2b254a92008ef.jpg",
+                "paste-a95fe8bab33f32559807ecb5fe09c3ba84fa672d.jpg",
+                "paste-abc3c3ceefa54e61075af540ce98004a72aee8e1.jpg",
+                "paste-af1ac8ec352ff081e01fe4170ea94f537d3d5c30.jpg",
+                "paste-af2e847eaf7b8510c886cb5398e8866e489337f4.jpg",
+                "paste-b5269a5aeeeb88a5b187f260a3f7d2b15ad6dd2b.jpg",
+                "paste-b6eee9b556ca55e11a85b7fd8fa840993fe49c14.jpg",
+                "paste-b77b925a4d6bb95b232c61b76f9a7d13625a8689.jpg",
+                "paste-b8ce0058424b7e30ffd0b20691133e130b144f04.jpg",
+                "paste-b8ef3e46c503f15adb992890533ee4f9b3c36c2c.jpg",
+                "paste-c2fd702a9d33d759fd52e3151cf43621691a5b88.jpg",
+                "paste-c37bd01158e3300b850ccb1318d2644c679560b9.jpg",
+                "paste-c3a609408bdd451d11c875c0c7237a64578ff416.jpg",
+                "paste-c69e40d5a3c0b3764bf7902d540cdab63186fc27.jpg",
+                "paste-cebfc550cf54bcce2941b0cdd67fdc387f9a1ce5.jpg",
+                "paste-da76097f4bf4edc1554c1c1f9eb0c7606415a3b0.jpg",
+                "paste-dc00fd7a2e7ed2fbc0e9d13d4012667fa7a77ca9.jpg",
+                "paste-dca1cb92b4076c13fe3f9ae79f5c3283740d17aa.jpg",
+                "paste-e015b81590c6aab9a32a8ad43933bbc0ec13281c.jpg",
+                "paste-e15d76c8ec68ca9e86f0dcec6dae751969c3a5d4.jpg",
+                "paste-e17e64e7630109b00f8d71646f31de8ffa48e80e.jpg",
+                "paste-e48b3b8cd1dcd4763eaf085961a190a3e52964a8.jpg",
+                "paste-e770592a534e1bace0a2f970a8df39e2400b0692.jpg",
+                "paste-ebd827d0eccb892192316608a6c4f2ea62b7b5ed.jpg",
+                "paste-ec48804c5ff0d92ed55324d2dd1f9fec1921673c.jpg",
+                "paste-f35fc678eeb26f2b2230c50283b92dc41021110f.jpg"
+            ],
             "name": "C#",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "numerical types",
+                        "<img src=\"paste-00a4a907cf6151a02de7c7892c5adb2f1c1a6db2.jpg\"><img src=\"paste-af1ac8ec352ff081e01fe4170ea94f537d3d5c30.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "oOM]!6n1no",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "char (internal representation)",
+                        "<img src=\"paste-79e72eb48eac0f04cedd3f5e40c6ee3a84d9ecd5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "xOeikIN,.Z",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "interpolated strings",
+                        "<img src=\"paste-94adb8a636141ca4caf587d501cd1df03a6e2752.jpg\"><div><img src=\"paste-1b001b402c432ce85de8c70c7e68c31e1dd4e7a9.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "d%.k$;(QBC",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "verbatim strings",
+                        "<img src=\"paste-3f0ff93316a29abfe71d53347626fc7ae0afff1e.jpg\"><div><img src=\"paste-44a97673d36b120f1d35e8b2c21fbd578289bbab.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lp+LRk^Of~",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "foreach",
+                        "<img src=\"paste-dca1cb92b4076c13fe3f9ae79f5c3283740d17aa.jpg\"><div><img src=\"paste-54cb8308e8a7b3a8e92bfe2e0c31236ed83cf514.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "z:I=8[[xO[",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "tuples, named tuples",
+                        "<img src=\"paste-39b03b8681282b729f34a0c80ac1d8c94a205d1b.jpg\"><div><img src=\"paste-30d087f49a19e19456eeb7a55b688a6bc2d7f2f3.jpg\"><br></div><div><img src=\"paste-abc3c3ceefa54e61075af540ce98004a72aee8e1.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nu-BGdGFar",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "multivariable assignment",
+                        "<img src=\"paste-b8ce0058424b7e30ffd0b20691133e130b144f04.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "e{XwNWT.FC",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "multidimensional arrays",
+                        "<img src=\"paste-af2e847eaf7b8510c886cb5398e8866e489337f4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NJx;0^s^x.",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "field",
+                        "<img src=\"paste-505cfbc16525d7f99e758c90dfe25bf7d3d44335.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "A3EJAI7!2x",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "constructor chaining",
+                        "<img src=\"paste-cebfc550cf54bcce2941b0cdd67fdc387f9a1ce5.jpg\"><div><img src=\"paste-e015b81590c6aab9a32a8ad43933bbc0ec13281c.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j~[EBeuR9f",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "method \\(\\times\\) function",
+                        "<img src=\"paste-584e025556014032db67a40c37e9df34f0d80cbc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "nc&$fTeQvb",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "method overloading",
+                        "<img src=\"paste-90eb950519d23bab78d3c0f15ad9feb2045ed6f4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NEpa236)/<",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "expression-bodied methods",
+                        "<img src=\"paste-118f8c50405a12148badf570c4b5e85bb31a8561.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "z-Cj+Jx/8C",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "static class members",
+                        "<img src=\"paste-857cb3e5e61cf8eeeb98af59bf556b4554c4e702.jpg\"><div><img src=\"paste-203ee7d03abf1aad73e64205183dc4c2c3612533.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "QPU`+moxe(",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "static imports",
+                        "<img src=\"paste-1b81b9cc33bd22c604d55260ba3ae9a3f6a22958.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Hen.Sys:,&",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "enums",
+                        "<img src=\"paste-e48b3b8cd1dcd4763eaf085961a190a3e52964a8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "rI7-etn!{3",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "nullable types",
+                        "<img src=\"paste-0096e6d17578f2fdab43cd12e083b264807dadf2.jpg\"><div><img src=\"paste-31c7ad2ecfd679fe6f58aa2821e1eb78a2bdaade.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F9[lq8MH2w",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "optional parameters",
+                        "<img src=\"paste-a95fe8bab33f32559807ecb5fe09c3ba84fa672d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "M3Qul$q#Z]",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "named arguments",
+                        "<img src=\"paste-b6eee9b556ca55e11a85b7fd8fa840993fe49c14.jpg\"><div><img src=\"paste-21d8ae2e2bf809b15910a17d647bcb6f4cb1c600.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F*Vctp>BL4",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "ref and out",
+                        "<img src=\"paste-e17e64e7630109b00f8d71646f31de8ffa48e80e.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "bq-M=]BbX{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "parameter number of function arguments",
+                        "<img src=\"paste-e15d76c8ec68ca9e86f0dcec6dae751969c3a5d4.jpg\"><div><img src=\"paste-54b1b1b919a99feecf65bc63487a5f70b9dccae4.jpg\"><br></div><div><img src=\"paste-ebd827d0eccb892192316608a6c4f2ea62b7b5ed.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "A#tFs)mD~#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "properties",
+                        "<img src=\"paste-da76097f4bf4edc1554c1c1f9eb0c7606415a3b0.jpg\"><div><img src=\"paste-a46d130ed2e3bdb1f0fcf9eae5fe929cc2de4647.jpg\"><br></div><div><img src=\"paste-a3ea90a337b6a1c7e45e808ef9db5cfbe0b86c6e.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "du4$CEmx=j",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "indexers",
+                        "<img src=\"paste-c2fd702a9d33d759fd52e3151cf43621691a5b88.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "J:H?7MZ|2j",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "overloading operators",
+                        "<img src=\"paste-30093b14015dc9bdd754ca681ef8b288c5cfaec3.jpg\"><div><img src=\"paste-6fcbe9fe1f5d766794201740b7792c2ad2cbe10c.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rQ]IY7@y[G",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "interfaces",
+                        "<img src=\"paste-91dd61cf39b2b60d11f1cd894ca230ef11064071.jpg\"><div><img src=\"paste-c69e40d5a3c0b3764bf7902d540cdab63186fc27.jpg\"><br></div><div><img src=\"paste-c3a609408bdd451d11c875c0c7237a64578ff416.jpg\"><br></div><div><img src=\"paste-e770592a534e1bace0a2f970a8df39e2400b0692.jpg\"><br></div><div><img src=\"paste-7681fba1eed4abfa11ba63724f84526be17752d9.jpg\"><br></div><div><img src=\"paste-9fc17d7ebc7ea464ecd300f97c4a2e7279380f57.jpg\"><br></div><div><img src=\"paste-2d53f75e3847d0ff43f8d364a826f98669d0711b.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "jsr[Eyr+h/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "generic classes",
+                        "<img src=\"paste-b5269a5aeeeb88a5b187f260a3f7d2b15ad6dd2b.jpg\"><div><img src=\"paste-4eb1cfbcf991fd931b330c695c2404485c3daa01.jpg\"><br></div><div><img src=\"paste-71eb2b232a68d85cb20281005809e2dfe5ec084d.jpg\"><br></div><div><img src=\"paste-97cf07924e791464d199c2db7272897e7844703c.jpg\"><br></div><div><img src=\"paste-3f2a258d6c84b3aa9a71a0a2ad092961547b5035.jpg\"><br></div><div><img src=\"paste-46055957d285056b9d0a987e01041be1031abc0e.jpg\"><br></div><div><img src=\"paste-f35fc678eeb26f2b2230c50283b92dc41021110f.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Hr4U=CbsZ-",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "IComparable",
+                        "<img src=\"paste-6268c707bb704145ddfc87d6d9f59e498a702054.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "IH4q}it~9:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "generic class constraints",
+                        "<img src=\"paste-b8ef3e46c503f15adb992890533ee4f9b3c36c2c.jpg\"><div><img src=\"paste-0fdd1fd08e50f2c25e6b2b0977e1170b0cfe7062.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "z*MUSM;lo9",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "generic methods",
+                        "<img src=\"paste-813cf0e4b18b7a7c8130deca5f62d6ce371e07f5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "QGWU6GbvU?",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "default",
+                        "<img src=\"paste-1ed0c332892094dd2cc87d04b16911eb5e5bef60.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "l:ylnV)ROU",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "ihneritance",
+                        "<img src=\"paste-60d82efa840ca7f6321768da461cdde881d48c31.jpg\"><div><img src=\"paste-224ce08f6f7bed97d88bfd808b4c878fe23f6a6f.jpg\"></div><div><img src=\"paste-a7c9fc38846d19f0059936cef2a2b254a92008ef.jpg\"></div><div><img src=\"paste-dc00fd7a2e7ed2fbc0e9d13d4012667fa7a77ca9.jpg\"></div><div><img src=\"paste-45403cc2850b671cca05de648c626284aeeb5f08.jpg\"></div><div><img src=\"paste-a6c8f26bcd6ecda19090e41fdcd1685c44d8b478.jpg\"></div><div><img src=\"paste-24f269dc1e54847e506a23dca4e45905dfc913d1.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "HV8Ai$EcA/",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "using base and derived types",
+                        "<img src=\"paste-4b734454afd38dee393c85313326e974dee05cd7.jpg\"><div><img src=\"paste-b77b925a4d6bb95b232c61b76f9a7d13625a8689.jpg\"><br></div><div><br></div><div><img src=\"paste-3609c948dea1be47457be2d4557f9cf9f6a5d303.jpg\"><br></div><div><img src=\"paste-c37bd01158e3300b850ccb1318d2644c679560b9.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "[T8z&9&w2",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "abstract classes and methods",
+                        "<img src=\"paste-a4e88655b93221b7d86fea249f21adc11d9acf97.jpg\"><div><img src=\"paste-30d17d613e6dc4930e3a9cbf350e448951f3ca1a.jpg\"><br></div><div><img src=\"paste-37432309071c64b462534b50b30d7203d1352526.jpg\"><br></div><div><img src=\"paste-4f7278fadde0b800c8da6d327e8dc7509c5fb919.jpg\"><br></div><div><img src=\"paste-036c6271bfdd6331619a0f05a23689f335fe8371.jpg\"><br></div><div><img src=\"paste-6e9f09406beaa4ae65c54d9e038efda95f726754.jpg\"><br></div><div><img src=\"paste-8ff89620065cd202faca5a022f134aaa7511bc3b.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P0PkbjY~J>",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "single and multiple inheritance",
+                        "<img src=\"paste-ec48804c5ff0d92ed55324d2dd1f9fec1921673c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "uuNugSLO`*",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -6219,10 +6706,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "algoritmus",
-                "rap"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
