@@ -7023,7 +7023,7 @@
                     "data": "",
                     "fields": [
                         "non-dereferencable pointers",
-                        "<img src=\"paste-c91f0bd295026ca5763546b7d61786428c3f2342.jpg\">"
+                        "<img src=\"paste-c91f0bd295026ca5763546b7d61786428c3f2342.jpg\"><div>- prostě tam jsou nějaký data a nedává smysl je dereferencovat, protože nemají typ</div>"
                     ],
                     "flags": 0,
                     "guid": "m{NUKL-qoE",
