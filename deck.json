@@ -7611,7 +7611,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "heap x malloc",
+                        "heap",
                         "<img src=\"paste-41398f2976e62db822c686a1e3eee2cb6c29a693.jpg\">"
                     ],
                     "flags": 0,
@@ -7764,6 +7764,19 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "96d6c74a-8eab-11ea-a746-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Počítačové Systémy",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
