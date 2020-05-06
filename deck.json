@@ -6780,6 +6780,7 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "paste-0016b7051fbee59633da609c90e50437a36e5427.jpg",
                 "paste-0096e6d17578f2fdab43cd12e083b264807dadf2.jpg",
                 "paste-00a4a907cf6151a02de7c7892c5adb2f1c1a6db2.jpg",
                 "paste-036c6271bfdd6331619a0f05a23689f335fe8371.jpg",
@@ -6861,6 +6862,7 @@
                 "paste-af1ac8ec352ff081e01fe4170ea94f537d3d5c30.jpg",
                 "paste-af2e847eaf7b8510c886cb5398e8866e489337f4.jpg",
                 "paste-b01d431d6392666f8b673ea2ffd660e586737a12.jpg",
+                "paste-b241d4f2f89b3017b7ea8ea6cd75078537ed42e4.jpg",
                 "paste-b514aa89b3e938a05f8f7eee486e251907da3aae.jpg",
                 "paste-b5269a5aeeeb88a5b187f260a3f7d2b15ad6dd2b.jpg",
                 "paste-b5e7a6accbb0f321fa0649c78167b300c6e548e2.jpg",
@@ -7256,7 +7258,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "ihneritance",
+                        "inheritance",
                         "<img src=\"paste-60d82efa840ca7f6321768da461cdde881d48c31.jpg\"><div><img src=\"paste-224ce08f6f7bed97d88bfd808b4c878fe23f6a6f.jpg\"></div><div><img src=\"paste-a7c9fc38846d19f0059936cef2a2b254a92008ef.jpg\"></div><div><img src=\"paste-dc00fd7a2e7ed2fbc0e9d13d4012667fa7a77ca9.jpg\"></div><div><img src=\"paste-45403cc2850b671cca05de648c626284aeeb5f08.jpg\"></div><div><img src=\"paste-a6c8f26bcd6ecda19090e41fdcd1685c44d8b478.jpg\"></div><div><img src=\"paste-24f269dc1e54847e506a23dca4e45905dfc913d1.jpg\"><br><div><br></div></div>"
                     ],
                     "flags": 0,
@@ -7443,6 +7445,30 @@
                     "guid": "C1`!,rv3M/",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "protected / virtual",
+                        "<img src=\"paste-b241d4f2f89b3017b7ea8ea6cd75078537ed42e4.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "EYms}Jyu}h",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "abstract / virtual",
+                        "<img src=\"paste-0016b7051fbee59633da609c90e50437a36e5427.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "p:6(`:Bj!9",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
                 }
             ]
         },
@@ -7471,7 +7497,6 @@
                 "paste-28732707d492c7ec0d8b03dec3e512dc3074d2bd.jpg",
                 "paste-2eed48991e160bdcee612a604198bdbb73c000ef.jpg",
                 "paste-40e85ff4d9fee939e17eb804678328131f89e5e2.jpg",
-                "paste-41398f2976e62db822c686a1e3eee2cb6c29a693.jpg",
                 "paste-42c50044a0b29d59e8c2d8130fc478e20c25e742.jpg",
                 "paste-444d41ad12de850c08e33e364a03b2d8f27050ab.jpg",
                 "paste-497f3a8c8f0bb8f929eb7739fe1bd49db7934357.jpg",
@@ -7837,18 +7862,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "heap",
-                        "<img src=\"paste-41398f2976e62db822c686a1e3eee2cb6c29a693.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "o7RkJ^jA-o",
-                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "malloc",
                         "<img src=\"paste-b5792567d8f2e9494dc2205c521760f53ef9f2ec.jpg\">"
                     ],
@@ -8000,9 +8013,543 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "paste-030a821ee4c2887bdb15cf48715f0e7cd1fc0527.jpg",
+                "paste-0e8e10eb9210d7b8292970c23fd46ac59552d0ce.jpg",
+                "paste-0e98ae5ecc76810b53e420d92a7493ed5e982cd9.jpg",
+                "paste-1541d739e98934f7255700ad6c5be93c9116f267.jpg",
+                "paste-218899bf1af3bb43dc6452329eb6948a9e1922f1.jpg",
+                "paste-230d81959ef7cbbbe737d98842be5081f6bb98e9.jpg",
+                "paste-27fc89fa20a12fbae8e07ca9db4416fb8cf998b1.jpg",
+                "paste-2890cd50a7f6e5839bd3d766bd1a61fd77bee751.jpg",
+                "paste-289b943bfe33b9006a4cf4bd7c1e61e211f3ec12.jpg",
+                "paste-2b0ddc660d5220c299b840b1eb74b0ab40ec8fd3.jpg",
+                "paste-2f193a86f46d957b1e9130873a91fb4e3cae89bd.jpg",
+                "paste-31a4c480cff5f0e60aebb8838db3b704fe6717c6.jpg",
+                "paste-33b9f492bcb34e37defd447d55bca87c7aa13c22.jpg",
+                "paste-341fd7e6f529ad263b0ec6c4cff79c2f76be4de5.jpg",
+                "paste-357d4d497a4bd6e7c2dc888f2e4f2b60124d295d.jpg",
+                "paste-35d7930e5d6f8c1bb5d41a9fbd17b2a227ededd6.jpg",
+                "paste-36616baddbb252c30bca136b875e606ccd4187a0.jpg",
+                "paste-3b8f0b06795b02990445e138563c1960f3875d5a.jpg",
+                "paste-4207f8b2ab523446f4b00ab5f254f04eb6284131.jpg",
+                "paste-42246c9409b14bf15c0a617f1667ea5801b18292.jpg",
+                "paste-55061ae42013326b815c4086e4b84b1d975d701d.jpg",
+                "paste-552ecd9e4aedb33d5fa22ca8ea9ec12186d4418b.jpg",
+                "paste-6704ef4a3c9707fa359d4d447aa8b2bbdcf66c00.jpg",
+                "paste-73a506f1f98402fd4686402a14217cccabd41b38.jpg",
+                "paste-7716bfa1bdb9f8a233a93e91042669aee441ecaf.jpg",
+                "paste-79e968dc549ee0f13bf6ab590bf95ea3d897d632.jpg",
+                "paste-7af3e28951750e1139b561a63441443af8625efb.jpg",
+                "paste-7d0e7fa07ec7b82347c894a69fdce1eed7662db2.jpg",
+                "paste-7e4274efd1eca523c379682bc9a6e83f652fd46c.jpg",
+                "paste-80fc1e3bb320a83afdf159a9ee805f3b2b023bb9.jpg",
+                "paste-81f5286ccd30e4f472efab5c1cea42f7f7ebf180.jpg",
+                "paste-829d8145573d6443b96bdc0a3f1846842f7dd8f8.jpg",
+                "paste-853cf50fa9e4ecfd1463a35741fc372d12e446bc.jpg",
+                "paste-86c1bb42ea2bbced76c9d2e0ca116f7552f51d16.jpg",
+                "paste-89c790587291b565ca9e06c0471b354a63bff720.jpg",
+                "paste-8db652b4ae87fdf40bcfa7fb8ca6168b6d68ffbf.jpg",
+                "paste-8fca51a28d2ecc91dcb444ff6b69af862daf5226.jpg",
+                "paste-91b81c665d0b0f62d5e76dafd6ef231f5145823a.jpg",
+                "paste-927479365baf4b3c910ea5561701d002da76cacf.jpg",
+                "paste-929e210c31a3306289dd6a59239dce6f30f11633.jpg",
+                "paste-9f74725a0b5cea423ebcb2a0f64f217c8b782ce1.jpg",
+                "paste-a46e2ab342ed511bc48a46ded82bb3e7d37636e4.jpg",
+                "paste-a6c10e4ccd397ddf225b48c7d2ebf12305d0fc24.jpg",
+                "paste-a939c7bff0a1100a57d7ab0de19874e1a51e4fc6.jpg",
+                "paste-acceb60d6e83bb5ccbdb146b8c0ceb02785dd4c6.jpg",
+                "paste-aed77ed34435440cab55ebbc6aea8e86dcc533b1.jpg",
+                "paste-b170fd3a5983867c6071fff3d06cbdca48cb8900.jpg",
+                "paste-b1792716b636be390cb67b926509faf958c81e4f.jpg",
+                "paste-b36069c7e29fc21e6176bacb6c61ffa9d86d764b.jpg",
+                "paste-b5deb0d3a15f40a63b5e249dd001e777737a5d0d.jpg",
+                "paste-c04acde38b677993ca37906466e683b7895662cc.jpg",
+                "paste-c9a947f96279b0a67c445285a6a8858b58906f1b.jpg",
+                "paste-cf7e71458c9291c5652a39f607861f7b4a9caabd.jpg",
+                "paste-d238da22f18fb208769cef4fc569487092f70cb2.jpg",
+                "paste-d30821427381f765448be94804e96477d185462d.jpg",
+                "paste-e4eca9d914f7775f98c532a54cd4155efca17efb.jpg",
+                "paste-e7c951055dc24c466db5df187a74eef4dade8aca.jpg",
+                "paste-e8c17cbac2016070417c8582097383814c0c7660.jpg",
+                "paste-eddd5fdbdce67e7a2ff8eda10e43ebcee3765501.jpg",
+                "paste-f38741f08aac5380687d326b0a6e50119a9874d1.jpg",
+                "paste-f776586deaba9dd76d74e3b4aee9cd7988a727e2.jpg",
+                "paste-f786749783447c0e4fdfd6a7cc1bcf552de7de4b.jpg",
+                "paste-fceff2023e3c49415d62330d58e7a53aa5fb241a.jpg",
+                "paste-fdc6c60a8d3b42103158743f97725cffcc351490.jpg"
+            ],
             "name": "Počítačové Systémy",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS registers",
+                        "<img src=\"paste-55061ae42013326b815c4086e4b84b1d975d701d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "eb+lUw;FsC",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS arithmetic instructions",
+                        "<img src=\"paste-d238da22f18fb208769cef4fc569487092f70cb2.jpg\"><br><div><img src=\"paste-cf7e71458c9291c5652a39f607861f7b4a9caabd.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Qfve)t$db^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS logic instructions",
+                        "<div><img src=\"paste-f786749783447c0e4fdfd6a7cc1bcf552de7de4b.jpg\"></div><div><img src=\"paste-552ecd9e4aedb33d5fa22ca8ea9ec12186d4418b.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "CIU4iXl7~:",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS memory instructions",
+                        "<div><img src=\"paste-eddd5fdbdce67e7a2ff8eda10e43ebcee3765501.jpg\"><br></div><div><div><img src=\"paste-0e8e10eb9210d7b8292970c23fd46ac59552d0ce.jpg\"><br></div><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Gp_S>0mg6q",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS jump instructions",
+                        "<img src=\"paste-853cf50fa9e4ecfd1463a35741fc372d12e446bc.jpg\"><div><img src=\"paste-218899bf1af3bb43dc6452329eb6948a9e1922f1.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nYMFh$,xS.",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MIPS conditional jump and testing instructions",
+                        "<img src=\"paste-e8c17cbac2016070417c8582097383814c0c7660.jpg\"><div><img src=\"paste-357d4d497a4bd6e7c2dc888f2e4f2b60124d295d.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "IuiJw`p],H",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "flags",
+                        "<img src=\"paste-b170fd3a5983867c6071fff3d06cbdca48cb8900.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "N,VzA#7nR=",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "ISA",
+                        "<img src=\"paste-829d8145573d6443b96bdc0a3f1846842f7dd8f8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "lBp?-uPQH{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "out-of-order execution",
+                        "<img src=\"paste-7af3e28951750e1139b561a63441443af8625efb.jpg\"><div><img src=\"paste-c04acde38b677993ca37906466e683b7895662cc.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "J:!Dd!|1S=",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "physical memory view",
+                        "<img src=\"paste-7716bfa1bdb9f8a233a93e91042669aee441ecaf.jpg\"><div><img src=\"paste-3b8f0b06795b02990445e138563c1960f3875d5a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lE/i*<0]JS",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "inner padding",
+                        "<img src=\"paste-927479365baf4b3c910ea5561701d002da76cacf.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "DCi4g%pz?P",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "outer padding",
+                        "<div>- vnější -- zarovnání na něco dělitené osmi</div><img src=\"paste-acceb60d6e83bb5ccbdb146b8c0ceb02785dd4c6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Ieh,qjPHgt",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "dynamic memory allocation representations",
+                        "<img src=\"paste-a939c7bff0a1100a57d7ab0de19874e1a51e4fc6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "AgiKY8ha@^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "allocation algorithms",
+                        "<img src=\"paste-81f5286ccd30e4f472efab5c1cea42f7f7ebf180.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "zQ|Fnx%pI#",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "buddy memory allocation",
+                        "<img src=\"paste-42246c9409b14bf15c0a617f1667ea5801b18292.jpg\"><div><img src=\"paste-f38741f08aac5380687d326b0a6e50119a9874d1.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M,Oa$.k5+J",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cache",
+                        "<img src=\"paste-35d7930e5d6f8c1bb5d41a9fbd17b2a227ededd6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "JT*fp/c2q}",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cache terminology",
+                        "<img src=\"paste-86c1bb42ea2bbced76c9d2e0ca116f7552f51d16.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "G8S+xt+|Uk",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "NUMA x SMP",
+                        "<img src=\"paste-fceff2023e3c49415d62330d58e7a53aa5fb241a.jpg\"><div><img src=\"paste-91b81c665d0b0f62d5e76dafd6ef231f5145823a.jpg\"><br><div><img src=\"paste-2b0ddc660d5220c299b840b1eb74b0ab40ec8fd3.jpg\"><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "i&9.A`h0:J",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "grammar",
+                        "<img src=\"paste-8db652b4ae87fdf40bcfa7fb8ca6168b6d68ffbf.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "y5&;0l?;@;",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "translation",
+                        "<img src=\"paste-fdc6c60a8d3b42103158743f97725cffcc351490.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "EbC,-K6NQ,",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "linker/librarian/loader",
+                        "<img src=\"paste-4207f8b2ab523446f4b00ab5f254f04eb6284131.jpg\"><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F/cw)4zTW",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "memory organization during program execution",
+                        "<img src=\"paste-79e968dc549ee0f13bf6ab590bf95ea3d897d632.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "w:0]:J$R7^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "realocation, symbol resolution",
+                        "<img src=\"paste-7e4274efd1eca523c379682bc9a6e83f652fd46c.jpg\"><div><img src=\"paste-80fc1e3bb320a83afdf159a9ee805f3b2b023bb9.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "DOP5GR;j]w",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "linking",
+                        "<img src=\"paste-2890cd50a7f6e5839bd3d766bd1a61fd77bee751.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Rci_LqW*hP",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "call stack",
+                        "<div><img src=\"paste-d30821427381f765448be94804e96477d185462d.jpg\"></div><div><img src=\"paste-e4eca9d914f7775f98c532a54cd4155efca17efb.jpg\"><br></div><div><br></div><div><img src=\"paste-030a821ee4c2887bdb15cf48715f0e7cd1fc0527.jpg\"></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F5TvL,A]pW",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "name mangling",
+                        "<img src=\"paste-a6c10e4ccd397ddf225b48c7d2ebf12305d0fc24.jpg\"><div><img src=\"paste-73a506f1f98402fd4686402a14217cccabd41b38.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j7w}hc<t(H",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "parameter passing",
+                        "<img src=\"paste-31a4c480cff5f0e60aebb8838db3b704fe6717c6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "HgrU=glSHu",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "storage types",
+                        "<img src=\"paste-9f74725a0b5cea423ebcb2a0f64f217c8b782ce1.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NZm_$[&ul!",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "heap",
+                        "<img src=\"paste-2f193a86f46d957b1e9130873a91fb4e3cae89bd.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "cvOR^Z]a+,",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "garbage collection",
+                        "<img src=\"paste-e7c951055dc24c466db5df187a74eef4dade8aca.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Ne{0#4(Ur^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "VM x Containers",
+                        "<img src=\"paste-341fd7e6f529ad263b0ec6c4cff79c2f76be4de5.jpg\"><div><img src=\"paste-b1792716b636be390cb67b926509faf958c81e4f.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rT:bYO)Eb^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "OS role",
+                        "<img src=\"paste-6704ef4a3c9707fa359d4d447aa8b2bbdcf66c00.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "F-^ZV`(S+z",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU modes",
+                        "<img src=\"paste-b5deb0d3a15f40a63b5e249dd001e777737a5d0d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "qb_3N#</yJ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "OS architectures",
+                        "<img src=\"paste-230d81959ef7cbbbe737d98842be5081f6bb98e9.jpg\"><div><img src=\"paste-929e210c31a3306289dd6a59239dce6f30f11633.jpg\"><br><div>- layered</div><div><img src=\"paste-f776586deaba9dd76d74e3b4aee9cd7988a727e2.jpg\"><br></div><div><img src=\"paste-a46e2ab342ed511bc48a46ded82bb3e7d37636e4.jpg\"><br></div><div><img src=\"paste-33b9f492bcb34e37defd447d55bca87c7aa13c22.jpg\"><br></div><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ErH8D^H}zX",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "device terminology",
+                        "<img src=\"paste-1541d739e98934f7255700ad6c5be93c9116f267.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "hcNm{Y[/wi",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "device topology",
+                        "<img src=\"paste-c9a947f96279b0a67c445285a6a8858b58906f1b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "C>dch>y0os",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "device intercommunication",
+                        "<img src=\"paste-36616baddbb252c30bca136b875e606ccd4187a0.jpg\"><div><img src=\"paste-7d0e7fa07ec7b82347c894a69fdce1eed7662db2.jpg\"><br></div><div><img src=\"paste-8fca51a28d2ecc91dcb444ff6b69af862daf5226.jpg\"><img src=\"paste-aed77ed34435440cab55ebbc6aea8e86dcc533b1.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "d]qlu**JYx",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "interrupt types",
+                        "<img src=\"paste-27fc89fa20a12fbae8e07ca9db4416fb8cf998b1.jpg\"><div>- IRQ = interrup request<br><div><img src=\"paste-89c790587291b565ca9e06c0471b354a63bff720.jpg\"></div><div><img src=\"paste-289b943bfe33b9006a4cf4bd7c1e61e211f3ec12.jpg\"><br></div><div><img src=\"paste-b36069c7e29fc21e6176bacb6c61ffa9d86d764b.jpg\"><br></div><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "k5To(xX?+t",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "IRQ handling",
+                        "<img src=\"paste-0e98ae5ecc76810b53e420d92a7493ed5e982cd9.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "u+Qh;DT<8S",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -8098,9 +8645,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "důkaz"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
