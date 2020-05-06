@@ -10,6 +10,7 @@ Kolekce Anki balíčků k různým předmětům na MFF (informatika), aktuálně
 	- C (k předmětu „The C Programming Language“)
 	- Lineární Algebra 2
 	- Matematická Analýza 1
+	- Počítačové Systémy
 
 Commity a pushe jsou automatizované. Export je zprostředkován pluginem [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
 
