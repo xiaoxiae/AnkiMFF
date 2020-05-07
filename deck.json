@@ -8630,6 +8630,308 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "18923d20-9030-11ea-ae9e-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-0129b02c6be6db295e512a65aa1f8481b337cec9.jpg",
+                "paste-036aa906a595895bdcba211979fc3248bbbb2dd0.jpg",
+                "paste-093627d2fede3f51dce1ed751955c14d49ed7829.jpg",
+                "paste-0a18031e5ee69a1c2d2d4844ced8ed11e69a9059.jpg",
+                "paste-11cc31f8ffcf045b38a0bc4bc24d02ed92eb303a.jpg",
+                "paste-1203d87c81a579ebf837621f8540a06c325a0954.jpg",
+                "paste-2337d7686a39e3a2b349c60d5324a85404c75ef3.jpg",
+                "paste-2793592ad10188e4a7b7d3c937eb24a2568bbeeb.jpg",
+                "paste-2a59e6fc9536c432aadf383a97025b788193c919.jpg",
+                "paste-2b6f3ea2a1c57ea88efed6e3f11c25714044f3a3.jpg",
+                "paste-2c7306933c90a8894974ed013feb52901409caec.jpg",
+                "paste-2d2e89dc5254ad46f42b39e86089baee692fc34b.jpg",
+                "paste-3061d89a152b3d902cf0dc3a56fd52485af981c5.jpg",
+                "paste-34f8600058d8f50a3f7fb21c0877edb0ff7144c4.jpg",
+                "paste-375acc4b36df512b72d5d57f87181b7d07b8ce7d.jpg",
+                "paste-3c54f10d2dcc2539d1bcd3cc370aff8f8db203cb.jpg",
+                "paste-3cf82ef1eee12ece0454495236cbdeeb553e0c57.jpg",
+                "paste-3d14db76a11b0af6a41410ebf4bf475e191c387d.jpg",
+                "paste-3ec8d1e8ee2d9a4f622fdf0d3d42385317cd8a05.jpg",
+                "paste-406a67a8503d90df3719a5f345ab196328ada4b0.jpg",
+                "paste-4a766f798fa4b962348affa2928e088ac562d75a.jpg",
+                "paste-5fe6bf7eed203dc55e6a5f985e0501ee7d684ab7.jpg",
+                "paste-60a9bf5eb4398038460ac10af5699b58f4b656e5.jpg",
+                "paste-63d45a5821c050898d0d7522c1cadd2483c73c56.jpg",
+                "paste-6c22b55f8b64963d12dc7b249470db2133aa12b2.jpg",
+                "paste-6e1038650a0d3d8fd8757e02a653a1b88b58d05f.jpg",
+                "paste-704ab4e36887a9b37f267b247b38dcbbb9665cff.jpg",
+                "paste-84643d86a7df573f62e86750c150d4b709243ae3.jpg",
+                "paste-9d196be5f47c30b4c07869857f1a769b23d41a86.jpg",
+                "paste-a094d1d2793d046b9a50113c4fe27ef2944fc04e.jpg",
+                "paste-a1fcc2dcc84883d8235efac6a33dcfda12554121.jpg",
+                "paste-ad95fa747ee95773c9a9bd317854a1e961d6acb6.jpg",
+                "paste-ade902f235f59c591ffb63718b41534a0c1c78a7.jpg",
+                "paste-b0468f52da43ad052a76bd9423042ae83dedd828.jpg",
+                "paste-b9a7b53fccc77744e921206e2e4b35fad408f647.jpg",
+                "paste-c68768554b9066ef518d6d4684034417f4ea901e.jpg",
+                "paste-cc63ed5bad5b818b96f073c646a42d32a10ca9ff.jpg",
+                "paste-d22f9053dd743ef1c1d91d0ec29c17833c8d7274.jpg",
+                "paste-dba85eec0ead00e6cf2daa08d5f982a117611597.jpg",
+                "paste-de29c5c1320a2c54d929e59a36d3f5be4ad3432d.jpg",
+                "paste-e4847e67b55c59110a488ae1b5dc2219a2fe7e38.jpg",
+                "paste-e5c42920e73522f9edb984946b0f95de3885b250.jpg",
+                "paste-eea51cdb3a15cd141089f2cbb6b21330290fe9f8.jpg",
+                "paste-f0b6fc759873ee739c2105bc5e4820727d02b5ec.jpg",
+                "paste-fd56ff35eaeedd97b3931e5e109c0cbf1a7f1990.jpg",
+                "paste-fdb0a83d61e4237a8ec5a47228978ef22c6f79da.jpg",
+                "paste-ffe4f702d0c1a3d4c13732c255e3866db8dc1617.jpg"
+            ],
+            "name": "Architektura Počítačů",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Moore's Law",
+                        "<img src=\"paste-3c54f10d2dcc2539d1bcd3cc370aff8f8db203cb.jpg\"><div><img src=\"paste-3d14db76a11b0af6a41410ebf4bf475e191c387d.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rJMe9y({#M",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "performance",
+                        "<img src=\"paste-a1fcc2dcc84883d8235efac6a33dcfda12554121.jpg\"><div><img src=\"paste-2d2e89dc5254ad46f42b39e86089baee692fc34b.jpg\"><br></div><div><img src=\"paste-11cc31f8ffcf045b38a0bc4bc24d02ed92eb303a.jpg\"><br></div><div><img src=\"paste-d22f9053dd743ef1c1d91d0ec29c17833c8d7274.jpg\"><br></div><div><img src=\"paste-2b6f3ea2a1c57ea88efed6e3f11c25714044f3a3.jpg\"><br></div><div><img src=\"paste-093627d2fede3f51dce1ed751955c14d49ed7829.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Kx<4`>7m|<",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SPEC",
+                        "<img src=\"paste-b9a7b53fccc77744e921206e2e4b35fad408f647.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "mBnJYkRVDk",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The Power Wall",
+                        "<img src=\"paste-3cf82ef1eee12ece0454495236cbdeeb553e0c57.jpg\"><img src=\"paste-fd56ff35eaeedd97b3931e5e109c0cbf1a7f1990.jpg\"><img src=\"paste-84643d86a7df573f62e86750c150d4b709243ae3.jpg\"><img src=\"paste-c68768554b9066ef518d6d4684034417f4ea901e.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "QbD-FH,g<H",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "parallel programming",
+                        "<img src=\"paste-2793592ad10188e4a7b7d3c937eb24a2568bbeeb.jpg\"><div><img src=\"paste-34f8600058d8f50a3f7fb21c0877edb0ff7144c4.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O>gzjWZ(EG",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Amdahl's law",
+                        "<img src=\"paste-eea51cdb3a15cd141089f2cbb6b21330290fe9f8.jpg\"><div><img src=\"paste-6c22b55f8b64963d12dc7b249470db2133aa12b2.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "gSfT]dB72o",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "binary half-adder",
+                        "<img src=\"paste-3061d89a152b3d902cf0dc3a56fd52485af981c5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "J!sssky]/3",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "full adder",
+                        "<div><img src=\"paste-3ec8d1e8ee2d9a4f622fdf0d3d42385317cd8a05.jpg\"><br></div><div><img src=\"paste-b0468f52da43ad052a76bd9423042ae83dedd828.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "d(rb1i]@j;",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "latches",
+                        "<img src=\"paste-fdb0a83d61e4237a8ec5a47228978ef22c6f79da.jpg\"><div><img src=\"paste-63d45a5821c050898d0d7522c1cadd2483c73c56.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "kU-:Y=7czT",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: fetch instruction",
+                        "<img src=\"paste-036aa906a595895bdcba211979fc3248bbbb2dd0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "CtclG<!bpK",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: register operations",
+                        "<img src=\"paste-6e1038650a0d3d8fd8757e02a653a1b88b58d05f.jpg\"><div><img src=\"paste-0a18031e5ee69a1c2d2d4844ced8ed11e69a9059.jpg\"><br><div><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Cv9e}4D.pc",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: immediate operands",
+                        "<img src=\"paste-e5c42920e73522f9edb984946b0f95de3885b250.jpg\"><img src=\"paste-4a766f798fa4b962348affa2928e088ac562d75a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "hfy;Z.UIgm",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "multiplexer",
+                        "<img src=\"paste-ffe4f702d0c1a3d4c13732c255e3866db8dc1617.jpg\"><div><img src=\"paste-f0b6fc759873ee739c2105bc5e4820727d02b5ec.jpg\"><br></div><div><img src=\"paste-de29c5c1320a2c54d929e59a36d3f5be4ad3432d.jpg\"><img src=\"paste-2a59e6fc9536c432aadf383a97025b788193c919.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "s*v%b,-[`J",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: loading/storing words",
+                        "<img src=\"paste-5fe6bf7eed203dc55e6a5f985e0501ee7d684ab7.jpg\"><img src=\"paste-2337d7686a39e3a2b349c60d5324a85404c75ef3.jpg\"><img src=\"paste-cc63ed5bad5b818b96f073c646a42d32a10ca9ff.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "wqyvi`ddnP",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: conditional branching",
+                        "<img src=\"paste-704ab4e36887a9b37f267b247b38dcbbb9665cff.jpg\"><img src=\"paste-9d196be5f47c30b4c07869857f1a769b23d41a86.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "L.0}JKkBI^",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: unconditional jump",
+                        "<img src=\"paste-dba85eec0ead00e6cf2daa08d5f982a117611597.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "BCU9>&/4gn",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: multi-cycle CPU stages",
+                        "<img src=\"paste-ad95fa747ee95773c9a9bd317854a1e961d6acb6.jpg\"><img src=\"paste-0129b02c6be6db295e512a65aa1f8481b337cec9.jpg\"><img src=\"paste-a094d1d2793d046b9a50113c4fe27ef2944fc04e.jpg\"><img src=\"paste-406a67a8503d90df3719a5f345ab196328ada4b0.jpg\"><img src=\"paste-375acc4b36df512b72d5d57f87181b7d07b8ce7d.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "fLR!D0Weey",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CPU: multi-cycle datapath control",
+                        "<img src=\"paste-2c7306933c90a8894974ed013feb52901409caec.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "i0>W+L58$4",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "horizontal, vertical micro-instructions",
+                        "<img src=\"paste-1203d87c81a579ebf837621f8540a06c325a0954.jpg\"><img src=\"paste-60a9bf5eb4398038460ac10af5699b58f4b656e5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "O@i:gfwG%%",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "pipelined instruction execution (speedup)",
+                        "<img src=\"paste-e4847e67b55c59110a488ae1b5dc2219a2fe7e38.jpg\"><img src=\"paste-ade902f235f59c591ffb63718b41534a0c1c78a7.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "C8_odXjJTr",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -8725,9 +9027,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "definice"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
