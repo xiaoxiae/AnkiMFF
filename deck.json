@@ -8094,10 +8094,14 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "paste-02bdd2d065371ea431b576b0a0302860c9f1695f.jpg",
                 "paste-030a821ee4c2887bdb15cf48715f0e7cd1fc0527.jpg",
                 "paste-0e8e10eb9210d7b8292970c23fd46ac59552d0ce.jpg",
                 "paste-0e98ae5ecc76810b53e420d92a7493ed5e982cd9.jpg",
+                "paste-1536897b9c828542917f642bb61427e69db90da7.jpg",
                 "paste-1541d739e98934f7255700ad6c5be93c9116f267.jpg",
+                "paste-181d7332527b548dab3b3aa9528873588cae7ff3.jpg",
+                "paste-1b1f7ccc3076ee96f6d1583bd499b3087903c7bf.jpg",
                 "paste-218899bf1af3bb43dc6452329eb6948a9e1922f1.jpg",
                 "paste-230d81959ef7cbbbe737d98842be5081f6bb98e9.jpg",
                 "paste-27fc89fa20a12fbae8e07ca9db4416fb8cf998b1.jpg",
@@ -8111,9 +8115,11 @@
                 "paste-357d4d497a4bd6e7c2dc888f2e4f2b60124d295d.jpg",
                 "paste-35d7930e5d6f8c1bb5d41a9fbd17b2a227ededd6.jpg",
                 "paste-36616baddbb252c30bca136b875e606ccd4187a0.jpg",
+                "paste-3761815e14e6b0804123e676a8bd124fc3a03120.jpg",
                 "paste-3b8f0b06795b02990445e138563c1960f3875d5a.jpg",
                 "paste-4207f8b2ab523446f4b00ab5f254f04eb6284131.jpg",
                 "paste-42246c9409b14bf15c0a617f1667ea5801b18292.jpg",
+                "paste-52bc80e1c4dfedaedc72710daabfc8d7dcfcc53a.jpg",
                 "paste-55061ae42013326b815c4086e4b84b1d975d701d.jpg",
                 "paste-552ecd9e4aedb33d5fa22ca8ea9ec12186d4418b.jpg",
                 "paste-6704ef4a3c9707fa359d4d447aa8b2bbdcf66c00.jpg",
@@ -8128,6 +8134,7 @@
                 "paste-829d8145573d6443b96bdc0a3f1846842f7dd8f8.jpg",
                 "paste-853cf50fa9e4ecfd1463a35741fc372d12e446bc.jpg",
                 "paste-86c1bb42ea2bbced76c9d2e0ca116f7552f51d16.jpg",
+                "paste-87281dcb858839f64744e76e0d4e33fe64c783b0.jpg",
                 "paste-89c790587291b565ca9e06c0471b354a63bff720.jpg",
                 "paste-8db652b4ae87fdf40bcfa7fb8ca6168b6d68ffbf.jpg",
                 "paste-8fca51a28d2ecc91dcb444ff6b69af862daf5226.jpg",
@@ -8137,27 +8144,36 @@
                 "paste-9f74725a0b5cea423ebcb2a0f64f217c8b782ce1.jpg",
                 "paste-a46e2ab342ed511bc48a46ded82bb3e7d37636e4.jpg",
                 "paste-a6c10e4ccd397ddf225b48c7d2ebf12305d0fc24.jpg",
+                "paste-a86bbbb9c2e95c9ea38de0a14d689979edff00f2.jpg",
                 "paste-a939c7bff0a1100a57d7ab0de19874e1a51e4fc6.jpg",
+                "paste-aab95839429b42226cf6307a6422d50f5badea69.jpg",
+                "paste-acb3061595e3384acdc97028d4682c56257c32f4.jpg",
                 "paste-acceb60d6e83bb5ccbdb146b8c0ceb02785dd4c6.jpg",
+                "paste-ace08dc8d9aa2a01c03383f8dbade05f0b7ad793.jpg",
                 "paste-aed77ed34435440cab55ebbc6aea8e86dcc533b1.jpg",
                 "paste-b170fd3a5983867c6071fff3d06cbdca48cb8900.jpg",
                 "paste-b1792716b636be390cb67b926509faf958c81e4f.jpg",
                 "paste-b36069c7e29fc21e6176bacb6c61ffa9d86d764b.jpg",
                 "paste-b5deb0d3a15f40a63b5e249dd001e777737a5d0d.jpg",
+                "paste-bb9884d412aaab1ec8c7e45cd56c5713dc1dfc63.jpg",
                 "paste-c04acde38b677993ca37906466e683b7895662cc.jpg",
                 "paste-c9a947f96279b0a67c445285a6a8858b58906f1b.jpg",
+                "paste-cf721d4c38dd5e2f23cfbbe067999e2c19bc0270.jpg",
                 "paste-cf7e71458c9291c5652a39f607861f7b4a9caabd.jpg",
                 "paste-d238da22f18fb208769cef4fc569487092f70cb2.jpg",
                 "paste-d30821427381f765448be94804e96477d185462d.jpg",
+                "paste-d9412f114278c85ae1a7969ce5e03ac7fa536307.jpg",
                 "paste-e4eca9d914f7775f98c532a54cd4155efca17efb.jpg",
                 "paste-e7c951055dc24c466db5df187a74eef4dade8aca.jpg",
                 "paste-e8c17cbac2016070417c8582097383814c0c7660.jpg",
                 "paste-eddd5fdbdce67e7a2ff8eda10e43ebcee3765501.jpg",
                 "paste-f38741f08aac5380687d326b0a6e50119a9874d1.jpg",
+                "paste-f4799e9895050f5d28a04950ed1dcf753d865d13.jpg",
                 "paste-f776586deaba9dd76d74e3b4aee9cd7988a727e2.jpg",
                 "paste-f786749783447c0e4fdfd6a7cc1bcf552de7de4b.jpg",
                 "paste-fceff2023e3c49415d62330d58e7a53aa5fb241a.jpg",
-                "paste-fdc6c60a8d3b42103158743f97725cffcc351490.jpg"
+                "paste-fdc6c60a8d3b42103158743f97725cffcc351490.jpg",
+                "paste-ff54f325d6745ce93421f4f8a872688db4448cc5.jpg"
             ],
             "name": "Počítačové Systémy",
             "notes": [
@@ -8626,6 +8642,150 @@
                     ],
                     "flags": 0,
                     "guid": "u+Qh;DT<8S",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Processing terminology",
+                        "<img src=\"paste-87281dcb858839f64744e76e0d4e33fe64c783b0.jpg\"><img src=\"paste-52bc80e1c4dfedaedc72710daabfc8d7dcfcc53a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "m;,9_8Kp+{",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Real-time scheduling",
+                        "<img src=\"paste-ace08dc8d9aa2a01c03383f8dbade05f0b7ad793.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "sxxVx|Up(r",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Unit of scheduling state",
+                        "<img src=\"paste-bb9884d412aaab1ec8c7e45cd56c5713dc1dfc63.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "N)kP1,U#z",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Multitasking",
+                        "<img src=\"paste-a86bbbb9c2e95c9ea38de0a14d689979edff00f2.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "m4CMWx,5m7",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Scheduling objectives",
+                        "<img src=\"paste-aab95839429b42226cf6307a6422d50f5badea69.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "y,8g+!^}uC",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Scheduling priority",
+                        "<img src=\"paste-ff54f325d6745ce93421f4f8a872688db4448cc5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Ih%ri~qg]*",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Scheduling algorithms",
+                        "<img src=\"paste-181d7332527b548dab3b3aa9528873588cae7ff3.jpg\"><img src=\"paste-1536897b9c828542917f642bb61427e69db90da7.jpg\"><img src=\"paste-acb3061595e3384acdc97028d4682c56257c32f4.jpg\"><img src=\"paste-f4799e9895050f5d28a04950ed1dcf753d865d13.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "llwB/O#lRE",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "File",
+                        "<img src=\"paste-1b1f7ccc3076ee96f6d1583bd499b3087903c7bf.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "F/Aj3:U-Rm",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "File directory",
+                        "<img src=\"paste-d9412f114278c85ae1a7969ce5e03ac7fa536307.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Q?;;(BY|1n",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "File system",
+                        "<img src=\"paste-02bdd2d065371ea431b576b0a0302860c9f1695f.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "l0l1-)J6PJ",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "FAT",
+                        "<img src=\"paste-3761815e14e6b0804123e676a8bd124fc3a03120.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "PmuJ~7-P.w",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "ext2",
+                        "<img src=\"paste-cf721d4c38dd5e2f23cfbbe067999e2c19bc0270.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "HeQhm^j(U",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": []
                 }
