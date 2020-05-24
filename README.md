@@ -21,4 +21,4 @@ V případě nějakého dotazu prosím pošlete mail - vše je automatizované a
 
 ---
 
-**UPOZORNĚNÍ:** balíčky aktuálně nejsou updatovány, jelikož nějaký z předešlých Anki updatů rozbil import a export (viz. [tenhle issue](https://github.com/Stvad/CrowdAnki/issues/84) na CrowdAnki GitHubu).
+**UPOZORNĚNÍ:** balíčky aktuálně updatovány jsou, ale instalace popsána výše fungovat nebude, jelikož nějaký z předešlých Anki updatů rozbil import a export (viz. [tenhle issue](https://github.com/Stvad/CrowdAnki/issues/84) a [tenhle pull request](https://github.com/Stvad/CrowdAnki/pull/85) na CrowdAnki GitHubu).
