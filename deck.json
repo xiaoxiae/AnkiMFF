@@ -80,6 +80,7 @@
                 "paste-491dc92575c36d8ce35e3a5c65cbd1181bb52f64.jpg",
                 "paste-493f1cfb05f012c4d43c328aac55507467d4a43d.jpg",
                 "paste-4bc7d10dcb70acbe70ce5b7b21d460bc3025a435.jpg",
+                "paste-4d83ec70ed0fbe286cf3925147aa5780666c1d0f.jpg",
                 "paste-4de6a882753dea67ad2a6fe9edd95755b653f8b6.jpg",
                 "paste-4e04285fef95d2ee5f9aa6bc2e59defe7de86c39.jpg",
                 "paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg",
@@ -107,7 +108,6 @@
                 "paste-6ee6e2f8d3d478ab73d1985f9926f2d503d90025.jpg",
                 "paste-719c44fa4d4acfa78a595d4f6791c8b1899861bc.jpg",
                 "paste-74522c17aa05acdcc50bef977a7065888fa6eb27.jpg",
-                "paste-7489bb193e5c86adb7289ee0c91fc609489c62dd.jpg",
                 "paste-75a35dc62d42ccd893a8fd08668b73a4715a52b6.jpg",
                 "paste-76ee0c8d202a4d3ac1d233cc3ffc37635a8e1b00.jpg",
                 "paste-771c772a598a73a310f9051fd6829e9c154a4e4d.jpg",
@@ -125,7 +125,6 @@
                 "paste-8d591b84377c44e893fd1ca6bb419d83c206f467.jpg",
                 "paste-8d854cc150ee1cfa48b1063cf144cb932c2eaae2.jpg",
                 "paste-8dd79c073e22dd61742d3a03ab599693820d3a90.jpg",
-                "paste-904a717d9c90aa5acc458195cc75391f6c86eb4a.jpg",
                 "paste-90b20fe56f1caef14f313deb4f7a124f2c7bf60c.jpg",
                 "paste-929241ddceede384077525d8b85daa37859f7c1f.jpg",
                 "paste-93bcf4cfc88c7dfe790b1ac951164eb0fe1ddc6f.jpg",
@@ -372,7 +371,7 @@
                     "data": "",
                     "fields": [
                         "mosty v neorientovaném grafu",
-                        "<div><img src=\"paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg\"><img src=\"paste-b51530d121a637697669e02aaf60a655aec6c389.jpg\"><br><div><br></div></div>"
+                        "<div><img src=\"paste-500efcc80707cca0eb1d8df3013b828e6fd9aaad.jpg\"></div><div><img src=\"paste-b51530d121a637697669e02aaf60a655aec6c389.jpg\"><br><div><br></div></div>"
                     ],
                     "flags": 0,
                     "guid": "EQ7;w+Kfg0",
@@ -1017,7 +1016,8 @@
                     "guid": "KLrApJ5]7(",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "algoritmus"
+                        "algoritmus",
+                        "hashování"
                     ]
                 },
                 {
@@ -1046,7 +1046,8 @@
                     "guid": "l([YdA(H#6",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "definice"
+                        "definice",
+                        "hashování"
                     ]
                 },
                 {
@@ -1060,7 +1061,8 @@
                     "guid": "J-*zf:IyL;",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "důkaz"
+                        "důkaz",
+                        "hashování"
                     ]
                 },
                 {
@@ -1148,26 +1150,15 @@
                     "guid": "ewxU6(^2XR",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "důkaz"
+                        "důkaz",
+                        "hashování"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "quickselect v průměrně lineárním čase",
-                        "<img src=\"paste-7489bb193e5c86adb7289ee0c91fc609489c62dd.jpg\"><div><img src=\"paste-904a717d9c90aa5acc458195cc75391f6c86eb4a.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "gruPgD~6W6",
-                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "quickselect v lineárním čase",
+                        "LinearSelect",
                         "<img src=\"paste-4de6a882753dea67ad2a6fe9edd95755b653f8b6.jpg\"><div><img src=\"paste-593d217ae1ede0d2ad7ba485a6013f84909f4698.jpg\"><br></div><div><img src=\"paste-a246c7601a3952a841aa23b588fe7c55f90fe748.jpg\"><br></div><div><img src=\"paste-bdbfc009148a876e884d4ddd4d5fd27aa2020a69.jpg\"><br></div><div><img src=\"paste-a1a049184122727e9cffe195fb2ba2b21f9592cd.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -1189,7 +1180,9 @@
                     "guid": "w?q8$-T*G6",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "důkaz"
+                        "důkaz",
+                        "quicksort",
+                        "třízení"
                     ]
                 },
                 {
@@ -1255,7 +1248,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "o složitosti vyhledávání",
+                        "Složitost vyhledávání",
                         "<img src=\"paste-8a9ec1a82f54257908f1951e22600f5c2f15d3f3.jpg\"><div><img src=\"paste-d2eda7c3a09a621f8fb022064d389191afad6a82.jpg\"><br></div><div><img src=\"paste-294e5e5649ec926815af9f236894bace98193212.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -1269,14 +1262,15 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Věta o složitosti třídění",
+                        "Složitost třízení",
                         "<img src=\"paste-119ae568623ffad0db9a7c926d96ff99fcd72e48.jpg\"><div><img src=\"paste-5fff3a699ba22def8678b550f0d863085210c80d.jpg\"><br></div><div><img src=\"paste-99d3d849ace28c0a185d3a188ed8918b38beb9ed.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "z:e#&;G8H7",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "důkaz"
+                        "důkaz",
+                        "třízení"
                     ]
                 },
                 {
@@ -1396,6 +1390,20 @@
                     "tags": [
                         "amortizace",
                         "definice"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Hešování s přihrádkami",
+                        "<img src=\"paste-4d83ec70ed0fbe286cf3925147aa5780666c1d0f.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "D]7G~y0|kA",
+                    "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                    "tags": [
+                        "hashování"
                     ]
                 }
             ]
@@ -9582,7 +9590,7 @@
             "sortf": 0,
             "tags": [
                 "",
-                "definice",
+                "hashování",
                 ""
             ],
             "tmpls": [
