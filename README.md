@@ -18,7 +18,3 @@ Commity a pushe jsou automatizované. Export je zprostředkován pluginem [Crowd
 Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > Get-addons` s kódem `1788670778`), Anki restartovat a poté v `File > CrowdAnki: Import from Github` zadat `xiaoxiae/AnkiMFF`.
 
 V případě nějakého dotazu prosím pošlete mail - vše je automatizované a na pull requesty tedy pravděpodobně reagovat nebudu.
-
----
-
-**UPOZORNĚNÍ:** balíčky aktuálně updatovány jsou, ale instalace popsána výše fungovat nebude, jelikož nějaký z předešlých Anki updatů rozbil import a export (viz. [tenhle issue](https://github.com/Stvad/CrowdAnki/issues/84) a [tenhle pull request](https://github.com/Stvad/CrowdAnki/pull/85) na CrowdAnki GitHubu).
