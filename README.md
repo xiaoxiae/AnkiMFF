@@ -1,5 +1,5 @@
 # Anki MFF
-Kolekce Anki balíčků k různým předmětům na MFF (informatika), aktuálně:
+Kolekce Anki balíčků k různým předmětům na MFF (informatika).
 
 ## 1. semestr
 - Lineární Algebra 1
@@ -11,6 +11,8 @@ Kolekce Anki balíčků k různým předmětům na MFF (informatika), aktuálně
 - C (k předmětu „The C Programming Language“)
 - Lineární Algebra 2
 - Matematická Analýza 1
+	- Integrály
+	- Derivace
 - Počítačové Systémy
 
 Commity a pushe jsou automatizované. Export je zprostředkován pluginem [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
