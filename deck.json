@@ -1816,7 +1816,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Charakterizace ortonormálních matic",
+                        "Charakterizace ortonormálních matic (7)",
                         "<img src=\"paste-55b3d11c9359bf3bec0738dc3fccefc667a8836d.jpg\"><div><img src=\"paste-c2a3dd6ec24a640b5be855fa6b5147c95b029c31.jpg\"><br></div><div><img src=\"paste-89c19148dd7fdd881eb6d45ae11936acb7e58b2e.jpg\"><br></div>"
                     ],
                     "flags": 0,
@@ -2545,13 +2545,13 @@
                     "data": "",
                     "fields": [
                         "Mocninná metoda",
-                        "<img src=\"paste-0f1df3d09d6e4d87ef79d7843d929f8f532c7bf6.jpg\">"
+                        "<img src=\"paste-0f1df3d09d6e4d87ef79d7843d929f8f532c7bf6.jpg\"><div>---</div><div>TLDR: Opakovaně aplikujeme transformaci na vektor a normalizujeme ho. To ho to ho natáčí do směru nějakého vlastního vektoru.</div>"
                     ],
                     "flags": 0,
                     "guid": "H6c!=hub1)",
                     "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                     "tags": [
-                        "definice"
+                        "algoritmus"
                     ]
                 },
                 {
@@ -2727,7 +2727,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Algebraická a geometrická násobnost",
+                        "Násobnost vlastního čísla a vlastní vektory",
                         "<img src=\"paste-2aed4081358ca14786bc71ea4d80cf3f483ae8ce.jpg\">"
                     ],
                     "flags": 0,
