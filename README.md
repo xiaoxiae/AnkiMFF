@@ -7,6 +7,7 @@ Kolekce Anki balíčků k různým předmětům na MFF (informatika).
 
 ## 2. semestr
 - Algoritmy a Datové Struktury 1
+- Architektura Počítačů
 - C# (k předmětu „Programování 2“)
 - C (k předmětu „The C Programming Language“)
 - Lineární Algebra 2
