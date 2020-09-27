@@ -1,6 +1,8 @@
 # Anki MFF
 Kolekce Anki balíčků k různým předmětům na MFF (informatika).
 
+**UPOZORNĚNÍ (27/9/2020)** - v některé z minulých verzí se na CrowdAnki rozbilo třízení poznámek v balíčku a aktuálně třízeny nejsou. To dost fatálně rozbíjí verzování přes Git, proto balíčky aktuálně nejsou aktualizovány. Pokusím se to v prvních týdnech semestru fixnout.
+
 ## 1. semestr
 - Lineární Algebra 1
 - Úvod do počítačových sítí
