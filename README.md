@@ -24,9 +24,9 @@ Kolekce Anki balíčků k různým předmětům na MFF (informatika).
 ## 3. semestr
 - Algebra
 - Algoritmy a Datové Struktury 2
-- C++
-- Haskell
 - Kombinatorika a grafy
+- Matematická Analýza 2
+- Výroková a predikátová logika (EN)
 
 Commity a pushe jsou automatizované. Export je zprostředkován pluginem [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
 
