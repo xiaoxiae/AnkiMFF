@@ -15,11 +15,27 @@
                     "extendRev": 50,
                     "media_files": [
                         "paste-0077f21b1582b7cb22e1da133a4ecb9dafe95e88.jpg",
+                        "paste-02954a50542710e6b86cdb131e368d9e236aa394.jpg",
+                        "paste-0d9a72e20886b696baa10b9fa99bd5c2da937938.jpg",
+                        "paste-2250dc0f2f7741340baf28f9272f0386ca7ee22b.jpg",
                         "paste-232dab28619fa2a54c128355fff496fee3b79975.jpg",
                         "paste-301e57686015bf0e30bf98386a350ee65a600a11.jpg",
+                        "paste-37cceeebeac9acd7898c52d88118cf15dfd35c60.jpg",
                         "paste-40ab2ac6a256b027c7778029fdad6c7c19ae7380.jpg",
                         "paste-4f5aa383053d46133e6c580522159402860c253d.jpg",
+                        "paste-4f66eec1a976b6ff4741c52a1c57d9e167086f33.jpg",
+                        "paste-5b367aec42c61a57da9762f929f29045029a9f1c.jpg",
+                        "paste-5cab87f89bfb34e2e9965072c32aff019f5fefa2.jpg",
                         "paste-6eef377486e61737c651a71639e302c6e2d4296f.jpg",
+                        "paste-71dba98b2a090a84d67da1ee0c05ed4b59a60c7f.jpg",
+                        "paste-80fe945ba7778cb99fe147b0827cd4811c222c4c.jpg",
+                        "paste-8fbf766d9f072dfd7864fc0f818468963456c93a.jpg",
+                        "paste-933880a10554ebcde27f8e55b6e70578bc2ef9b1.jpg",
+                        "paste-9fbb154c17d04e54ad2074f933422a89ec97945f.jpg",
+                        "paste-a5f21d9ac8cb886230bf061fc5c30bc8d0f35bc5.jpg",
+                        "paste-bcff6fb300a276a10a74e8d07343f71518e9c5b3.jpg",
+                        "paste-c0bb36a8c5c1ef0b8303840c84ac7d65218f45bc.jpg",
+                        "paste-c7f4286ae8a11a2aff9db96fc0d3e10d9503a91d.jpg",
                         "paste-f496a499e5350e9da804b4c1bd381f1ddc5eef64.jpg",
                         "paste-fa2ae1915f0da6a9542290b80172e1ae0422a624.jpg"
                     ],
@@ -50,6 +66,65 @@
                             "guid": "Ge1vBJTZT2",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Aho-Corasick",
+                                "<img src=\"paste-0d9a72e20886b696baa10b9fa99bd5c2da937938.jpg\"><div><img src=\"paste-4f66eec1a976b6ff4741c52a1c57d9e167086f33.jpg\"><br></div><div><img src=\"paste-9fbb154c17d04e54ad2074f933422a89ec97945f.jpg\"><br></div><div><img src=\"paste-8fbf766d9f072dfd7864fc0f818468963456c93a.jpg\"><img src=\"paste-5cab87f89bfb34e2e9965072c32aff019f5fefa2.jpg\"><br></div><div><img src=\"paste-5b367aec42c61a57da9762f929f29045029a9f1c.jpg\"><br></div><div><img src=\"paste-c7f4286ae8a11a2aff9db96fc0d3e10d9503a91d.jpg\"><br></div><div><img src=\"paste-933880a10554ebcde27f8e55b6e70578bc2ef9b1.jpg\"><br></div><div><img src=\"paste-80fe945ba7778cb99fe147b0827cd4811c222c4c.jpg\"><br></div><div><img src=\"paste-71dba98b2a090a84d67da1ee0c05ed4b59a60c7f.jpg\"><br></div><div><img src=\"paste-bcff6fb300a276a10a74e8d07343f71518e9c5b3.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "n>L|*<C^pn",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "síť",
+                                "<img src=\"paste-a5f21d9ac8cb886230bf061fc5c30bc8d0f35bc5.jpg\"><div><img src=\"paste-c0bb36a8c5c1ef0b8303840c84ac7d65218f45bc.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "kbncpZXV{,",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice",
+                                "toky"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "tok",
+                                "<img src=\"paste-2250dc0f2f7741340baf28f9272f0386ca7ee22b.jpg\">&lt;"
+                            ],
+                            "flags": 0,
+                            "guid": "A}TFMB3A;S",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice",
+                                "toky"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "<img src=\"paste-37cceeebeac9acd7898c52d88118cf15dfd35c60.jpg\">",
+                                "<img src=\"paste-02954a50542710e6b86cdb131e368d9e236aa394.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "AekJRxGW9<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz",
+                                "toky"
+                            ]
                         }
                     ]
                 },
@@ -11478,6 +11553,9 @@
             ],
             "sortf": 0,
             "tags": [
+                "",
+                "důkaz",
+                "toky",
                 ""
             ],
             "tmpls": [
