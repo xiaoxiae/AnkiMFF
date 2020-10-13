@@ -11306,29 +11306,38 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
-                        "paste-0ea7d5f66c3e5856b49ac88cdc07cada701991e2.jpg",
+                        "paste-1156bbd2c226ddada3a33c4a304b99cc9f7975c8.jpg",
                         "paste-2606f4512e448387bfcbdf7fea5bd49b578ccfac.jpg",
-                        "paste-2da8e0ba0abfb02a6c2bf11a0d77249dc9438955.jpg",
+                        "paste-2c25c77e7ff2448b02e555e48b8e65cc9926e86c.jpg",
                         "paste-314649cbf8a879b2b08b0648d97aab71daa665da.jpg",
                         "paste-3504cdd0ff1b63aa09a53c68e31b764965d1c377.jpg",
-                        "paste-3a9801bf84e251cf811e4f82e461489da48c8086.jpg",
                         "paste-41b84f0b7497e7c318100368a0b139afda8fb99d.jpg",
+                        "paste-44331fb3e2d87696e1ff047349357ca7a5d14769.jpg",
                         "paste-45bcb8981c3f2cdcbda832325700d336a89a65f3.jpg",
                         "paste-51629b3296eaf7b73a8fff6c86d2ae4877031901.jpg",
+                        "paste-5407aea9997b6b3840a9d59a3fe136fc9e9d7369.jpg",
                         "paste-602a6e8fc69ae070ad3109baf1cec4cf8f897297.jpg",
+                        "paste-611c09c3b87d58dbf14ce00b814641700ac07f00.jpg",
+                        "paste-65d55e599e438218041b65fe6393993f59853d57.jpg",
+                        "paste-65e4f65cd26f5ba2e3838d7ca1a7b573ca0f0a72.jpg",
                         "paste-69058bb5d8ea868f5af04ee91bcbda3e40d9985a.jpg",
                         "paste-6b1a8e59660906bc7eabe79028bd44bf32088b55.jpg",
-                        "paste-70d686c5c73ed42db38ad495302f7a8795e63854.jpg",
-                        "paste-715e33e6cde3901c4fb63f4fe796af02b370460d.jpg",
-                        "paste-9eadb5c99666403ad395d318853548d54b9f2709.jpg",
+                        "paste-6c507bb8dc909396c56a2746f4fc7f5116d30264.jpg",
+                        "paste-758c6dc594f81c8bed7ce794e4c80169d3ee331a.jpg",
+                        "paste-8403909ef085764ededa2956c15a63e7dff7df29.jpg",
+                        "paste-8bf53639323a47f2b206b586d5987a6d99024c97.jpg",
                         "paste-a064c3375b98b88dead51d0234a892a125b51ceb.jpg",
                         "paste-a88f37c159f9b88527255ae4e64d76bdff6e24b8.jpg",
+                        "paste-a9a0155ff583ae176ad7e47a08da489baa5d1e83.jpg",
+                        "paste-ad2d475af64a98224a04c9a55d4eede389f9e3f0.jpg",
                         "paste-b493e909404378a9fe070ed25fdb7f032839ace7.jpg",
+                        "paste-c4376722c9cbc03b84ba58333d040fb2ffce082c.jpg",
                         "paste-c5f9b3ba003d9ee376091ddc3ab1db6041cc051f.jpg",
                         "paste-cd3f98333ff70443c4ba62bbab2921f725867941.jpg",
                         "paste-dbf798a9536159137ea59a86585bfb20dfdfd686.jpg",
                         "paste-e1e4e02f8b789b0bbabd0d35329a8f81ddcd7360.jpg",
-                        "paste-f2f50a45799ce766d2bb1283923230350bbf2d29.jpg",
+                        "paste-e9ec04e7c8b3789439233779527d21a22257ba67.jpg",
+                        "paste-f601ef3362adaf43b1bd80f7cb166ed8eef1c6b0.jpg",
                         "paste-fa2b6442e6a4d9d61d57a16153d9d8b0187383d3.jpg",
                         "paste-fc571cd6e6b68e0553f66e2eb3213f25ff60b77e.jpg"
                     ],
@@ -11338,7 +11347,7 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "Odhady faktoriálu",
+                                "Odhady faktoriáluo",
                                 "<img src=\"paste-45bcb8981c3f2cdcbda832325700d336a89a65f3.jpg\"><div><img src=\"paste-2606f4512e448387bfcbdf7fea5bd49b578ccfac.jpg\"><br></div><div><img src=\"paste-3504cdd0ff1b63aa09a53c68e31b764965d1c377.jpg\"><br></div><div><br></div>"
                             ],
                             "flags": 0,
@@ -11352,7 +11361,7 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "Odhady největšího kombinačního čísla",
+                                "odhady největšího kombinačního čísla",
                                 "<img src=\"paste-41b84f0b7497e7c318100368a0b139afda8fb99d.jpg\"><div><img src=\"paste-6b1a8e59660906bc7eabe79028bd44bf32088b55.jpg\"><br></div><div>---</div><div><img src=\"paste-314649cbf8a879b2b08b0648d97aab71daa665da.jpg\"><br></div><div><img src=\"paste-c5f9b3ba003d9ee376091ddc3ab1db6041cc051f.jpg\"><br></div><div><img src=\"paste-fc571cd6e6b68e0553f66e2eb3213f25ff60b77e.jpg\"><br></div>"
                             ],
                             "flags": 0,
@@ -11406,8 +11415,8 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "vytvořující funkce a jejich operace",
-                                "<img src=\"paste-cd3f98333ff70443c4ba62bbab2921f725867941.jpg\"><div><img src=\"paste-3a9801bf84e251cf811e4f82e461489da48c8086.jpg\"><br></div><div><img src=\"paste-f2f50a45799ce766d2bb1283923230350bbf2d29.jpg\"><br></div><div><img src=\"paste-9eadb5c99666403ad395d318853548d54b9f2709.jpg\"><br></div><div><img src=\"paste-2da8e0ba0abfb02a6c2bf11a0d77249dc9438955.jpg\"><br></div><div><img src=\"paste-70d686c5c73ed42db38ad495302f7a8795e63854.jpg\"><br></div>"
+                                "operace vytvořujících funkcí",
+                                "<div><img src=\"paste-1156bbd2c226ddada3a33c4a304b99cc9f7975c8.jpg\"><br></div>"
                             ],
                             "flags": 0,
                             "guid": "Dg4h:ca-N6",
@@ -11434,14 +11443,114 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "<img src=\"paste-715e33e6cde3901c4fb63f4fe796af02b370460d.jpg\">",
-                                "<img src=\"paste-0ea7d5f66c3e5856b49ac88cdc07cada701991e2.jpg\">"
+                                "Fibonacciho čísla",
+                                "<img src=\"paste-2c25c77e7ff2448b02e555e48b8e65cc9926e86c.jpg\"><div><img src=\"paste-8bf53639323a47f2b206b586d5987a6d99024c97.jpg\"><br></div><div><img src=\"paste-a9a0155ff583ae176ad7e47a08da489baa5d1e83.jpg\"><br></div><div><img src=\"paste-611c09c3b87d58dbf14ce00b814641700ac07f00.jpg\"><br></div><div><br></div>"
                             ],
                             "flags": 0,
-                            "guid": "B6_PY={G.Q",
+                            "guid": "k3(Z&dM43G",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
-                                "příklad"
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Catalánova čísla",
+                                "<img src=\"paste-e9ec04e7c8b3789439233779527d21a22257ba67.jpg\">&nbsp;<div><img src=\"paste-65e4f65cd26f5ba2e3838d7ca1a7b573ca0f0a72.jpg\"><br></div><div><img src=\"paste-6c507bb8dc909396c56a2746f4fc7f5116d30264.jpg\"><br></div><div><img src=\"paste-44331fb3e2d87696e1ff047349357ca7a5d14769.jpg\"><br></div><div><br></div><div><img src=\"paste-f601ef3362adaf43b1bd80f7cb166ed8eef1c6b0.jpg\"><br></div><div><br></div><div><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "GbIqY)FqeM",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "konečné projektivní roviny",
+                                "<img src=\"paste-ad2d475af64a98224a04c9a55d4eede389f9e3f0.jpg\"><div><img src=\"paste-758c6dc594f81c8bed7ce794e4c80169d3ee331a.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "z{`[o=kAA%",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice",
+                                "KPR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "v KPR mají všechny přímky stejný počet bodů",
+                                "<img src=\"paste-5407aea9997b6b3840a9d59a3fe136fc9e9d7369.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "N!G.Q~;b0h",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz",
+                                "KPR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "vytvořující funkce",
+                                "<img src=\"paste-cd3f98333ff70443c4ba62bbab2921f725867941.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "z=i5cSw*yB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "běžné vytvořující funkce",
+                                "<img src=\"paste-65d55e599e438218041b65fe6393993f59853d57.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "tdN}rII^Pr",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "tahák"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "obecné kombinační číslo",
+                                "<img src=\"paste-8403909ef085764ededa2956c15a63e7dff7df29.jpg\"><div>---</div><div>iterujeme přes \\(k\\) pozic, je to vždy \\(n - i\\) (\\(i\\) od nuly!)</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "G{,m2Wr-x",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "záporné koeficienty binomické věty",
+                                "<img src=\"paste-c4376722c9cbc03b84ba58333d040fb2ffce082c.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "nkg2tU_z]",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "tahák"
                             ]
                         }
                     ]
@@ -11554,8 +11663,7 @@
             "sortf": 0,
             "tags": [
                 "",
-                "důkaz",
-                "toky",
+                "tahák",
                 ""
             ],
             "tmpls": [
