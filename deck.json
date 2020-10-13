@@ -8572,10 +8572,12 @@
                         "paste-7d4fbfe357f87158bc899b317bd191669cac7b94.jpg",
                         "paste-87b5f6a3c6029f07f949cb667f4debe9ff0dbb78.jpg",
                         "paste-9561098e6ff8629db238e92709b8c616a6c039f3.jpg",
+                        "paste-96cf380cc65cbc7e2a93fe92e5fccc9883d8a40f.jpg",
                         "paste-a5456ad0faacf170e42dbc23cd0cfa9a67fdca98.jpg",
                         "paste-a89aa5646d4888986947dc53cbd8bc384a0129d6.jpg",
                         "paste-b3c843d26426aed69a2f32c9f2fd71bd47241cc7.jpg",
                         "paste-cb3919aa374fc33e75c6ffadfa744b48fa786528.jpg",
+                        "paste-ce0959b50f2d687708ee69c912e0a27b0c084dd1.jpg",
                         "paste-d4071185f1b1a5384bae2ea0b02f9dd18ac28cc0.jpg",
                         "paste-ddd31bc10f39aebc35bc2cd17d87b03ccaa475da.jpg",
                         "paste-ddd325c2feed39d21d50346736f1bb5e646d3d43.jpg",
@@ -8717,7 +8719,7 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "connective adequacy",
+                                "adequacy (universality)",
                                 "<img src=\"paste-a89aa5646d4888986947dc53cbd8bc384a0129d6.jpg\">"
                             ],
                             "flags": 0,
@@ -8774,13 +8776,27 @@
                             "data": "",
                             "fields": [
                                 "<img src=\"paste-ddd325c2feed39d21d50346736f1bb5e646d3d43.jpg\">",
-                                "<div><img src=\"paste-d4071185f1b1a5384bae2ea0b02f9dd18ac28cc0.jpg\"><br></div><div><img src=\"paste-fc9956e0c221d6065228fef128e900389d099877.jpg\"><br></div>"
+                                "<div><img src=\"paste-d4071185f1b1a5384bae2ea0b02f9dd18ac28cc0.jpg\"><br></div><div><img src=\"paste-96cf380cc65cbc7e2a93fe92e5fccc9883d8a40f.jpg\"><br></div><div><img src=\"paste-fc9956e0c221d6065228fef128e900389d099877.jpg\"><br></div>"
                             ],
                             "flags": 0,
                             "guid": "nsMVLNNy64",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "boolean function",
+                                "<img src=\"paste-ce0959b50f2d687708ee69c912e0a27b0c084dd1.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "DGs4BZP<A>",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
                             ]
                         }
                     ]
@@ -11663,7 +11679,7 @@
             "sortf": 0,
             "tags": [
                 "",
-                "tahák",
+                "definice",
                 ""
             ],
             "tmpls": [
