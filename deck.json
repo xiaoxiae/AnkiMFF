@@ -3043,13 +3043,16 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "paste-003d144788f2d6bb5a31ba500a4fea28e11e754b.jpg",
                         "paste-043a42916ad6425dfee8bac3a385044a66f28c6d.jpg",
                         "paste-055dfa7203efca0c466989698db0955eb467159c.jpg",
                         "paste-09e0cdd8311066c2573ff48c8e099dc45e7016a7.jpg",
                         "paste-0a197db5be955b312b752dc304e19a1f1032fcfb.jpg",
+                        "paste-0ea0cf8416408ce95a607ad2332d5d73cb5c8ad3.jpg",
                         "paste-17655ac3f15a615d9b1c2f5f831a28f412eb5264.jpg",
                         "paste-17b53f4113be2cf0cf037c16783515d374c2e92b.jpg",
                         "paste-1be8daf87f8b1a6b70999365cbce8bbbf76b46ed.jpg",
+                        "paste-20c58a4a082ef0662315d9d0226726cbb3d2e5b4.jpg",
                         "paste-29638b3a4cb2572432f967840d61eb3c646f0dbc.jpg",
                         "paste-4d4a5881cc2279230bdc11f5712e5eeadb588b6d.jpg",
                         "paste-4eb73591fad205260672ea525ee1ae3d2f4f92f5.jpg",
@@ -3058,16 +3061,29 @@
                         "paste-714d45763a5c927ca9f602f255f064d490553b8a.jpg",
                         "paste-7323188382cbc66c67b39351237e4a0d506743d4.jpg",
                         "paste-7ddad60a6ec43c49ed90c4e5e2a54b9f10278dbd.jpg",
+                        "paste-809895f3059b6d732cbe7ff70ae7773b2aa330ef.jpg",
                         "paste-82e9d3731c14cfd1f19952d82a8a0b589b4fc315.jpg",
                         "paste-8448e269a0291fcb165b598d37087a3effd77bf7.jpg",
                         "paste-893191ab2f8fee0cdcfbdebf5e03ec4673e1dedb.jpg",
                         "paste-8a8ef423f2f2147f84b99510843e8c99097a46f1.jpg",
+                        "paste-8c1565d39a02068ee4394f7b2a6cbe19a7ebb48f.jpg",
+                        "paste-91bc17fc92bea8b62a7a253b0bc5e2b49cb23a97.jpg",
+                        "paste-a9c78d4741a7f3f1ad9d14136eaa6c2ad6df4031.jpg",
                         "paste-b11465c6d396f03d89d84a7c30c557bad070294d.jpg",
+                        "paste-b64046bd0dff858c509d32e658f802c585a5a2ae.jpg",
                         "paste-b87107a325ccb4cd04101f6e3cc85f74c65a3544.jpg",
+                        "paste-ba6c743a8e3cd6a2a444d3fa926ee9fc4dbed64d.jpg",
+                        "paste-bb8d2b39292d8874a561a2df8a631bb57d524aa9.jpg",
+                        "paste-bea4df4408b9c6cbea78ec7779f60ec62db1ead8.jpg",
                         "paste-c0bc78618cbeb9f21ef3a46f2540191651911ddb.jpg",
+                        "paste-c7802304fdfe77bfe933fd87af039a7913b10840.jpg",
+                        "paste-cc3bd2cb6574f32a69eb7004aa6b0d776790a6bd.jpg",
                         "paste-d1726abd8318e869285ce15dd77c229499e6a6ab.jpg",
                         "paste-dfc4abdda0689375d7b2a348d1cb2b2f8580ae37.jpg",
+                        "paste-e396b3bb0c14d5a5ec51cb23922129cb36bc9ac3.jpg",
+                        "paste-e944e379dcc3a57b2e3d8d7ed224e20f649dbfee.jpg",
                         "paste-ed9d2432502a4693ec98efe6ca0896f2b36c627e.jpg",
+                        "paste-fd0bf08124b416a22548222befd2aa51d8e74903.jpg",
                         "paste-fe0066d8106106eb8108caaae99f65c60e2eab20.jpg",
                         "paste-fe7e7ac9ac84fc2e4de86afdbd9e32251cb2ad9b.jpg"
                     ],
@@ -3250,6 +3266,146 @@
                             ],
                             "flags": 0,
                             "guid": "J.x=k0#6%/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "okruh",
+                                "<img src=\"paste-b64046bd0dff858c509d32e658f802c585a5a2ae.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "km.Y]p35I<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "komutativní okruh, okruh s jednotkou, obor integrity, těleso",
+                                "<img src=\"paste-003d144788f2d6bb5a31ba500a4fea28e11e754b.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "NpB%#@fBXD",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "nosná množina",
+                                "<img src=\"paste-8c1565d39a02068ee4394f7b2a6cbe19a7ebb48f.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "Hy>)JnL!+e",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "podokruh, podtěleso, podobor",
+                                "<img src=\"paste-e396b3bb0c14d5a5ec51cb23922129cb36bc9ac3.jpg\"><div><img src=\"paste-e944e379dcc3a57b2e3d8d7ed224e20f649dbfee.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "bM^5=F#P0?",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "vlastnosti okruhů",
+                                "<img src=\"paste-809895f3059b6d732cbe7ff70ae7773b2aa330ef.jpg\"><div><img src=\"paste-a9c78d4741a7f3f1ad9d14136eaa6c2ad6df4031.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "v,kF$=J7U2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "<img src=\"paste-20c58a4a082ef0662315d9d0226726cbb3d2e5b4.jpg\">",
+                                "<img src=\"paste-91bc17fc92bea8b62a7a253b0bc5e2b49cb23a97.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "svR)mK.B:9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "podílové těleso",
+                                "<img src=\"paste-cc3bd2cb6574f32a69eb7004aa6b0d776790a6bd.jpg\"><div><img src=\"paste-bea4df4408b9c6cbea78ec7779f60ec62db1ead8.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "%t1SR3$0a",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "podílové těleso je těleso",
+                                "<img src=\"paste-fd0bf08124b416a22548222befd2aa51d8e74903.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "A8]-fh*~<J",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "obory polynomů",
+                                "<img src=\"paste-c7802304fdfe77bfe933fd87af039a7913b10840.jpg\"><div><img src=\"paste-0ea0cf8416408ce95a607ad2332d5d73cb5c8ad3.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Erhre=f_&+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "<img src=\"paste-ba6c743a8e3cd6a2a444d3fa926ee9fc4dbed64d.jpg\">",
+                                "<img src=\"paste-bb8d2b39292d8874a561a2df8a631bb57d524aa9.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": ">-pV(,EDo",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "důkaz"
@@ -11679,7 +11835,7 @@
             "sortf": 0,
             "tags": [
                 "",
-                "definice",
+                "důkaz",
                 ""
             ],
             "tmpls": [
