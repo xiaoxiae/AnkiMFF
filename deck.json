@@ -10310,6 +10310,7 @@
                         "paste-d9e4300e527861d729cd5ecc9f290647092c00b6.jpg",
                         "paste-e537ddd718482dcb0d2628107a8a59c4074679ca.jpg",
                         "paste-e78eb7094fd481cc991c7f2fe1443a69f9591f5d.jpg",
+                        "paste-e9e91339d438ad2f43a543f144af29f37bc1efe3.jpg",
                         "paste-ef22e290749c9377640aa69534a7ea164fce38d9.jpg",
                         "paste-f496a499e5350e9da804b4c1bd381f1ddc5eef64.jpg",
                         "paste-fa2ae1915f0da6a9542290b80172e1ae0422a624.jpg",
@@ -10614,6 +10615,19 @@
                             "tags": [
                                 "algoritmus",
                                 "fourier"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Třídící (komparátorová) síť, komparátory",
+                                "<img src=\"paste-e9e91339d438ad2f43a543f144af29f37bc1efe3.jpg\">"
+                            ],
+                            "guid": "xz;-2?b1::",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "definice",
+                                "para"
                             ]
                         }
                     ]
@@ -11834,10 +11848,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "",
-                "proof",
-                "propositional",
-                ""
+                "definice",
+                "para"
             ],
             "tmpls": [
                 {
