@@ -10272,8 +10272,10 @@
                         "paste-61f566f1705048f64c0d5f38b1c599679908e9e2.jpg",
                         "paste-620fba8d3efd68180c1c044fbae4501be4227cb4.jpg",
                         "paste-63d42f926e4dd1959bfeda2773c48b1923bfd306.jpg",
+                        "paste-64192a271c14c9e84985c72b382d81334f8c233e.jpg",
                         "paste-6749b7c889cfc46b00c45c25031d88e43dd112fd.jpg",
                         "paste-6857b58d3e487063ac5310a985531c1830204f21.jpg",
+                        "paste-6ac412f71328119b94d20e7ffbe55d9d4074257c.jpg",
                         "paste-6bb535be89c6340c95eed765718c19b3167bd33a.jpg",
                         "paste-6cc277a03c90d9dec948625efc72b60bce24f962.jpg",
                         "paste-6e759a23b21cf62404460de893791d894fd26529.jpg",
@@ -10292,7 +10294,6 @@
                         "paste-85c03d9ab417d4af3753fc66d9cb04f1b6f0d794.jpg",
                         "paste-884e732e9c5ba109c4d9f0bac2f4db949b6dcebd.jpg",
                         "paste-8b44c1e4c5ba806034f75b83be3039758b140038.jpg",
-                        "paste-8ceac129ca9731efb87f1aefebe1c39b968d2b29.jpg",
                         "paste-8e49e4f724a4ffc00b63226c4bb69df5d56879f5.jpg",
                         "paste-8e5ed977b162255633213d3856e6c95ff86c5792.jpg",
                         "paste-8fbf766d9f072dfd7864fc0f818468963456c93a.jpg",
@@ -10317,7 +10318,6 @@
                         "paste-b0214515ab828b3e258b2ba0839478d37409779e.jpg",
                         "paste-b812fee47ce368ff8ecb63eb0c1a79febe945926.jpg",
                         "paste-b8e9fd40ca4ab2dbc3ecbfe9900b2441e9bd5f49.jpg",
-                        "paste-bb7c315685b3c7e5f2f50a459c7b9e154803d850.jpg",
                         "paste-bcff6fb300a276a10a74e8d07343f71518e9c5b3.jpg",
                         "paste-bf0b082ce092a0a6f0242087cba7acd12e8d7294.jpg",
                         "paste-bf90bcec66db114d2962fb6f2e20c50e8f98d2d8.jpg",
@@ -10421,7 +10421,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "tok(-related definice)",
+                                "Tok(-related definice)",
                                 "<img src=\"paste-2250dc0f2f7741340baf28f9272f0386ca7ee22b.jpg\">&lt;"
                             ],
                             "guid": "A}TFMB3A;S",
@@ -10578,7 +10578,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Bitonické třízení",
-                                "<img src=\"paste-63d42f926e4dd1959bfeda2773c48b1923bfd306.jpg\"><div><img src=\"paste-d74be53916fd613e05ab1d759ff9799ab0a869a6.jpg\"><br></div><div><img src=\"paste-48928adabe184ac8bef7cc80f6e5acf099f6e021.jpg\"><br></div><div><img src=\"paste-884e732e9c5ba109c4d9f0bac2f4db949b6dcebd.jpg\"><br></div><div><img src=\"paste-8ceac129ca9731efb87f1aefebe1c39b968d2b29.jpg\"><br></div><div><img src=\"paste-bb7c315685b3c7e5f2f50a459c7b9e154803d850.jpg\"><br></div><div><br></div>"
+                                "<div>---</div><div>TLDR: Používáme separátory na třízení bitonické posloupnosti. Pak sousední dvě bitonické posloupnosti spojíme dohromady. Spojování dohromady se děje tím, že zrcadlíme separátory, protože reálně dráty prohazovat nemůžeme.</div><div>---</div><img src=\"paste-63d42f926e4dd1959bfeda2773c48b1923bfd306.jpg\"><div><img src=\"paste-d74be53916fd613e05ab1d759ff9799ab0a869a6.jpg\"><br></div><div><img src=\"paste-48928adabe184ac8bef7cc80f6e5acf099f6e021.jpg\"><br></div><div><img src=\"paste-884e732e9c5ba109c4d9f0bac2f4db949b6dcebd.jpg\"><br></div><div>---</div><div>DŮKAZ SPRÁVNOSTI: Nahlédneme, že pokud separátory třídí správně posloupnost jedniček a nul, pak správně třídí také původní posloupnost (právě tehdy když). Sporem: pokud pro nějaký vstup generuje nesetřízenou posloupnost, tak před tím, kde to failí, dáme nuly, jinde jedničky. V takovém případě třídí špatně i posloupnost nul a jedniček.</div><div>---</div><div><img src=\"paste-6ac412f71328119b94d20e7ffbe55d9d4074257c.jpg\"><br></div><div><img src=\"paste-64192a271c14c9e84985c72b382d81334f8c233e.jpg\"><br></div>"
                             ],
                             "guid": "Pd3(0sIXVX",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
