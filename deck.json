@@ -10209,6 +10209,7 @@
                 },
                 {
                     "__type__": "Deck",
+                    "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "e9f04260-095f-11eb-a767-c858c0bec5b2",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -10216,6 +10217,7 @@
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
+                    "inactiveTags": [],
                     "media_files": [
                         "paste-0077f21b1582b7cb22e1da133a4ecb9dafe95e88.jpg",
                         "paste-02954a50542710e6b86cdb131e368d9e236aa394.jpg",
@@ -10570,7 +10572,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Separátor řádu n",
+                                "Separátor řádu \\(n\\)",
                                 "<img src=\"paste-1903bc4025073d23ccb042a14f1dfa0fc2d87ae0.jpg\">"
                             ],
                             "guid": "JYO(VJ5x;a",
