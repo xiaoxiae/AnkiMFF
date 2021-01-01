@@ -11029,6 +11029,102 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "b607c4c0-4c29-11eb-a384-88d7f63eab01",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-932fadc0d2a2453d42b3559016c4350408aa08a8.jpg"
+                    ],
+                    "name": "C#",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "CIL",
+                                "<b>Common Intermediate Language</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><b>CIL</b><span style=\"color: rgb(32, 33, 34);\">), formerly called&nbsp;</span><b>Microsoft Intermediate Language</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><b>MSIL</b><span style=\"color: rgb(32, 33, 34);\">) or&nbsp;</span><b>Intermediate Language</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><b>IL</b><span style=\"color: rgb(32, 33, 34);\">),</span><sup><a href=\"https://en.wikipedia.org/wiki/Common_Intermediate_Language#cite_note-1\">[1]</a></sup><span style=\"color: rgb(32, 33, 34);\">&nbsp;is the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Intermediate_language\">intermediate language</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;binary instruction set defined within the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Common_Language_Infrastructure\">Common Language Infrastructure</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;(CLI) specification.</span><sup><a href=\"https://en.wikipedia.org/wiki/Common_Intermediate_Language#cite_note-2\">[2]</a></sup><span style=\"color: rgb(32, 33, 34);\">&nbsp;CIL instructions are executed by a CLI-compatible runtime environment such as the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Common_Language_Runtime\">Common Language Runtime</a><span style=\"color: rgb(32, 33, 34);\">. Languages which target the CLI compile to CIL. CIL is&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Object-oriented\">object-oriented</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Stack_machine\">stack-based</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Bytecode\">bytecode</a><span style=\"color: rgb(32, 33, 34);\">. Runtimes typically&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Just-in-time_compilation\">just-in-time</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;compile CIL instructions into&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Native_code\">native code</a><span style=\"color: rgb(32, 33, 34);\">.</span>"
+                            ],
+                            "guid": "q3v^22.vWE",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ilasm",
+                                "<span style=\"color: rgb(34, 34, 34);\">ILAsm generates a portable executable file from a text representation of Common Intermediate Language code.</span>"
+                            ],
+                            "guid": "n{)TC%6`HS",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ILSpy",
+                                "ILSpy is the open-source .NET assembly browser and decompiler.<br>"
+                            ],
+                            "guid": "e2MDFzkcJp",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "BCL",
+                                "<span style=\"color: rgb(83, 90, 96);\">A .NET Framework library, BCL is the standard for the C# runtime library and one of the Common Language Infrastructure (CLI) standard libraries. BCL provides types representing the built-in CLI data types, basic file access, collections, custom attributes, formatting, security attributes, I/O streams, string manipulation, and more.</span>"
+                            ],
+                            "guid": "r5.N?SfY/n",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                ".NET",
+                                "BCL + CLR"
+                            ],
+                            "guid": "N|}9`mlw7y",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "GAC",
+                                "<span style=\"color: rgb(23, 23, 23);\">Each computer where the Common Language Runtime is installed has a machine-wide code cache called the Global Assembly Cache. The Global Assembly Cache stores assemblies specifically designated to be shared by several applications on the computer.</span>"
+                            ],
+                            "guid": "z/gaCQ5rkJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                ".csproj a .sln",
+                                "<span style=\"color: rgb(102, 102, 102);\">\".csproj\" is a Visual Studio .NET C# Project file extension. This file will have information about the files included in that project, assemblies used in that project, project GUID and project version etc. This file is related to your project. It will be automatically generated when we create</span><br><br><span style=\"color: rgb(102, 102, 102);\">\".sln\" is a structure for organizing projects in Visual Studio. It contains the state information for projects in .sln (text-based, shared) and .suo (binary, user-specific solution options) files. We can add multiple projects inside one solution.</span>"
+                            ],
+                            "guid": "OH;[RExG>P",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "spouštění C# programu (vs. C++)",
+                                "<img src=\"paste-932fadc0d2a2453d42b3559016c4350408aa08a8.jpg\">"
+                            ],
+                            "guid": "r(I8bbT3v?",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "288b2108-0725-11eb-8d90-c858c0bec5b2",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
                     "desc": "",
@@ -11589,50 +11685,90 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "paste-0202c3df0d11c69ea3269a37cd54e6034571bde0.jpg",
                         "paste-0280c3181a6d8efd4cb10fbee76ddeb481f9e377.jpg",
+                        "paste-06fa46ca5fa57a34bfc75d3ba74ac41dfcc0e8f9.jpg",
                         "paste-096bd17a677e43ded98b48faae8b77da654bc4ca.jpg",
                         "paste-14873e06017c7946035f4c62a72861d92467cd06.jpg",
+                        "paste-14cf70cc38efb7dea6a2554ba1b1f5e56b6a55b4.jpg",
+                        "paste-158937287a0728d7fa605a601bcdeb62afd51596.jpg",
+                        "paste-1698a05fe9ff835287406f386e161f99238cabb3.jpg",
                         "paste-1875dfdc573f1ac02429b387e5c82789dfa3b7e3.jpg",
                         "paste-18ff93d663ca302de179a40e037b62fec02a4d91.jpg",
+                        "paste-1e7878c2cece0ef1527a22fa483df83de49ca9c5.jpg",
+                        "paste-217294fbf7704e770ee66201655ca6dc22ee7671.jpg",
                         "paste-218e47f08185d821844c47c330cacc0630043257.jpg",
                         "paste-24c62fe29aa59e2446dd04d5c860fb8713cf7b30.jpg",
+                        "paste-27bd61b213a6c969353c81aca9aa4a4fa27aa79b.jpg",
                         "paste-29a041fb2a0e917baba39858d51746581f0e1dc7.jpg",
+                        "paste-2ec2ff894a186919d0da7654f4b7de97f49604d6.jpg",
                         "paste-302fb3dc264eb95454314eea0b4c73c5642f0907.jpg",
                         "paste-31963640025aae47e75a3e2b9702277da8b4d168.jpg",
                         "paste-35027eeb44c198d80e70a4514e7be23871f331a1.jpg",
+                        "paste-41d539d6fc00982a1bcb38faa3678b35c00198f1.jpg",
                         "paste-46c17b887329ab22bba29b1aa640bfa30466a103.jpg",
+                        "paste-48dac4ce1e74c89bca2155a66e3be43942203168.jpg",
                         "paste-4a783e88a3b9a37569810b0d0878d4fafe1ab6f6.jpg",
+                        "paste-4ca7b603041decb08265357ffeb9b2353d53c75e.jpg",
+                        "paste-51b72aee3356e1dec33948c8abb6bb73630efb00.jpg",
                         "paste-52deb1c68931fc9ff8b45880d9ad0da16add1d05.jpg",
                         "paste-5506b9b6e8df37a68bb2b60ac149e757421e19b5.jpg",
+                        "paste-5a3d300d535c93fe69da85d6e7aa7fa875db0bd8.jpg",
                         "paste-5a81a0d480cb95366a79582715fe6f15f8ced17c.jpg",
                         "paste-5d0e7817b84425a976ac8718bca4b64efdbe9332.jpg",
+                        "paste-5db321d7b47e2c90cb9c78fec49aa47c749b6291.jpg",
                         "paste-5de5c0d6030f04c64e8ed07d916fa440c4932813.jpg",
                         "paste-67051af738ac7f78e989de564ddf0226280ced28.jpg",
+                        "paste-69b49eabea57ebbe0542e8c366efc5976bbd6d38.jpg",
+                        "paste-6b9c21edf1d7fdc4711f9d59e2d9a6a3fe4b15ab.jpg",
+                        "paste-6c7f8f66174694d6afe4460d6a4a2d044e2e4599.jpg",
                         "paste-6c889c71a0f031baf600ed2122901a1c847c9e16.jpg",
+                        "paste-6d972a07c5b8302cc054c6741d45ae3bdcd67acd.jpg",
                         "paste-6f77aa1a5155a27ed627ed8c9266f850aa8173c1.jpg",
                         "paste-7a5d8005d97c06f0a9fc5b12596ef89d1688a070.jpg",
                         "paste-7d4fbfe357f87158bc899b317bd191669cac7b94.jpg",
+                        "paste-85190b171d8b8215e52d6692161ae12f5bd5a931.jpg",
+                        "paste-863d38388ca79388394f670c4d7949769eb9673a.jpg",
                         "paste-87b5f6a3c6029f07f949cb667f4debe9ff0dbb78.jpg",
+                        "paste-8827dd0c9e030a298eb32249612f36972f08d322.jpg",
                         "paste-888d40095814de135f2bde1f5ff99a14c88282ae.jpg",
                         "paste-88f0947c92a6aa5d84212698ccb3141ae959f69e.jpg",
+                        "paste-8a3e1341c397d2f48225d1949120f4d217c0a456.jpg",
                         "paste-9412759f878202478d33003c0254bb744aff88f7.jpg",
                         "paste-9561098e6ff8629db238e92709b8c616a6c039f3.jpg",
                         "paste-96cf380cc65cbc7e2a93fe92e5fccc9883d8a40f.jpg",
+                        "paste-98b0cc88e90ceb4b63935cc9349171d6360ac0dc.jpg",
+                        "paste-9ab407e7cd90a554c56037be818bbb732cbde375.jpg",
+                        "paste-a0ff38a5a72fea4d5cbc8b00c2c165b8ce33e329.jpg",
                         "paste-a5456ad0faacf170e42dbc23cd0cfa9a67fdca98.jpg",
                         "paste-a89aa5646d4888986947dc53cbd8bc384a0129d6.jpg",
+                        "paste-adfaa564d03928f0320b198e914fae92cdc030f5.jpg",
                         "paste-af7f04b2b57823601d117b2f37a875acfbccea2f.jpg",
+                        "paste-b2693a8d587827a7919e833f4efa8c8bd618696b.jpg",
+                        "paste-b2f1dd3103cca088e506691430ea789ecdd1bccc.jpg",
                         "paste-b3c843d26426aed69a2f32c9f2fd71bd47241cc7.jpg",
+                        "paste-b85a8855f0a1ef807d86a109992eac9ca6a25563.jpg",
                         "paste-bebbb8f2ab8edf9f357e63b39ea0caca3a428bf6.jpg",
+                        "paste-c6c2ee097e3c83070fa36e0efb6994eb64292175.jpg",
                         "paste-c73551b0186e36a2729dbfe09b90cd2a23165a6a.jpg",
+                        "paste-c883e8d3538ec9d0693dac29bd19937e322b13f8.jpg",
+                        "paste-c96742251a29b2135fbf9989c02c44c9eced3871.jpg",
+                        "paste-ca4f21374674d755b977a70ba00b1cd917c82cf4.jpg",
                         "paste-cb3919aa374fc33e75c6ffadfa744b48fa786528.jpg",
                         "paste-ce0959b50f2d687708ee69c912e0a27b0c084dd1.jpg",
                         "paste-d4071185f1b1a5384bae2ea0b02f9dd18ac28cc0.jpg",
+                        "paste-d752b916250a815d6808f665170aea9addc1ba1f.jpg",
+                        "paste-da2a20d4d8aaba691ddce170e75147e3665b982a.jpg",
                         "paste-ddd31bc10f39aebc35bc2cd17d87b03ccaa475da.jpg",
                         "paste-ddd325c2feed39d21d50346736f1bb5e646d3d43.jpg",
+                        "paste-dff09dcd152ede9b8576c8a1791eec19af16c92e.jpg",
                         "paste-e573663dc983c31e3f78bf9f6a791c3fa2068b36.jpg",
                         "paste-e584a19dc84345b079a8fdd32d97f133106f4b78.jpg",
                         "paste-e596d7f5bd9c2b7a55d22e82da244733b90c58c7.jpg",
+                        "paste-eaf55d95fc41a37c0641cf36c7443aa2ef3a07a2.jpg",
+                        "paste-eeb1d1394adc6bb789d28f191016d1e9c4016a3d.jpg",
                         "paste-eeef62b9ff70fa1fcdd9395bd9f7598242442abd.jpg",
+                        "paste-f081db1de8ed53075acb0b96376fd3fa46b37f4f.jpg",
                         "paste-f189a02c8cb3fab2c929431ad333f8b20c542bb1.jpg",
                         "paste-fa72ea8779a0565bfd30b33f8947d884ef42f4f1.jpg",
                         "paste-fc9956e0c221d6065228fef128e900389d099877.jpg"
@@ -11648,6 +11784,7 @@
                             "guid": "rJ^37d9nmA",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11661,6 +11798,7 @@
                             "guid": "KIfs?t~|<y",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11674,6 +11812,7 @@
                             "guid": "oI447n#:n$",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11687,6 +11826,7 @@
                             "guid": "u9~v:$n^RT",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11700,6 +11840,7 @@
                             "guid": "ic$n`EDY6O",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11713,6 +11854,7 @@
                             "guid": "l/Pg$<rNr@",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11726,6 +11868,7 @@
                             "guid": "jAC[})r%hW",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11739,6 +11882,7 @@
                             "guid": "Q2#U6Cr<L}",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11752,6 +11896,7 @@
                             "guid": "FR+0FX^}d+",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11765,6 +11910,7 @@
                             "guid": "F+^ctXjyNW",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11778,6 +11924,7 @@
                             "guid": "ECzRj.zqjv",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11791,6 +11938,7 @@
                             "guid": "q|>+w{#Nk/",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11804,6 +11952,7 @@
                             "guid": "b(?*bXS`7U",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11817,6 +11966,7 @@
                             "guid": "nsMVLNNy64",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11830,6 +11980,7 @@
                             "guid": "DGs4BZP<A>",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "1",
                                 "definition",
                                 "propositional"
                             ]
@@ -11843,6 +11994,7 @@
                             "guid": "H%5NU<pP6G",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11856,6 +12008,7 @@
                             "guid": "b7R3tQuIla",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "3",
                                 "definition",
                                 "propositional"
                             ]
@@ -11869,6 +12022,7 @@
                             "guid": "qRez@Dbn$^",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "3",
                                 "definition",
                                 "propositional"
                             ]
@@ -11882,6 +12036,7 @@
                             "guid": "mL?kFn,k.N",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11895,6 +12050,7 @@
                             "guid": "A>rt|9Xz0U",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "3",
                                 "proof",
                                 "propositional"
                             ]
@@ -11908,6 +12064,7 @@
                             "guid": "bd=jwQ6>l",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "3",
                                 "algorithm",
                                 "propositional"
                             ]
@@ -11921,6 +12078,7 @@
                             "guid": "uGB+,A]v=d",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "algorithm",
                                 "propositional"
                             ]
@@ -11934,6 +12092,7 @@
                             "guid": "|xX?tA-f_",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11947,6 +12106,7 @@
                             "guid": "d6y.)Fd_s2",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11960,6 +12120,7 @@
                             "guid": "P.eNx2m:?7",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11973,6 +12134,7 @@
                             "guid": "xoK3}uS,:e",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -11986,6 +12148,7 @@
                             "guid": "L`$4zUR)JC",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "definition",
                                 "propositional"
                             ]
@@ -11999,6 +12162,7 @@
                             "guid": "sDvtm&X:+e",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12012,6 +12176,7 @@
                             "guid": "cqW);+1z#>",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "2",
                                 "proof",
                                 "propositional"
                             ]
@@ -12025,6 +12190,7 @@
                             "guid": "Pr<2,Hp{<h",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12038,6 +12204,7 @@
                             "guid": "L8U*wf3g(N",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12051,6 +12218,7 @@
                             "guid": "ReQ5_Fi%X{",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12064,6 +12232,7 @@
                             "guid": "JKWSbCl@EE",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12077,6 +12246,7 @@
                             "guid": "A5a}.hwA$A",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12090,6 +12260,7 @@
                             "guid": "xtu!:W/,ME",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "definition",
                                 "propositional"
                             ]
@@ -12103,6 +12274,7 @@
                             "guid": "D_0$Bwk,X+",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "algorithm",
                                 "propositional"
                             ]
@@ -12116,6 +12288,7 @@
                             "guid": "ex$[p4D&fB",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "proof",
                                 "propositional"
                             ]
@@ -12124,14 +12297,441 @@
                             "__type__": "Note",
                             "fields": [
                                 "Konig's lemma",
-                                "<img src=\"paste-218e47f08185d821844c47c330cacc0630043257.jpg\">"
+                                "<div><img src=\"paste-eeb1d1394adc6bb789d28f191016d1e9c4016a3d.jpg\"><br></div><img src=\"paste-218e47f08185d821844c47c330cacc0630043257.jpg\">"
                             ],
                             "guid": "J@)=4Ej_2W",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
+                                "4",
                                 "proof",
                                 "propositional"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "soundness",
+                                "<img src=\"paste-a0ff38a5a72fea4d5cbc8b00c2c165b8ce33e329.jpg\">"
+                            ],
+                            "guid": "rc8?C~&?b`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-c6c2ee097e3c83070fa36e0efb6994eb64292175.jpg\">",
+                                "<img src=\"paste-06fa46ca5fa57a34bfc75d3ba74ac41dfcc0e8f9.jpg\">"
+                            ],
+                            "guid": "Q6H&+oT7BD",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-85190b171d8b8215e52d6692161ae12f5bd5a931.jpg\">",
+                                "<img src=\"paste-c883e8d3538ec9d0693dac29bd19937e322b13f8.jpg\">"
+                            ],
+                            "guid": "h$+Z[D%jdd",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "completeness",
+                                "<img src=\"paste-158937287a0728d7fa605a601bcdeb62afd51596.jpg\">"
+                            ],
+                            "guid": "F*~Gu8ydyi",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-adfaa564d03928f0320b198e914fae92cdc030f5.jpg\">",
+                                "<img src=\"paste-eaf55d95fc41a37c0641cf36c7443aa2ef3a07a2.jpg\">"
+                            ],
+                            "guid": "q&$+<[olF?",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-da2a20d4d8aaba691ddce170e75147e3665b982a.jpg\">",
+                                "<img src=\"paste-8827dd0c9e030a298eb32249612f36972f08d322.jpg\">"
+                            ],
+                            "guid": "bnVivoQvYi",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "properties of theories",
+                                "<img src=\"paste-41d539d6fc00982a1bcb38faa3678b35c00198f1.jpg\">"
+                            ],
+                            "guid": "eqjqRPNPab",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "theorem on compactness",
+                                "<img src=\"paste-9ab407e7cd90a554c56037be818bbb732cbde375.jpg\">"
+                            ],
+                            "guid": "bBsQtAIn32",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hilbert's calculus",
+                                "<img src=\"paste-1e7878c2cece0ef1527a22fa483df83de49ca9c5.jpg\">"
+                            ],
+                            "guid": "LU<4b`6i*S",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "set representation (causal form) of CNF",
+                                "<img src=\"paste-b85a8855f0a1ef807d86a109992eac9ca6a25563.jpg\">"
+                            ],
+                            "guid": "H9jE*AeeHA",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "resolution rule",
+                                "<img src=\"paste-69b49eabea57ebbe0542e8c366efc5976bbd6d38.jpg\">"
+                            ],
+                            "guid": "E)~w>ZWp*l",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "resolution proof",
+                                "<img src=\"paste-2ec2ff894a186919d0da7654f4b7de97f49604d6.jpg\">"
+                            ],
+                            "guid": "w!n+Di<<J=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "resolution tree",
+                                "<img src=\"paste-b2f1dd3103cca088e506691430ea789ecdd1bccc.jpg\"><div><img src=\"paste-6c7f8f66174694d6afe4460d6a4a2d044e2e4599.jpg\"><br></div><div>---</div><div>The tree is built bottom-up.</div>"
+                            ],
+                            "guid": "bD(G|K/xZ2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "reduction by substitution (+ tree of reductions)",
+                                "<img src=\"paste-f081db1de8ed53075acb0b96376fd3fa46b37f4f.jpg\"><div><img src=\"paste-8a3e1341c397d2f48225d1949120f4d217c0a456.jpg\"><br></div>"
+                            ],
+                            "guid": "JMto[yljQ<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-27bd61b213a6c969353c81aca9aa4a4fa27aa79b.jpg\">",
+                                "<img src=\"paste-b2693a8d587827a7919e833f4efa8c8bd618696b.jpg\">"
+                            ],
+                            "guid": "L[}o%f{|}",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "completeness of resolution",
+                                "<img src=\"paste-14cf70cc38efb7dea6a2554ba1b1f5e56b6a55b4.jpg\">"
+                            ],
+                            "guid": "dKaAs%-7{}",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "linear resolution",
+                                "<img src=\"paste-5a3d300d535c93fe69da85d6e7aa7fa875db0bd8.jpg\"><div><img src=\"paste-1698a05fe9ff835287406f386e161f99238cabb3.jpg\"><br></div>"
+                            ],
+                            "guid": "G5z{F&^=3L",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LI-resolution (linear input)",
+                                "<div><img src=\"paste-98b0cc88e90ceb4b63935cc9349171d6360ac0dc.jpg\"><br></div>"
+                            ],
+                            "guid": "zKKkOGEvAQ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "completeness of LI-resolution for Horn formulas",
+                                "<img src=\"paste-51b72aee3356e1dec33948c8abb6bb73630efb00.jpg\">"
+                            ],
+                            "guid": "fn1;dTbZMU",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof",
+                                "propositional"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "predicate logic",
+                                "<img src=\"paste-5db321d7b47e2c90cb9c78fec49aa47c749b6291.jpg\">"
+                            ],
+                            "guid": "eQ_^^^L2JI",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "language",
+                                "<img src=\"paste-d752b916250a815d6808f665170aea9addc1ba1f.jpg\">"
+                            ],
+                            "guid": "b5$JZE6wNX",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "signatures",
+                                "<img src=\"paste-c96742251a29b2135fbf9989c02c44c9eced3871.jpg\">"
+                            ],
+                            "guid": "mf:3~7wtXg",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "terms",
+                                "<img src=\"paste-0202c3df0d11c69ea3269a37cd54e6034571bde0.jpg\">"
+                            ],
+                            "guid": "Fgsp^sGBpf",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "atomic formulas",
+                                "<img src=\"paste-48dac4ce1e74c89bca2155a66e3be43942203168.jpg\">"
+                            ],
+                            "guid": "p!^S2]!`FH",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "formulas",
+                                "<img src=\"paste-4ca7b603041decb08265357ffeb9b2353d53c75e.jpg\">"
+                            ],
+                            "guid": "eF%1]v+$:_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "occurrence of variables",
+                                "<img src=\"paste-6d972a07c5b8302cc054c6741d45ae3bdcd67acd.jpg\">"
+                            ],
+                            "guid": "xa4uFV7Wa/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "open and closed formulas",
+                                "<img src=\"paste-dff09dcd152ede9b8576c8a1791eec19af16c92e.jpg\">"
+                            ],
+                            "guid": "MW)(beUGg7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "instances of formulas",
+                                "<img src=\"paste-863d38388ca79388394f670c4d7949769eb9673a.jpg\">"
+                            ],
+                            "guid": "L$kHzWEeGo",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "variants of formulas",
+                                "<img src=\"paste-217294fbf7704e770ee66201655ca6dc22ee7671.jpg\">"
+                            ],
+                            "guid": "ud$o:s*^fy",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition",
+                                "predicate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a structure for a language",
+                                "<img src=\"paste-ca4f21374674d755b977a70ba00b1cd917c82cf4.jpg\">"
+                            ],
+                            "guid": "v<a1XRqrMR",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "value of terms",
+                                "<img src=\"paste-6b9c21edf1d7fdc4711f9d59e2d9a6a3fe4b15ab.jpg\">"
+                            ],
+                            "guid": "uL-J:Ul^]3",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
                         }
                     ]
                 }
@@ -12241,10 +12841,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "algoritmus",
-                "approx"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
