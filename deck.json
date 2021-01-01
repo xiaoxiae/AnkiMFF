@@ -11119,6 +11119,16 @@
                             "guid": "r(I8bbT3v?",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "self-contained .exe file",
+                                "<strong>Self-contained executable</strong><span style=\"color: rgb(68, 68, 68);\">&nbsp;– executable file containing program and all needed assemblies (one exe-file we can run).</span><div><span style=\"color: rgb(68, 68, 68);\"><br></span></div><div><span style=\"color: rgb(68, 68, 68);\">Přes `dotnet publish`.</span></div>"
+                            ],
+                            "guid": "bwk]v-b$ib",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
                         }
                     ]
                 },
