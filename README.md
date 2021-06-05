@@ -32,5 +32,5 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 ### 4. semestr
 - Automaty a gramatiky (TODO)
 - Kombinatorika a grafy (TODO)
-- Lineární programování a kombinatorická optimalizace (TODO)
+- Lineární programování a kombinatorická optimalizace
 - Pravděpodobnost a statistika (TODO)
