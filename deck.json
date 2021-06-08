@@ -17520,7 +17520,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Totální unimodularita v perfektním párování",
+                                "Totální unimodularita v perfektním párování bip. grafů",
                                 "<img src=\"paste-d1f66a62d7b292749fb83e0969972a17567317a5.jpg\"><div>---</div><div>Matice LP je TU \\(\\iff G\\) je bipartitní (\\(A\\) je incidenční matice)</div><div>---</div><div><img src=\"paste-72d12c0f89571239a882e3bf45de1c3a99e43b15.jpg\"><br></div><div>---</div><div>Opět má celočíselné optimum (a tentokrát odpovídá vrcholovému pokrytí).</div>"
                             ],
                             "guid": "t;`CUXzo$K",
