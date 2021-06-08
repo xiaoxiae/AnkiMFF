@@ -16423,6 +16423,7 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "461c8d8c-c3c3-11eb-9f02-88d7f63eab01",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -16430,6 +16431,7 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
+                    "inactiveTags": [],
                     "media_files": [
                         "paste-01285bab5da9160cafea12bae8918791781eff78.jpg",
                         "paste-01d40fa7a99e7748ff1902da046fa8e916988aae.jpg",
@@ -16442,6 +16444,7 @@
                         "paste-0b8d4147c28b6d9a712fdf03f63027c6e5871615.jpg",
                         "paste-0bda940bfab2c152076dedda4c877562c37bcc42.jpg",
                         "paste-0d6a0145197c616a0d7f83c63ed8470459bb83dc.jpg",
+                        "paste-0e063872d55e4ba5c7b67fc5fbbb3872c4be99f3.jpg",
                         "paste-0f49da3a4ff668b4551674f0c2957f0f8fa79fa9.jpg",
                         "paste-10671eb2b491402541a74be729bb83e8d37162b2.jpg",
                         "paste-112bfe4438ceafa5d75ce2cb11389bb21a78c9f0.jpg",
@@ -16465,8 +16468,8 @@
                         "paste-3360b7b16ed56083fb62ad5cd65c4f65905b8667.jpg",
                         "paste-33cff8a1fe8b6bb05c9eea092bee847663571e4b.jpg",
                         "paste-346971c552d4d279853663a7806d1641788ea07d.jpg",
+                        "paste-359011e3c187c58b764136249c4160705f03e3bc.jpg",
                         "paste-3706aac0c5ca58cbd3a76ed9a7e34887e0d3a6aa.jpg",
-                        "paste-371ad0116f51effcd97a3af156a6a23fce7e5db1.jpg",
                         "paste-380e9715b7c2b0b71fb35a00e414a3841768f50b.jpg",
                         "paste-3b8302fdd74dd1a08a2e8fd00839e8683955cf5d.jpg",
                         "paste-3e14f4ffa44387c2f8487f0934b2c5f39946e350.jpg",
@@ -16499,14 +16502,17 @@
                         "paste-6d0aa1c7fe4e71f587aa168aba7d749c0bba1e9d.jpg",
                         "paste-6d97b4857e5d17c8690541221d9fc078840572ee.jpg",
                         "paste-6e4dfc134682d55e511d0373cd4a5d49d150d101.jpg",
+                        "paste-729a1e512763b54404c640d8415dd291d299a394.jpg",
                         "paste-72a6b9ec642407e6835448f242355178276bc798.jpg",
                         "paste-72b19a0091f6cb6ff9f4370cd4bc28003053d49a.jpg",
+                        "paste-72ca0bf3364e00afa47a0ca820c681316719a60c.jpg",
                         "paste-72d12c0f89571239a882e3bf45de1c3a99e43b15.jpg",
                         "paste-7311762417a60514b1322bc74c762bb83aaa43d1.jpg",
                         "paste-77cd2098c2da3a84252afec8bbf0b49e4bd11dcb.jpg",
                         "paste-795ce7434af0a490b8e0a8a03ea64c359bf868f7.jpg",
                         "paste-7aa836323f9a6aef8d0757c3be040340bdfced6f.jpg",
                         "paste-7bf795a9d4e5f2ffde79f6ace3fbdad3c1b0d264.jpg",
+                        "paste-7c33470ab2858a5b8d7e1940d4c097a53fd7ffb4.jpg",
                         "paste-7c86230d3cf240f2580f30697fe13a7e4f500092.jpg",
                         "paste-7c8dcfbe0b5e76145f93a1ab8b73ded4b9ac1cfb.jpg",
                         "paste-7e98e72b0b21dcd892309df70c5717d3f18b6b9f.jpg",
@@ -16537,6 +16543,7 @@
                         "paste-a2e1ed05b54a36cc24004e455336af73f03b4bd9.jpg",
                         "paste-a61b8b3567429c6246bd57921531ce2b62ad2025.jpg",
                         "paste-a742228ff0f5249a732fbd69a3398c8c821f3dbd.jpg",
+                        "paste-a7715d0721257e31efd100f1aaea5bbab16da181.jpg",
                         "paste-a7ce72462b96e54286b02f5464c0a1ceb42504af.jpg",
                         "paste-a7db8bb5968b3a682e1a649fe79837791cf8b7f4.jpg",
                         "paste-a8149c79f344d69e2b417e3d03f9d9d3456227c3.jpg",
@@ -16571,6 +16578,7 @@
                         "paste-d45d1611b6d84010674c3a13b43cce8d09d07e13.jpg",
                         "paste-d46c116d6c91c0a2bb87d84c4453b7864ed50056.jpg",
                         "paste-d51ea3ab97f055086bda7d8c5c6ea2fb2a89f65e.jpg",
+                        "paste-d55e9743c1a1298e1bdecb9915c5d860e06de26a.jpg",
                         "paste-d5e9d8fec08e8db82d1ce7be4c418debb18b769d.jpg",
                         "paste-d77f40abbb93e1a032da728bf2c7a3a440d77010.jpg",
                         "paste-d7ef59e1c34da45edd565acb2138441560303cb4.jpg",
@@ -16578,7 +16586,6 @@
                         "paste-e1fd6f5b448db3a604ad68197f90c5c4f761dec5.jpg",
                         "paste-e21f6c927d2e26460f14472b8af050c654486edf.jpg",
                         "paste-e38b4be55bb295fcb9e60c967675ece65b3f93f2.jpg",
-                        "paste-e5f8c2bc7806a0aae4c2d1491afcabe8a640121b.jpg",
                         "paste-e6045ed5ea592fde32dae398aa9fa4a38ac6f594.jpg",
                         "paste-e8795f3730968b15997ae56bb14566bb96d20236.jpg",
                         "paste-eb16af8304fbe72b3e0f7bb05a14b95ad00f2b0f.jpg",
@@ -16694,7 +16701,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Dimenze",
+                                "Dimenze množiny",
                                 "<img src=\"paste-224ccb2ee9a232653e176bbc760082771f45210b.jpg\">"
                             ],
                             "guid": "Gib^kYEy(P",
@@ -16707,7 +16714,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-e5f8c2bc7806a0aae4c2d1491afcabe8a640121b.jpg\">",
+                                "<img src=\"paste-729a1e512763b54404c640d8415dd291d299a394.jpg\">",
                                 ""
                             ],
                             "guid": "COM@r<Ug)8",
@@ -16760,7 +16767,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Carathéodoryho věta",
-                                "<div><img src=\"paste-a61b8b3567429c6246bd57921531ce2b62ad2025.jpg\"><br></div><div><img src=\"paste-28bb138ad8986e272a7d41d0b330eacd157c7ce2.jpg\"><img src=\"paste-31958a9244de21501c7f292cd5f60fb4a8b87456.jpg\"><br></div>"
+                                "<div><img src=\"paste-a61b8b3567429c6246bd57921531ce2b62ad2025.jpg\"><br></div><div><img src=\"paste-28bb138ad8986e272a7d41d0b330eacd157c7ce2.jpg\"><br>---<br><img src=\"paste-31958a9244de21501c7f292cd5f60fb4a8b87456.jpg\"><br></div>"
                             ],
                             "guid": "m8*K:+aQ=V",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16811,7 +16818,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Konvexnost (konvexita)",
+                                "Konvexnost (konvexita) množiny",
                                 "<img src=\"paste-d46c116d6c91c0a2bb87d84c4453b7864ed50056.jpg\">"
                             ],
                             "guid": "l)v.O[CwL;",
@@ -16890,7 +16897,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Minkowski-Weyl",
-                                "<img src=\"paste-2a6176a0dd2c14ba28a4964a4bc647687c08f944.jpg\"><div><img src=\"paste-f1aa89b84d939d6608275a954d2ccae724b42607.jpg\"><br></div><div>---</div><div><img src=\"paste-2061f6def63b04741d46296dc2726b3e2f8cc3f5.jpg\"><br></div><div>---</div><div><img src=\"paste-4da15cd97aed6e835cfa8993657b6020417ab0ae.jpg\"><br></div><div>---</div><div>&nbsp;<img src=\"paste-a8149c79f344d69e2b417e3d03f9d9d3456227c3.jpg\"><br></div><div><img src=\"paste-c72ad5447ff2b7d9336d14d2c624bbd5ff03d016.jpg\">&nbsp;<br></div>"
+                                "<img src=\"paste-2a6176a0dd2c14ba28a4964a4bc647687c08f944.jpg\"><div><img src=\"paste-f1aa89b84d939d6608275a954d2ccae724b42607.jpg\"><br></div><div>---</div><div><img src=\"paste-2061f6def63b04741d46296dc2726b3e2f8cc3f5.jpg\"><br></div><div>---</div><div><img src=\"paste-4da15cd97aed6e835cfa8993657b6020417ab0ae.jpg\"><br></div><div>---</div><div>&nbsp;<img src=\"paste-a8149c79f344d69e2b417e3d03f9d9d3456227c3.jpg\"><br></div><div><img src=\"paste-c72ad5447ff2b7d9336d14d2c624bbd5ff03d016.jpg\"><br>---<br>TLDR: =&gt; - indukcí, &lt;= trikem - z rovnic uděláme mnohostěn<br></div>"
                             ],
                             "guid": "v>37ZjT.{C",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16929,7 +16936,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Věta o externích bodech",
-                                "<img src=\"paste-0742e19da91d13a1e56986fbe3665732e94fc13f.jpg\"><br><img src=\"paste-928151b89ed0121582a589de001ac3411a652326.jpg\"><div>---<br>Věta říkající, že vrcholy jsou ty body, který nejde získat konvexní kombinací zbylých.<br>TLDR: Minkowsky-Weyl dá množinu, pak dokážeme 3 inkluze. Je konečná, proto máme konečnost.<br>- vrchol je sám v nějakém poloprostoru a proto zbylé body jeho konvexní kombinaci nedají (jelikož nerovnost splňují ostře, důsledek nějaké věty o konvexní kombinaci)<br>- obměna - x není ve V_0, tak není ani ve V_ext, rozepsání definice\\<br>- dokazujeme, že vrcholy z Minkowskeho-Weylovy věty jsou vrcholy - pro každý vezmeme z věty o oddělování tu nadrovinu je oddělující a posuneme ji k bodu z&nbsp;<br>---</div><div>Ilustrace věty:</div><div><img src=\"paste-07c5ef797872f59b5dca5377ae97b9b2793b5af9.jpg\"><br></div><div>---</div><div>Ilustrace poslední inkluze:</div><div><img src=\"paste-b22b4c051a0aebacc735590af44b726bca151c57.jpg\"><br></div>"
+                                "<img src=\"paste-0742e19da91d13a1e56986fbe3665732e94fc13f.jpg\"><br><img src=\"paste-928151b89ed0121582a589de001ac3411a652326.jpg\"><div>---<br>Věta říkající, že vrcholy jsou ty body, který nejde získat konvexní kombinací zbylých.<br>TLDR: Minkowsky-Weyl dá množinu, pak dokážeme 3 inkluze. Je konečná, proto máme konečnost.<br>- vrchol je sám v nějakém poloprostoru a proto zbylé body jeho konvexní kombinaci nedají (jelikož nerovnost splňují ostře, důsledek nějaké věty o konvexní kombinaci)<br>- obměna - x není ve V_0, tak není ani ve V_ext, rozepsání definice\\<br>- dokazujeme, že vrcholy z Minkowskeho-Weylovy věty jsou vrcholy - pro každý vezmeme z věty o oddělování tu nadrovinu je oddělující a posuneme ji k bodu<br>---</div><div>Ilustrace věty:</div><div><img src=\"paste-07c5ef797872f59b5dca5377ae97b9b2793b5af9.jpg\"><br></div><div>---</div><div>Ilustrace poslední inkluze:</div><div><img src=\"paste-b22b4c051a0aebacc735590af44b726bca151c57.jpg\"><br></div>"
                             ],
                             "guid": "ymie@|JHH)",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16955,7 +16962,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Stěna stěny je stěna",
-                                "<img src=\"paste-6c81eea36f6bb998bea8f8ca0319345f5740339c.jpg\"><br><img src=\"paste-a26d9a21cac7a3f7b84a5bc74d1ed980968a2da1.jpg\"><div><img src=\"paste-72a6b9ec642407e6835448f242355178276bc798.jpg\"><br></div><div>---</div><div>První implikace:</div><div><img src=\"paste-7c86230d3cf240f2580f30697fe13a7e4f500092.jpg\"><br></div><div>---</div><div>Druhá implikace z červené a zelené chceme udělat modrou:</div><div><img src=\"paste-98b6130a7f4166c6d7a0809b5c0aeed04da05745.jpg\"><br></div>"
+                                "<img src=\"paste-6c81eea36f6bb998bea8f8ca0319345f5740339c.jpg\"><br><img src=\"paste-a26d9a21cac7a3f7b84a5bc74d1ed980968a2da1.jpg\"><div><img src=\"paste-72a6b9ec642407e6835448f242355178276bc798.jpg\"><br></div><div>---<br>TLDR:&nbsp;<br>=&gt; už máme spránvou tečnou nadrovinu<br>&lt;= potřebujeme tečnou nadrovinu příslušně pootočit<br>---</div><div><img src=\"paste-7c86230d3cf240f2580f30697fe13a7e4f500092.jpg\"><br></div><div><img src=\"paste-98b6130a7f4166c6d7a0809b5c0aeed04da05745.jpg\"><br></div>"
                             ],
                             "guid": "vo|8l.NqIB",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16980,8 +16987,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Mluví se tu o minimálním popisu - \\(A'\\) je matice rovnic a \\(A''\\) matice nerovnic.<br>---<br><img src=\"paste-d2e0ab0ac55fa95728853e25f464dcad9347a6e6.jpg\">",
-                                "<div><img src=\"paste-8ab8abdee6ded45ec99e5ea4de28860f284d2678.jpg\"><br></div><div>---</div><div><img src=\"paste-d12622f8ee4d222a9911669048a8a35db243e569.jpg\"><br></div><div>---</div><div><img src=\"paste-d7ef59e1c34da45edd565acb2138441560303cb4.jpg\"><br></div>"
+                                "<img src=\"paste-d2e0ab0ac55fa95728853e25f464dcad9347a6e6.jpg\"><br>---<br>Mluví se tu o minimálním popisu - \\(A'\\) je matice rovnic a \\(A''\\) matice nerovnic.",
+                                "<div><img src=\"paste-8ab8abdee6ded45ec99e5ea4de28860f284d2678.jpg\"><br></div><div>---<br>TLDR:<br>- dimenze dává smysl - rovnice, které něco dělají, snižují dimenzi o 1 (uděláme si kuličku)<br>- z neleží ve stěně, protože by koulička ležela na obou stranách<br>- vždy najdeme body na obou stranách nadroviny (pro minimální popis); konvexní kombinace dává hledaný bod<br>---</div><div><img src=\"paste-d12622f8ee4d222a9911669048a8a35db243e569.jpg\"><br></div><div>---</div><div><img src=\"paste-d7ef59e1c34da45edd565acb2138441560303cb4.jpg\"><br></div>"
                             ],
                             "guid": "vbrhT*KV0c",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17045,19 +17052,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "(Přípustná) báze, bázické řešení",
-                                "<img src=\"paste-371ad0116f51effcd97a3af156a6a23fce7e5db1.jpg\">"
-                            ],
-                            "guid": "CXp<^>|^nj",
-                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
-                            "tags": [
-                                "6",
-                                "definice"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Základní terminologie simplexové metody",
                                 "<img src=\"paste-68fb85b1b70313c9f8aa0337476154dbb5fc29ac.jpg\"><div>---</div><div><img src=\"paste-5739918240d002da1178bc306b1e012d03ba91d8.jpg\"><br></div>"
                             ],
@@ -17072,7 +17066,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-3360b7b16ed56083fb62ad5cd65c4f65905b8667.jpg\">",
-                                "<img src=\"paste-0d6a0145197c616a0d7f83c63ed8470459bb83dc.jpg\"><div>---</div><div><img src=\"paste-dcc5413cc05e719103ee95a234fcb9741d36591f.jpg\">&nbsp;<br></div>"
+                                "<img src=\"paste-0d6a0145197c616a0d7f83c63ed8470459bb83dc.jpg\"><br><div>---</div><div><img src=\"paste-dcc5413cc05e719103ee95a234fcb9741d36591f.jpg\">&nbsp;<br></div>"
                             ],
                             "guid": "P-l/J&Vc#E",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17085,7 +17079,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-9c92b056d4abd8f264bae99af3b5f10eec165189.jpg\">",
-                                "&nbsp;<img src=\"paste-b22ccd918cb9aee06c2f78d0c160bb09d407931f.jpg\"><div>---</div><div><img src=\"paste-8f96737e1e9d555efdd3deebd1b939ad4b948916.jpg\"><br></div>"
+                                "&nbsp;<img src=\"paste-b22ccd918cb9aee06c2f78d0c160bb09d407931f.jpg\"><div>---<br>TLDR:<br>=&gt; u bázického řešení se nám povedlo změnit tolik nerovnic na rovnice, že nám zbyl jedinný bod - ten nutně musí být vrchol<br>&lt;= každou stěnu dostaneme jako průnik facet tak, že opět nerovnice nahrazujeme rovnicemi - když už má jedinné řešení, tak je přesně bázické<br>---</div><div><img src=\"paste-8f96737e1e9d555efdd3deebd1b939ad4b948916.jpg\"><br></div>"
                             ],
                             "guid": "H>wU)Z?8[G",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17189,7 +17183,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Metoda vnitřního bodu",
-                                "- snaží si udržovat řešení uvnitř mnohostěnu<div>- hledáme řešení, které maximalizuje $c$</div><div>- v praxi podobně rychlé jako simplexová metoda</div><div>- fungují i pro nelineární problémy (stačí, že je množina hezky definovaná)</div>"
+                                "- snaží si udržovat řešení uvnitř mnohostěnu<div>- hledáme řešení, které maximalizuje \\(c\\)</div><div>- v praxi podobně rychlé jako simplexová metoda</div><div>- fungují i pro nelineární problémy (stačí, že je množina hezky definovaná)<br>---<br><img src=\"paste-359011e3c187c58b764136249c4160705f03e3bc.jpg\"><br></div>"
                             ],
                             "guid": "cat_s,oX{",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17253,8 +17247,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-223f97be56d6d7f0c6274a4b54b56ed92256f757.jpg\">",
-                                "<img src=\"paste-8810a2b917f1600ea843b5afe56a7871cc7f7dd0.jpg\"><div><img src=\"paste-caca83cc21c153915f550857a209077b4ba2918b.jpg\"><br></div>"
+                                "To, kam se chceme Farkasovo lemmatem dostat",
+                                "<img src=\"paste-223f97be56d6d7f0c6274a4b54b56ed92256f757.jpg\"><br><img src=\"paste-8810a2b917f1600ea843b5afe56a7871cc7f7dd0.jpg\"><div><img src=\"paste-caca83cc21c153915f550857a209077b4ba2918b.jpg\"><br></div>"
                             ],
                             "guid": "m*y8Y?PZG/",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17266,7 +17260,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Dualita",
+                                "Dualita (\\(P, D, \\bar{P}, \\bar{D}\\))",
                                 "<img src=\"paste-d77f40abbb93e1a032da728bf2c7a3a440d77010.jpg\">"
                             ],
                             "guid": "n`Qz{#1L^w",
@@ -17397,7 +17391,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-eb16af8304fbe72b3e0f7bb05a14b95ad00f2b0f.jpg\">",
-                                ""
+                                "Střídavé cesty buď zkontrahovaný vrchol úplně minou, nebo přes něj přejdou - v tom případě si vybereme správný směr (abychom se do výchozí hrany dostali hranou, která je v párování) a jsme také ok."
                             ],
                             "guid": "kNggE=ax_`",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17409,8 +17403,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Blossom algorithm",
-                                "<img src=\"paste-f71084ca092a228631d19eab2e779cf148bf47f6.jpg\">"
+                                "Blossom algorithm (pro nevážené hrany)",
+                                "---<br>Skoro stejné jako algoritmus pro bipartitní graf, ale kontrahujeme liché cykly:<br><img src=\"paste-7c33470ab2858a5b8d7e1940d4c097a53fd7ffb4.jpg\"><br>Pokud přidáme hranu ze sudé do sudé úrovně, tak zkontrahujeme a zrekurzíme se na menší graf (přes nejbližšího společného předcůdce).<br>---<br><img src=\"paste-f71084ca092a228631d19eab2e779cf148bf47f6.jpg\">"
                             ],
                             "guid": "cC`IzA,5g%",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17436,7 +17430,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "LP pro minimální perfektní párování pro obecné grafy (+ duál a komplementarita)",
-                                "<img src=\"paste-7f341044e94c04cade5d2c37784ba33e01522634.jpg\"><div>---</div><div>- vždy má celočíselné optimum (které odpovídá perfektnímu párování)</div><div>- podmínek je exponenciálně mnoho, což je trochu oof</div><div>---</div><div><img src=\"paste-2a6f75c9b214722c28d2e755cfeab44648fe9e77.jpg\"><br><div><img src=\"paste-e38b4be55bb295fcb9e60c967675ece65b3f93f2.jpg\">&nbsp;<br></div></div><div>---</div><div><img src=\"paste-57be19f533d7dde4fccbe852168cb672f77fc939.jpg\"><br></div>"
+                                "<img src=\"paste-7f341044e94c04cade5d2c37784ba33e01522634.jpg\"><br>---<br>- pravidlo pro liché řezy přidáváme kvůli tomuhle:<br><img src=\"paste-a7715d0721257e31efd100f1aaea5bbab16da181.jpg\"><br>- vždy má celočíselné optimum (které odpovídá perfektnímu párování)<div>- podmínek je exponenciálně mnoho</div><div>---</div><div><img src=\"paste-2a6f75c9b214722c28d2e755cfeab44648fe9e77.jpg\"><br><div>---<br>- budeme mít navíc podmínky \\(Y\\) (ty, kterých je hodně)<br>- \\(y_v \\in \\mathrm{R}\\)<br><img src=\"paste-e38b4be55bb295fcb9e60c967675ece65b3f93f2.jpg\"><br>- podmínka rozepsaná je takhle čitelnější: \\(y_u + y_v + \\sum_{D, uv \\in D} Y_D \\le c_{uv}\\)<br></div></div><div>---</div><div><img src=\"paste-57be19f533d7dde4fccbe852168cb672f77fc939.jpg\"><br>- 1. říká opět to samé, co v minulém, jen s řezem navíc (strom stavíme opět v \\(E_{=}\\))<br>- 2. nápověda pro to, že opět budeme kontrahovat</div>"
                             ],
                             "guid": "E&LkbC]V95",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17540,7 +17534,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Königova věta (pro LOPT)",
-                                "<div><img src=\"paste-33cff8a1fe8b6bb05c9eea092bee847663571e4b.jpg\"><br></div><div><img src=\"paste-112bfe4438ceafa5d75ce2cb11389bb21a78c9f0.jpg\"><br></div><div>---</div><div>\\(\\ge\\)&nbsp;- pro párování musí minimální pokrytí mít vždy alespoň jeden vrchol z každé hrany</div><div>\\(\\le\\)&nbsp;- komplementarita říká, že pokud \\(M, C\\)&nbsp;jsou optimální, pak</div><div>- \\(e \\in M \\implies |e \\cap C| = 1\\)&nbsp;(pro hranu v párování musí ve vrcholovém pokrytí patřit právě jeden vrchol)</div><div>- \\(v \\in C \\implies (\\exists e \\in M) (v \\in e) \\)<br></div>"
+                                "<div><img src=\"paste-33cff8a1fe8b6bb05c9eea092bee847663571e4b.jpg\"><br></div><div><img src=\"paste-112bfe4438ceafa5d75ce2cb11389bb21a78c9f0.jpg\"><br></div><div>---<br><img src=\"paste-d55e9743c1a1298e1bdecb9915c5d860e06de26a.jpg\"><br>---<br>Důkaz přes komplementaritu lineárních programů:</div><div>- \\(e \\in M \\implies |e \\cap C| = 1\\)&nbsp;(pro hranu v párování musí ve vrcholovém pokrytí patřit právě jeden vrchol), odpovídá \\(x_e \\ge 0, y_u + y_v \\ge 1\\)<br></div><div>- \\(v \\in C \\implies (\\exists e \\in M) (v \\in e) \\) (vrchol v minimálním pokrytí musí mít incidentní&nbsp; hranu v párování), odpovídá druhé sadě podmínek<br></div>"
                             ],
                             "guid": "q>unRKJFaW",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17592,7 +17586,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "&nbsp;Příklady matroidů",
-                                "Tohle není matroid.<br><img src=\"paste-0bda940bfab2c152076dedda4c877562c37bcc42.jpg\"><br>---<br><img src=\"paste-038e97a853c94341923c51bdfd3986e951af49fe.jpg\"><br>---<br>1. rank je dimenze lineárního obalu podmnožiny VP, báze jsou... báze<br>2. rank je počet vrcholů - počet komponent (vrcholy koster...), báze je sjednocení velikosti koster komponent<br>3. rank je \\(\\le k\\) podle toho, ze kterých množin něco bereme; báze je množina vždy právě jednoho prvku z každé z množin \\(S_i\\)"
+                                "Tohle není matroid.<br><img src=\"paste-0bda940bfab2c152076dedda4c877562c37bcc42.jpg\"><br>---<br>Tohle jsou matroidy:<br><img src=\"paste-038e97a853c94341923c51bdfd3986e951af49fe.jpg\"><br>---<br>Tohle jsou jejich báze:<br>1. rank je dimenze lineárního obalu podmnožiny VP, báze jsou... báze<br>2. rank je počet vrcholů - počet komponent (vrcholy koster...), báze je sjednocení velikosti koster komponent<br>3. rank je \\(\\le k\\) podle toho, ze kterých množin něco bereme; báze je množina vždy právě jednoho prvku z každé z množin \\(S_i\\)"
                             ],
                             "guid": "sB)=ECySHY",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17604,7 +17598,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Prvky a matroidu",
+                                "Prvek matroidu",
                                 "\\(J \\in I\\) se nazývá <b>nezávislá množina.</b>"
                             ],
                             "guid": "szAeSMb>B(",
@@ -17644,7 +17638,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Nechť \\(B \\subseteq 2^S\\). \\(B\\) je množina bází matroidu, právě když \\(B \\neq \\emptyset\\) a \\((\\forall B_1, B_2 \\in B) (\\forall a \\in B_1 \\setminus B_2) (\\exists b \\in B_2 \\setminus B_1) (B_1 \\setminus \\left\\{ a\\right\\} \\cup \\left\\{b\\right\\} \\in B\\)",
-                                "\\(\\Rightarrow\\) \\(B_1 \\setminus \\left\\{a\\right\\} \\subset X \\subseteq B_1 \\cup B_2 \\setminus \\left\\{a\\right\\}\\); víme, že \\(X\\) existuje, jelikož rank nejpravější množiny je alespoň rank \\(S\\) a můžeme \\(X\\) doplnit na rank \\(S\\) přidáním právě jednoho prvku, který nazveme \\(b\\)<br>\\(\\Leftarrow\\)&nbsp; pro systém bází definujeme matroid jako všechny prvky a všechny podmnožiny bází, což automaticky splňuje (1), (2). Pro (3) máme důkaz obrázkem:<br><br><img src=\"paste-4d28ced5e2b51d28f6ee1b4abac23d7b3d7b3fbc.jpg\">\\<br>Pro spor je X a Y jiné velikosti. Postupně nahrazujeme prvky \\(B_1\\) prvky \\(B_2\\) a dojdeme ke sporu, protože by pak \\(B_2\\) byla báze z \\(Y\\) a prvků \\(B_1\\) mimo \\(A\\), kterých je ale méně než velikosti \\(B_1\\)."
+                                "\\(\\Rightarrow\\) \\(B_1 \\setminus \\left\\{a\\right\\} \\subset X \\subseteq B_1 \\cup B_2 \\setminus \\left\\{a\\right\\}\\); víme, že \\(X\\) existuje, jelikož rank nejpravější množiny je alespoň rank \\(S\\) a můžeme \\(X\\) doplnit na rank \\(S\\) přidáním právě jednoho prvku, který nazveme \\(b\\)<br>\\(\\Leftarrow\\)&nbsp; pro systém bází definujeme matroid jako všechny prvky a všechny podmnožiny bází, což automaticky splňuje (1), (2). Pro (3) máme důkaz obrázkem:<br><img src=\"paste-4d28ced5e2b51d28f6ee1b4abac23d7b3d7b3fbc.jpg\"><br>Pro spor je X a Y jiné velikosti. Postupně nahrazujeme prvky \\(B_1\\) prvky \\(B_2\\) a dojdeme ke sporu, protože by pak \\(B_2\\) byla báze z \\(Y\\) a prvků \\(B_1\\) mimo \\(A\\), kterých je ale méně než velikosti \\(B_1\\)."
                             ],
                             "guid": "Gd7[GR@b/t",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17657,7 +17651,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Nezávislá množina maximální váhy v matroidu",
-                                "<img src=\"paste-2c767ee9964337fc2541d12b9c3f5f8a7218793a.jpg\"><br>---<br><img src=\"paste-f47e52dec775c6bd3d84438c764e5ddca07bbbb3.jpg\"><br>---<br>Věta: hladový algoritmus najde optimum tohoto matroidu.<br>Důkaz: magie (najdeme duální řešení se stejným optimem).<br><img src=\"paste-520a8ff394dabed78c68a861688d6350eddff15b.jpg\"><br>Očíslujme hrany tak, že $c_{e_1} \\ge c_{e_2} \\ge \\ldots c_{e_m} &gt; 0 \\ge c_{e_{m + 1}} \\ge \\dots \\ge c_{e_n}}$. Nyní dáme hodnotu proměnným následně:&nbsp;<br><img src=\"paste-52fd30fe06a3b959cd79fc8c4f591d7534bf053d.jpg\"><br>Komplementarita:<br>1. $e \\in A \\ldots x_e &gt; 0 \\implies \\sum_{A, e \\in A} y_{\\bar{A}} = c_e$<br>- platí z definice $y_{\\bar{A}}$<br>2. $y_{\\bar{A}} &gt; 0 \\implies |A \\cap \\bar{A}| = r(\\bar{A})$<br>- platí z průběhu algoritmu - algoritmus zkusí od nejtěžší přidávat hrany&nbsp;"
+                                "<img src=\"paste-2c767ee9964337fc2541d12b9c3f5f8a7218793a.jpg\"><br>---<br><img src=\"paste-f47e52dec775c6bd3d84438c764e5ddca07bbbb3.jpg\"><br>---<br>Věta: hladový algoritmus najde optimum tohoto matroidu.<br>Důkaz: magie (najdeme duální řešení se stejným optimem).<br><img src=\"paste-520a8ff394dabed78c68a861688d6350eddff15b.jpg\"><br>Očíslujme hrany tak, že \\(c_{e_1} \\ge c_{e_2} \\ge \\ldots c_{e_m} &gt; 0 \\ge c_{e_{m + 1}} \\ge \\dots \\ge c_{e_n}\\). Nyní dáme hodnotu proměnným následně:&nbsp;<br><img src=\"paste-52fd30fe06a3b959cd79fc8c4f591d7534bf053d.jpg\"><br>Komplementarita:<br>1. \\(e \\in A \\ldots x_e &gt; 0 \\implies \\sum_{A, e \\in A} y_{\\bar{A}} = c_e\\)<br>- platí z definice \\(y_{\\bar{A}}\\)<br>2. \\(y_{\\bar{A}} &gt; 0 \\implies |A \\cap \\bar{A}| = r(\\bar{A})\\)<br>- platí z průběhu algoritmu - algoritmus zkusí od nejtěžší přidávat hrany&nbsp;"
                             ],
                             "guid": "eh07G;B+vx",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17749,7 +17743,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Metoda řezů",
-                                "$P = \\left{ \\vec{x} \\in \\mathbb{R}^n \\mid A \\vec{x} \\le \\vec{b} \\land \\vec{x} \\ge 0 \\right}$ mnohostěn a $Z = P \\cap \\mathbb{Z}^n$.<br>Nechť $\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta$ platí pro všechna $\\vec{x} \\in P$. Pak $\\lfloor \\vec{\\alpha}^T \\rfloor \\cdot \\vec{x} \\le \\lfloor \\beta \\rfloor$ se nazývá platný řez.<br>---<br><b>Pozorování:</b> platný řez splňují všechna celočíselná řešení $\\vec{x} \\in Z$.<br><b>Pozorování: </b>každý platný řez se dá získat jako nezaporná kombinace nerovnic + zaokrouhlení.<br>---<br><b>Věta: </b>Nechť $P$ je racionální mnohostěn a $\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta$ je nerovnost platná pro $Z$, navíc $\\vec{\\alpha} \\in \\mathbb{Z}^n, \\beta \\in \\mathbb{Z}$. Pak $\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta$&nbsp;lze odvodit přidáváním platných řezů.<br><br><b>Důkaz </b>(pro případ, že $P \\subseteq \\left[0, 1\\right]^n$):&nbsp;<br>1. $\\vec{\\alpha}^T \\vec{x} \\le \\beta + t \\ldots$ pro nějaké $t$ platí pro $P$, protože je omezený...<br>2. pro $M \\in \\mathbb{N}$ velké a libovolné $N_0, N_1, N_0 \\cup N_1 = \\left{1, \\ldots, n\\right}: \\vec{\\alpha}^T \\vec{x} \\le \\beta + M \\sum_{i in N_0} x_i + M \\sum_{i \\in N_1} (1 - x_i)$ platí pro $P$<br><br>Začnu s nerovností $\\vec{\\alpha}^T \\vec{x} \\le \\beta + t + 1$ a odvodím z ní $\\vec{\\alpha}^T \\vec{x} \\le \\beta + t, \\forall t \\ge 0$.<br><br><img src=\"paste-795ce7434af0a490b8e0a8a03ea64c359bf868f7.jpg\">"
+                                "\\(P = \\left\\{ \\vec{x} \\in \\mathbb{R}^n \\mid A \\vec{x} \\le \\vec{b} \\land \\vec{x} \\ge 0 \\right\\}\\) mnohostěn a \\(Z = P \\cap \\mathbb{Z}^n\\).<br>Nechť \\(\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta\\) platí pro všechna \\(\\vec{x} \\in P\\). Pak \\(\\lfloor \\vec{\\alpha}^T \\rfloor \\cdot \\vec{x} \\le \\lfloor \\beta \\rfloor\\) se nazývá platný řez.<br>---<br><b>Pozorování:</b> platný řez splňují všechna celočíselná řešení \\(\\vec{x} \\in Z\\).<br><b>Pozorování: </b>každý platný řez se dá získat jako nezaporná kombinace nerovnic + zaokrouhlení.<br>---<br><b>Věta: </b>Nechť \\(P\\) je racionální mnohostěn a \\(\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta\\) je nerovnost platná pro \\(Z\\), navíc \\(\\vec{\\alpha} \\in \\mathbb{Z}^n, \\beta \\in \\mathbb{Z}\\). Pak \\(\\vec{\\alpha}^T \\cdot \\vec{x} \\le \\beta\\) lze odvodit přidáváním platných řezů.<br><br><b>Důkaz </b>(pro případ, že \\(P \\subseteq \\left[0, 1\\right]^n\\)):&nbsp;<br>1. \\(\\vec{\\alpha}^T \\vec{x} \\le \\beta + t \\ldots\\) pro nějaké \\(t\\) platí pro \\(P\\), protože je omezený...<br>2. pro \\(M \\in \\mathbb{N}\\) velké a libovolné \\(N_0, N_1, N_0 \\cup N_1 = \\left\\{1, \\ldots, n\\right\\}: \\vec{\\alpha}^T \\vec{x} \\le \\beta + M \\sum_{i \\in N_0} x_i + M \\sum_{i \\in N_1} (1 - x_i)\\) platí pro \\(P\\)<br><br>Začnu s nerovností \\(\\vec{\\alpha}^T \\vec{x} \\le \\beta + t + 1\\) a odvodím z ní \\(\\vec{\\alpha}^T \\vec{x} \\le \\beta + t, \\forall t \\ge 0\\).<br><br><img src=\"paste-795ce7434af0a490b8e0a8a03ea64c359bf868f7.jpg\">"
                             ],
                             "guid": "G_A5!nbRrP",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17782,6 +17776,32 @@
                             "tags": [
                                 "9",
                                 "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Problém algoritmu min. perf. párování pro obecné grafy",
+                                "Liché cykly - rozložením na vrstvy můžeme odignorovat nějaké střídavé cesty, které ale chceme používat."
+                            ],
+                            "guid": "E9,&bNn&jq",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Perfektní párování min. ceny v obecných grafech",
+                                "- \\(Y = 0\\)<br><img src=\"paste-72ca0bf3364e00afa47a0ca820c681316719a60c.jpg\"><br><img src=\"paste-0e063872d55e4ba5c7b67fc5fbbb3872c4be99f3.jpg\"><br>---<br>"
+                            ],
+                            "guid": "Mq-b]vz#<o",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "algoritmus"
                             ]
                         }
                     ]
