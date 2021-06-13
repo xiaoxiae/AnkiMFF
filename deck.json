@@ -16423,6 +16423,1269 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8834bc28-cc90-11eb-8cc3-88d7f63eab01",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-050515a8f46c0cf1bec2e0cf06d779eec83907af.jpg",
+                        "paste-057f5bf7059563255feca9521742f41741d1f653.jpg",
+                        "paste-0595b1c17886289c9f7f23d18301c89b54420584.jpg",
+                        "paste-069929050452387db0a12953e0ad9f0a24f4b096.jpg",
+                        "paste-0877533ec0ed3bd3b978536762d60372010d2d6e.jpg",
+                        "paste-0b19d7057c744bea30485b12b6e393b15ecd1006.jpg",
+                        "paste-0c3c04fe2031677e32c9c05b916b37ae5aba9049.jpg",
+                        "paste-0d10764f1e2e56a4c66650330d7897408dc5f983.jpg",
+                        "paste-0d5788f3e122956aff18d0f7b572147aeb89780f.jpg",
+                        "paste-0e051d99b2dc7cfe191e50d525db8d504e977a17.jpg",
+                        "paste-0e6fe8e2a435af2462df0684965a97c6b7979bd2.jpg",
+                        "paste-0edc95142529edab1233fb336833e6dacfb87538.jpg",
+                        "paste-0fa4a3fb8d512d08cbaa65f6e20504da335f9fca.jpg",
+                        "paste-10e9cb2ad70d18db72a4320f6c640c0e65ae6c32.jpg",
+                        "paste-11219c2c1d14647652eba720931994b7cf629d0c.jpg",
+                        "paste-114a094517757fc15b07515d4d7b747259bdf4e4.jpg",
+                        "paste-1189a30335019a70583a673b73cbe359013002b7.jpg",
+                        "paste-120b12174d7edc188b546c750e8334241a467c1d.jpg",
+                        "paste-14643aac08d0c1655418ea3b655c624314f5a160.jpg",
+                        "paste-172a76989bad832380061a101fbceec75f92aae9.jpg",
+                        "paste-17fd59db25c98f065521ccf0a3db832a02284692.jpg",
+                        "paste-1ad1cb72825e9cd7e48b8449a77c2edf413bd08d.jpg",
+                        "paste-1b57c7f34edc64a9186bb29442df2af7a9df1482.jpg",
+                        "paste-1f3784f00f20930e14bf73eca7d5e5411148707a.jpg",
+                        "paste-210c3c2ae5fad197f5956ec9bc80f827309768e7.jpg",
+                        "paste-2679d224912803b2c5414f2e325fa25e808be104.jpg",
+                        "paste-26880912ddd01af2e33859134c84bdb7c0c337b7.jpg",
+                        "paste-300bd7106375aee74eb9b35df7d7f3b329642d17.jpg",
+                        "paste-30970da087095bfcc21a23e866867800b09ad33d.jpg",
+                        "paste-312d20fdcc0b24b65456d1a2f78d427e18993738.jpg",
+                        "paste-335a7894d410508d46c7506cade964aff6b057b0.jpg",
+                        "paste-3606ddc118ec8986167bcdc7a0c26cc94df49df6.jpg",
+                        "paste-37e0097aacce91db5fd719ec819813cf25113196.jpg",
+                        "paste-39d88a5993b7931d8c465d733222e24d0ebeb8cc.jpg",
+                        "paste-3bb0744140c8cedb9895e3663bf56f54df38bbec.jpg",
+                        "paste-3fccbd691c28385681d893099433dcc9924d8ba9.jpg",
+                        "paste-42783bfb3096f807578a48973a7799e6beea0100.jpg",
+                        "paste-456bccfccb6c44e32475d74816e39e4b459f61da.jpg",
+                        "paste-46542815c523829dc829df2b8095fbf91f8ab413.jpg",
+                        "paste-468ee9c5c3a10ddeb713e6253d9088f731f64a4d.jpg",
+                        "paste-4762c0abbe08ba36f4353d5396679a24200e936a.jpg",
+                        "paste-47d2f46d33e771069fcc691c4512b4045892594c.jpg",
+                        "paste-48c06941eb68c968fc0b674b49eb52f2e506a23a.jpg",
+                        "paste-48caa3a8b921e64f700784f2c6fb614b9e2bb66f.jpg",
+                        "paste-4955f738d071aa2757e0cdec750058ecb8fc47b6.jpg",
+                        "paste-4b43cf3c7220d1cc85545340bca09fc76fa8c2b3.jpg",
+                        "paste-4dd833f8c24944f6a8d57ece45a28e4ad220e3d6.jpg",
+                        "paste-50455d55d42c67bb703d4362c18d9958420dbee3.jpg",
+                        "paste-53b004ed1a73d8e4e66dbcc857209afab2cab6ae.jpg",
+                        "paste-546d63ae1fb771dad7a22bd262d4000f078bc957.jpg",
+                        "paste-556c28ed5ff9149d8e8a57134a034dd8e9878720.jpg",
+                        "paste-558924464d81d701fcb2cc58a7112548cb129f42.jpg",
+                        "paste-58f6dd93af72be9f68cd522823a826b4c9b13f8c.jpg",
+                        "paste-5b895bd9520f173360f5dd0e987b09a2c5e3c95c.jpg",
+                        "paste-602d0f7531428ed7c97d39e7bd696c0f18d481e4.jpg",
+                        "paste-60f3af9eacef7599ee2d81d2dcdab5abb34d1a5c.jpg",
+                        "paste-63e48c510d5cc1c34195eaf2f5bc00e7ad805d11.jpg",
+                        "paste-6569bcfca223e6d98df221cb84567b8ccebe3fa9.jpg",
+                        "paste-6d2089cb694ffebc4b3b00acec9d0b6d7f88e435.jpg",
+                        "paste-6e3a4b14db202d1eef39c0efb1588da21ad55d06.jpg",
+                        "paste-6f6160855feed2b8133335e300fd6d3a37f6dd17.jpg",
+                        "paste-715642f81904c0458c8755f756b9fce13897222c.jpg",
+                        "paste-74aef461aa32af8548c6173634ed5c1da5c85293.jpg",
+                        "paste-74ffa8cdbc110b5c940628b05110b588a4eef7f5.jpg",
+                        "paste-7a4ed3e47b97ad9ff91f3c048983570b81efc8c6.jpg",
+                        "paste-7ae29bbed133a7f15e1b45bd592739058234f4f5.jpg",
+                        "paste-7e143bfc827c2ed6313b4b7887c06b09468b8530.jpg",
+                        "paste-7eb62aec388d380a1e8c8f3dd33bc2d1e144d747.jpg",
+                        "paste-810df4bef8137bbf28b3f4e2d3ee4e01a12d2c52.jpg",
+                        "paste-81d4bd5e4d7ffccc0daab1bd1c43ad6d9c8ecfad.jpg",
+                        "paste-82710883103007c7afb220b7545ba696ce8fa433.jpg",
+                        "paste-838c025b8c648dda17fcafde09235d6d3a58a90e.jpg",
+                        "paste-8ce915c2f5b10f055c7e03390d88c997ebbefd97.jpg",
+                        "paste-8e2c814ac08309f63ec815b9be0262d7d1e5ede8.jpg",
+                        "paste-8e3193c584436ffb12121feda773510e86b4f9fe.jpg",
+                        "paste-8efd7fb38950f449da2eab3ccb2f030daa30faa5.jpg",
+                        "paste-918ab9d00cb06c355901ded9eb6efa39bcf01602.jpg",
+                        "paste-947357a34ad1aee5575f46cc117736486a4ac5fd.jpg",
+                        "paste-949a0396b33f908ca1c24cf9609461f6ed040cd6.jpg",
+                        "paste-98f2f3afd5a89ffac6f3fcea42dffd94f5fb0439.jpg",
+                        "paste-995649724a1569be6f4dc44687414f90e0ad1fb9.jpg",
+                        "paste-9b1382217f714e9bc8c338c17ce729e436075d9a.jpg",
+                        "paste-9bbac65694e6b79bf866e456859f77cdd4397e7b.jpg",
+                        "paste-a1ebfd91a818bc9e84e95de1dcbf22d770bf3dfa.jpg",
+                        "paste-a220611082e2a7fa760e5c0d4edeafb0c8f7ffec.jpg",
+                        "paste-a22cf0819a6fdce354b23fd0b8476c632bcc2ea8.jpg",
+                        "paste-a33426cf2474a44e8a5ee187b85863c7824bb0ae.jpg",
+                        "paste-a6ca99a5a528a7e27a73a9f9eb445bcb94296690.jpg",
+                        "paste-a825ef8d6e3cd3be349221629f973366189d1af7.jpg",
+                        "paste-ab585944af7aeffec593fa78708aa0bff5a40d0f.jpg",
+                        "paste-add48da8cd25de0c5681965a00ca7c55fae92fbc.jpg",
+                        "paste-b069b85bfce76e753428b5fb99ee16a783049804.jpg",
+                        "paste-b40af249ad2b1de2dfa30ba20d2d07b63c141b5b.jpg",
+                        "paste-b7c6e815f4a5eec53076a4463907ccd20abafc89.jpg",
+                        "paste-bb62dc9a28b69a75bd51e1836c124aa840d8c4d4.jpg",
+                        "paste-bc40b5f31eb822c0510d3a9446f44e6541689c0c.jpg",
+                        "paste-bf946470c789943c57099ac817141d906fa7df1d.jpg",
+                        "paste-c24db33615390d316ad1395ffec0becbc2b12dd4.jpg",
+                        "paste-c33761476e43c010efe5a1954facca1f44d5dda1.jpg",
+                        "paste-c3594a17e55b0d86abba98a8b41f8936531e6be2.jpg",
+                        "paste-c5faf96d5eb5d8ec31bf614c1e394d4c2d629fd8.jpg",
+                        "paste-c76d73febbbfd2417ced4755c1f00ea1000a95a4.jpg",
+                        "paste-c7e97f4ef9c1d6ba8a0dfbbb9c8ec6f6f39b0abe.jpg",
+                        "paste-c88ea3cd60ee7880f715f7dada3693e33836e7f0.jpg",
+                        "paste-cbf08be41ea9a2faf6e88ada3d6e926408d95a7e.jpg",
+                        "paste-cc5a86a87447c07d6d40a501092cd9e304a41fae.jpg",
+                        "paste-ce13cd16059e8701f2203a72d66bf1ba90bde201.jpg",
+                        "paste-ced0776c326e056b1029e5cb3b3c60170d1b7593.jpg",
+                        "paste-cf4946afc0958bda46c18eed69480db08e1d2b69.jpg",
+                        "paste-d247a63411acd0ee1e4dd8bd360bfc28d39e2408.jpg",
+                        "paste-d2c5d3705ffb83cda8eeb5886200db5f0ad44a59.jpg",
+                        "paste-d2dc9fb45563c2fbc5953ba3dc6c1c2a3fbbf150.jpg",
+                        "paste-d6324afe87344f6e1a9cb576b791e79714721b9d.jpg",
+                        "paste-d6d4dae046600a171f8cc2d6f02fc6aba193231f.jpg",
+                        "paste-d759421ecf024dd8c801b65b90a40b49a9f10c0d.jpg",
+                        "paste-d94e825c7cacf0aa8224364b045b7190991671da.jpg",
+                        "paste-dd99e5626419332b822357854d5b346170191b9b.jpg",
+                        "paste-de54d74173273124c0f8e91668948c6d263294e1.jpg",
+                        "paste-e251f757ab6dedb658b866bb206d4b94fc212822.jpg",
+                        "paste-e2d574407e59622f6389664f6d4632f98bea8b99.jpg",
+                        "paste-e84b2e60e4985f7a918f75a4f3a2a252efc5c014.jpg",
+                        "paste-ea014a4e6fed609e63af4ef3dd8e8ef10ba35c77.jpg",
+                        "paste-ee3e0e167c4a7704d5fb397cfabdc3b6c9cd4961.jpg",
+                        "paste-efb7dee6e71c86b82cfeb978d5f12d13eee38965.jpg",
+                        "paste-f182371f5eae5fac853e817f68502c54e8eddbb2.jpg",
+                        "paste-f19fe140c94bf1063a1fbb8635a46a309126b2bd.jpg",
+                        "paste-f3ae91cf3e5a59704342d53f81f2b3630df16f9a.jpg",
+                        "paste-f92dfccdb6f3ea61fe77d333f73fc8e0d9bd7dbe.jpg",
+                        "paste-f9a49b591a2a1a914c843ca846b16c9736dbb533.jpg",
+                        "paste-f9c8c238ca3c900742d17553538be9f0f1901a1b.jpg",
+                        "paste-faf9500c57efc2e7736df21238bcdf7cfd885c33.jpg",
+                        "paste-fdaa3dead0b5470b3deaef34ebec23600e1b30a5.jpg",
+                        "paste-ff6287025c9602818d50a304d2e9ae9ef6e88147.jpg"
+                    ],
+                    "name": "Kombinatorika a grafy 2",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Největší/maximální párování",
+                                "<img src=\"paste-172a76989bad832380061a101fbceec75f92aae9.jpg\">"
+                            ],
+                            "guid": "l2<&B*9q;4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Volný vrchol",
+                                "<img src=\"paste-ea014a4e6fed609e63af4ef3dd8e8ef10ba35c77.jpg\">"
+                            ],
+                            "guid": "CsupZD^VUW",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(volná) střídavá cesta",
+                                "<img src=\"paste-468ee9c5c3a10ddeb713e6253d9088f731f64a4d.jpg\">"
+                            ],
+                            "guid": "eixI@#iE`=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-cc5a86a87447c07d6d40a501092cd9e304a41fae.jpg\">",
+                                "<img src=\"paste-0e051d99b2dc7cfe191e50d525db8d504e977a17.jpg\">"
+                            ],
+                            "guid": "uOz%9i|~,g",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Květ, stonek, kytka",
+                                "<img src=\"paste-39d88a5993b7931d8c465d733222e24d0ebeb8cc.jpg\">"
+                            ],
+                            "guid": "P8Q]H/6!UB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-4762c0abbe08ba36f4353d5396679a24200e936a.jpg\">",
+                                "<a href=\"http://www.cs.dartmouth.edu/~ac/Teach/CS105-Winter05/Handouts/tarjan-blossom.pdf\">Sketchy notes on [...] blossom algorithm for general matching</a>"
+                            ],
+                            "guid": "eYMK`$eQK3",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Edmondsův algoritmus",
+                                "<img src=\"paste-e2d574407e59622f6389664f6d4632f98bea8b99.jpg\">"
+                            ],
+                            "guid": "jzfb#fE!(7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-b40af249ad2b1de2dfa30ba20d2d07b63c141b5b.jpg\">",
+                                "Oargumentovat z lemmatu pro VSC + kontrakci květu."
+                            ],
+                            "guid": "JA72:Sk0RB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Perfektní párování",
+                                "<img src=\"paste-cbf08be41ea9a2faf6e88ada3d6e926408d95a7e.jpg\">"
+                            ],
+                            "guid": "bS4B/btO|7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Tutteova podmínka",
+                                "<img src=\"paste-f92dfccdb6f3ea61fe77d333f73fc8e0d9bd7dbe.jpg\">"
+                            ],
+                            "guid": "QT|P7{$y0Q",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Tutteova věta",
+                                "<img src=\"paste-4955f738d071aa2757e0cdec750058ecb8fc47b6.jpg\"><br><img src=\"paste-1b57c7f34edc64a9186bb29442df2af7a9df1482.jpg\"><br><img src=\"paste-b069b85bfce76e753428b5fb99ee16a783049804.jpg\"><br><img src=\"paste-335a7894d410508d46c7506cade964aff6b057b0.jpg\"><br><img src=\"paste-1189a30335019a70583a673b73cbe359013002b7.jpg\">"
+                            ],
+                            "guid": "znqB3e/~ed",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Petersenova věta",
+                                "<img src=\"paste-0edc95142529edab1233fb336833e6dacfb87538.jpg\"><img src=\"paste-838c025b8c648dda17fcafde09235d6d3a58a90e.jpg\"><br>---<br>Mnemotechnika, protože jsem hloupý: důkaz&nbsp;<b>P</b>etersena&nbsp;je přes <b>P</b>očítání hran"
+                            ],
+                            "guid": "elQP-:AFa*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LoKH",
+                                "<img src=\"paste-0b19d7057c744bea30485b12b6e393b15ecd1006.jpg\"><br><img src=\"paste-ced0776c326e056b1029e5cb3b3c60170d1b7593.jpg\"><br><img src=\"paste-918ab9d00cb06c355901ded9eb6efa39bcf01602.jpg\"><br>---<br>Mnemotechnická: tohle lemma je tak extra, že má má další lemma"
+                            ],
+                            "guid": "h)QaV$3]~b",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Tutteova charakterizace 3-souvislých grafů",
+                                "<img src=\"paste-c24db33615390d316ad1395ffec0becbc2b12dd4.jpg\"><br><img src=\"paste-0e6fe8e2a435af2462df0684965a97c6b7979bd2.jpg\">"
+                            ],
+                            "guid": "BBI){$(D4=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Minor",
+                                "<img src=\"paste-8efd7fb38950f449da2eab3ccb2f030daa30faa5.jpg\">"
+                            ],
+                            "guid": "r0l4fl&p;Y",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kuratowského věta",
+                                "<img src=\"paste-0877533ec0ed3bd3b978536762d60372010d2d6e.jpg\"><br><img src=\"paste-7a4ed3e47b97ad9ff91f3c048983570b81efc8c6.jpg\"><br><img src=\"paste-312d20fdcc0b24b65456d1a2f78d427e18993738.jpg\"><br><img src=\"paste-6f6160855feed2b8133335e300fd6d3a37f6dd17.jpg\"><br><img src=\"paste-58f6dd93af72be9f68cd522823a826b4c9b13f8c.jpg\">"
+                            ],
+                            "guid": "k00loTy4<y",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Homeomorfismus",
+                                "<img src=\"paste-f9a49b591a2a1a914c843ca846b16c9736dbb533.jpg\">"
+                            ],
+                            "guid": "s0lDrTh*-X",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Plocha",
+                                "<img src=\"paste-7e143bfc827c2ed6313b4b7887c06b09468b8530.jpg\">"
+                            ],
+                            "guid": "nlIFgf]Ijr",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Operace s plochami",
+                                "<img src=\"paste-26880912ddd01af2e33859134c84bdb7c0c337b7.jpg\">"
+                            ],
+                            "guid": "bcUt1xmI`4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(ne)orientovatelná plocha",
+                                "<img src=\"paste-e84b2e60e4985f7a918f75a4f3a2a252efc5c014.jpg\">"
+                            ],
+                            "guid": "O|qp+a|ZvU",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nakreslení grafu",
+                                "<img src=\"paste-6d2089cb694ffebc4b3b00acec9d0b6d7f88e435.jpg\">"
+                            ],
+                            "guid": "kvh%v0e?3_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stěna nakreslení",
+                                "<img src=\"paste-f9c8c238ca3c900742d17553538be9f0f1901a1b.jpg\">"
+                            ],
+                            "guid": ">uT9g|CWb",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Buňkové nakreslení",
+                                "<img src=\"paste-cf4946afc0958bda46c18eed69480db08e1d2b69.jpg\">"
+                            ],
+                            "guid": "s*Ss|msPN3",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Eulerova charakteristika plochy",
+                                "<img src=\"paste-a6ca99a5a528a7e27a73a9f9eb445bcb94296690.jpg\">"
+                            ],
+                            "guid": "P%]c/^_>7d",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zobecněná Eulerova formule",
+                                "<img src=\"paste-74ffa8cdbc110b5c940628b05110b588a4eef7f5.jpg\"><br><img src=\"paste-d247a63411acd0ee1e4dd8bd360bfc28d39e2408.jpg\">"
+                            ],
+                            "guid": "njc%6=?IoY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-2679d224912803b2c5414f2e325fa25e808be104.jpg\">",
+                                "<img src=\"paste-546d63ae1fb771dad7a22bd262d4000f078bc957.jpg\">"
+                            ],
+                            "guid": "AQ:3ZcOhIZ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-949a0396b33f908ca1c24cf9609461f6ed040cd6.jpg\">",
+                                "<img src=\"paste-a825ef8d6e3cd3be349221629f973366189d1af7.jpg\">"
+                            ],
+                            "guid": "j+mq&N*z,J",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-37e0097aacce91db5fd719ec819813cf25113196.jpg\">",
+                                "<img src=\"paste-7ae29bbed133a7f15e1b45bd592739058234f4f5.jpg\">"
+                            ],
+                            "guid": "PM|Oa<N=)`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d-degenerovanost",
+                                "<img src=\"paste-add48da8cd25de0c5681965a00ca7c55fae92fbc.jpg\">"
+                            ],
+                            "guid": "Czzf3>~]#4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "barevnost, stupeň",
+                                "<img src=\"paste-ff6287025c9602818d50a304d2e9ae9ef6e88147.jpg\">"
+                            ],
+                            "guid": "FEsG3D>!Y9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Brooksova věta",
+                                "<img src=\"paste-ab585944af7aeffec593fa78708aa0bff5a40d0f.jpg\"><img src=\"paste-6569bcfca223e6d98df221cb84567b8ccebe3fa9.jpg\"><br><img src=\"paste-0c3c04fe2031677e32c9c05b916b37ae5aba9049.jpg\"><br><img src=\"paste-e251f757ab6dedb658b866bb206d4b94fc212822.jpg\"><br><img src=\"paste-82710883103007c7afb220b7545ba696ce8fa433.jpg\"><br><img src=\"paste-fdaa3dead0b5470b3deaef34ebec23600e1b30a5.jpg\">"
+                            ],
+                            "guid": "dC4&V=j9mO",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Harwigerova doměnka",
+                                "<img src=\"paste-f182371f5eae5fac853e817f68502c54e8eddbb2.jpg\">"
+                            ],
+                            "guid": "NL[8nVv&#f",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-8e2c814ac08309f63ec815b9be0262d7d1e5ede8.jpg\">",
+                                "<img src=\"paste-558924464d81d701fcb2cc58a7112548cb129f42.jpg\">"
+                            ],
+                            "guid": "j`HpPqL);@",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hranové barvení",
+                                "<img src=\"paste-300bd7106375aee74eb9b35df7d7f3b329642d17.jpg\">"
+                            ],
+                            "guid": "k/FS^}Qs@;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vizingova věta",
+                                "<img src=\"paste-faf9500c57efc2e7736df21238bcdf7cfd885c33.jpg\">"
+                            ],
+                            "guid": "vOjRn4duIs",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Slabá věta o perfektních grafech",
+                                "<img src=\"paste-efb7dee6e71c86b82cfeb978d5f12d13eee38965.jpg\">"
+                            ],
+                            "guid": "GZIK:(gh}`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chordální graf",
+                                "<img src=\"paste-d6324afe87344f6e1a9cb576b791e79714721b9d.jpg\">"
+                            ],
+                            "guid": "m?XxEN]Iq*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(x\\)-\\(y\\)-řez",
+                                "<img src=\"paste-a1ebfd91a818bc9e84e95de1dcbf22d770bf3dfa.jpg\">"
+                            ],
+                            "guid": "d[{_kn.q;d",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Charakterizace chordálních grafů přes kliky a řezy",
+                                "<img src=\"paste-9b1382217f714e9bc8c338c17ce729e436075d9a.jpg\"><br><img src=\"paste-bc40b5f31eb822c0510d3a9446f44e6541689c0c.jpg\">"
+                            ],
+                            "guid": "t8{>M.BPX[",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Simpliciální vrchol",
+                                "<img src=\"paste-74aef461aa32af8548c6173634ed5c1da5c85293.jpg\">"
+                            ],
+                            "guid": "ud0Zzz*zU<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f3ae91cf3e5a59704342d53f81f2b3630df16f9a.jpg\">",
+                                "<img src=\"paste-6e3a4b14db202d1eef39c0efb1588da21ad55d06.jpg\">"
+                            ],
+                            "guid": "pGXn~VKBKN",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "PES",
+                                "<img src=\"paste-114a094517757fc15b07515d4d7b747259bdf4e4.jpg\"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Ok, tady je definice.<br>---<br><img src=\"paste-d6d4dae046600a171f8cc2d6f02fc6aba193231f.jpg\">"
+                            ],
+                            "guid": "E3goIETxjp",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-7eb62aec388d380a1e8c8f3dd33bc2d1e144d747.jpg\">",
+                                "<img src=\"paste-3fccbd691c28385681d893099433dcc9924d8ba9.jpg\">"
+                            ],
+                            "guid": "t4`mL9cb+N",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hamiltonovský graf",
+                                "<img src=\"paste-4dd833f8c24944f6a8d57ece45a28e4ad220e3d6.jpg\">&nbsp;"
+                            ],
+                            "guid": "E2s2$1l*V[",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bondyho-Chvátalova",
+                                "<img src=\"paste-069929050452387db0a12953e0ad9f0a24f4b096.jpg\"><br><img src=\"paste-715642f81904c0458c8755f756b9fce13897222c.jpg\">"
+                            ],
+                            "guid": "uZ|Q5Mn`w2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Divacova věta",
+                                "<img src=\"paste-a22cf0819a6fdce354b23fd0b8476c632bcc2ea8.jpg\">"
+                            ],
+                            "guid": "L),C:y+|jW",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Multigraf",
+                                "<img src=\"paste-46542815c523829dc829df2b8095fbf91f8ab413.jpg\">"
+                            ],
+                            "guid": "f><{49PScW",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Most multigrafu",
+                                "<img src=\"paste-bb62dc9a28b69a75bd51e1836c124aa840d8c4d4.jpg\">"
+                            ],
+                            "guid": "v6bc`dkR!+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hodnost/rank grafu",
+                                "<img src=\"paste-47d2f46d33e771069fcc691c4512b4045892594c.jpg\">"
+                            ],
+                            "guid": "xVwD[Z~aqi",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Intuice za rankem a nulitou grafu",
+                                "<img src=\"paste-42783bfb3096f807578a48973a7799e6beea0100.jpg\"><br>---<br><img src=\"paste-050515a8f46c0cf1bec2e0cf06d779eec83907af.jpg\">"
+                            ],
+                            "guid": "D%w~nzj^BM",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nulita",
+                                "<img src=\"paste-8e3193c584436ffb12121feda773510e86b4f9fe.jpg\">"
+                            ],
+                            "guid": "C.Ac744f*e",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Změny ranku/nulity s přidáváním hran",
+                                "<img src=\"paste-995649724a1569be6f4dc44687414f90e0ad1fb9.jpg\">"
+                            ],
+                            "guid": "PzT.oNv<GP",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Tutteův polynom",
+                                "<img src=\"paste-50455d55d42c67bb703d4362c18d9958420dbee3.jpg\">"
+                            ],
+                            "guid": "l?_r5)aNio",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-c5faf96d5eb5d8ec31bf614c1e394d4c2d629fd8.jpg\">",
+                                "<img src=\"paste-0fa4a3fb8d512d08cbaa65f6e20504da335f9fca.jpg\">"
+                            ],
+                            "guid": "Bo/+!>-T}<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-ce13cd16059e8701f2203a72d66bf1ba90bde201.jpg\">",
+                                "<img src=\"paste-947357a34ad1aee5575f46cc117736486a4ac5fd.jpg\">"
+                            ],
+                            "guid": "e.nFbu5$~2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rekurence Tutteova polynomu",
+                                "<img src=\"paste-c3594a17e55b0d86abba98a8b41f8936531e6be2.jpg\"><br><img src=\"paste-c33761476e43c010efe5a1954facca1f44d5dda1.jpg\">"
+                            ],
+                            "guid": "IdFj?,It#@",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chromatický polynom",
+                                "<img src=\"paste-ee3e0e167c4a7704d5fb397cfabdc3b6c9cd4961.jpg\">"
+                            ],
+                            "guid": "F{)o%oIsUo",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Formální mocninná řada",
+                                "<img src=\"paste-f19fe140c94bf1063a1fbb8635a46a309126b2bd.jpg\">"
+                            ],
+                            "guid": "u|Skg!_7Qh",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Převrácená hodnota",
+                                "<img src=\"paste-b7c6e815f4a5eec53076a4463907ccd20abafc89.jpg\">"
+                            ],
+                            "guid": "wOL,v)hT2?",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-c88ea3cd60ee7880f715f7dada3693e33836e7f0.jpg\">",
+                                "<img src=\"paste-c7e97f4ef9c1d6ba8a0dfbbb9c8ec6f6f39b0abe.jpg\">"
+                            ],
+                            "guid": "Eqn4f{~QMt",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Složení",
+                                "<img src=\"paste-10e9cb2ad70d18db72a4320f6c640c0e65ae6c32.jpg\">"
+                            ],
+                            "guid": "xWuIY?xNNy",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Derivace (FMŘ)",
+                                "<img src=\"paste-60f3af9eacef7599ee2d81d2dcdab5abb34d1a5c.jpg\">"
+                            ],
+                            "guid": "Q?c-0>ZO4c",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Obyčejná vytvořující funkce",
+                                "<img src=\"paste-dd99e5626419332b822357854d5b346170191b9b.jpg\">"
+                            ],
+                            "guid": "ow]bK!#X,%",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad na FMŘ",
+                                "<img src=\"paste-63e48c510d5cc1c34195eaf2f5bc00e7ad805d11.jpg\"><br><img src=\"paste-210c3c2ae5fad197f5956ec9bc80f827309768e7.jpg\">"
+                            ],
+                            "guid": "C*B{6sR}~<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pohádka o EVF",
+                                "<img src=\"paste-0d10764f1e2e56a4c66650330d7897408dc5f983.jpg\"><br><img src=\"paste-bf946470c789943c57099ac817141d906fa7df1d.jpg\"><br><img src=\"paste-556c28ed5ff9149d8e8a57134a034dd8e9878720.jpg\">"
+                            ],
+                            "guid": "j/74LIO5VD",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Exponenciální vytvořující funkce",
+                                "<img src=\"paste-3606ddc118ec8986167bcdc7a0c26cc94df49df6.jpg\">"
+                            ],
+                            "guid": "z9N7#&XLY=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pozorování o EVF",
+                                "<img src=\"paste-1ad1cb72825e9cd7e48b8449a77c2edf413bd08d.jpg\">"
+                            ],
+                            "guid": "w&DVqBOTy9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Akce grupy",
+                                "<img src=\"paste-d94e825c7cacf0aa8224364b045b7190991671da.jpg\">"
+                            ],
+                            "guid": "cg8_9xdT>U",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-98f2f3afd5a89ffac6f3fcea42dffd94f5fb0439.jpg\">",
+                                "<img src=\"paste-a220611082e2a7fa760e5c0d4edeafb0c8f7ffec.jpg\">"
+                            ],
+                            "guid": "PN/HJy&c8U",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Množina pevných bodů",
+                                "<img src=\"paste-456bccfccb6c44e32475d74816e39e4b459f61da.jpg\">"
+                            ],
+                            "guid": "d=QFq/^hJs",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stabilizátor&nbsp;",
+                                "<img src=\"paste-a33426cf2474a44e8a5ee187b85863c7824bb0ae.jpg\">"
+                            ],
+                            "guid": "k-L#IpW{yU",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pozorování o pevných bodech a stabilizátorech",
+                                "<img src=\"paste-602d0f7531428ed7c97d39e7bd696c0f18d481e4.jpg\">"
+                            ],
+                            "guid": "MGq09@Owp7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Orbita",
+                                "<img src=\"paste-0595b1c17886289c9f7f23d18301c89b54420584.jpg\">"
+                            ],
+                            "guid": "H*mv^}PGYW",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pojmy Burnsideova lemmatu na příkladu",
+                                "<img src=\"paste-5b895bd9520f173360f5dd0e987b09a2c5e3c95c.jpg\">"
+                            ],
+                            "guid": "Ave=,0R5kq",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lemma o orbitě stabilizátoru",
+                                "<img src=\"paste-4b43cf3c7220d1cc85545340bca09fc76fa8c2b3.jpg\"><br><img src=\"paste-057f5bf7059563255feca9521742f41741d1f653.jpg\">"
+                            ],
+                            "guid": "RaIeidc2]a",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Burnsideovo lemma",
+                                "<img src=\"paste-81d4bd5e4d7ffccc0daab1bd1c43ad6d9c8ecfad.jpg\"><br><img src=\"paste-53b004ed1a73d8e4e66dbcc857209afab2cab6ae.jpg\">"
+                            ],
+                            "guid": "u0Aow_/w=+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad na obecnější verzi Burnsideova lemmatu",
+                                "<img src=\"paste-11219c2c1d14647652eba720931994b7cf629d0c.jpg\"><br><img src=\"paste-9bbac65694e6b79bf866e456859f77cdd4397e7b.jpg\">"
+                            ],
+                            "guid": "vq76C,k9qy",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\mathrm{ex}(n, G)\\)",
+                                "<img src=\"paste-d2dc9fb45563c2fbc5953ba3dc6c1c2a3fbbf150.jpg\">"
+                            ],
+                            "guid": "b7if6G]xji",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(T_k(n)\\)",
+                                "<img src=\"paste-d759421ecf024dd8c801b65b90a40b49a9f10c0d.jpg\">"
+                            ],
+                            "guid": "s*1^?WFqi0",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-d2c5d3705ffb83cda8eeb5886200db5f0ad44a59.jpg\">",
+                                "<img src=\"paste-de54d74173273124c0f8e91668948c6d263294e1.jpg\">"
+                            ],
+                            "guid": "gFEZi>>&::",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-c76d73febbbfd2417ced4755c1f00ea1000a95a4.jpg\">",
+                                "<img src=\"paste-1f3784f00f20930e14bf73eca7d5e5411148707a.jpg\">"
+                            ],
+                            "guid": "kv5dKj.,~5",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-0d5788f3e122956aff18d0f7b572147aeb89780f.jpg\">",
+                                "<img src=\"paste-30970da087095bfcc21a23e866867800b09ad33d.jpg\">"
+                            ],
+                            "guid": "gU3eH[?5rr",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\mathrm{ex}(n, G)\\) pro minory",
+                                "<img src=\"paste-48c06941eb68c968fc0b674b49eb52f2e506a23a.jpg\"><br><img src=\"paste-8ce915c2f5b10f055c7e03390d88c997ebbefd97.jpg\">"
+                            ],
+                            "guid": "f)v/!juSyX",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-3bb0744140c8cedb9895e3663bf56f54df38bbec.jpg\">",
+                                "<img src=\"paste-14643aac08d0c1655418ea3b655c624314f5a160.jpg\">"
+                            ],
+                            "guid": "ebV2@2~:[!",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(k\\)-uniformní hypergraf, pronikající systém množin",
+                                "<img src=\"paste-810df4bef8137bbf28b3f4e2d3ee4e01a12d2c52.jpg\">"
+                            ],
+                            "guid": "ti^B-qdkW7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erdös-Ko-Rado věta (a zbylé případy)",
+                                "<img src=\"paste-120b12174d7edc188b546c750e8334241a467c1d.jpg\"><br><img src=\"paste-17fd59db25c98f065521ccf0a3db832a02284692.jpg\"><br><img src=\"paste-48caa3a8b921e64f700784f2c6fb614b9e2bb66f.jpg\">"
+                            ],
+                            "guid": "N2-SjRuTQ`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
                     "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "461c8d8c-c3c3-11eb-9f02-88d7f63eab01",
@@ -17170,7 +18433,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Elipsoidová metoda",
-                                "Ve skriptech není, stačí asi znát koncept?<div>---</div><div>- máme elipsu, která obsahuje náš mnohostěn řešení.</div><div>- najdeme podmínku, pro kterou platí, že celý mnohostěn je na jedné straně</div><div>- uděláme elipsoid menšího objemu, aby opět zahrnoval mnohostěn</div><div>- umíme to <b>polynomiálně rychle</b></div><div><br></div><div><img src=\"paste-997ea7d6b0af0af2838d43995aa44a1d139e6f0d.jpg\"><br></div>"
+                                "<div>- máme elipsu, která obsahuje náš mnohostěn řešení.</div><div>- najdeme podmínku, pro kterou platí, že celý mnohostěn je na jedné straně</div><div>- uděláme elipsoid menšího objemu, aby opět zahrnoval mnohostěn</div><div>- umíme to <b>polynomiálně<br>---</b></div><div><img src=\"paste-997ea7d6b0af0af2838d43995aa44a1d139e6f0d.jpg\"><br></div>"
                             ],
                             "guid": "d0`L@fj{dX",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
