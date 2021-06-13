@@ -30,7 +30,8 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - Výroková a predikátová logika (EN)
 
 ### 4. semestr
+- Anglický Jazyk (TODO)
 - Automaty a gramatiky (TODO)
-- Kombinatorika a grafy (TODO)
+- Kombinatorika a grafy
 - Lineární programování a kombinatorická optimalizace
 - Pravděpodobnost a statistika (TODO)
