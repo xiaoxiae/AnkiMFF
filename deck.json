@@ -16423,6 +16423,7 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "8834bc28-cc90-11eb-8cc3-88d7f63eab01",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -16430,6 +16431,7 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
+                    "inactiveTags": [],
                     "media_files": [
                         "paste-050515a8f46c0cf1bec2e0cf06d779eec83907af.jpg",
                         "paste-057f5bf7059563255feca9521742f41741d1f653.jpg",
@@ -16958,7 +16960,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Brooksova věta",
-                                "<img src=\"paste-ab585944af7aeffec593fa78708aa0bff5a40d0f.jpg\"><img src=\"paste-6569bcfca223e6d98df221cb84567b8ccebe3fa9.jpg\"><br><img src=\"paste-0c3c04fe2031677e32c9c05b916b37ae5aba9049.jpg\"><br><img src=\"paste-e251f757ab6dedb658b866bb206d4b94fc212822.jpg\"><br><img src=\"paste-82710883103007c7afb220b7545ba696ce8fa433.jpg\"><br><img src=\"paste-fdaa3dead0b5470b3deaef34ebec23600e1b30a5.jpg\">"
+                                "<img src=\"paste-ab585944af7aeffec593fa78708aa0bff5a40d0f.jpg\"><img src=\"paste-6569bcfca223e6d98df221cb84567b8ccebe3fa9.jpg\"><br><img src=\"paste-0c3c04fe2031677e32c9c05b916b37ae5aba9049.jpg\"><br><img src=\"paste-e251f757ab6dedb658b866bb206d4b94fc212822.jpg\"><br><img src=\"paste-82710883103007c7afb220b7545ba696ce8fa433.jpg\"><br><img src=\"paste-fdaa3dead0b5470b3deaef34ebec23600e1b30a5.jpg\"><br>---<br>MP: Bro<b>ok</b>s <b>ko</b>stra"
                             ],
                             "guid": "dC4&V=j9mO",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16970,7 +16972,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Harwigerova doměnka",
+                                "Hadwigerova doměnka",
                                 "<img src=\"paste-f182371f5eae5fac853e817f68502c54e8eddbb2.jpg\">"
                             ],
                             "guid": "NL[8nVv&#f",
@@ -17321,7 +17323,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Převrácená hodnota",
+                                "Převrácená hodnota FMŘ",
                                 "<img src=\"paste-b7c6e815f4a5eec53076a4463907ccd20abafc89.jpg\">"
                             ],
                             "guid": "wOL,v)hT2?",
@@ -17347,7 +17349,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Složení",
+                                "Složení FMŘ (kdy je možné)<br>",
                                 "<img src=\"paste-10e9cb2ad70d18db72a4320f6c640c0e65ae6c32.jpg\">"
                             ],
                             "guid": "xWuIY?xNNy",
@@ -17620,8 +17622,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-0d5788f3e122956aff18d0f7b572147aeb89780f.jpg\">",
-                                "<img src=\"paste-30970da087095bfcc21a23e866867800b09ad33d.jpg\">"
+                                "Turánova věta",
+                                "<img src=\"paste-0d5788f3e122956aff18d0f7b572147aeb89780f.jpg\"><br><img src=\"paste-30970da087095bfcc21a23e866867800b09ad33d.jpg\">"
                             ],
                             "guid": "gU3eH[?5rr",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
