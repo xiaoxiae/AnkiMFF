@@ -16423,6 +16423,849 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c766acf2-d132-11eb-aae0-88d7f63eab01",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-038e112c02f7ee587c4a5ec649bbb2dda6e41c34.jpg",
+                        "paste-03d772717b55515109e577dc31b2e427678fbade.jpg",
+                        "paste-04124f208c4cb724bb87e664673ce34044b305dc.jpg",
+                        "paste-082810ed85600a48f955f074ec252fff9c4c33b0.jpg",
+                        "paste-0b27ab04f4c5c8c7db4e87751ed2f1021ffb06e1.jpg",
+                        "paste-0d8bca45ea4e916db1ce624bd033ee1cda312745.jpg",
+                        "paste-10864728f03affd3476bdfb39f3c89ec119f4ba2.jpg",
+                        "paste-159937b659cef29807c4d28fa5e37031b755e976.jpg",
+                        "paste-1763ee65e08ea5f744e9cfb6debff93a23e67bfa.jpg",
+                        "paste-18138670c27e2372b0bd3b333c1344a4d44cbee6.jpg",
+                        "paste-19540880b6d6f58912619dcf2b29a5538660fa48.jpg",
+                        "paste-1ba11c972455ff285e7c1b2731d5110dae7997a9.jpg",
+                        "paste-1bc5b53d621f245d484251b6199d3f37f5b2fb6b.jpg",
+                        "paste-1ea73eac11eb06935b86762084a412c69d9ab062.jpg",
+                        "paste-22d598de1edaf6002ae915e0b42f78c0f11417c2.jpg",
+                        "paste-24e2c2641675cdb8287457a6bf6d3ba7b3dad74e.jpg",
+                        "paste-272e4dc0e2ff5355427c9df82699562e17ce6668.jpg",
+                        "paste-2d858cbbfa60b2f812553bf04accd0b487fbf93e.jpg",
+                        "paste-2e2e94b3c6c1e7a8c678bf6fd96d420278781080.jpg",
+                        "paste-319cd5474d6161f24c9533f18db94d108b6b411b.jpg",
+                        "paste-33eb1a78a16d83882e0b5a8ff080f72f3a372fd3.jpg",
+                        "paste-34d7af10bc0ca3e7c63b266c053eb21bc6a48f57.jpg",
+                        "paste-3581e67cfb4132c1aae14f52c1c89817557c2d06.jpg",
+                        "paste-35d2f5e265c2a9cf5f4a628fd895227abcff051b.jpg",
+                        "paste-37d31842e3cf7e3c6a89a4b6fcd282c1e2616a28.jpg",
+                        "paste-383910497645723e2fcc331285458a8824c61da6.jpg",
+                        "paste-38cafc5726b4aa5ba1ba2b9ccc7456bc62f9d94e.jpg",
+                        "paste-3a446fb2aec400e7d93a0dddfb8527313a560349.jpg",
+                        "paste-3c4796da16ce42dbda0a0bba951ff9e8d8785d56.jpg",
+                        "paste-409586fae57fbc5590c0cffe1d67ff29e1284911.jpg",
+                        "paste-41fed07cbcaf0afb6d919b568194e18a10544936.jpg",
+                        "paste-423f9d91510973375751ff192d52f10b4a82d92f.jpg",
+                        "paste-43b44945c9e0af0ecb3f6b8c4a52af7e48125cef.jpg",
+                        "paste-43e0b31220aae6b5e3b5c8463dfa746026a98cf2.jpg",
+                        "paste-455a34f3f78635786b36c125fe9e2e278cdaa507.jpg",
+                        "paste-46d7ea0c499340506a8f1d8e732b3886dc4087c0.jpg",
+                        "paste-47689d56445b7c4d1a05c966c165bf7fdfadcb0c.jpg",
+                        "paste-47af7f063e03825b1c83ff7c66303e564b261686.jpg",
+                        "paste-47fc8a0cd62502877927b03c760d909b8fe0c2ff.jpg",
+                        "paste-4c473810f845c1766035d82580e0abb2ef8a0815.jpg",
+                        "paste-4ee99e2afc64afa2b629ae8ba5131cdf97b9d739.jpg",
+                        "paste-523d9ebc57a7855a8edbcf6fe40bff122a6472e8.jpg",
+                        "paste-52973e5ffa45f84410d891059d6a15ac7449ab30.jpg",
+                        "paste-53abdae90fc8c0e76cb2948dbd4145d51dd3fb4e.jpg",
+                        "paste-5657189a881fdd9d021d90dd841343b1234e877d.jpg",
+                        "paste-56aa3d8425d6a50e88a6d640ff57ac5b9910555c.jpg",
+                        "paste-5a5867cd8138ad9cae257cddf2ac50dbe3ddeea9.jpg",
+                        "paste-5badf32d3085f0d1d1ecfc02d3281f320caa2ce4.jpg",
+                        "paste-5d6113b05132bb0ccb598e69b1f0864c35bd8ca9.jpg",
+                        "paste-6080dda7a5b8ce870a4b6d89d5c21c5b0f6927ad.jpg",
+                        "paste-6198cbed616f4fda57899e11c79e6031e6b43a21.jpg",
+                        "paste-63ca71be6fc77406597edbcf3859aa58f2e498f8.jpg",
+                        "paste-64340b573bb45a0dc6246680a103726c293cf634.jpg",
+                        "paste-64b1e1ab1758ff6e47e8ce34e7eef44607866539.jpg",
+                        "paste-664637c904edf1309f0a69b610216b1cbca74f9a.jpg",
+                        "paste-675e012c65efca28445707de713051a48f8d1a14.jpg",
+                        "paste-693a7b8e8149b03261d1be4f49eaf883c7b49d35.jpg",
+                        "paste-7076a3928155f83ef9e38ef157f63e9f6b7e6b2e.jpg",
+                        "paste-75080fd2f5748c60d5dd7afc835ab53b2097bf47.jpg",
+                        "paste-79c913a3678dc1d5f0fc0db8471c089ba82fb0cc.jpg",
+                        "paste-7e4928e8d8ce68e3bef47deb25f8ae00418094d5.jpg",
+                        "paste-80e93ba8d4c11ae9c2a82df13f7f04acc77f0a93.jpg",
+                        "paste-8849e03b25f6f0348cb114b1c63bef3a7805f735.jpg",
+                        "paste-88ebbd69081e5f484bffc29bcf1441ccf52d30ea.jpg",
+                        "paste-8d4e82cbec455c65d24fc3dfd61cd823c6e7a3ae.jpg",
+                        "paste-90078361c32fad90b1cbcfefb56e8e8969c95e2e.jpg",
+                        "paste-920ebbc1c80f8cf9573ef08817bb492dc0c0e867.jpg",
+                        "paste-973569ae562d5eeb4f92d53f8cf33d3ce8cecf9c.jpg",
+                        "paste-9947824699f4a937e98a76d2e628e24d3deb2d84.jpg",
+                        "paste-9cb88df4de89242668cee17d8c3b9fc728487969.jpg",
+                        "paste-a0f8dc8ddac1f275a2d178679d2b483d63287cce.jpg",
+                        "paste-a105f0ccff06a50b88a5c45035dfb9280c64a259.jpg",
+                        "paste-b8f530dead2d3662906bcf05e0b2c9db35c50741.jpg",
+                        "paste-b9c235b63be7a396870a44d9a4532b3a24710721.jpg",
+                        "paste-bd3ba2949a2e46b254e825bdcf50cd33b1941450.jpg",
+                        "paste-bf538e5dc4e06f7cde28c82e750497b9b76ab429.jpg",
+                        "paste-c4c45b21c3d715706e2b6096f6ff9e63f29b9f53.jpg",
+                        "paste-cd16f2dcabee299ff277d5f6aac8f458cf6e4e79.jpg",
+                        "paste-d1a45fff1754486bf0113df84b6e5e8cc28fead1.jpg",
+                        "paste-d4514c69bd752c211379071ae8a468c24af85226.jpg",
+                        "paste-d7bd5bd402a34b8da90502b76d11bcb21c205303.jpg",
+                        "paste-d87b18708b668a5ad199126f4de038d428b7df60.jpg",
+                        "paste-dee35bdab41da7faa03b9ab43e39e82f6ab1a4ea.jpg",
+                        "paste-ec4316b7a6b602586fb936db8f0547e9f0437a7f.jpg",
+                        "paste-ec65a8e0d349b059f57b215be399898284bbc94f.jpg",
+                        "paste-f0835b79770f50edd376c83be00711e7b5a8a9c2.jpg",
+                        "paste-f4bfd4e6ee85055a872b2979016aab643e7c1aed.jpg",
+                        "paste-f6d3d1728ed572b2428767ab09f1a04cb850726e.jpg",
+                        "paste-f853c10929d3d4989de530aa898aa7abc862d198.jpg",
+                        "paste-f8a3bad478dab32534244460da24eeb20ab9f4dd.jpg",
+                        "paste-fd1a81983f1b579fef08bd5806bac9031643504c.jpg",
+                        "paste-fd46ad17d4f580f30a0ce5a344ed1ed2b9d75d5a.jpg",
+                        "paste-fd51128de9711ff36ff6d9721b21e311d4f48da2.jpg",
+                        "paste-fe7cd9c588f906f5f308bd2627bfee14d4cd9486.jpg",
+                        "paste-ff3ef26f0cf79c9a627859bec7570b78b5ff4aad.jpg",
+                        "paste-ff688115e8c4d0cc4a1f40f7e85cae3de49e0c36.jpg"
+                    ],
+                    "name": "Automaty a Gramatiky",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "DFA",
+                                "<img src=\"paste-46d7ea0c499340506a8f1d8e732b3886dc4087c0.jpg\">"
+                            ],
+                            "guid": "p[?kf@{B8t",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Způsoby popisu konečného automatu",
+                                "<img src=\"paste-34d7af10bc0ca3e7c63b266c053eb21bc6a48f57.jpg\">"
+                            ],
+                            "guid": "If~ZE;v/;1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Abeceda, slovo, jazyk",
+                                "<img src=\"paste-43e0b31220aae6b5e3b5c8463dfa746026a98cf2.jpg\">"
+                            ],
+                            "guid": "d^Zz?-lVC",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozšířená přechodová funkce",
+                                "<img src=\"paste-64340b573bb45a0dc6246680a103726c293cf634.jpg\">"
+                            ],
+                            "guid": "h{9$g%^fD^",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Jazyk rozpoznatelný automatem",
+                                "<img src=\"paste-383910497645723e2fcc331285458a8824c61da6.jpg\">"
+                            ],
+                            "guid": "cgS3^/.?+t",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pumping lemma pro regulární jazyky",
+                                "<img src=\"paste-37d31842e3cf7e3c6a89a4b6fcd282c1e2616a28.jpg\"><br><img src=\"paste-80e93ba8d4c11ae9c2a82df13f7f04acc77f0a93.jpg\"><br><img src=\"paste-5657189a881fdd9d021d90dd841343b1234e877d.jpg\"><br><img src=\"paste-0b27ab04f4c5c8c7db4e87751ed2f1021ffb06e1.jpg\">"
+                            ],
+                            "guid": "kHHTC7V=M=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Součinový automat",
+                                "<img src=\"paste-35d2f5e265c2a9cf5f4a628fd895227abcff051b.jpg\">"
+                            ],
+                            "guid": "GeJJ8zm)^1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kongruence&nbsp;",
+                                "<img src=\"paste-bf538e5dc4e06f7cde28c82e750497b9b76ab429.jpg\">"
+                            ],
+                            "guid": "l1ikE_8.^1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Myhill-Nerodova věta",
+                                "<img src=\"paste-f6d3d1728ed572b2428767ab09f1a04cb850726e.jpg\"><br><img src=\"paste-52973e5ffa45f84410d891059d6a15ac7449ab30.jpg\">"
+                            ],
+                            "guid": "P@Sa#fEk/B",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad Myhill-Nerodovy věty",
+                                "<img src=\"paste-fd46ad17d4f580f30a0ce5a344ed1ed2b9d75d5a.jpg\">"
+                            ],
+                            "guid": "l#B^v9o@cY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-272e4dc0e2ff5355427c9df82699562e17ce6668.jpg\">",
+                                "<img src=\"paste-3a446fb2aec400e7d93a0dddfb8527313a560349.jpg\">"
+                            ],
+                            "guid": "ealZ^*9oB|",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dosažitelný stav (a jejich hledání)",
+                                "<img src=\"paste-75080fd2f5748c60d5dd7afc835ab53b2097bf47.jpg\">"
+                            ],
+                            "guid": "jVTv:,sRnb",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "algoritmus",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ekvivalence automatů",
+                                "<img src=\"paste-ff3ef26f0cf79c9a627859bec7570b78b5ff4aad.jpg\">"
+                            ],
+                            "guid": "JJ`uwu_/yb",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Automatový homomorfismus",
+                                "NEBUDE U ZKOUŠKY&gt;<br>---<br><img src=\"paste-88ebbd69081e5f484bffc29bcf1441ccf52d30ea.jpg\">"
+                            ],
+                            "guid": "oX>2KY_ido",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-6080dda7a5b8ce870a4b6d89d5c21c5b0f6927ad.jpg\">",
+                                "<img src=\"paste-fd1a81983f1b579fef08bd5806bac9031643504c.jpg\">0"
+                            ],
+                            "guid": "K.1o@92A7N",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ekvivalence stavů",
+                                "<img src=\"paste-10864728f03affd3476bdfb39f3c89ec119f4ba2.jpg\">"
+                            ],
+                            "guid": "LS=?<x0a^$",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Algoritmus hledání rozlišitelných stavů",
+                                "<img src=\"paste-47fc8a0cd62502877927b03c760d909b8fe0c2ff.jpg\"><br><img src=\"paste-664637c904edf1309f0a69b610216b1cbca74f9a.jpg\"><br><img src=\"paste-d1a45fff1754486bf0113df84b6e5e8cc28fead1.jpg\">"
+                            ],
+                            "guid": "M(e11,_<4A",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Testování ekvivalence regulárních jazyků",
+                                "<img src=\"paste-03d772717b55515109e577dc31b2e427678fbade.jpg\">"
+                            ],
+                            "guid": "iVZhh6y>G+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Redukt",
+                                "<img src=\"paste-2d858cbbfa60b2f812553bf04accd0b487fbf93e.jpg\">"
+                            ],
+                            "guid": "zSza/RUjfV",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nalezení reduktu DFA",
+                                "<img src=\"paste-47689d56445b7c4d1a05c966c165bf7fdfadcb0c.jpg\">"
+                            ],
+                            "guid": "c(FnyN]lDY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "NFA",
+                                "<img src=\"paste-082810ed85600a48f955f074ec252fff9c4c33b0.jpg\"><br><img src=\"paste-ec65a8e0d349b059f57b215be399898284bbc94f.jpg\">"
+                            ],
+                            "guid": "2Z,bgAn,t",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozšířená přechodová funkce pro NFA",
+                                "<img src=\"paste-dee35bdab41da7faa03b9ab43e39e82f6ab1a4ea.jpg\">"
+                            ],
+                            "guid": "L%vbAXDAm0",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Jazyk přijímaný NFA",
+                                "<img src=\"paste-1ea73eac11eb06935b86762084a412c69d9ab062.jpg\">"
+                            ],
+                            "guid": "w=tZbLh,zo",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ekvivalence nedeterministických a deterministických konečných automatů",
+                                "<img src=\"paste-b8f530dead2d3662906bcf05e0b2c9db35c50741.jpg\"><br><img src=\"paste-43b44945c9e0af0ecb3f6b8c4a52af7e48125cef.jpg\">"
+                            ],
+                            "guid": "l,Wwn0Z8:O",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "algoritmus",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\lambda\\)-NFA",
+                                "<img src=\"paste-5badf32d3085f0d1d1ecfc02d3281f320caa2ce4.jpg\"><br><img src=\"paste-4c473810f845c1766035d82580e0abb2ef8a0815.jpg\">"
+                            ],
+                            "guid": "rElLhS]z9^",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\lambda\\)-uzávěr",
+                                "<img src=\"paste-38cafc5726b4aa5ba1ba2b9ccc7456bc62f9d94e.jpg\">"
+                            ],
+                            "guid": "lC(&cr/T,9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozšířená přechodová funkce pro \\(\\lambda\\)-NFA",
+                                "<img src=\"paste-523d9ebc57a7855a8edbcf6fe40bff122a6472e8.jpg\">"
+                            ],
+                            "guid": "p>N)XEokSv",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Eliminace \\(\\lambda\\)-přechodů",
+                                "<img src=\"paste-1bc5b53d621f245d484251b6199d3f37f5b2fb6b.jpg\"><br><img src=\"paste-ec4316b7a6b602586fb936db8f0547e9f0437a7f.jpg\">"
+                            ],
+                            "guid": "GB4%;e_<6d",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "algoritmus",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Množinové operace nad jazyky",
+                                "<img src=\"paste-7076a3928155f83ef9e38ef157f63e9f6b7e6b2e.jpg\"><br><img src=\"paste-fe7cd9c588f906f5f308bd2627bfee14d4cd9486.jpg\">"
+                            ],
+                            "guid": "Di4>xmQv=`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Uzávěrové vlastnosti regulárních jazyků",
+                                "<img src=\"paste-920ebbc1c80f8cf9573ef08817bb492dc0c0e867.jpg\"><br>---<br><img src=\"paste-a105f0ccff06a50b88a5c45035dfb9280c64a259.jpg\"><br><img src=\"paste-22d598de1edaf6002ae915e0b42f78c0f11417c2.jpg\">"
+                            ],
+                            "guid": "wir;Da8QFY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklady uzávěrových vlastností",
+                                "<img src=\"paste-a0f8dc8ddac1f275a2d178679d2b483d63287cce.jpg\"><br><img src=\"paste-53abdae90fc8c0e76cb2948dbd4145d51dd3fb4e.jpg\">"
+                            ],
+                            "guid": "A+GP#gqha(",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Řetězové operace nad jazyky",
+                                "<img src=\"paste-9cb88df4de89242668cee17d8c3b9fc728487969.jpg\">"
+                            ],
+                            "guid": "swu+C^odD;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Uzavřenost regulárních jazyků na řetězové operace",
+                                "<img src=\"paste-63ca71be6fc77406597edbcf3859aa58f2e498f8.jpg\"><br><img src=\"paste-8849e03b25f6f0348cb114b1c63bef3a7805f735.jpg\"><br><img src=\"paste-90078361c32fad90b1cbcfefb56e8e8969c95e2e.jpg\"><br><img src=\"paste-693a7b8e8149b03261d1be4f49eaf883c7b49d35.jpg\">"
+                            ],
+                            "guid": "b$1Ne1ySTw",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Regulární výraz",
+                                "<img src=\"paste-c4c45b21c3d715706e2b6096f6ff9e63f29b9f53.jpg\">"
+                            ],
+                            "guid": "tG;t>ahxIQ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Od DFA k RegExu",
+                                "<img src=\"paste-8d4e82cbec455c65d24fc3dfd61cd823c6e7a3ae.jpg\"><br><img src=\"paste-0d8bca45ea4e916db1ce624bd033ee1cda312745.jpg\"><br><img src=\"paste-3581e67cfb4132c1aae14f52c1c89817557c2d06.jpg\">"
+                            ],
+                            "guid": "fu#2JBLb}?",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Od DFA k RegExu (alternativně)",
+                                "<img src=\"paste-18138670c27e2372b0bd3b333c1344a4d44cbee6.jpg\"><br><img src=\"paste-2e2e94b3c6c1e7a8c678bf6fd96d420278781080.jpg\"><br><img src=\"paste-455a34f3f78635786b36c125fe9e2e278cdaa507.jpg\">"
+                            ],
+                            "guid": "Q!.Cu{R;S]",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Od RegExu k \\(\\lambda\\)-NFA automatu",
+                                "<img src=\"paste-19540880b6d6f58912619dcf2b29a5538660fa48.jpg\">"
+                            ],
+                            "guid": "6zUl>mfX6",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Přehled převodů mezi reprezentacemi regulárních jazyků",
+                                "<img src=\"paste-f8a3bad478dab32534244460da24eeb20ab9f4dd.jpg\">"
+                            ],
+                            "guid": "BWxcPr];9&",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kleeneho věta pro RegExy",
+                                "<img src=\"paste-973569ae562d5eeb4f92d53f8cf33d3ce8cecf9c.jpg\">"
+                            ],
+                            "guid": "E)!3+:{q^:",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Substituce",
+                                "<img src=\"paste-409586fae57fbc5590c0cffe1d67ff29e1284911.jpg\">"
+                            ],
+                            "guid": "BgkUo[)JTT",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Homomorfizmus",
+                                "<img src=\"paste-7e4928e8d8ce68e3bef47deb25f8ae00418094d5.jpg\">"
+                            ],
+                            "guid": "C#^^@a4Li5",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f853c10929d3d4989de530aa898aa7abc862d198.jpg\">",
+                                "<img src=\"paste-f0835b79770f50edd376c83be00711e7b5a8a9c2.jpg\"><br><img src=\"paste-bd3ba2949a2e46b254e825bdcf50cd33b1941450.jpg\">"
+                            ],
+                            "guid": "n?U{Pp3g$e",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inverzní homomorfizmus",
+                                "<img src=\"paste-fd51128de9711ff36ff6d9721b21e311d4f48da2.jpg\">"
+                            ],
+                            "guid": "j)ovRdlsAB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Inverzní homomorfizmus DFA",
+                                "<img src=\"paste-d4514c69bd752c211379071ae8a468c24af85226.jpg\">"
+                            ],
+                            "guid": "ojtjp~&zC",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-ff688115e8c4d0cc4a1f40f7e85cae3de49e0c36.jpg\">",
+                                "<img src=\"paste-6198cbed616f4fda57899e11c79e6031e6b43a21.jpg\"><br><img src=\"paste-159937b659cef29807c4d28fa5e37031b755e976.jpg\">"
+                            ],
+                            "guid": "HpOH{=faA-",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozhodovací problémy pro regulární jazyky",
+                                "<img src=\"paste-41fed07cbcaf0afb6d919b568194e18a10544936.jpg\">"
+                            ],
+                            "guid": "BDT)XWXta%",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kleeneova věta",
+                                "<img src=\"paste-1763ee65e08ea5f744e9cfb6debff93a23e67bfa.jpg\">"
+                            ],
+                            "guid": "IxDw<<_r-H",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dvousměrné konečné automaty",
+                                "<img src=\"paste-56aa3d8425d6a50e88a6d640ff57ac5b9910555c.jpg\"><br><img src=\"paste-b9c235b63be7a396870a44d9a4532b3a24710721.jpg\"><br><img src=\"paste-24e2c2641675cdb8287457a6bf6d3ba7b3dad74e.jpg\">"
+                            ],
+                            "guid": "uQymxNidP.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-64b1e1ab1758ff6e47e8ce34e7eef44607866539.jpg\">",
+                                "Potenciálně by nemuselo být u zkoušky.<br>---<br><img src=\"paste-1ba11c972455ff285e7c1b2731d5110dae7997a9.jpg\"><br>---<br><img src=\"paste-5a5867cd8138ad9cae257cddf2ac50dbe3ddeea9.jpg\"><br>---<br><img src=\"paste-f4bfd4e6ee85055a872b2979016aab643e7c1aed.jpg\"><br><img src=\"paste-9947824699f4a937e98a76d2e628e24d3deb2d84.jpg\"><br><img src=\"paste-038e112c02f7ee587c4a5ec649bbb2dda6e41c34.jpg\">"
+                            ],
+                            "guid": "wQL~`F$4]u",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "algoritmus",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mooreův stroj",
+                                "<img src=\"paste-319cd5474d6161f24c9533f18db94d108b6b411b.jpg\"><br><img src=\"paste-d7bd5bd402a34b8da90502b76d11bcb21c205303.jpg\"><br><img src=\"paste-47af7f063e03825b1c83ff7c66303e564b261686.jpg\">"
+                            ],
+                            "guid": "F<i[y.}WnC",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mealyho stroj",
+                                "<img src=\"paste-423f9d91510973375751ff192d52f10b4a82d92f.jpg\"><br><img src=\"paste-4ee99e2afc64afa2b629ae8ba5131cdf97b9d739.jpg\"><br><img src=\"paste-675e012c65efca28445707de713051a48f8d1a14.jpg\">"
+                            ],
+                            "guid": "di=SyGV{.c",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Moore &lt;-&gt; Mealey",
+                                "<img src=\"paste-79c913a3678dc1d5f0fc0db8471c089ba82fb0cc.jpg\"><br><img src=\"paste-33eb1a78a16d83882e0b5a8ff080f72f3a372fd3.jpg\">"
+                            ],
+                            "guid": "vQ?QL~%ZE7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-04124f208c4cb724bb87e664673ce34044b305dc.jpg\">",
+                                "<img src=\"paste-cd16f2dcabee299ff277d5f6aac8f458cf6e4e79.jpg\">"
+                            ],
+                            "guid": "iqY#p5z*[:",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Obecná gramatika",
+                                "<img src=\"paste-5d6113b05132bb0ccb598e69b1f0864c35bd8ca9.jpg\">"
+                            ],
+                            "guid": "e[BW$+Ajq+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bezkontextová gramatika",
+                                "<img src=\"paste-d87b18708b668a5ad199126f4de038d428b7df60.jpg\">"
+                            ],
+                            "guid": "tw{m*Z0BQ/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chomského hierarchie",
+                                "<img src=\"paste-3c4796da16ce42dbda0a0bba951ff9e8d8785d56.jpg\">"
+                            ],
+                            "guid": "DnVANHuUf.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
                     "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "8834bc28-cc90-11eb-8cc3-88d7f63eab01",
@@ -17271,8 +18114,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-ce13cd16059e8701f2203a72d66bf1ba90bde201.jpg\">",
-                                "<img src=\"paste-947357a34ad1aee5575f46cc117736486a4ac5fd.jpg\">"
+                                "Rekurence Tutteova polynomu přes nejvýše jeden společný vrchol",
+                                "<img src=\"paste-ce13cd16059e8701f2203a72d66bf1ba90bde201.jpg\"><br><img src=\"paste-947357a34ad1aee5575f46cc117736486a4ac5fd.jpg\">"
                             ],
                             "guid": "e.nFbu5$~2",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17336,8 +18179,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-c88ea3cd60ee7880f715f7dada3693e33836e7f0.jpg\">",
-                                "<img src=\"paste-c7e97f4ef9c1d6ba8a0dfbbb9c8ec6f6f39b0abe.jpg\">"
+                                "Kdy existuje inverz k FMŘ",
+                                "<img src=\"paste-c88ea3cd60ee7880f715f7dada3693e33836e7f0.jpg\"><br><img src=\"paste-c7e97f4ef9c1d6ba8a0dfbbb9c8ec6f6f39b0abe.jpg\">"
                             ],
                             "guid": "Eqn4f{~QMt",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
