@@ -31,7 +31,7 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 
 ### 4. semestr
 - Anglický Jazyk (TODO)
-- Automaty a gramatiky (TODO)
+- Automaty a gramatiky
 - Kombinatorika a grafy
 - Lineární programování a kombinatorická optimalizace
 - Pravděpodobnost a statistika (TODO)

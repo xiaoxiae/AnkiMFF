@@ -16423,6 +16423,9 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "activeTags": [
+                        "marked"
+                    ],
                     "children": [],
                     "crowdanki_uuid": "c766acf2-d132-11eb-aae0-88d7f63eab01",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -16430,19 +16433,24 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
+                    "inactiveTags": [],
                     "media_files": [
                         "paste-0112b31f63702ea0a0da0038defac97a8b30f11d.jpg",
                         "paste-038e112c02f7ee587c4a5ec649bbb2dda6e41c34.jpg",
                         "paste-03d772717b55515109e577dc31b2e427678fbade.jpg",
                         "paste-04124f208c4cb724bb87e664673ce34044b305dc.jpg",
+                        "paste-05b4b9e3007b0f3b3703fc485b017b9bd761bff1.jpg",
                         "paste-0722f4edb2876c48653732c37caedae875b6ffee.jpg",
                         "paste-0818b4977b9fcefd822bbf4bd8cdc3d99dea14c7.jpg",
                         "paste-082810ed85600a48f955f074ec252fff9c4c33b0.jpg",
                         "paste-0b27ab04f4c5c8c7db4e87751ed2f1021ffb06e1.jpg",
                         "paste-0d27b3d64210790738df1345506dd6fcf129e2cb.jpg",
                         "paste-0d8bca45ea4e916db1ce624bd033ee1cda312745.jpg",
+                        "paste-0fb21c9cbc7c63190211b098d4d7752f9a80e144.jpg",
                         "paste-10864728f03affd3476bdfb39f3c89ec119f4ba2.jpg",
                         "paste-10a997031ab13d6138a66fdf08e15c54e3a8b4a8.jpg",
+                        "paste-12b88b9565b24244be563ea059a0e8f177d82d06.jpg",
+                        "paste-1348b7c314ae920309f01b2824599e686c1026ab.jpg",
                         "paste-13e0bbab9e88069bf211c42b4b7f518386e003d3.jpg",
                         "paste-159937b659cef29807c4d28fa5e37031b755e976.jpg",
                         "paste-16ff409663e80b8989fe357d6256802198ace4cd.jpg",
@@ -16455,15 +16463,20 @@
                         "paste-1ff1e14477481c6b984230390ac27cee736a7f29.jpg",
                         "paste-215dbc59b7f7f6c8b23cbba3c393a260bf382796.jpg",
                         "paste-22d598de1edaf6002ae915e0b42f78c0f11417c2.jpg",
+                        "paste-24bd9feb53d01c443b0f1ea83ed664687d84a02a.jpg",
                         "paste-24e2c2641675cdb8287457a6bf6d3ba7b3dad74e.jpg",
+                        "paste-2509566e6f9c6126f10840091726e0116b7b74d3.jpg",
+                        "paste-2533a6716061671a5b512a377f90056ac1ba2218.jpg",
+                        "paste-2671fb2eb9801f5b60f81dbadcf8f983f0a137d4.jpg",
                         "paste-272e4dc0e2ff5355427c9df82699562e17ce6668.jpg",
                         "paste-283ca35b2abe80b228aebcfef5e0ae5d8ee68022.jpg",
-                        "paste-29f2ac73d831684464a8d31d792e90662aa4909d.jpg",
+                        "paste-28bb5a4c660f23f97c8bc2bafdc054053302e8f3.jpg",
                         "paste-2d858cbbfa60b2f812553bf04accd0b487fbf93e.jpg",
                         "paste-2d9fea19ab530426d420915bd37495cd70989b65.jpg",
                         "paste-2e2e94b3c6c1e7a8c678bf6fd96d420278781080.jpg",
                         "paste-2f73aeaf97b385c0d2b8acca32a211747098e612.jpg",
                         "paste-2fd5ee4829b1ea07b63bcd2d7712245ee3ac13fc.jpg",
+                        "paste-31834e405f5f24f882508792085fb4f1ebe321fc.jpg",
                         "paste-319cd5474d6161f24c9533f18db94d108b6b411b.jpg",
                         "paste-33eb1a78a16d83882e0b5a8ff080f72f3a372fd3.jpg",
                         "paste-34d7af10bc0ca3e7c63b266c053eb21bc6a48f57.jpg",
@@ -16482,17 +16495,22 @@
                         "paste-409586fae57fbc5590c0cffe1d67ff29e1284911.jpg",
                         "paste-41fed07cbcaf0afb6d919b568194e18a10544936.jpg",
                         "paste-423f9d91510973375751ff192d52f10b4a82d92f.jpg",
+                        "paste-43abfa8b73a49f94fd146237746391468d55f187.jpg",
                         "paste-43b44945c9e0af0ecb3f6b8c4a52af7e48125cef.jpg",
                         "paste-43e0b31220aae6b5e3b5c8463dfa746026a98cf2.jpg",
                         "paste-455a34f3f78635786b36c125fe9e2e278cdaa507.jpg",
+                        "paste-45d3d2d780dfd38e45d1e65b491ee13d9b57a668.jpg",
                         "paste-46d7ea0c499340506a8f1d8e732b3886dc4087c0.jpg",
                         "paste-473123f8e5a14e21c3ec13ca8c0f75452457c32f.jpg",
                         "paste-47689d56445b7c4d1a05c966c165bf7fdfadcb0c.jpg",
                         "paste-47af7f063e03825b1c83ff7c66303e564b261686.jpg",
                         "paste-47fc8a0cd62502877927b03c760d909b8fe0c2ff.jpg",
+                        "paste-4a12a7f67e12a6ad304d3cf20a591ccdd026dc56.jpg",
                         "paste-4c473810f845c1766035d82580e0abb2ef8a0815.jpg",
                         "paste-4d0bd7752c9ca7402dd5f028ff8e085464781a9e.jpg",
+                        "paste-4de3a2d5a157544065a2fb6ba0416595d1864f73.jpg",
                         "paste-4ee99e2afc64afa2b629ae8ba5131cdf97b9d739.jpg",
+                        "paste-51733279b9c5853e97d253d9fb08c7357568ceb2.jpg",
                         "paste-523d9ebc57a7855a8edbcf6fe40bff122a6472e8.jpg",
                         "paste-52973e5ffa45f84410d891059d6a15ac7449ab30.jpg",
                         "paste-53abdae90fc8c0e76cb2948dbd4145d51dd3fb4e.jpg",
@@ -16501,17 +16519,22 @@
                         "paste-56aa3d8425d6a50e88a6d640ff57ac5b9910555c.jpg",
                         "paste-56ba3e803dfa580071a780571ebe3d62a95f178e.jpg",
                         "paste-58f4ace03a8cf12c452ce7aff8aca2e81030dc12.jpg",
+                        "paste-5a422aa838724c7bb2a11284d5c790659404bfc5.jpg",
                         "paste-5a5867cd8138ad9cae257cddf2ac50dbe3ddeea9.jpg",
+                        "paste-5a7db14525294bb5116f1592c2234b0d1cdb8323.jpg",
                         "paste-5b808849c8d907fcac6ff6d26123287c2e6819a7.jpg",
                         "paste-5badf32d3085f0d1d1ecfc02d3281f320caa2ce4.jpg",
+                        "paste-5c8b6acb1f2d99784df1755ddaee27c4bb1fd299.jpg",
                         "paste-5d6113b05132bb0ccb598e69b1f0864c35bd8ca9.jpg",
                         "paste-5dcf0f1d3e1072fd076474b3ca96ed4b6d7a1074.jpg",
                         "paste-5fe8b0c069326d371bf1a7015ca5c95fb4fc7d68.jpg",
                         "paste-6080dda7a5b8ce870a4b6d89d5c21c5b0f6927ad.jpg",
                         "paste-615b3b1780cd20dbf345a942e84c98e0dfec31d1.jpg",
                         "paste-6198cbed616f4fda57899e11c79e6031e6b43a21.jpg",
+                        "paste-61e5a822a6248c6df0e639f7989871be01fbd13d.jpg",
                         "paste-63ca71be6fc77406597edbcf3859aa58f2e498f8.jpg",
                         "paste-63d93fc8814118f3191c0a63ce36bd14e5466507.jpg",
+                        "paste-63fcbe57d11873fdfa98dd3113ed3fd167651668.jpg",
                         "paste-64340b573bb45a0dc6246680a103726c293cf634.jpg",
                         "paste-64a954c3ba9df2873a80a7b02285b5b268b86783.jpg",
                         "paste-64b1e1ab1758ff6e47e8ce34e7eef44607866539.jpg",
@@ -16519,19 +16542,26 @@
                         "paste-675e012c65efca28445707de713051a48f8d1a14.jpg",
                         "paste-67d38eb61478f7ed969843875676f41f4ab6b899.jpg",
                         "paste-67f3b85daaa7b0365cf35d811a6eb432c3a106e5.jpg",
+                        "paste-68462f493b7c08d19583e5a17b854831fdef6248.jpg",
                         "paste-693a7b8e8149b03261d1be4f49eaf883c7b49d35.jpg",
                         "paste-6ec006e439eec21b5dd29291a9c22a8fce07791d.jpg",
                         "paste-6ff4f6235b22eacbd04c98dba4233cc3b1ff9ac7.jpg",
                         "paste-7076a3928155f83ef9e38ef157f63e9f6b7e6b2e.jpg",
                         "paste-709fe910a094f4dd8687f8225be41eb7259cad46.jpg",
                         "paste-74449b2692e21708e685f5a76263e402b6e439e8.jpg",
+                        "paste-74563a406f1f383668bb49785ec30506252587b6.jpg",
                         "paste-7496c58614309d73e6a065353968b9ce885ebb21.jpg",
                         "paste-75080fd2f5748c60d5dd7afc835ab53b2097bf47.jpg",
+                        "paste-751d321673ca010e6eda78c7d08a0b0981f1c859.jpg",
                         "paste-79c913a3678dc1d5f0fc0db8471c089ba82fb0cc.jpg",
+                        "paste-7a9c7b71900155e75e5cdd28a02a115b580fcbf5.jpg",
                         "paste-7bc4023bce16a23c03c5e1ce9cb912f26f034b06.jpg",
                         "paste-7c6bd83f4515dbed31b7faf7b83c9656575d6d78.jpg",
                         "paste-7e4928e8d8ce68e3bef47deb25f8ae00418094d5.jpg",
+                        "paste-7e5b1e6078292b7cfce0420b75d60a3f921fc284.jpg",
+                        "paste-7f1c6869f9488d9a0b0f2aae311cf549a43e55c2.jpg",
                         "paste-80e93ba8d4c11ae9c2a82df13f7f04acc77f0a93.jpg",
+                        "paste-8111a041db5b33682f8e2f803acb3ce629ced77a.jpg",
                         "paste-82f59793d3b9f21ef6051d38fea1e83d77721e75.jpg",
                         "paste-831e842af2f6e5a16214ee8801ec1b0206421230.jpg",
                         "paste-8403ae876ee29ac94b161bd144f18b70bcc9473d.jpg",
@@ -16543,27 +16573,41 @@
                         "paste-8849e03b25f6f0348cb114b1c63bef3a7805f735.jpg",
                         "paste-88ebbd69081e5f484bffc29bcf1441ccf52d30ea.jpg",
                         "paste-8907eb7401d830a3f2c6e8a0aaa46a4b5d99c5c8.jpg",
+                        "paste-8ca32e6a07975b5b92c363b5297ad732eb6b154e.jpg",
                         "paste-8d4e82cbec455c65d24fc3dfd61cd823c6e7a3ae.jpg",
+                        "paste-8f6d8021d5b9ad921bda4beabe01a906de502acf.jpg",
                         "paste-90078361c32fad90b1cbcfefb56e8e8969c95e2e.jpg",
                         "paste-90dbefe01af6277302e78e96f96c36c7ed0173b0.jpg",
                         "paste-920ebbc1c80f8cf9573ef08817bb492dc0c0e867.jpg",
                         "paste-92f2223c13aad4e6f5e19f73d2a6910012eb7005.jpg",
+                        "paste-948f1f4d78ad569310eb18bc679f56037bdf6dc9.jpg",
+                        "paste-95e3627d37229479a3fe8be0284b200774ded9d3.jpg",
                         "paste-969086ca0cde1c1ac2b442f5ab527a1a47c72f1d.jpg",
                         "paste-96de8bde9c3490fe9abfb09b1885193135269f9a.jpg",
                         "paste-973569ae562d5eeb4f92d53f8cf33d3ce8cecf9c.jpg",
+                        "paste-97f49b13adda0a76b82c4736ad116da5fc96c835.jpg",
+                        "paste-985b5fce270563c44d4a433d9fdb591dcc9dd090.jpg",
                         "paste-9906a58648372d8e2f60aae0cbbe78e118f3a350.jpg",
+                        "paste-993fde4d966d1246af5cdf6066b0a36f66b63c96.jpg",
                         "paste-9947824699f4a937e98a76d2e628e24d3deb2d84.jpg",
                         "paste-9b40d05aaf4bcab240edf05aee5649c9bf843701.jpg",
                         "paste-9cb88df4de89242668cee17d8c3b9fc728487969.jpg",
+                        "paste-9cea33a2e85feb7aae9af70326e36d572411c0c4.jpg",
                         "paste-9f539a68380995b49a66b1d3ac75fcf9f1c44d61.jpg",
                         "paste-a0f8dc8ddac1f275a2d178679d2b483d63287cce.jpg",
                         "paste-a105f0ccff06a50b88a5c45035dfb9280c64a259.jpg",
+                        "paste-a22c07a068b65582513723afb81f5d14dbfccdf1.jpg",
                         "paste-a3667aacebe3652dd0ffa2973f44195f9d494c86.jpg",
+                        "paste-a3741f987745c17147d093682344b8b62f0c388a.jpg",
+                        "paste-a63866a3f5afeab5c2085e34b5f5c7548858084b.jpg",
                         "paste-a671c7640e5f4fc66f49acfd46b3c32244641e8d.jpg",
                         "paste-a76ec69ffcd530051fec25a1bd0edecb36711c37.jpg",
                         "paste-a8e799649df9bf539b5e59ff2fa0ea8535aa0bb4.jpg",
                         "paste-b05d62a2988d9b8c2d90fa10381abaf269097523.jpg",
                         "paste-b133762134129bb7e8aee2af3906b7093e960a16.jpg",
+                        "paste-b7bd3219ddd96000ac7fd20803e5a4767ba7dc17.jpg",
+                        "paste-b7e25c054bb2bdbd1b3dd315ec567c9a2fbc301a.jpg",
+                        "paste-b7fe9e9c68452dbea43597beade4d6d4efbec4e1.jpg",
                         "paste-b860ad9e5aa27e6ed39f6ac1804b4d63fd8d8887.jpg",
                         "paste-b8ce6261b7977e763d754570e0a374ce5bff33f1.jpg",
                         "paste-b8d9fc750b071f354b53781e2fd31ee9fd9b3594.jpg",
@@ -16572,36 +16616,52 @@
                         "paste-b9c235b63be7a396870a44d9a4532b3a24710721.jpg",
                         "paste-babdc4edb3060a460c48e84699d9341074e82e78.jpg",
                         "paste-bb1cddbc7eae44c50340b42cb2bf5742bda49055.jpg",
+                        "paste-bb4c00783ee815e8ba81bfe87d669e35d0a03c56.jpg",
                         "paste-bc88389659023697d1d28c28bcf33546e5120afe.jpg",
-                        "paste-bd3ba2949a2e46b254e825bdcf50cd33b1941450.jpg",
+                        "paste-be28e69a45cd67cd1c90b57e09f72c765278f6cb.jpg",
+                        "paste-be60dff3e0912616e4b2d60d9695ae3f699debe0.jpg",
+                        "paste-bea8b295f3f3a639e147e0c6e2e41052a56aab0c.jpg",
                         "paste-bf538e5dc4e06f7cde28c82e750497b9b76ab429.jpg",
                         "paste-c0932c42c9f2f7706a9aceedbabfc170d10f0965.jpg",
+                        "paste-c384e9f2aba92bf701463e430e7ddeb77d37ca04.jpg",
+                        "paste-c3e074236398fc5fe5ff5650f9fb850fadf585d2.jpg",
                         "paste-c4c45b21c3d715706e2b6096f6ff9e63f29b9f53.jpg",
                         "paste-c4fbb0ed22186131cc17cd353a939eaec5aae697.jpg",
+                        "paste-c6053b5970b698e8460c1148f76ce8aad298b0ec.jpg",
                         "paste-c61305abfbee6b775bb0c5600ee672ae99b5f7ba.jpg",
                         "paste-ca3f43dc7dd27d2547fdf600fd56cace175cfd24.jpg",
+                        "paste-cbb5bd071ada211d0e6891aab3507a36cdc0b101.jpg",
                         "paste-cbce7d73cc934a631b8a8661571ea1fdcea72b5f.jpg",
+                        "paste-cc040b9fe135deec7ee738b4925ba87df21b0183.jpg",
                         "paste-cc281f4735b29fdd4879fd17bcd1a390a3c35969.jpg",
                         "paste-cc284086acc470c8eaae7c9b2160cb1c0ec900cb.jpg",
                         "paste-cd16f2dcabee299ff277d5f6aac8f458cf6e4e79.jpg",
                         "paste-cf93367712fb37f46ed978f8437fd62c5011ca05.jpg",
                         "paste-d02e5700614a08ffa3066785f6e796d12c3e5cc1.jpg",
+                        "paste-d08394beb884ce5bd87c203eff4ea64d83c70392.jpg",
                         "paste-d1a45fff1754486bf0113df84b6e5e8cc28fead1.jpg",
                         "paste-d293648f26d38730e71623a7eb30983765867a2e.jpg",
                         "paste-d2b49dc87cce98b3302a9835364bdf8b4426a311.jpg",
                         "paste-d4514c69bd752c211379071ae8a468c24af85226.jpg",
+                        "paste-d5487e5004062139deefd58f818d9d4a486c0791.jpg",
                         "paste-d58e5760537dd2bd0c3025a2410ec0d4671702fc.jpg",
                         "paste-d7bd5bd402a34b8da90502b76d11bcb21c205303.jpg",
                         "paste-d87b18708b668a5ad199126f4de038d428b7df60.jpg",
                         "paste-d9ed21a2b42733aca5c072ba08ceef6da17e26ce.jpg",
+                        "paste-da095a92bbca88d33268f92dca76faaa784b6137.jpg",
                         "paste-da0ac212b13fbe8ff0a7fb14e009cf4c804e3b95.jpg",
+                        "paste-db5fd260715922d44910a9e70632f677d2672781.jpg",
+                        "paste-db99d3e80d0dae519356ed2c5ea94e0bdd8a6996.jpg",
                         "paste-dee35bdab41da7faa03b9ab43e39e82f6ab1a4ea.jpg",
                         "paste-def122a3dba8f0957599c647fdad118c1eef84fa.jpg",
                         "paste-df657643531cc7fc18e60cfaebe4b41656cb66c2.jpg",
                         "paste-dfa3e617a4fa282492146e607264952f9583bd8e.jpg",
+                        "paste-dfab42df0bf9c3ee9404bb31c28de2541da979a5.jpg",
                         "paste-e09a9849748eaf932fe5fae9bc803fbb2f29d058.jpg",
                         "paste-e1b9a8eacdce17166e0cab350f88e9a9232ef1b0.jpg",
+                        "paste-e3a2f3dbcdba7bfbc903c269bfe78c0fb9f87125.jpg",
                         "paste-e4ad0d54e1d307f84f09b5660f47e673647929a0.jpg",
+                        "paste-e5ee4d7d0fb9a19f373fb9dc1c5c411d5429d02b.jpg",
                         "paste-e8a1eba8e0597b79a1ff345665f1992dd6bf70bb.jpg",
                         "paste-ebc2cafa8d1aaad1302f094806ce60a7f0e1b7fe.jpg",
                         "paste-ec4316b7a6b602586fb936db8f0547e9f0437a7f.jpg",
@@ -16611,17 +16671,20 @@
                         "paste-f2c06b70010c2d3f74714633794b7c75284e6fde.jpg",
                         "paste-f383d7c27640575d730abb4bb42df13f235219ff.jpg",
                         "paste-f4bfd4e6ee85055a872b2979016aab643e7c1aed.jpg",
+                        "paste-f64cb52fb7e33e72acc6e3d884caaa213cafe441.jpg",
                         "paste-f6d3d1728ed572b2428767ab09f1a04cb850726e.jpg",
                         "paste-f7ecbd57b4342592e12ca634eccfebb6d585be1b.jpg",
                         "paste-f853c10929d3d4989de530aa898aa7abc862d198.jpg",
                         "paste-f8a3bad478dab32534244460da24eeb20ab9f4dd.jpg",
                         "paste-f8bc369e30187a1166ed29db0eefec3a5ab60749.jpg",
                         "paste-f9b4f05cc5fd8a2d55b8162da96c6819ac5f267e.jpg",
+                        "paste-fa0a918a0350510f055e4194643af57148a1538a.jpg",
                         "paste-fd1a81983f1b579fef08bd5806bac9031643504c.jpg",
                         "paste-fd46ad17d4f580f30a0ce5a344ed1ed2b9d75d5a.jpg",
                         "paste-fd51128de9711ff36ff6d9721b21e311d4f48da2.jpg",
                         "paste-fd55e4430fb89788ac59965a8c4794637d2683ca.jpg",
                         "paste-fe7cd9c588f906f5f308bd2627bfee14d4cd9486.jpg",
+                        "paste-fecf4955b8840949245dad43167aff50f2f0f1bc.jpg",
                         "paste-ff3ef26f0cf79c9a627859bec7570b78b5ff4aad.jpg",
                         "paste-ff688115e8c4d0cc4a1f40f7e85cae3de49e0c36.jpg",
                         "paste-ff9f66d016e6cdc033d3d8d3c0c574333fb51a7a.jpg"
@@ -16683,8 +16746,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Jazyk rozpoznatelný automatem",
-                                "<img src=\"paste-383910497645723e2fcc331285458a8824c61da6.jpg\">"
+                                "Jazyk rozpoznatelný konečným automatem",
+                                "TLDR: koncový stav po přečtení všeho.<br>---<br><img src=\"paste-383910497645723e2fcc331285458a8824c61da6.jpg\">"
                             ],
                             "guid": "cgS3^/.?+t",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16703,7 +16766,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "1",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -16742,7 +16806,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "2",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -16795,14 +16860,15 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "2",
-                                "definice"
+                                "definice",
+                                "marked"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
                                 "Automatový homomorfismus",
-                                "NEBUDE U ZKOUŠKY&gt;<br>---<br><img src=\"paste-88ebbd69081e5f484bffc29bcf1441ccf52d30ea.jpg\">"
+                                "NEBUDE U ZKOUŠKY<br>---<br><img src=\"paste-88ebbd69081e5f484bffc29bcf1441ccf52d30ea.jpg\">"
                             ],
                             "guid": "oX>2KY_ido",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -16847,7 +16913,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "2",
-                                "algoritmus"
+                                "algoritmus",
+                                "marked"
                             ]
                         },
                         {
@@ -16886,7 +16953,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "2",
-                                "algoritmus"
+                                "algoritmus",
+                                "marked"
                             ]
                         },
                         {
@@ -16931,7 +16999,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Ekvivalence nedeterministických a deterministických konečných automatů",
+                                "Podmnožinová konstrukce (ekvivalence det. a nedet. kon. automatů)",
                                 "<img src=\"paste-b8f530dead2d3662906bcf05e0b2c9db35c50741.jpg\"><br><img src=\"paste-43b44945c9e0af0ecb3f6b8c4a52af7e48125cef.jpg\">"
                             ],
                             "guid": "l,Wwn0Z8:O",
@@ -16939,7 +17007,8 @@
                             "tags": [
                                 "3",
                                 "algoritmus",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -17083,7 +17152,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "4",
-                                "algoritmus"
+                                "algoritmus",
+                                "marked"
                             ]
                         },
                         {
@@ -17109,7 +17179,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "4",
-                                "algoritmus"
+                                "algoritmus",
+                                "marked"
                             ]
                         },
                         {
@@ -17135,7 +17206,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "4",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -17168,7 +17240,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-f853c10929d3d4989de530aa898aa7abc862d198.jpg\">",
-                                "<img src=\"paste-f0835b79770f50edd376c83be00711e7b5a8a9c2.jpg\"><br><img src=\"paste-bd3ba2949a2e46b254e825bdcf50cd33b1941450.jpg\">"
+                                "<img src=\"paste-f0835b79770f50edd376c83be00711e7b5a8a9c2.jpg\">"
                             ],
                             "guid": "n?U{Pp3g$e",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17402,7 +17474,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Převod konečného automatu na gramatiku 3. typu",
+                                "Konečný automat =&gt; gramatika 3. typu",
                                 "<img src=\"paste-f7ecbd57b4342592e12ca634eccfebb6d585be1b.jpg\"><br><img src=\"paste-a3667aacebe3652dd0ffa2973f44195f9d494c86.jpg\">"
                             ],
                             "guid": "vDCeT.;jqc",
@@ -17415,8 +17487,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Převod gramatiky 3. typu na konečný automat",
-                                "<img src=\"paste-e4ad0d54e1d307f84f09b5660f47e673647929a0.jpg\"><br><img src=\"paste-7c6bd83f4515dbed31b7faf7b83c9656575d6d78.jpg\"><br><img src=\"paste-b8d9fc750b071f354b53781e2fd31ee9fd9b3594.jpg\">"
+                                "Gramatika 3. typu =&gt; konečný automat",
+                                "TLDR: převod na formu, že vždy generujeme jedno písmenko nebo lambdu. Pak jsou neterminály stavy a terminály přechody.<br>---<br><img src=\"paste-e4ad0d54e1d307f84f09b5660f47e673647929a0.jpg\"><br><img src=\"paste-7c6bd83f4515dbed31b7faf7b83c9656575d6d78.jpg\"><br><img src=\"paste-b8d9fc750b071f354b53781e2fd31ee9fd9b3594.jpg\">"
                             ],
                             "guid": "Qq;RMguA:0",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17573,8 +17645,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Jazyky zásobníkových automatů",
-                                "<img src=\"paste-67d38eb61478f7ed969843875676f41f4ab6b899.jpg\"><br><img src=\"paste-ff9f66d016e6cdc033d3d8d3c0c574333fb51a7a.jpg\">"
+                                "Jazyky zásobníkových automatů (přijímání koncovým stavem/prázdným zásobníkem)",
+                                "TLDR: vždy musíme přečíst celý vstup. U přijímání přes prázdný zásobník musí být navíc prázdný zásobník, u koncového stavu musíme být v koncovém stavu...<br>---<br><img src=\"paste-67d38eb61478f7ed969843875676f41f4ab6b899.jpg\"><br><img src=\"paste-ff9f66d016e6cdc033d3d8d3c0c574333fb51a7a.jpg\">"
                             ],
                             "guid": "LE!R&BwgeI",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17587,7 +17659,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Přijímání prázdným zásobníkem &lt;=&gt; přijímání koncovým stavem",
-                                "<img src=\"paste-bb1cddbc7eae44c50340b42cb2bf5742bda49055.jpg\"><br><br><img src=\"paste-cbce7d73cc934a631b8a8661571ea1fdcea72b5f.jpg\"><br><img src=\"paste-92f2223c13aad4e6f5e19f73d2a6910012eb7005.jpg\">"
+                                "TLDR: přidáme nový startovní stav a znak, podstrčíme automatu jeho startovní znak, odsimulujeme ho:<br>- zásobník =&gt; stav : přidáme všude lambda přechody do nového koncového stavu, když už máme pouze náš nový startovní znak<br>- stav =&gt; zásobník : ze všech koncových stavů přidáme lambda přechod do nového stavu, kde vyprázdníme zásobník<br>---<br><img src=\"paste-bb1cddbc7eae44c50340b42cb2bf5742bda49055.jpg\"><br><br><img src=\"paste-cbce7d73cc934a631b8a8661571ea1fdcea72b5f.jpg\"><br><img src=\"paste-92f2223c13aad4e6f5e19f73d2a6910012eb7005.jpg\">"
                             ],
                             "guid": "Lp<FSa8.%n",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17601,7 +17673,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Bezkontextová gramatika =&gt; zásobníkový automat",
-                                "<img src=\"paste-cc281f4735b29fdd4879fd17bcd1a390a3c35969.jpg\"><br><img src=\"paste-90dbefe01af6277302e78e96f96c36c7ed0173b0.jpg\"><br><img src=\"paste-9f539a68380995b49a66b1d3ac75fcf9f1c44d61.jpg\"><br><img src=\"paste-d9ed21a2b42733aca5c072ba08ceef6da17e26ce.jpg\">"
+                                "Jeden stav.<br>Vykonávání probíhá v zásobníku - užírá terminály ze vstupu, neterminály expanduje a nečte ze vstupu nic.<br>---<br><img src=\"paste-cc281f4735b29fdd4879fd17bcd1a390a3c35969.jpg\"><br><img src=\"paste-90dbefe01af6277302e78e96f96c36c7ed0173b0.jpg\"><br><img src=\"paste-9f539a68380995b49a66b1d3ac75fcf9f1c44d61.jpg\"><br><img src=\"paste-d9ed21a2b42733aca5c072ba08ceef6da17e26ce.jpg\">"
                             ],
                             "guid": "tL,5DNK?q>",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17635,20 +17707,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "8",
-                                "definice"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Užitečný/zbytečný/generující/dosažitelný symbol gramatiky",
-                                "<img src=\"paste-29f2ac73d831684464a8d31d792e90662aa4909d.jpg\">"
-                            ],
-                            "guid": "Di@X>?M(Fy",
-                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
-                            "tags": [
-                                "8",
-                                "definice"
+                                "definice",
+                                "marked"
                             ]
                         },
                         {
@@ -17674,13 +17734,14 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "8",
-                                "algoritmus"
+                                "algoritmus",
+                                "důkaz"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Nulovatelný terminál",
+                                "Nulovatelný neterminál",
                                 "<img src=\"paste-5b808849c8d907fcac6ff6d26123287c2e6819a7.jpg\">"
                             ],
                             "guid": "zT-)A)})Mq",
@@ -17732,7 +17793,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Gramatika v normálním tvaru",
+                                "Gramatika v normálním tvaru/redukovaná gramatika",
                                 "<img src=\"paste-ee6edd8b5de20e03ff3ad2c8159a9844148c6b15.jpg\">"
                             ],
                             "guid": "doX+`z)#dA",
@@ -17746,13 +17807,14 @@
                             "__type__": "Note",
                             "fields": [
                                 "Pumping lemma pro bezkontextové jazyky",
-                                "<img src=\"paste-7496c58614309d73e6a065353968b9ce885ebb21.jpg\"><br><img src=\"paste-d58e5760537dd2bd0c3025a2410ec0d4671702fc.jpg\">"
+                                "TLDR důkaz: derivační stromy, v chomského NF (je bezkontextový, umíme převést) máme odhad na hloubku, na cestě se mi pro velké slovo opakují neterminály,&nbsp;vezmu dva nejpozději v derivaci (nejblíže terminálu).<br>Nakreslit si diagram a oargumentovat to tak.<br>---<br><img src=\"paste-7496c58614309d73e6a065353968b9ce885ebb21.jpg\"><br><img src=\"paste-d58e5760537dd2bd0c3025a2410ec0d4671702fc.jpg\">"
                             ],
                             "guid": "y?4zdxlpPG",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "8",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -17765,7 +17827,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "9",
-                                "algoritmus"
+                                "algoritmus",
+                                "marked"
                             ]
                         },
                         {
@@ -17843,7 +17906,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "9",
-                                "důkaz"
+                                "důkaz",
+                                "marked"
                             ]
                         },
                         {
@@ -17941,7 +18005,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Použití uzavřenosti průniku CFL a RL",
+                                "Použití uzavřenosti sjednocení CFL a RL",
                                 "<img src=\"paste-e1b9a8eacdce17166e0cab350f88e9a9232ef1b0.jpg\">"
                             ],
                             "guid": "xotP9~mgVD",
@@ -17968,7 +18032,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-56ba3e803dfa580071a780571ebe3d62a95f178e.jpg\">",
-                                "<img src=\"paste-9b40d05aaf4bcab240edf05aee5649c9bf843701.jpg\">"
+                                "TLDR:<br>Doplněk -- průnik používá sjednocení (na které je uzavřený) a doplněk, na který tedy být nemůže.<br>Rozdíl --&nbsp;<br>---<br><img src=\"paste-9b40d05aaf4bcab240edf05aee5649c9bf843701.jpg\">"
                             ],
                             "guid": "k@N0O_x8!E",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -18026,6 +18090,552 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "10",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Turingův stroj",
+                                "<img src=\"paste-985b5fce270563c44d4a433d9fdb591dcc9dd090.jpg\">"
+                            ],
+                            "guid": "zbNc.3$b.U",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konfigurace Turingova stroje",
+                                "<img src=\"paste-63fcbe57d11873fdfa98dd3113ed3fd167651668.jpg\">"
+                            ],
+                            "guid": "w4L9jrgGX~",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Krok Turingova stroje",
+                                "<img src=\"paste-9cea33a2e85feb7aae9af70326e36d572411c0c4.jpg\">"
+                            ],
+                            "guid": "rKMt`34-:i",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "TM přijímá jazyk",
+                                "<img src=\"paste-db99d3e80d0dae519356ed2c5ea94e0bdd8a6996.jpg\">"
+                            ],
+                            "guid": "PilllDfF0v",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rekurzivní jazyky",
+                                "<img src=\"paste-95e3627d37229479a3fe8be0284b200774ded9d3.jpg\">"
+                            ],
+                            "guid": "pM0c~GBX_j",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Paměť v řídící jednotce",
+                                "<img src=\"paste-b7fe9e9c68452dbea43597beade4d6d4efbec4e1.jpg\">"
+                            ],
+                            "guid": "NzZ?AE^y]7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Od Turingova stroje ke gramatice",
+                                "<img src=\"paste-be60dff3e0912616e4b2d60d9695ae3f699debe0.jpg\"><br><img src=\"paste-12b88b9565b24244be563ea059a0e8f177d82d06.jpg\"><br><img src=\"paste-05b4b9e3007b0f3b3703fc485b017b9bd761bff1.jpg\">"
+                            ],
+                            "guid": "dMo5EYS+El",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Od gramatik k Turingově stroji",
+                                "<img src=\"paste-61e5a822a6248c6df0e639f7989871be01fbd13d.jpg\">"
+                            ],
+                            "guid": "s}/|ht_!q/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vícepáskový Turingův stroj",
+                                "<img src=\"paste-2509566e6f9c6126f10840091726e0116b7b74d3.jpg\">"
+                            ],
+                            "guid": "hzBlo7RW^b",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-b7e25c054bb2bdbd1b3dd315ec567c9a2fbc301a.jpg\">",
+                                "<img src=\"paste-d08394beb884ce5bd87c203eff4ea64d83c70392.jpg\">"
+                            ],
+                            "guid": "v`vXKsj(ED",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nedeterministický Turingův stroj",
+                                "<img src=\"paste-0fb21c9cbc7c63190211b098d4d7752f9a80e144.jpg\">"
+                            ],
+                            "guid": "ht`w2MzkL)",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-da095a92bbca88d33268f92dca76faaa784b6137.jpg\">",
+                                "<img src=\"paste-28bb5a4c660f23f97c8bc2bafdc054053302e8f3.jpg\"><br><img src=\"paste-5a422aa838724c7bb2a11284d5c790659404bfc5.jpg\">"
+                            ],
+                            "guid": "p!?h)?BF2N",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gramatiky typu 3",
+                                "<img src=\"paste-db5fd260715922d44910a9e70632f677d2672781.jpg\">"
+                            ],
+                            "guid": "v/+8.d9^`A",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gramatiky typu 2",
+                                "<img src=\"paste-8f6d8021d5b9ad921bda4beabe01a906de502acf.jpg\">"
+                            ],
+                            "guid": "I3-Tl>0BWO",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gramatiky typu 1",
+                                "<img src=\"paste-d5487e5004062139deefd58f818d9d4a486c0791.jpg\">"
+                            ],
+                            "guid": "xwD+@t+agK",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gramatiky typu 0",
+                                "<img src=\"paste-e5ee4d7d0fb9a19f373fb9dc1c5c411d5429d02b.jpg\">"
+                            ],
+                            "guid": "hlPx6;y7j!",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kontextové gramatiky",
+                                "<img src=\"paste-24bd9feb53d01c443b0f1ea83ed664687d84a02a.jpg\">"
+                            ],
+                            "guid": "NC;njN])vf",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Separované gramatiky",
+                                "<img src=\"paste-a63866a3f5afeab5c2085e34b5f5c7548858084b.jpg\">"
+                            ],
+                            "guid": "g*;}3@=M+D",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-68462f493b7c08d19583e5a17b854831fdef6248.jpg\">",
+                                "<img src=\"paste-be28e69a45cd67cd1c90b57e09f72c765278f6cb.jpg\">"
+                            ],
+                            "guid": "E^GXEz=ipt",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Monotónní (nevypouštějící) gramatika",
+                                "<img src=\"paste-43abfa8b73a49f94fd146237746391468d55f187.jpg\">"
+                            ],
+                            "guid": "CNzl?+Al[#",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-fa0a918a0350510f055e4194643af57148a1538a.jpg\">",
+                                "<img src=\"paste-2533a6716061671a5b512a377f90056ac1ba2218.jpg\">"
+                            ],
+                            "guid": "D^~/RJ:i-M",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-2671fb2eb9801f5b60f81dbadcf8f983f0a137d4.jpg\">",
+                                "<img src=\"paste-7e5b1e6078292b7cfce0420b75d60a3f921fc284.jpg\">"
+                            ],
+                            "guid": "i<t2T9EvG]",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lineárně omezený automat",
+                                "<img src=\"paste-c384e9f2aba92bf701463e430e7ddeb77d37ca04.jpg\">"
+                            ],
+                            "guid": "znJQA_srF&",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-97f49b13adda0a76b82c4736ad116da5fc96c835.jpg\">",
+                                "<img src=\"paste-7f1c6869f9488d9a0b0f2aae311cf549a43e55c2.jpg\">"
+                            ],
+                            "guid": "c{^D}W-^8s",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-7a9c7b71900155e75e5cdd28a02a115b580fcbf5.jpg\">",
+                                "<img src=\"paste-bb4c00783ee815e8ba81bfe87d669e35d0a03c56.jpg\">"
+                            ],
+                            "guid": "z-!E:L^5Dc",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-fecf4955b8840949245dad43167aff50f2f0f1bc.jpg\">",
+                                "<img src=\"paste-74563a406f1f383668bb49785ec30506252587b6.jpg\"><br><img src=\"paste-51733279b9c5853e97d253d9fb08c7357568ceb2.jpg\"><br>"
+                            ],
+                            "guid": "d)1vf~X&ou",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f64cb52fb7e33e72acc6e3d884caaa213cafe441.jpg\">",
+                                "<img src=\"paste-a22c07a068b65582513723afb81f5d14dbfccdf1.jpg\">"
+                            ],
+                            "guid": "n0]m^_9D{D",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kódovaní TM",
+                                "<img src=\"paste-4de3a2d5a157544065a2fb6ba0416595d1864f73.jpg\"><br><img src=\"paste-b7bd3219ddd96000ac7fd20803e5a4767ba7dc17.jpg\"><br><img src=\"paste-dfab42df0bf9c3ee9404bb31c28de2541da979a5.jpg\">"
+                            ],
+                            "guid": "u&4J`3-kcS",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diagonální jazyk",
+                                "<img src=\"paste-948f1f4d78ad569310eb18bc679f56037bdf6dc9.jpg\">"
+                            ],
+                            "guid": "Q@<0wro|G6",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Univerzální stroj",
+                                "<img src=\"paste-993fde4d966d1246af5cdf6066b0a36f66b63c96.jpg\">"
+                            ],
+                            "guid": "lZ~+_78~f}",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Existence univerzálního TM",
+                                "<img src=\"paste-45d3d2d780dfd38e45d1e65b491ee13d9b57a668.jpg\"><br><img src=\"paste-cbb5bd071ada211d0e6891aab3507a36cdc0b101.jpg\">"
+                            ],
+                            "guid": "iH#).,77G1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-cc040b9fe135deec7ee738b4925ba87df21b0183.jpg\">",
+                                "<img src=\"paste-8111a041db5b33682f8e2f803acb3ce629ced77a.jpg\">"
+                            ],
+                            "guid": "O*ICzQSd{.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "12",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Užitečný/zbytečný symbol",
+                                "<img src=\"paste-5a7db14525294bb5116f1592c2234b0d1cdb8323.jpg\">"
+                            ],
+                            "guid": "tO.n)tA;P4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Generující symbol",
+                                "<img src=\"paste-4a12a7f67e12a6ad304d3cf20a591ccdd026dc56.jpg\">"
+                            ],
+                            "guid": "O@>lp%E+#/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dosažitelný symbol",
+                                "<img src=\"paste-751d321673ca010e6eda78c7d08a0b0981f1c859.jpg\">"
+                            ],
+                            "guid": "exgC0ER63{",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozhodnutelný problém",
+                                "<img src=\"paste-bea8b295f3f3a639e147e0c6e2e41052a56aab0c.jpg\">"
+                            ],
+                            "guid": "isa!HM*T8x",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Redukce",
+                                "<img src=\"paste-5c8b6acb1f2d99784df1755ddaee27c4bb1fd299.jpg\">"
+                            ],
+                            "guid": "FQbCzUOPD=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Problém zastavení",
+                                "<img src=\"paste-1348b7c314ae920309f01b2824599e686c1026ab.jpg\">"
+                            ],
+                            "guid": "M#Z^jnfOkO",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "PCP",
+                                "<img src=\"paste-c6053b5970b698e8460c1148f76ce8aad298b0ec.jpg\">"
+                            ],
+                            "guid": "s8bgz87$(_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-8ca32e6a07975b5b92c363b5297ad732eb6b154e.jpg\">",
+                                ""
+                            ],
+                            "guid": "x,WF>|&/:r",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozhodnutelné problémy pro bezkontextové gramatiky",
+                                "<img src=\"paste-e3a2f3dbcdba7bfbc903c269bfe78c0fb9f87125.jpg\"><br><img src=\"paste-c3e074236398fc5fe5ff5650f9fb850fadf585d2.jpg\"><br><img src=\"paste-a3741f987745c17147d093682344b8b62f0c388a.jpg\">"
+                            ],
+                            "guid": "y5}L8!y%8u",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "13",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "CFG, L(PDA) a N(PDA)",
+                                "<img src=\"paste-31834e405f5f24f882508792085fb4f1ebe321fc.jpg\">"
+                            ],
+                            "guid": "clSw8Sc_oK",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
                                 "důkaz"
                             ]
                         }
@@ -20726,7 +21336,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 100,
+                "perDay": 200,
                 "separate": true
             },
             "newGatherPriority": 0,
@@ -20742,7 +21352,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 2000
             },
             "reviewOrder": 0,
             "timer": 0
