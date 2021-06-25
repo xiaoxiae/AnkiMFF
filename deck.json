@@ -16423,9 +16423,7 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "activeTags": [
-                        "marked"
-                    ],
+                    "activeTags": [],
                     "children": [],
                     "crowdanki_uuid": "c766acf2-d132-11eb-aae0-88d7f63eab01",
                     "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
@@ -16773,14 +16771,14 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Součinový automat",
+                                "Součinový automat (příklad)",
                                 "<img src=\"paste-35d2f5e265c2a9cf5f4a628fd895227abcff051b.jpg\">"
                             ],
                             "guid": "GeJJ8zm)^1",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "1",
-                                "definice"
+                                "příklad"
                             ]
                         },
                         {
@@ -17145,15 +17143,14 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Od DFA k RegExu",
+                                "DFA =&gt; RegEx",
                                 "<img src=\"paste-8d4e82cbec455c65d24fc3dfd61cd823c6e7a3ae.jpg\"><br><img src=\"paste-0d8bca45ea4e916db1ce624bd033ee1cda312745.jpg\"><br><img src=\"paste-3581e67cfb4132c1aae14f52c1c89817557c2d06.jpg\">"
                             ],
                             "guid": "fu#2JBLb}?",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "4",
-                                "algoritmus",
-                                "marked"
+                                "algoritmus"
                             ]
                         },
                         {
@@ -17179,8 +17176,7 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "4",
-                                "algoritmus",
-                                "marked"
+                                "algoritmus"
                             ]
                         },
                         {
@@ -18032,7 +18028,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-56ba3e803dfa580071a780571ebe3d62a95f178e.jpg\">",
-                                "TLDR:<br>Doplněk -- průnik používá sjednocení (na které je uzavřený) a doplněk, na který tedy být nemůže.<br>Rozdíl --&nbsp;<br>---<br><img src=\"paste-9b40d05aaf4bcab240edf05aee5649c9bf843701.jpg\">"
+                                "TLDR:<br>Doplněk -- průnik používá sjednocení (na které je uzavřený) a doplněk, na který tedy být nemůže.<br>Rozdíl -- ?.<br>---<br><img src=\"paste-9b40d05aaf4bcab240edf05aee5649c9bf843701.jpg\">"
                             ],
                             "guid": "k@N0O_x8!E",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
