@@ -21286,6 +21286,1436 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a671040a-1a45-11ec-985a-88d7f63eab01",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-00f7f2750d916f6fadea0a7193a4a8562f391ae3.jpg",
+                        "paste-018c486d34a1690e8e81a570766f113d828f225e.jpg",
+                        "paste-03709687e6c8884dfd0751724a0200badc4c28fc.jpg",
+                        "paste-05a61f7c136257169618df660e4b4ced196129cf.jpg",
+                        "paste-06d525cfb8fa51f1fdb770292940c3081e0a2ec1.jpg",
+                        "paste-0769260720109d3e0988bdf7ea37c0bd72c1420a.jpg",
+                        "paste-0842787184b3c672bda880b8efb3b7dfcb11db36.jpg",
+                        "paste-08fee671fd9d09d97ea30a2ab400484a2a5d9363.jpg",
+                        "paste-0afd3a196aa9c8d487bb080f99697b8d17007f82.jpg",
+                        "paste-0cd848144f19d9a6aae4e4cd23a335b06a745270.jpg",
+                        "paste-135c446e888eb1d4103ac68da25807d30666d4a9.jpg",
+                        "paste-164135214fef13310590b38378205b79551efb0b.jpg",
+                        "paste-17a879753b91bd821616f4518abf4368edac6b8b.jpg",
+                        "paste-183f0a6145625670f7cce248ddb3f10941e6d923.jpg",
+                        "paste-1877b1483c14656309e637ba433991d3559fedb7.jpg",
+                        "paste-1ae3baac0b37754f80ba8eccbabf251c8b6662fc.jpg",
+                        "paste-1c5c2ed373bcc6af5169a334d5b504f818721be1.jpg",
+                        "paste-22d60f0d0d7b7ef40ba2aa77df7f1f8ed5ea7131.jpg",
+                        "paste-2565960c7e8f8c0a8a33c25b8d8d9f85881887b1.jpg",
+                        "paste-269e096031be8ab4b2674e5cf4f171f642f9e35b.jpg",
+                        "paste-26cb74599a95d948ad49f27e6f20d954b63658de.jpg",
+                        "paste-273d45be67860a78b8773dabaf4604904384c91c.jpg",
+                        "paste-2b7a33da7ef4e7e977a769dbd0a310eb7b175d84.jpg",
+                        "paste-2c9f790846a39ebe2eaf59ba1284c9e795d3615b.jpg",
+                        "paste-2ce7bd80fdcd0f635686fe1e76015c2754376874.jpg",
+                        "paste-2db2749c681e7a8b0aaa212fb4c273c1d2080a6f.jpg",
+                        "paste-2f3737f5b0ff1c27d7230aa1bfb73acde41df722.jpg",
+                        "paste-2ff81d38ad84e51044edded83a7d791942ef31fa.jpg",
+                        "paste-3081811d58e212b91a53e01321c96e29342812b5.jpg",
+                        "paste-31c04ff60cc783b7bd8e05b3fb13d01bf2d2d0f4.jpg",
+                        "paste-34268aa0dd8251e7fcff102566bb470a5c551343.jpg",
+                        "paste-392bef688df8496d90ed3a4fa1b4f13f92dad741.jpg",
+                        "paste-39bea50e805a5c5d9ee98a63171185cb2d841d33.jpg",
+                        "paste-3a01695d83408a2da65d3fb9008b1583b3893f6f.jpg",
+                        "paste-3b56aa4c8fe31990a034d9b1531c74021ee1749a.jpg",
+                        "paste-3ce0d2d067b32c817c217584608ba7151f50b586.jpg",
+                        "paste-44c663b1d144129f0d1cdfa3ad33159a90f25bc0.jpg",
+                        "paste-463f1d24d46b278ee4def85e29f3d951f1666094.jpg",
+                        "paste-474958f11f8f349b888b54ab37eb5a0564195c7c.jpg",
+                        "paste-47fb1a2ecbac8c1168adc2ff554e9ada1785c018.jpg",
+                        "paste-48389d619abcbf04d000a88375990432c98b8d4b.jpg",
+                        "paste-4914d764db36ab02a6f25279e4ee8a8cf9b6cd15.jpg",
+                        "paste-4a1bdb96690fbfa381920e74655315c8c2af8da5.jpg",
+                        "paste-4fda40297813831dae763986303fcbbe4ea27419.jpg",
+                        "paste-4fe7e4540212c74df6e73869789d7d799f64b2c1.jpg",
+                        "paste-5040b996304b2a4ef79f8d9d18a2c7ffff773b0f.jpg",
+                        "paste-522fdf283841b83cd80041ff040403b25dae5318.jpg",
+                        "paste-5278dcdeaa63655eee924cc68acc5f5f908e03d8.jpg",
+                        "paste-5331ea021112a4e175e7a90188912bc4335c44cc.jpg",
+                        "paste-535243d8a745c67ad0975e165301dc1b855e712d.jpg",
+                        "paste-54c24b7c7ea471e681be184e83d7dc0abd3e8340.jpg",
+                        "paste-571633dafb8f64a44f48371d217149298a8e6286.jpg",
+                        "paste-573f625ca606cfc966d8a3df6ad0adfefb1c5975.jpg",
+                        "paste-576c6d84c13ef51c104a2cd7f5a05d8dc4ba015a.jpg",
+                        "paste-57b313fc125d4a4b8ae963820ad50bdb2330f056.jpg",
+                        "paste-58663e35414a91b5b7e424b71162c3a4c82b7c34.jpg",
+                        "paste-5ee6c215a5a283432bcb1c34051b8a56b381e12a.jpg",
+                        "paste-61f3119e1811c97b66f410e21cdc110a5991c48a.jpg",
+                        "paste-621b086210308425ee76555a256253f3395fa539.jpg",
+                        "paste-6e060d23c01c3b6f909a4c595a8554a119a00035.jpg",
+                        "paste-6e13c4ff50b8484ba223dd4c834470a57ec981de.jpg",
+                        "paste-719ad70d29b3e79283310d8c30e358b984f2e39d.jpg",
+                        "paste-73a56dcef902705436a5bd26c4a603f807e2bd7f.jpg",
+                        "paste-744053697d8a5f8b5e9cff60a32e16e2ce7ae2fb.jpg",
+                        "paste-75e0f8d9c919a54a0a83d7cce647a342d41a6319.jpg",
+                        "paste-7916dd98f65943ea271545e6b1f9908355f0bbdb.jpg",
+                        "paste-80aebf2062fcacc75e24313bc3432ba95ee68931.jpg",
+                        "paste-81bfd7e31d2e9590f7471a50b2b04d75fc72a8a2.jpg",
+                        "paste-863d142dceb24df4c75876799041b212f21afc35.jpg",
+                        "paste-8763317d6bfce0967ceabd149e048da514817faf.jpg",
+                        "paste-888183139b594f56d93d3e56bfd4128effda8202.jpg",
+                        "paste-888a078d9974d747b4ac52cb2badbe4c65e20108.jpg",
+                        "paste-9034803e4c4cb51eadd13833b87d4f4b4ac33a2e.jpg",
+                        "paste-932dc13144dfd774d08d9876a33e67f0b4e899d4.jpg",
+                        "paste-945d8703a06d6efb26f314a71fe40c57ce357320.jpg",
+                        "paste-9756f6e9442a3750f2109858f7616b1bf0d66dc7.jpg",
+                        "paste-97ceec9d72899e485fa79fd0bfb5c30468f8d66d.jpg",
+                        "paste-99a665215277ac0024ba47ac4ca79368ab65072e.jpg",
+                        "paste-9a0dca1edc4d2d1bdb5049ed0e2437e991cfa831.jpg",
+                        "paste-9b30572bee604916032fff80061c69cd5a57a245.jpg",
+                        "paste-9b3ab06ba0d6c12e71ea6ae3468e6455146f75db.jpg",
+                        "paste-9b6d787754eaaa82d3835447947c8c30ad6b9240.jpg",
+                        "paste-9f3cffb5c2b86ecaa408999f28a48c49d82d1596.jpg",
+                        "paste-9fa930c56374adbc5e09cbd108479ac5e5d04185.jpg",
+                        "paste-a043bd6cfbab9ea9467afc7bd9842c1a7359d99e.jpg",
+                        "paste-a177c49b0d4087795941b89df213a3923836419c.jpg",
+                        "paste-a17ef20bc2f8429010d0342fc095ea5e60002de0.jpg",
+                        "paste-a35ee65e3f6436f82eda16878496ee043ab7321d.jpg",
+                        "paste-a465bf6a7ac7c1649f468d63026b3d8626aa77c5.jpg",
+                        "paste-aaa5087f66493d21cdae0b61b6f8ea49e5c5ccdc.jpg",
+                        "paste-ad71babd0f9ea2c23c5ea0399f52beda2eb214da.jpg",
+                        "paste-af0606b6c057425bcf1ab1985bf315c46edffafe.jpg",
+                        "paste-b2042594360063e4a8c15790a0d01c988fe823ee.jpg",
+                        "paste-b259551f4527e1072b92b0c92a414f4d08e36a84.jpg",
+                        "paste-b3b222805bea502c0c53f1f2867bc4932a52a80e.jpg",
+                        "paste-b5ea55e3af0466ea63c7a4bf701596b0dde51695.jpg",
+                        "paste-b89d284095bd36e13e0e396640be77a4d67b42e3.jpg",
+                        "paste-b8c835eef927411e9acefb735c67ea19bc2e082a.jpg",
+                        "paste-b966dac5debe02278d65f38fb283e887d8b63bb7.jpg",
+                        "paste-bdc081e6199d6e398e9a057e29f0477089a51cdd.jpg",
+                        "paste-c2293fcfb38e195b27bec7747237cc7fcca975a4.jpg",
+                        "paste-c3eab00d3dd9c33d1afa11db41c562598b2212ca.jpg",
+                        "paste-c402aa1c649ea5e24011cc3d63122ec857396185.jpg",
+                        "paste-c559454a9b320b5e8af43e2cc262781f4e9d31b6.jpg",
+                        "paste-cafaad33a9bcf3d2679b683f1faf3517207137e3.jpg",
+                        "paste-cb98f10ae973d9c34fb2ac8c61c52b3d7256d4fc.jpg",
+                        "paste-cf0bdb30a2f1d8fe4600d6e31fe2b4acb0b7f1c9.jpg",
+                        "paste-d21146661d29411719f8a39ebf6e1e9b68ca45b9.jpg",
+                        "paste-d29b3a3d013ae7fce67e931fb12d2cb73ef43784.jpg",
+                        "paste-d5b7efe65cd698452afa8b5a15978744c53e8590.jpg",
+                        "paste-d9bd80a7f8ffbe053fb36be587a23856f37ca359.jpg",
+                        "paste-db48e6686aea6aa615841cce8260bf4fdba14857.jpg",
+                        "paste-dcfd689a4b52e20f7e4482cc129cbf58a13593cd.jpg",
+                        "paste-dd3b31fcfde02eaefe889ecd2cdafd953c5bde32.jpg",
+                        "paste-de0cac3219d81e42a0893e8aa8393a2e57fb7c0f.jpg",
+                        "paste-e08aaaf72c57557465efe71b7646fc0177816e9b.jpg",
+                        "paste-e31ae8ebb00d7e75baf2d364692c18f78955c389.jpg",
+                        "paste-e39e58f919bd6681d8b6388f5482680b921df7cb.jpg",
+                        "paste-e4294158053f27cf57c622374bad1c521c9761d2.jpg",
+                        "paste-e520fdcfdef090a2178eb32f82eea3a37542a3f7.jpg",
+                        "paste-e616ffdf820b67df528fb46d13fe1d8192b6ad1e.jpg",
+                        "paste-e847573a5c1afd34dc063cd6ac1fa44d4c92d6e4.jpg",
+                        "paste-e941245448bdb5094f9aff4b02e6cd46bfa6c554.jpg",
+                        "paste-eaa8204463c91c7ad936a12f7b12bba4b2435456.jpg",
+                        "paste-ec5ea14be718103a6e4dee4de1df0efd30282991.jpg",
+                        "paste-efa223405c4d84ae2decb515d6c9f88bf028ef46.jpg",
+                        "paste-f01070e43feba7d6adcd30d1d859c989a0057ed4.jpg",
+                        "paste-f557ddfeafd8a2e35ce129740b3e00981797307b.jpg",
+                        "paste-f6f1a45d6ebdaf7b398f12fe33fac08b02387d05.jpg",
+                        "paste-f90054859268f5ec73fc9422b93bb75d52f688cd.jpg",
+                        "paste-f980abc941c59e07a803f9479ee6feb9a5709b13.jpg",
+                        "paste-fa2faa8faf00577468ba7bc64e92fa2d4378336e.jpg",
+                        "paste-fb5c911b4a11ef2418b4440624765d40f20cb4b2.jpg",
+                        "paste-fc25120bbdd797a844def32db05bafa6ff4b68e8.jpg",
+                        "paste-fe7cc2c1eba1596d730ee37ab3c72fa4d64e3cee.jpg",
+                        "paste-fed7eefd258ec8fb192c9fcc1e58f0b36e9fa035.jpg",
+                        "paste-ffb380c0a7cafa21bc26700d8f6e68b5a152e39b.jpg"
+                    ],
+                    "name": "Pravděpodobnost a Statistika",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Prostor jevů",
+                                "<img src=\"paste-61f3119e1811c97b66f410e21cdc110a5991c48a.jpg\"><br>- vychází z toho, že na tom jdou dělat všechny operace, které chceme (průnik, rozdíl,...)<br>---<br><img src=\"paste-9b6d787754eaaa82d3835447947c8c30ad6b9240.jpg\">"
+                            ],
+                            "guid": "xKG{hJv(>9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Axiomy pravděpodobnosti",
+                                "<img src=\"paste-2ce7bd80fdcd0f635686fe1e76015c2754376874.jpg\">"
+                            ],
+                            "guid": "BPE^g_60GB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pravděpodobnostní prostor",
+                                "<img src=\"paste-47fb1a2ecbac8c1168adc2ff554e9ada1785c018.jpg\">"
+                            ],
+                            "guid": "E;cEePiCan",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Základní vlastnosti pravděpodobnostních prostorů",
+                                "<img src=\"paste-135c446e888eb1d4103ac68da25807d30666d4a9.jpg\"><br><img src=\"paste-273d45be67860a78b8773dabaf4604904384c91c.jpg\">"
+                            ],
+                            "guid": "Jc{TS6eZ[I",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konečný pp s uniformní pravděpodobností",
+                                "<img src=\"paste-9a0dca1edc4d2d1bdb5049ed0e2437e991cfa831.jpg\">"
+                            ],
+                            "guid": "<^3<izfE6",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diskrétní pravděpodobnostní prostor",
+                                "<img src=\"paste-e520fdcfdef090a2178eb32f82eea3a37542a3f7.jpg\">"
+                            ],
+                            "guid": "l:hF9pA1GZ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Spojitý pp",
+                                "<img src=\"paste-e4294158053f27cf57c622374bad1c521c9761d2.jpg\">"
+                            ],
+                            "guid": "Q/kU#%$JNd",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmíněná pravděpodobnost",
+                                "<img src=\"paste-9b3ab06ba0d6c12e71ea6ae3468e6455146f75db.jpg\"><br><img src=\"paste-0769260720109d3e0988bdf7ea37c0bd72c1420a.jpg\"><br>---<br><img src=\"paste-1ae3baac0b37754f80ba8eccbabf251c8b6662fc.jpg\">"
+                            ],
+                            "guid": "h%I!FqF^#o",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zřetězené podmiňování",
+                                "<img src=\"paste-d29b3a3d013ae7fce67e931fb12d2cb73ef43784.jpg\"><br>---<br><img src=\"paste-fb5c911b4a11ef2418b4440624765d40f20cb4b2.jpg\">"
+                            ],
+                            "guid": "ERtZ)wzh3G",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad zřetězeného podmiňování",
+                                "<img src=\"paste-3081811d58e212b91a53e01321c96e29342812b5.jpg\">"
+                            ],
+                            "guid": "c?e1<Twr[6",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Věta o úplné pravděpodobnosti",
+                                "<img src=\"paste-08fee671fd9d09d97ea30a2ab400484a2a5d9363.jpg\">"
+                            ],
+                            "guid": "nV+r#%ap^_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad věty o úplné pravděpodobnosti",
+                                "<img src=\"paste-fe7cc2c1eba1596d730ee37ab3c72fa4d64e3cee.jpg\">"
+                            ],
+                            "guid": "o(J,5AFImp",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bayesova věta",
+                                "<img src=\"paste-de0cac3219d81e42a0893e8aa8393a2e57fb7c0f.jpg\"><br>---<br><img src=\"paste-80aebf2062fcacc75e24313bc3432ba95ee68931.jpg\"><br>---<br>3b1b:&nbsp;<a href=\"https://www.youtube.com/watch?v=HZGCoVF3YvM\">https://www.youtube.com/watch?v=HZGCoVF3YvM</a><br>---<br>Prosecutor's fallacy:&nbsp;<a href=\"https://www.youtube.com/watch?v=nekZF8Gmrug\">https://www.youtube.com/watch?v=nekZF8Gmrug</a>"
+                            ],
+                            "guid": "l4/3]jnRxN",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(vzájemná) nezávislost jevů",
+                                "<img src=\"paste-dcfd689a4b52e20f7e4482cc129cbf58a13593cd.jpg\"><br>---<br><img src=\"paste-5040b996304b2a4ef79f8d9d18a2c7ffff773b0f.jpg\"><br>---<br>Tomovo poznámka: koncepčně se mi to plete s disjunktními jevy, ikdyž to jsou úplně rozdílné věci.<br>Tohle video to relativně vtipně vysvětluje:&nbsp;<a href=\"https://www.youtube.com/watch?v=GnWHt9nqwBA\">https://www.youtube.com/watch?v=GnWHt9nqwBA</a><br>TLDR: disjunktní <b>nemůžou být nezávislé, </b>jsou to úplně jiné věci&nbsp;"
+                            ],
+                            "guid": "B9C=XQTa;q",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Spojitost pravděpodobností",
+                                "<img src=\"paste-5278dcdeaa63655eee924cc68acc5f5f908e03d8.jpg\"><br><img src=\"paste-9034803e4c4cb51eadd13833b87d4f4b4ac33a2e.jpg\"><br>---<br><img src=\"paste-392bef688df8496d90ed3a4fa1b4f13f92dad741.jpg\">"
+                            ],
+                            "guid": "o.tble01=U",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diskrétní náhodná veličina",
+                                "<img src=\"paste-fc25120bbdd797a844def32db05bafa6ff4b68e8.jpg\"><br>- ta druhá podmínka je tam proto, abychom všechny jevy mohli měřit"
+                            ],
+                            "guid": "ie4C%f]R~_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pravděpodobnostní funkce diskrétní náhodné veličiny (pmf)",
+                                "<img src=\"paste-1877b1483c14656309e637ba433991d3559fedb7.jpg\">"
+                            ],
+                            "guid": "w1RCe@$pK.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-5ee6c215a5a283432bcb1c34051b8a56b381e12a.jpg\">",
+                                "Je to 1, sčítáme pravděpodobnosti jevů přes celý obor hodnot - to musí pokrýt všechny."
+                            ],
+                            "guid": "c-i^yKax(C",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bernoulliho/alternativní rozdělení",
+                                "<img src=\"paste-44c663b1d144129f0d1cdfa3ad33159a90f25bc0.jpg\"><br>---<br><img src=\"paste-6e060d23c01c3b6f909a4c595a8554a119a00035.jpg\">"
+                            ],
+                            "guid": "I*WiOG?ixW",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Binomiální (binomické) rozdělení",
+                                "<img src=\"paste-39bea50e805a5c5d9ee98a63171185cb2d841d33.jpg\"><br><img src=\"paste-97ceec9d72899e485fa79fd0bfb5c30468f8d66d.jpg\"><br><img src=\"paste-f557ddfeafd8a2e35ce129740b3e00981797307b.jpg\"><br>---<br><img src=\"paste-58663e35414a91b5b7e424b71162c3a4c82b7c34.jpg\"><br>- rozptyl jde opět rozepsat a ubouchat, pak si na to ještě řekneme šikovnou větu"
+                            ],
+                            "guid": "G6&N;eJ*/o",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hypergeometrické rozdělení",
+                                "<img src=\"paste-fed7eefd258ec8fb192c9fcc1e58f0b36e9fa035.jpg\"><br>Pravděpodobnost odpovídá tomu, že z červených vyberu k, z ostatních zbytek a vydělím všemi možnostmi.<br>&nbsp;---<br><img src=\"paste-ffb380c0a7cafa21bc26700d8f6e68b5a152e39b.jpg\">"
+                            ],
+                            "guid": "d#6I5HV!oo",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Poissonovo rozdělení",
+                                "<img src=\"paste-03709687e6c8884dfd0751724a0200badc4c28fc.jpg\"><br>---<br><img src=\"paste-945d8703a06d6efb26f314a71fe40c57ce357320.jpg\"><br>- možná ale stačí říct, že když víme, že je limita binomického, tak to zlimitit..."
+                            ],
+                            "guid": "J?io+V[)W.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Geometrické rozdělení",
+                                "<img src=\"paste-75e0f8d9c919a54a0a83d7cce647a342d41a6319.jpg\"><br>---<br><img src=\"paste-9756f6e9442a3750f2109858f7616b1bf0d66dc7.jpg\">&nbsp;"
+                            ],
+                            "guid": "Ai)UP2uZXe",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Střední hodnota diskrétní n. v.",
+                                "<img src=\"paste-2565960c7e8f8c0a8a33c25b8d8d9f85881887b1.jpg\"><br>---<br>Druhá definice má problém, když je prostor nekonečný."
+                            ],
+                            "guid": "J|1+h%PL0*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozptyl (variance)",
+                                "<img src=\"paste-9fa930c56374adbc5e09cbd108479ac5e5d04185.jpg\"><br><img src=\"paste-8763317d6bfce0967ceabd149e048da514817faf.jpg\">"
+                            ],
+                            "guid": "A.KRcAh(=:",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LOTUS pro diskrétní n. v.",
+                                "<img src=\"paste-2b7a33da7ef4e7e977a769dbd0a310eb7b175d84.jpg\">"
+                            ],
+                            "guid": "c|w(7.Hsu#",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vlastnosti střední hodnoty",
+                                "<img src=\"paste-3ce0d2d067b32c817c217584608ba7151f50b586.jpg\"><br><img src=\"paste-c559454a9b320b5e8af43e2cc262781f4e9d31b6.jpg\"><br>---<br><img src=\"paste-48389d619abcbf04d000a88375990432c98b8d4b.jpg\"><br><img src=\"paste-c402aa1c649ea5e24011cc3d63122ec857396185.jpg\"><br>- místo nuly může být c... pokud je průměrná výška 180 cm, tak existuje člověk s alespoň takovou výškou<br>---<br><img src=\"paste-621b086210308425ee76555a256253f3395fa539.jpg\"><br><img src=\"paste-0afd3a196aa9c8d487bb080f99697b8d17007f82.jpg\"><br>---<br><img src=\"paste-269e096031be8ab4b2674e5cf4f171f642f9e35b.jpg\"><br>- <b>linearita střední hodnoty</b><br>- důkaz pro diskrétní pravděpodobnostní prostor (alternativní definice střední hodnoty) je prostě rozepsání z definice a roztrhnutí na 2 sumy"
+                            ],
+                            "guid": "M=|(&BNNe#",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Alternativní formule pro střední hodnotu",
+                                "<img src=\"paste-2ff81d38ad84e51044edded83a7d791942ef31fa.jpg\">"
+                            ],
+                            "guid": "c<Ykc,rSB#",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Směrodatná odchylka",
+                                "Odmocnina rozptylu.<br>Na něco je lepší, protože je \"ve stejných jednotkách\" jako X."
+                            ],
+                            "guid": "MQQBH:FVFu",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-b2042594360063e4a8c15790a0d01c988fe823ee.jpg\">",
+                                "<img src=\"paste-2c9f790846a39ebe2eaf59ba1284c9e795d3615b.jpg\"><br>- vyplývá z toho, že E(X^2) je vždy větší než E(X)^2, konkrétně se liší o rozptyl"
+                            ],
+                            "guid": "f9;l[Alh)L",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmíněná střední hodnota",
+                                "<img src=\"paste-4fe7e4540212c74df6e73869789d7d799f64b2c1.jpg\">"
+                            ],
+                            "guid": "Ibj4dzP^Z$",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Věta o úplné střední hodnotě",
+                                "<img src=\"paste-efa223405c4d84ae2decb515d6c9f88bf028ef46.jpg\">"
+                            ],
+                            "guid": "h3Lsy26>oH",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad použití věty o úplné střední hodnotě",
+                                "<img src=\"paste-06d525cfb8fa51f1fdb770292940c3081e0a2ec1.jpg\">"
+                            ],
+                            "guid": "NAbejZY9er",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Náhodné vektory, joint pmf",
+                                "<img src=\"paste-a043bd6cfbab9ea9467afc7bd9842c1a7359d99e.jpg\"><br><img src=\"paste-db48e6686aea6aa615841cce8260bf4fdba14857.jpg\">"
+                            ],
+                            "guid": "f0>W{9X#m=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Marginální rozdělení",
+                                "<img src=\"paste-f980abc941c59e07a803f9479ee6feb9a5709b13.jpg\"><br>- oprava: v indexech sum jsou malá písmena (iterujeme přes hodnoty, né n.v.)<br>- Wikipedia:&nbsp;<a href=\"https://en.wikipedia.org/wiki/Marginal_distribution\">https://en.wikipedia.org/wiki/Marginal_distribution</a><br><br><img src=\"paste-6e13c4ff50b8484ba223dd4c834470a57ec981de.jpg\">"
+                            ],
+                            "guid": "Rvar:Zc!O",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "&nbsp;Nezávislé náhodné veličiny",
+                                "<img src=\"paste-d21146661d29411719f8a39ebf6e1e9b68ca45b9.jpg\">"
+                            ],
+                            "guid": "X5OCKh^:m",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Multinomické rozdělení",
+                                "<img src=\"paste-b3b222805bea502c0c53f1f2867bc4932a52a80e.jpg\">"
+                            ],
+                            "guid": "L8<o3&1zhm",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sdružování/cupling",
+                                "<img src=\"paste-ec5ea14be718103a6e4dee4de1df0efd30282991.jpg\"><br><img src=\"paste-fa2faa8faf00577468ba7bc64e92fa2d4378336e.jpg\">"
+                            ],
+                            "guid": "BHYP6,wLHT",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Linearita střední hodnoty pro náhodný vektor",
+                                "<img src=\"paste-9f3cffb5c2b86ecaa408999f28a48c49d82d1596.jpg\">"
+                            ],
+                            "guid": "k^F[,t|=Z{",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "věta"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LOTUS pro náhodný diskrétní vektor",
+                                "<img src=\"paste-c2293fcfb38e195b27bec7747237cc7fcca975a4.jpg\"><br><img src=\"paste-26cb74599a95d948ad49f27e6f20d954b63658de.jpg\">&nbsp;"
+                            ],
+                            "guid": "q6Xcg}Hxl,",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Střední hodnota součinu nezávislých náhodných veličin",
+                                "<img src=\"paste-183f0a6145625670f7cce248ddb3f10941e6d923.jpg\"><br>---<br>Tohle bylo minule:&nbsp;<br><img src=\"paste-522fdf283841b83cd80041ff040403b25dae5318.jpg\"><br>"
+                            ],
+                            "guid": "s=nvg){RT.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Součet nezávislých n.v. (konvoluce)",
+                                "<img src=\"paste-f01070e43feba7d6adcd30d1d859c989a0057ed4.jpg\"><br><img src=\"paste-e847573a5c1afd34dc063cd6ac1fa44d4c92d6e4.jpg\"><br>---<br>Názorná ukázka:<br><img src=\"paste-932dc13144dfd774d08d9876a33e67f0b4e899d4.jpg\">"
+                            ],
+                            "guid": "G^5S$[}3<5",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmíněné rozdělení",
+                                "<img src=\"paste-00f7f2750d916f6fadea0a7193a4a8562f391ae3.jpg\"><br>---<br>Příklad sdružené vs. podmíněné:<br><img src=\"paste-e31ae8ebb00d7e75baf2d364692c18f78955c389.jpg\">"
+                            ],
+                            "guid": "jmzu;?KzA$",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(spojitá) náhodná veličina",
+                                "<img src=\"paste-d9bd80a7f8ffbe053fb36be587a23856f37ca359.jpg\"><br><img src=\"paste-f6f1a45d6ebdaf7b398f12fe33fac08b02387d05.jpg\"><br>- pozor - <b>f</b> spojitá být nemusí, musí být pouze integrovatelná!!!<br>- další pozor - <b>F</b> spojitá je, protože i když ta <b>f</b>&nbsp;je rozsekaná, tak <b>F&nbsp;</b>je zintegrovaná a roste plynule...."
+                            ],
+                            "guid": "jz-=y%4Tl#",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kvantilová funkce",
+                                "<img src=\"paste-2f3737f5b0ff1c27d7230aa1bfb73acde41df722.jpg\">"
+                            ],
+                            "guid": "vCH=gsOvvX",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Věty o práci s hustotou",
+                                "<img src=\"paste-b966dac5debe02278d65f38fb283e887d8b63bb7.jpg\">"
+                            ],
+                            "guid": "JdzCHpNz(",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Střední hodnota spojité náhodné veličiny",
+                                "<img src=\"paste-5331ea021112a4e175e7a90188912bc4335c44cc.jpg\">"
+                            ],
+                            "guid": "L:FIEx3JU]",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LOTUS pro spojitou náhodnou veličinu",
+                                "<img src=\"paste-e941245448bdb5094f9aff4b02e6cd46bfa6c554.jpg\">"
+                            ],
+                            "guid": "bY_z~~k)w}",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozptyl spojité náhodné veličiny",
+                                "<img src=\"paste-535243d8a745c67ad0975e165301dc1b855e712d.jpg\">"
+                            ],
+                            "guid": "hqZIvEXvEw",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozptyl součtu náhodných veličin",
+                                "<img src=\"paste-e616ffdf820b67df528fb46d13fe1d8192b6ad1e.jpg\"><br>TODO: důkaz?"
+                            ],
+                            "guid": "J!Q|h85^>t",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Uniformní rozdělení",
+                                "<img src=\"paste-0cd848144f19d9a6aae4e4cd23a335b06a745270.jpg\">"
+                            ],
+                            "guid": "v3SZ#1fB9|",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Exponenciální rozdělení",
+                                "<img src=\"paste-719ad70d29b3e79283310d8c30e358b984f2e39d.jpg\">"
+                            ],
+                            "guid": "f6utVaZfi(",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Souvislost exponenciálního a geometrického rozdělení",
+                                "<img src=\"paste-888183139b594f56d93d3e56bfd4128effda8202.jpg\">"
+                            ],
+                            "guid": "eRlg:B1;{[",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Normální rozdělení&nbsp;",
+                                "<img src=\"paste-571633dafb8f64a44f48371d217149298a8e6286.jpg\">"
+                            ],
+                            "guid": ":-sqZw{<+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Obecné normální rozdělení",
+                                "<img src=\"paste-17a879753b91bd821616f4518abf4368edac6b8b.jpg\">"
+                            ],
+                            "guid": "AM%!JS)W2b",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "pmf, pdf, cdf",
+                                "<b>pmf </b>- probability mass function, patří k diskrétním proměnným<br><b>pdf </b>- probability density function, patří ke spojitým proměnným, musíme přes ní integrovat<br><b>cdf</b>&nbsp;- cumulative density function, patří ke spojitým proměnným, primitivní k <b>pdf</b>"
+                            ],
+                            "guid": "A:`;;@}Y+2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cauchyho rozdělení",
+                                "<img src=\"paste-a17ef20bc2f8429010d0342fc095ea5e60002de0.jpg\">"
+                            ],
+                            "guid": "O}o:D#ULrx",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gamma rozdělení",
+                                "<img src=\"paste-c3eab00d3dd9c33d1afa11db41c562598b2212ca.jpg\"><br>- pokud Exp(lambda) modeluje dobu, za jak dlouho server obslouží request, tak Gamma(n, lambda) říká, za jak dlouho obslouží více requestů"
+                            ],
+                            "guid": "Ou;eqTdwTH",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Universalita uniformního rozdělení",
+                                "<img src=\"paste-a35ee65e3f6436f82eda16878496ee043ab7321d.jpg\"><br>- spojitost využíváme v bodě, kdy tvrdíme, že existuje F(x) = y<br>&nbsp; - <b>pro diskrétní nefunguje,</b>&nbsp;protože spojitě mnoho hodnot od 0 do 1 pro konečný počet hodnot rozhodně nedostaneme<br>- univerzalita je až tahle věta:<br><img src=\"paste-164135214fef13310590b38378205b79551efb0b.jpg\"><br>- používáme pozorování Q(p) = x &lt;=&gt; F(x) = p (tedy inverzní), ale i pro nespojité platí Q(p) &lt;= x &lt;=&gt; F(x) &gt;= p"
+                            ],
+                            "guid": "z860wsa^gR",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "věta"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklad použití univerzality uniformního rozdělení",
+                                "<img src=\"paste-e39e58f919bd6681d8b6388f5482680b921df7cb.jpg\">"
+                            ],
+                            "guid": "bMR$+9R<B4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sdružená distribuční funkce (joint cdf)",
+                                "<img src=\"paste-744053697d8a5f8b5e9cff60a32e16e2ce7ae2fb.jpg\"><br>- skoro stejné jako pro diskrétní náhodné vektory, jen jsme měli rovnosti<br>- odvození obdélníku je PIE"
+                            ],
+                            "guid": "fe2RqM[F^S",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sdružená hustota (joint pdf)",
+                                "<img src=\"paste-4914d764db36ab02a6f25279e4ee8a8cf9b6cd15.jpg\"><br>- opět analogické jako u diskrétních vektorů, ale sumy jsou teď integrály"
+                            ],
+                            "guid": "C8~lmwNQ6;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(f_{X, Y}(x, y)\\) z \\(F_{X, Y}(x, y)\\)",
+                                "<img src=\"paste-a177c49b0d4087795941b89df213a3923836419c.jpg\">"
+                            ],
+                            "guid": "k+C;lkom?x",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LOTUS pro spojitý náhodný vektor",
+                                "<img src=\"paste-b5ea55e3af0466ea63c7a4bf701596b0dde51695.jpg\">"
+                            ],
+                            "guid": "B3FH=rFW(g",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "věta"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nezávislost spojitých náhodných veličin",
+                                "<img src=\"paste-57b313fc125d4a4b8ae963820ad50bdb2330f056.jpg\"><br>- stejné jako pro d.n.v., jen rovnosti jsou nerovnosti"
+                            ],
+                            "guid": "L-<j_o14Ek",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nezávislost s.n.v. a pdf",
+                                "<img src=\"paste-dd3b31fcfde02eaefe889ecd2cdafd953c5bde32.jpg\"><br>---<br>Důkaz jsou dvě implikace:<br><img src=\"paste-31c04ff60cc783b7bd8e05b3fb13d01bf2d2d0f4.jpg\"><br>---<br><img src=\"paste-cafaad33a9bcf3d2679b683f1faf3517207137e3.jpg\">"
+                            ],
+                            "guid": "Ai9~gk_ziE",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vícerozměrné normální rozdělení",
+                                "<img src=\"paste-1c5c2ed373bcc6af5169a334d5b504f818721be1.jpg\">"
+                            ],
+                            "guid": "L!cVF$0rGi",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmiňování (zúžení)",
+                                "<img src=\"paste-54c24b7c7ea471e681be184e83d7dc0abd3e8340.jpg\">"
+                            ],
+                            "guid": "fhc_zREIuR",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Věta o rozkladu hustoty",
+                                "<img src=\"paste-d5b7efe65cd698452afa8b5a15978744c53e8590.jpg\">"
+                            ],
+                            "guid": "gw}$0)cY(}",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Marginální hustota",
+                                "<img src=\"paste-b259551f4527e1072b92b0c92a414f4d08e36a84.jpg\">"
+                            ],
+                            "guid": "jw{1*xoJx2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmíněná hustota",
+                                "<img src=\"paste-a465bf6a7ac7c1649f468d63026b3d8626aa77c5.jpg\"><br>- pro diskrétní n. v. to dáválo smysl, ale tady je P(X == x) nulová... stejně to ale můžeme zadefinovat a chová se to tak, jak očekáváme<br>"
+                            ],
+                            "guid": "eUvtVt<*&E",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Součet spojitých náhodných veličin (konvoluce)",
+                                "<img src=\"paste-f90054859268f5ec73fc9422b93bb75d52f688cd.jpg\"><br>- analogie pro součet diskrétních n. v., kde jsme používali součet<br><img src=\"paste-576c6d84c13ef51c104a2cd7f5a05d8dc4ba015a.jpg\">"
+                            ],
+                            "guid": "Gfi_,$*>]1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ukázka konvoluce",
+                                "<img src=\"paste-bdc081e6199d6e398e9a057e29f0477089a51cdd.jpg\">"
+                            ],
+                            "guid": "AooyZD?>0R",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Podmíněná hustota a střední hodnota",
+                                "<img src=\"paste-eaa8204463c91c7ad936a12f7b12bba4b2435456.jpg\">"
+                            ],
+                            "guid": "BmwF{axm`*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kinda sus slide",
+                                "<img src=\"paste-9b30572bee604916032fff80061c69cd5a57a245.jpg\">"
+                            ],
+                            "guid": "Fd;>-NL#^b",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kovariance",
+                                "<img src=\"paste-81bfd7e31d2e9590f7471a50b2b04d75fc72a8a2.jpg\"><br>- určuje, jak spolu ty dvě veličiny \"souvisí\""
+                            ],
+                            "guid": "B=Ds&Q)HLM",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-cf0bdb30a2f1d8fe4600d6e31fe2b4acb0b7f1c9.jpg\">",
+                                "- stejný důkaz jako pro formulku variance"
+                            ],
+                            "guid": "rLih?&5$<I",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkjaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kovariance nezávislých veličin",
+                                "Je 0 (dosazení do&nbsp;<img src=\"paste-af0606b6c057425bcf1ab1985bf315c46edffafe.jpg\">).<br>Pozor, <b>není to \\(\\iff\\)!</b>"
+                            ],
+                            "guid": "u$Rni~VGvm",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Korelace",
+                                "<img src=\"paste-e08aaaf72c57557465efe71b7646fc0177816e9b.jpg\"><br>- <b>normalizovaná kovariance</b><br>- motivace: odlišení kovariance podle toho, zda je velká kvůli číslům nebo kvůli tomu, jak moc se náhodné veličiny liší<br>- <b>neimplikuje kauzalitu </b>(korelace je symetrická, kauzalita není)"
+                            ],
+                            "guid": "I~MG6^931R",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rozptyl součtu",
+                                "<img src=\"paste-3b56aa4c8fe31990a034d9b1531c74021ee1749a.jpg\">"
+                            ],
+                            "guid": "Oe+jDG-:KJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cauchyho nerovnost",
+                                "<img src=\"paste-463f1d24d46b278ee4def85e29f3d951f1666094.jpg\">"
+                            ],
+                            "guid": "hEG:avPxF)",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Jensenova nerovnost",
+                                "<img src=\"paste-7916dd98f65943ea271545e6b1f9908355f0bbdb.jpg\">"
+                            ],
+                            "guid": "KK44uz@otj",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Markovova nerovnost",
+                                "<img src=\"paste-34268aa0dd8251e7fcff102566bb470a5c551343.jpg\">"
+                            ],
+                            "guid": "s`WL6UhMJs",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Čebyševova nerovnost",
+                                "<img src=\"paste-573f625ca606cfc966d8a3df6ad0adfefb1c5975.jpg\">"
+                            ],
+                            "guid": "CcPxuj{X@>",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Slabý zákon velkých čísel",
+                                "<img src=\"paste-4a1bdb96690fbfa381920e74655315c8c2af8da5.jpg\"><br>- dokazuje to, že dává smysl dělat vážený průměr<br>- existuje řada zesílení (např. že proměnné nemusí být nezávislé)"
+                            ],
+                            "guid": "liG)[wY%X4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Centrální limitní věta",
+                                "<img src=\"paste-22d60f0d0d7b7ef40ba2aa77df7f1f8ed5ea7131.jpg\"><br><img src=\"paste-cb98f10ae973d9c34fb2ac8c61c52b3d7256d4fc.jpg\">"
+                            ],
+                            "guid": "O+{zwE>QS-",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Empirická distribuční funkce",
+                                "<img src=\"paste-888a078d9974d747b4ac52cb2badbe4c65e20108.jpg\">"
+                            ],
+                            "guid": "i=F$1YT:wl",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vlastnosti empirické distribuční funkce",
+                                "<img src=\"paste-b89d284095bd36e13e0e396640be77a4d67b42e3.jpg\">"
+                            ],
+                            "guid": "PLD-R<jR(Z",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Náhodný výběr",
+                                "<img src=\"paste-474958f11f8f349b888b54ab37eb5a0564195c7c.jpg\">"
+                            ],
+                            "guid": "M>;&^Q6m?g",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Neparametrické / parametrické modely",
+                                "<img src=\"paste-4fda40297813831dae763986303fcbbe4ea27419.jpg\"><br>- někdy jsou modely tak komplexní, že nejsou popisovány parametry"
+                            ],
+                            "guid": "yqT2?%}h56",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Statistika",
+                                "<img src=\"paste-99a665215277ac0024ba47ac4ca79368ab65072e.jpg\">"
+                            ],
+                            "guid": "oY)r&3{*mb",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Odhad",
+                                "<img src=\"paste-2db2749c681e7a8b0aaa212fb4c273c1d2080a6f.jpg\">"
+                            ],
+                            "guid": "b4PQ`C_s6H",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vlastnosti bodových odhadů",
+                                "<img src=\"paste-018c486d34a1690e8e81a570766f113d828f225e.jpg\">"
+                            ],
+                            "guid": "FLZp7?n-js",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-3a01695d83408a2da65d3fb9008b1583b3893f6f.jpg\">",
+                                "<img src=\"paste-863d142dceb24df4c75876799041b212f21afc35.jpg\">"
+                            ],
+                            "guid": "c2hEFb!:HK",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Parametry výběrového momentu a rozptylu",
+                                "<img src=\"paste-73a56dcef902705436a5bd26c4a603f807e2bd7f.jpg\"><br><img src=\"paste-05a61f7c136257169618df660e4b4ced196129cf.jpg\"><br><img src=\"paste-aaa5087f66493d21cdae0b61b6f8ea49e5c5ccdc.jpg\">"
+                            ],
+                            "guid": "G1B<[`^0F;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Metoda momentů",
+                                "<img src=\"paste-0842787184b3c672bda880b8efb3b7dfcb11db36.jpg\"><br>- motivace proč to chceme dělat:&nbsp;<a href=\"https://www.youtube.com/watch?v=ISaVvSO_3Sg\">https://www.youtube.com/watch?v=ISaVvSO_3Sg</a>"
+                            ],
+                            "guid": "JLZ`9d<yTj",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Výběrový průměr a rozdíl",
+                                "<img src=\"paste-b8c835eef927411e9acefb735c67ea19bc2e082a.jpg\">"
+                            ],
+                            "guid": "y=u$>9sWgQ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Metoda maximální věrohodnosti",
+                                "<img src=\"paste-ad71babd0f9ea2c23c5ea0399f52beda2eb214da.jpg\"><br>- dříve jsme měli \\(\\theta\\) a posílali jsme do toho data; teď data fixujeme a hledáme \\(\\theta\\), pro které je pravděpodobnost nejvyšší<br>- fajn video, které to říká trochu srozumitelněji:&nbsp;<a href=\"https://www.youtube.com/watch?v=XepXtl9YKwc\">https://www.youtube.com/watch?v=XepXtl9YKwc</a>"
+                            ],
+                            "guid": "Dby}E4^MGg",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definice"
+                            ]
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "461c76ee-c3c3-11eb-9f02-88d7f63eab01",
