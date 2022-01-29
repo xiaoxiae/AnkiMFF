@@ -33,4 +33,4 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - Automaty a gramatiky
 - Kombinatorika a grafy
 - Lineární programování a kombinatorická optimalizace
-- Pravděpodobnost a statistika (TODO)
+- Pravděpodobnost a statistika
