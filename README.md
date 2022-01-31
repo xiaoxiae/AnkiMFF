@@ -31,6 +31,6 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 
 ### 4. semestr
 - Automaty a gramatiky
-- Kombinatorika a grafy
+- Kombinatorika a grafy 2
 - Lineární programování a kombinatorická optimalizace
 - Pravděpodobnost a statistika
