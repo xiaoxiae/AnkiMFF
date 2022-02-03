@@ -34,3 +34,6 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - Kombinatorika a grafy 2
 - Lineární programování a kombinatorická optimalizace
 - Pravděpodobnost a statistika
+
+### 5. semestr
+- Základy kombinatorické a výpočetní geometrie (chybí přednášky 12 a 13!)

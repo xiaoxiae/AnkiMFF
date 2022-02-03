@@ -21860,7 +21860,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Věta o úplné střední hodnotě",
-                                "<img src=\"paste-efa223405c4d84ae2decb515d6c9f88bf028ef46.jpg\">"
+                                "f<img src=\"paste-efa223405c4d84ae2decb515d6c9f88bf028ef46.jpg\">"
                             ],
                             "guid": "h3Lsy26>oH",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -22487,7 +22487,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Rozptyl součtu",
+                                "Rozptyl součtu přes kovarianci",
                                 "<img src=\"paste-3b56aa4c8fe31990a034d9b1531c74021ee1749a.jpg\">"
                             ],
                             "guid": "Oe+jDG-:KJ",
@@ -22912,6 +22912,1095 @@
             "media_files": [],
             "name": "4. semestr",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "4f934260-84df-11ec-9b31-88d7f63eab01",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-03de74608927304e23dcbd13bc1d2009b045f76e.jpg",
+                        "paste-0fb376f4931a76547db409df3763f7ea565923d9.jpg",
+                        "paste-1bc66013bfe09b3e44aa19fe74b6ce5a401260b1.jpg",
+                        "paste-1e0ef2fd9333fba77f8834db085c308229e6a18b.jpg",
+                        "paste-236e1599c0088a36da16c1a3f27943377e2c4fbe.jpg",
+                        "paste-2ff95f537d26c4be9dd6e130a0fc1e94fdff833c.jpg",
+                        "paste-38b98b09c2e3fbaf4c62571ba41e079c35b07985.jpg",
+                        "paste-431e244227cdfa17e8cf0e0cb6d6e361cfa0ca96.jpg",
+                        "paste-43bb728f24870fb51186336d805c5b6fca3b7b5a.jpg",
+                        "paste-44e02f0b74fe391497371f765c2d7e1a6c3cde19.jpg",
+                        "paste-458c76fb105b0122e6e1860db7e212b97ac71b18.jpg",
+                        "paste-4c0172c500ef74eb365d592a7f8eb4519b6baff5.jpg",
+                        "paste-4eccf045dbbadad7bc03b5a8a495a426b02a0681.jpg",
+                        "paste-4f4cea8c44a846758d0c1d31b216e023893c7024.jpg",
+                        "paste-51d15c33b603ebdc5740620df71cd33612057040.jpg",
+                        "paste-52b5cd43f81087a82e7902a26c8e6ca8c379e98b.jpg",
+                        "paste-55f543b4f57f29a9bab4303784d78a4be417ac5e.jpg",
+                        "paste-567054c5ea0bcf3342d649a62d565fa6d3bb0675.jpg",
+                        "paste-575683ecbd1537cccc462a4090f89a993291dfbe.jpg",
+                        "paste-5facdd8a2d21ba4c1caae7f16445ce2bd9596e8d.jpg",
+                        "paste-61b1351b0ca98983b81a06104cdbbf25ce078648.jpg",
+                        "paste-72ef67e9183a1e0ee5e909ff28045d6c8c97fb4c.jpg",
+                        "paste-7c9e42a53dba02e0b83961e7f4e6a08f6cba6762.jpg",
+                        "paste-862ac3baa658df5ee2e46a59db3793da2b6351f5.jpg",
+                        "paste-8b84bb41ef5e3471cc66723410ddc47b01fcce35.jpg",
+                        "paste-8f96739ab5d65384f2bfc82b4130e1d8c870705e.jpg",
+                        "paste-930239ffcba53ab82d38f65291d4f50116af8dca.jpg",
+                        "paste-9453e3454064592e1c9305fb9851fc9a3192bedd.jpg",
+                        "paste-9a3126e5722ec503982c359f8cd96e829397c2a2.jpg",
+                        "paste-a6bb890b1a275f0509525902983a68fb0a296ce0.jpg",
+                        "paste-aa0fb7c1aa80d3450c0e03f45ebb016a56070404.jpg",
+                        "paste-abb01649e6f45af15d82d9bf52230ba70bcd89e1.jpg",
+                        "paste-b790edb2c131f72bbae47a6172d0494e1b5363d6.jpg",
+                        "paste-b86b705e34cdaa46523e269224606d4180d0aadd.jpg",
+                        "paste-b870a8b2d845de24e88495657d038a304a502385.jpg",
+                        "paste-bab2704a783bb9d3826a515fe64262ad3dd4613f.jpg",
+                        "paste-bccb2ad6dbb90766c755a0fe1b71cc6f36eda1f1.jpg",
+                        "paste-c288eeae6d0edb631c3ee53fe8b2e499165c248d.jpg",
+                        "paste-c3bb7d732870b3fd0478118e7e8b07e49748e932.jpg",
+                        "paste-c3f356f4715ea084a5e37eb85ea7a5c62236f4e9.jpg",
+                        "paste-daae4ed1bedae803f4718c3a67d4f058d3c27358.jpg",
+                        "paste-df6b24deaa9f2ad53c6995033630d08579098965.jpg",
+                        "paste-dfa66c66b5044a209ca17dabbd3e4c68d78b462c.jpg",
+                        "paste-e97d09759d63351cd5a2078a1ed0087541795398.jpg",
+                        "paste-f41e918bc8a5e05da4b423333f3aa7386cd31ec9.jpg",
+                        "paste-f7565e43da0e227cdccc425ef5868824c9e2ea83.jpg"
+                    ],
+                    "name": "Základy kombinatorické a výpočetní geometrie",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Affine combination",
+                                "<img src=\"paste-7c9e42a53dba02e0b83961e7f4e6a08f6cba6762.jpg\">"
+                            ],
+                            "guid": "Ag3HQl%7Rh",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Affine dependence",
+                                "Points \\(X_1, \\ldots, X_n\\) are affinely dependent, if<br>- one can be expressed as an <b>affine combination of the others: </b>\\(\\exists \\alpha_1, \\ldots, \\alpha_n \\in \\mathbb{R}: \\sum |\\alpha_i| &gt; 0, \\sum_{i = 1}^{n} \\alpha_i x_i = 0, \\sum \\alpha_i = 0\\)<br>- the \\(n-1\\) vectors&nbsp;\\(a_1 - a_n, a_2 - a_n, \\ldots, a_{n -1} - a_n\\) are linearly dependent<br>&nbsp; - intuitively: we're moving them to a hyperplane<br>&nbsp; - this implies that there are at most \\(d + 1\\) affinely independent points in \\(\\mathbb{R}^d\\) (a \"point square\" in \\(\\mathbb{R}^2\\), for example)"
+                            ],
+                            "guid": "zD!{FOFMQK",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Subspace (linear/affine)",
+                                "linear - some Euclidean space<br>affine - linear but shifted by a vector"
+                            ],
+                            "guid": "LW?x%pFR9%",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hyperplane",
+                                "affine subspace of dimension \\(d-1\\)<br>formally \\(\\{x \\in \\mathbb{R}^d; \\langle x, a \\rangle = b\\}\\)"
+                            ],
+                            "guid": "q4f?M|qW^>",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Closed half-space",
+                                "One half of the space determined by a hyperplane (including the line):<br>\\[\\left\\{x \\in \\mathbb{R}^d; \\langle x, a\\rangle \\le b\\right\\}\\]"
+                            ],
+                            "guid": "kb0Ml;M_g4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Affine hull",
+                                "An affine hull of the set \\(X \\in \\mathbb{R}^d\\) such that it's<br>- the <b>smallest affine subspace</b> containing the set<br>- the <b>intersection</b> of all affine subspaces containing the set<br>- the set of all <b>affine combinations</b> of the points from X"
+                            ],
+                            "guid": "JyM0+O{gR5",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "General position",
+                                "No unlikely coincidence happens - no 3 points on a common line (and higher-dimensional generalizations, no 3 lines have a common point, no 2 are parallel...).<br><br>Not fully standardized though."
+                            ],
+                            "guid": "DFT}c<myqu",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Convex set",
+                                "A set \\(C \\subseteq \\mathbb{R}^d\\) is convex, if&nbsp;\\(\\forall x, y in C, t \\in \\left[0, 1\\right]: (t - 1)x + ty \\in C\\).<br>- we're testing, whether the whole segment \\(xy\\) is also in \\(C\\)"
+                            ],
+                            "guid": "edu9ui<uJ)",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Convex hull",
+                                "A convex hull of a set of points is \\(X\\):<br>- the intersection of all convex sets containing \\(X\\)<br>- the smallest convex hull containing \\(X\\)"
+                            ],
+                            "guid": "I>du;umFOn",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-abb01649e6f45af15d82d9bf52230ba70bcd89e1.jpg\">",
+                                "<img src=\"paste-4c0172c500ef74eb365d592a7f8eb4519b6baff5.jpg\">"
+                            ],
+                            "guid": "z}V<yfLBEA",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caratéhodory's theorem",
+                                "Let \\(C \\subseteq \\mathbb{R}^{d}\\). Then each point in \\(\\mathrm{conv}(X)\\) is a convex combination of at most \\(d + 1\\) points of \\(X\\).<br><br>PROOF: was an exercise. A sketchy proof could be made using induction: we want to express a point \\(x\\) as a convex combination of some other points from \\(X\\). Project a line from any point in \\(X\\) to \\(x\\). This line either intersects some other point and we win, or intersects some face and we use induction."
+                            ],
+                            "guid": "hMp7WysDi7",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Separation theorem",
+                                "Let \\(C, D \\subseteq \\mathbb{R}^d\\) be convex sets with \\(C \\cap D = \\emptyset\\). Then there exist a hyperplane such that \\(C\\) lies in one of the closed half-spaces determined by \\(h\\) and \\(D\\) lies on the other one.<br><br>Formally: \\(\\exists\\) a unit vector \\(a \\in \\mathbb{R}^d\\) and \\(b \\in \\mathbb{R}\\) such that \\(\\forall x \\in C: &lt;a, x&gt; \\ge b\\) and \\(\\forall y \\in D: &lt;a, y&gt; \\le b\\).<br><br>Furthermore, if both are closed and at least one is bounded, then they can be separated strictly.<br><br>---<br><br>PROOF: assume they are compact (= closed and bounded).<br>- let \\(f : C \\times D \\mapsto \\mathbb{R}: ||x - y||\\)<br>&nbsp;&nbsp;&nbsp; - it's continuous, so it has a global minimum \\((c, d)\\), which is two closest points of \\(C, D\\)<br>&nbsp;&nbsp;&nbsp; - the desired hyperplane \\(h\\) is the axis hyperplane of \\((c, d)\\)<br><br><img src=\"paste-2ff95f537d26c4be9dd6e130a0fc1e94fdff833c.jpg\"><br>If we don't assume compactness, we can approximate the unbounded one with a large ball and still use the previous argument, because all of the closest points will be included."
+                            ],
+                            "guid": "h+<UdS>Q1(",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Radon's lemma",
+                                "Let \\(A\\) be a set of \\(d + 2\\) points in \\(\\mathbb{R}^d\\). Then there exists two distjoint subsets \\(A_1, A_2\\), such that \\[\\mathrm{conv}(A_1) \\cap \\mathrm{conv}(A_2) \\neq \\emptyset\\]<br><br><img src=\"paste-1e0ef2fd9333fba77f8834db085c308229e6a18b.jpg\"><br><br>PROOF:<br><br>Take the points. They are affinely dependent (at most \\(d+ 1\\) can be independent), so there exist coefficients such that \\(\\sum_{i = 1}^{d + 2} \\alpha_i = 0\\) and \\(\\sum_{i = 1}^{d + 2}\\alpha_i a_i = 0\\).<br><br>Now let \\(P = \\left\\{i \\mid \\alpha_i &gt; 0\\right\\}\\) and \\(N = \\left\\{i \\mid \\alpha_i &lt; 0\\right\\}\\) and \\(A_1 = \\left\\{a_i \\mid i \\in P\\right\\}, A_2 = \\left\\{a_i \\mid i \\in N\\right\\}\\), respectively. We want to show that some \\(x\\) is in both convex hulls.<br><br>We have \\(S = \\sum_{i \\in P} \\alpha_i = - \\sum_{i \\in N} \\alpha_i\\) (from definition of dependency). This will be the factor we scale coefficients by, for their sum to be \\(1\\). Then we define \\[x = \\sum_{i \\in P} \\frac{\\alpha_i}{S} a_i\\]<br><br>Since we have \\(\\sum_{i = 1}^{d + 2} \\alpha_i a_i = 0 = \\sum_{i \\in P} \\alpha_i a_i + \\sum_{i \\in N} \\alpha_i a_i\\), then dividing by \\(S\\) yields \\[x = \\sum_{i \\in N} \\frac{-\\alpha_i}{S} a_i\\]"
+                            ],
+                            "guid": "A^o^VJyYB*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Helly's theorem",
+                                "Let \\(C_1, \\ldots, C_n\\) be convex sets in \\(\\mathbb{R}^d\\), assume \\(n \\ge d+ 1\\) and any \\((d + 1)\\)-tuple of the sets intersects. Then they all do.<br><br>PROOF: by induction (on \\(n\\), \\(d\\) is fixed).<br><br>For \\(n = d + 1\\) this holds.<br><br>For \\(n \\ge d + 2\\): pick \\(a_i \\in \\bigcap_{j \\neq i} C_i\\) (by induction).<br>- consider the points \\(a_1, \\ldots, a_{d + 2} = A\\)<br>&nbsp;&nbsp;&nbsp; - we're only taking about the case \\(n = d + 2\\), the rest is simple induction<br>- use Radon's lemma on \\(A\\) (we have enough points), getting the two sets \\(I_1, I_2\\)<br>- pick \\(x\\) in this intersection -- it lies in \\(\\bigcap_{i} C_i\\)<br>&nbsp;&nbsp;&nbsp; - consider some \\(i \\in \\left\\{1, \\ldots, n\\right\\}\\); then \\(i \\not\\in I_1\\)&nbsp; or \\(i \\not\\in I_2\\)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - in each case, each \\(a_j \\in I\\) lies in \\(C_i\\), so \\(x \\in \\mathrm{conv} \\left(\\left\\{a_j \\mid j \\in I\\right\\}\\right)\\)<br><br><img src=\"paste-567054c5ea0bcf3342d649a62d565fa6d3bb0675.jpg\">"
+                            ],
+                            "guid": "D%5?]8nQ4g",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Infinite Helly's theorem",
+                                "This won't work directly - consider the following infinite number of sets:<br><img src=\"paste-8f96739ab5d65384f2bfc82b4130e1d8c870705e.jpg\"><br><br>We have to add that they are <b>compact </b>(closed and bounded).<br><br>PROOF: by Helly's theorem, any finite subfamily of C has a nonempty intersection. By a basic property of compactness, if we have an arbitrary family of compact sets such that each of its finite subfamilies has a nonempty intersection, then the entire family has a nonempty intersection."
+                            ],
+                            "guid": "cWl{ckj%QJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Centerpoint",
+                                "Let \\(X\\) be a set of \\(n\\) points in \\(\\mathbb{R}^d\\). Then a centerpoint of \\(X\\) is a point \\(y \\in \\mathbb{R}^d\\) (not necessarily in \\(X\\)), such that any closed halfspace with boundary hyperplane passing through \\(y\\) contains at least \\(\\frac{n}{d + 1}\\) points from \\(X\\).<br><img src=\"paste-c3bb7d732870b3fd0478118e7e8b07e49748e932.jpg\"><br><img src=\"paste-0fb376f4931a76547db409df3763f7ea565923d9.jpg\"><br>Is essentially a hyper-dimensional analogy of a median."
+                            ],
+                            "guid": "B~-$;Yl,#3",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Centerpoint theorem",
+                                "<i>Any finite set of points in \\(\\mathbb{R}^d\\) has a centerpoint.</i><br><br>PROOF: we want to use Helly's theorem on the appropriate halfspaces to conclude that they intersect. For this we'll state an equivalent definition: \\(x\\) is a centerpoint if and only if it lies in each open half-space \\(\\gamma\\) such that \\(|X \\cap \\gamma| &gt; \\frac{d}{d + 1}n\\).<br>- the number \\(\\frac{d}{d + 1}n\\) comes from \\(n - \\frac{n}{d + 1}\\) to flip the inequality<br>- these are the convex sets we want \\(x\\) to be a part of -- if it weren't then we would find a counterexample<br><br>For each of the afromentioned half-spaces, we take the convex hull (which only makes the equality stricter but the number of sets is now finite.<br><br><img src=\"paste-dfa66c66b5044a209ca17dabbd3e4c68d78b462c.jpg\"><br><br>Now we have a finite family of compact convex sets. Each contains more than \\(\\frac{d}{d +1}n\\) points from \\(X\\), so the intersection of any \\(d + 1\\) of them contains at least one point from \\(X\\). Now we use Helly's theorem and are done."
+                            ],
+                            "guid": "ssy6p)4o#]",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ham-sandwich theorem",
+                                "Every \\(d\\) finite sets in \\(\\mathbb{R}^d\\) can be simultaneously bisected by a hyperplane. A hyperplane \\(h\\) bisects a finite set \\(A\\) if each of the open half-spaces defined by \\(h\\) contains at most \\(\\left\\lfloor |A| / 2 \\right\\rfloor\\) points of \\(A\\)."
+                            ],
+                            "guid": "x[>_:;d1dJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Center transversal theorem",
+                                "Let \\(1 \\le k \\le d\\) and let \\(A_1, \\ldots, A_k\\) be finite point sets in \\(\\mathbb{R}^d\\). Then there exists a \\((k-1)\\)-flat \\(f\\) (\\(k-1\\)-dimensional affine subspace) such that for every hyperplane \\(h\\) containing \\(f\\), both the closed half-spaces defined by \\(h\\) contain at least \\(\\frac{1}{d - k + 2}|A_i|\\) points of \\(A_i\\), \\(i = 1, \\ldots, k\\).<br><br>For \\(k = d\\) - <b>ham-sandwich</b>.<br>For \\(k = 1\\) - <b>centerpoint theorem</b>.<br><br>Magic."
+                            ],
+                            "guid": "pr,85<Rb0n",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Incidence number",
+                                "The incidence number \\(I(P, L)\\) is the maximum number of incidences of \\(P\\) points and \\(L\\) lines.<br><img src=\"paste-72ef67e9183a1e0ee5e909ff28045d6c8c97fb4c.jpg\"><br>Here we see that \\(I(3, 3) \\ge 6\\), because we count each pair (point, line) as <b>one incidence.</b>"
+                            ],
+                            "guid": "k7xYHV|A`%",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Szemerédi-Trotter theorem",
+                                "\\(\\forall n, m \\ge 1\\), we have \\(I(n, m) = n^{2/3} m^{2/3} + m + n\\) and this bound is asymptotically tight.<br><br>PROOF: we define a graph, such that each vertex is a point and each edge lies on a line between the points:<br><br><img src=\"paste-4f4cea8c44a846758d0c1d31b216e023893c7024.jpg\"><br>If a line contains \\(k \\ge 1\\) points of \\(P\\), then it contributes \\(k - 1\\) edges to \\(E\\) and so \\(I(m, n) = |E| + m\\) (each line has \\(k - 1\\) edges and \\(k\\) crossings; will be important later on).<br><br>Since the edges are parts of the \\(m\\) lines, at most \\(\\binom{m}{2}\\) pairs may cross (each line intersects each other line at at most one point), so \\[\\mathrm{cr}(G) \\le \\binom{m}{2}\\]<br><br>On the other gand, from the crossing number theorem, we get \\[\\mathrm{cr}(G) \\ge \\frac{1}{64} \\cdot |E|^3 / n^2 - n\\]<br><br>Putting this together (and using \\(|E| = I(n, m)- m\\))&nbsp;gives us the desired bound."
+                            ],
+                            "guid": "wYG_}m=,q<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Arc",
+                                "Continuous injective mapping \\(\\left[0, 1\\right] \\mapsto \\mathbb{R}^2\\)."
+                            ],
+                            "guid": "h$hHLZm-a1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Graph drawing",
+                                "A mapping that assigns points to vertices and arcs to edges."
+                            ],
+                            "guid": "oSDu:b.=Nn",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Crossing number",
+                                "A<b> crossing</b> is a point common to at least two arcs but distinct from all vertices.<br><br>The <i>crossing number</i> of a drawing is the number of crossings in the considered drawing. Each crossing incident of \\(k \\ge 2\\) edges is considered \\(\\binom{k}{2}\\) times.<br><br><img src=\"paste-f7565e43da0e227cdccc425ef5868824c9e2ea83.jpg\">"
+                            ],
+                            "guid": "yjS.Z^xm5J",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Crossing lemma",
+                                "Let \\(G\\) be a simple graph. Then \\[\\mathrm{cr}(G) \\ge \\frac{1}{64} \\cdot \\frac{|E|^3}{|V|^2} - |V|\\]<br><br>Lemma: the crossing number of any simple graph is at least \\(|E| - 3|V|\\).<br><br>Proof: if \\(|E| &gt; 3|V|\\) and some drawing of the graph had fewer than those many crossing then we could delete one edge from each crossing and obtain a planar graph with more than \\(3|V|\\) edges, which contradicts \\(e \\le 3n - 6\\).<br><br>Proof of main theorem: consider some drawing of a graph. We assume that no two edges sharing a common vertex cross (by modifying the drawing or assuming that edges are straight lines).<br><img src=\"paste-930239ffcba53ab82d38f65291d4f50116af8dca.jpg\"><br><img src=\"paste-431e244227cdfa17e8cf0e0cb6d6e361cfa0ca96.jpg\"><br><br>Assume that \\(m \\ge 4n\\) (since otherwise the bound is negative). Let \\(p \\in (0, 1)\\) be a parameter (we'll calculate it later). Choose a random subset \\(V' \\subseteq V\\), each vertex with probability \\(p\\), and \\(G'\\) the induced subgraph:<br>- \\(\\mathbb{E}\\left[n'\\right] = np\\) (we select vertex with probability \\(p\\))<br>- \\(\\mathbb{E}\\left[m'\\right] = mp^2\\) (both vertices must be selected)<br>- \\(\\mathbb{E}\\left[x'\\right] = xp^4\\) (all four must be selected; here we use the assumption)<br><br>Since by lemma we have \\(x' \\ge m' - 3n'\\), this relation holds for the expectations as well:<br><br>\\[\\mathbb{E}[x'] \\ge \\mathbb{E}[m'] - 3 \\mathbb{E}[n']\\]<br><br>Now we have \\(xp^4 \\ge mp^2 - 3np\\). By setting \\(p = \\frac{4n}{m}\\) (which is at most 1 by assumption), we get the proof."
+                            ],
+                            "guid": "Y)+-T&Z7q",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lower bound on \\(I(n, n)\\) (construct)",
+                                "We plug it into Szemerédi-Trotter theorem and get \\(\\mathcal{O}(n^{4/3})\\), which is the upper bound.<br><br>To construct the lower bound, we'll do this: suppose that \\(n = 4k^3, k \\in \\mathbb{N}\\). For \\(P\\), we choose the grid \\(k \\times 4k^2\\) (so there are \\(n\\) points). The set \\(L\\) consists of all lines with equations \\(y = ax + b\\), where \\(a \\in \\left\\{0, \\ldots, 2k - 1\\right\\}\\) and \\(b \\in \\left\\{0, \\ldots, 2k^2 - 1\\right\\}\\) (so there are \\(n\\) lines).<br><br>Now we want to count, how many points are on each line.<br><br>For \\(x \\in [0, k)\\), we have \\(ax + b &lt; ak + b &lt; 2k^2 + 2k^2 = 4k^2\\). Therefore, for each \\(i = \\left\\{0, \\ldots, k - 1\\right\\}\\), each line of \\(L\\) contains a point of \\(P\\) with the \\(x\\)-coordinate equal to \\(i\\) and so \\(I(P, L) \\ge k |L| = \\Omega(n^{4/3})\\)."
+                            ],
+                            "guid": "je=LSB-udk",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unit distances (upper and lower bound)",
+                                "Let \\(U(n)\\) denote the maximum possible number of pairs of points with unit distances in an \\(n\\)-point set in the plane. We're interested in the asymptotic behavior.<br><img src=\"paste-a6bb890b1a275f0509525902983a68fb0a296ce0.jpg\"><br>The problem can also be reformulated as a problem with incidences of \\(n\\) unit circles.<br><br>An upper bound is \\(\\mathcal{O}(n^{4/3})\\) and can be obtained by modifying Szemerédi-Trotter (but not known to be optimal).<br><br>The best known lower bound is \\(n^{1+ \\epsilon / \\log \\log n}\\). The construct is a grid of size \\(\\sqrt{n} \\times \\sqrt{n}\\) and a suitably chosen step."
+                            ],
+                            "guid": "f{^W)YlhAX",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Minkowski's theorem",
+                                "Let \\(C \\subseteq \\mathbb{R}^d\\) be symmetric (around the origin), convex, bounded, and suppose that \\(\\mathrm{vol}(C) &gt; 2^d\\). Then \\(C\\) contains at least one lattice point different from \\(0\\).<br><br>PROOF: we put \\(C' = 1/2 C\\).<br><br>LEMMA: there exists a non-zero integer vector \\(v \\in \\mathbb{Z}^d \\setminus \\left\\{0\\right\\}\\) such that \\(C' \\cap (C' + v) \\neq \\emptyset\\) (i.e. \\(C'\\) and translated \\(C'\\) intersect).<br><br>PROOF OF LEMMA: by contradiction, assume that it's false. Let \\(R\\) be a large integer unmber. Consider the family \\(\\mathcal{C}\\) of translated \\(C'\\)s by all integer vectors in the cube \\(\\left[-R, R\\right]^d\\).<br><br><img src=\"paste-5facdd8a2d21ba4c1caae7f16445ce2bd9596e8d.jpg\"><br><br>Each two are disjoint. They are contained in the enlarged cube \\(K = \\left[-R - D, R + D\\right]^d\\), where \\(D\\) is the diameter of \\(C'\\).<br><br>Now \\[vol(K) = (2R + 2D)^d \\ge |\\mathcal{C}| \\mathrm{vol}(C) = (2R + 1)^d \\mathrm{vol}(C')\\]<br><br>- first step: definition<br>- second step: the cubes can take at most all the space<br>- third step: there is \\(\\left(2R + 1\\right)^d\\) of them<br><br>And from this we get \\[\\mathrm{vol}(C') \\le \\left(1 + \\frac{2D - 1}{2R + 1}\\right)^d\\]<br><br>- divide the previous equation by \\(\\left(2R + 1\\right)^d\\)<br><br>The right side expression is arbitrarily close to \\(1\\) for sufficiently large \\(R\\).<br><br>On the other hand, \\(\\mathrm{vol}(C') = 2^{-d} \\mathrm{vol}(C) &gt; 1\\) (see the assumption on the volume of \\(C\\)) is a fixed number exceeding \\(1\\) by a certain amount independent on \\(R\\), so this is a contradiction.<br><br>BACK TO ORIGINAL PROOF: let's fix \\(v \\in \\mathbb{Z}^d\\) and take a point \\(x\\) from the intersection from the lemma. Then we have \\(x \\in C' \\cap (C' + v)\\) and so \\(x - v \\in C'\\). Due to symmetry, we also have \\(v - x \\in C'\\). Due to convexity, the midpoint of \\(x\\) and \\(v - x\\) lies in \\(C'\\) too, so we have \\(\\frac{1}{2} x + \\frac{1}{2} (v - x) = \\frac{1}{2} v \\in C'\\), meaning that \\(v \\in C\\)."
+                            ],
+                            "guid": "d,hT5#2pIx",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "General lattices",
+                                "Let \\(z_1, \\ldots, z_d\\) be a \\(d\\)-tuple of linearly independent vectors in \\(\\mathbb{R}^d\\). We define a latice with basis \\(\\left\\{z_1, \\ldots, z_d\\right\\}\\) as the set of all linear combinations of \\(z_i\\) with integer coefficients."
+                            ],
+                            "guid": "b4r9mJ+sw2",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lattice determinant (geometric interpretation)",
+                                "The detminant of a latice is (geometrically) a volume of the following parallelepiped:<br><img src=\"paste-c288eeae6d0edb631c3ee53fe8b2e499165c248d.jpg\">"
+                            ],
+                            "guid": "z7*6k;P#3w",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Minkowski's theorem for general lattices",
+                                "Let \\(\\Lambda\\) be a lattice in \\(\\mathbb{R}^d\\) and let \\(C \\subseteq \\mathbb{R}^d\\) be a symmetric convex set with \\(\\mathrm{vol}(C) &gt; 2^d \\det \\Lambda\\). Then \\(C\\) contains a point of \\(\\Lambda\\) different from 0.<br><br>PROOF: Just define a linear mapping onto basis vectors. Then the proof is exactly the same, just the coefficient is changed by the determinant of the base matrix."
+                            ],
+                            "guid": "EAf)v7c|E=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Geometric duality",
+                                "The gometric duality transform is a mapping denoted by \\(\\mathcal{D}_0\\). To a point \\(a \\in \\mathbb{R}^d \\setminus \\left\\{0\\right\\}\\) it assigns the hyperplane \\[\\mathcal{D}_0(a) = \\left\\{x \\in \\mathbb{R}^d \\mid \\langle a, x\\rangle&nbsp; = 1\\right\\},\\]<br>and to a hyperplane \\(h\\) not passing through the origin, which can be uniquely written in the form \\(h = \\left\\{x \\in \\mathbb{R}^d \\mid&nbsp;&nbsp;\\langle a, x\\rangle= 1\\right\\}\\), it assigns the point \\(\\mathcal{D}_0(h) = a \\in \\mathbb{R}^d \\setminus \\left\\{0\\right\\}\\).<br><br>The geometric meaning: a point at distance \\(\\delta\\) gets transformed to a hyperplane perpendicular to it and origin and is at distance \\(\\frac{1}{\\delta}\\):<br><img src=\"paste-61b1351b0ca98983b81a06104cdbbf25ce078648.jpg\"><br>A nice representation lives one dimension above:<br><img src=\"paste-daae4ed1bedae803f4718c3a67d4f058d3c27358.jpg\">"
+                            ],
+                            "guid": "p#{IIC8f]=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Duality preserves incidences",
+                                "Let \\(p\\) be a point \\(\\mathbb{R}^d\\) distinct from the origin and \\(h\\) a hyperplane in \\(\\mathbb{R}^d\\) not containing the origin. Let \\(h^-\\) be the closed half-space containing the origin and \\(h^+\\) be the other one.<br><br>Then:<br>1) \\(p \\in h\\) if and only if \\(\\mathcal{D}_0(h) \\in \\mathcal{D}_0(p)\\)<br>2) \\(p \\in h^-\\) if and only if \\(\\mathcal{D}_0(h^-) \\in \\mathcal{D}_0(p)\\)<br><br>PROOF: let \\(h = \\left\\{x \\mid \\langle a, x \\rangle&nbsp;= 1\\right\\}\\). Then \\(p \\in h\\) means \\(\\langle a, p \\rangle&nbsp;= 1\\). Now, using \\(\\mathcal{D}_0(h)\\), we get a point \\(a\\) and a hyperplane \\(g = \\left\\{y \\mid \\langle y, p\\rangle&nbsp;= 1\\right\\}\\) and so \\(\\langle a, p\\rangle&nbsp;= 1\\). The rest is similar."
+                            ],
+                            "guid": "l>F@ef&H7;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dual set",
+                                "For a set \\(X \\subseteq \\mathbb{R}^d\\), we define a dual set to be \\[X^* = \\left\\{y \\in \\mathbb{R}^d \\mid \\langle&nbsp;x, y\\rangle&nbsp;\\le 1\\ \\text{for all}\\ x \\in X\\right\\}\\]<br><br>Geometrically, it is the intersection of all half-spaces from the duals of the points (so in the form \\(\\mathcal{D}_0(x)^-, \\forall x \\in X\\))<br><img src=\"paste-9453e3454064592e1c9305fb9851fc9a3192bedd.jpg\"><br>We can relatively easily show that \\[(X^*)^* = \\mathrm{conv}(X \\cup \\left\\{0\\right\\})\\]"
+                            ],
+                            "guid": "j/WJ/ixW6|",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "H-polytope and V-polytope",
+                                "A \\(H\\)-polyhedron is an intersection of finitely many closed half-spaces in some \\(\\mathbb{R}^d\\). An \\(H\\)-polytope is a bounded \\(H\\)-polyhedron.<br><br>A \\(V\\)-polytope is the convex hull of a finite set of points in \\(\\mathbb{R}^d\\)."
+                            ],
+                            "guid": "zHcZqf6+o1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cubes nad crosspolytopes",
+                                "Cubes are the cartesian product \\(\\left[-1, 1\\right]^d\\):<br><img src=\"paste-b870a8b2d845de24e88495657d038a304a502385.jpg\"><br>As a \\(V\\)-polytope, it is a set of \\(2^d\\) points.<br>As a \\(H\\)-polytope, it is encloed by \\(2d\\) half-spaces.<br><br>Crosspolytopes are geometric duals to cubes. They are made out of 2d coordinates in the form \\(\\mathrm{conv}\\left\\{e_1, -e_1, e_2, -e_2, \\ldots, e_d, -e_d\\right\\}\\).<br><img src=\"paste-e97d09759d63351cd5a2078a1ed0087541795398.jpg\"><br>As a \\(V\\)-polytope, it is a set of \\(2d\\) points.<br>As a \\(H\\)-polytope, it is encloed by \\(2^d\\) half-spaces."
+                            ],
+                            "guid": "IXNFEG>tw[",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Simplex",
+                                "A simplex is the convex hull of an affinely independent point set in some \\(\\mathbb{R}^d\\).<br><br>Alternatively, it is the polytope with the smallest possible number of vertices for a given dimension.<br><img src=\"paste-4eccf045dbbadad7bc03b5a8a495a426b02a0681.jpg\"><br>Their representation is kinda weird in \\(\\mathbb{R}^d\\), but is very easy in \\(\\mathbb{R}^{d + 1}\\):<br><img src=\"paste-43bb728f24870fb51186336d805c5b6fca3b7b5a.jpg\">"
+                            ],
+                            "guid": "OEmRSGp`xV",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(V\\)-polytopes and \\(H\\)-polytopes are equivalent",
+                                "\\(H \\implies V\\): induction on \\(d\\), for \\(d = 1\\) being trivially true.<br><br>Let \\(\\Gamma\\) be a finite collection of closed half-spaces in \\(\\mathbb{R}^d\\) such that \\(P = \\bigcap \\Gamma\\) is nonempty and bounded (this is our polytope). For each \\(\\gamma \\in \\Gamma\\), let \\(F_\\gamma = P \\cap \\partial \\gamma\\) be the intersection of \\(P\\) with the bounding hyperplane of \\(\\gamma\\).<br><img src=\"paste-1bc66013bfe09b3e44aa19fe74b6ce5a401260b1.jpg\"><br><br>Here \\(F_\\gamma\\) is a \\(H\\)-polytope of dimension at most \\(d - 1\\), and so we'll use induction and get \\(V_\\gamma \\subset F_\\gamma\\). Now we'll show that \\(P = \\mathrm{conv}\\left(\\bigcup_{\\gamma \\in \\Gamma} V_\\gamma\\right) = \\mathrm{conv}(V)\\).<br><br>Take any \\(x \\in P\\). Make a line \\(\\mathcal{l}\\) passing through it. It has to intersect some \\(y \\in F_\\alpha\\) and \\(z \\in F_\\beta\\). Now we have \\(y \\in \\mathrm{conv}(V_\\alpha)\\) and \\(z \\in \\mathrm{conv}(V_\\beta\\) and so \\(x \\in \\mathrm{conv}(V_\\alpha \\cup V_\\beta) \\subseteq \\mathrm{conv}(V)\\).<br><img src=\"paste-f41e918bc8a5e05da4b423333f3aa7386cd31ec9.jpg\"><br>\\(V \\implies H\\): if \\(P\\) is a \\(V\\)-polytope, then \\(P^*\\) is a \\(H\\)-polytope. Now we use the previous proof and get that this is also a \\(V\\)-polytope and use duality again. We're using the assmuption that we have a convex bounded set that intersects the origin (if it doesn't, we'd have to move it a bit)."
+                            ],
+                            "guid": "m_aj0HH9-B",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Face",
+                                "A face of a convex polytope is<br>- either \\(P\\) itself, or<br>- a subset of \\(P\\) of the form \\(P \\cap h\\), where \\(h\\) is a hyperplane such that \\(P\\) is fully contained in one of the closed half-spaces determined by \\(h\\) (boundary hyperplane)<br><img src=\"paste-03de74608927304e23dcbd13bc1d2009b045f76e.jpg\"><br>It is also a convex bounded polytope.<br><br>Some faces have special names:<br>- (\\(0\\))-faces: <b>vertices</b><br>- (\\(1\\))-faces: <b>edges</b><br>- (\\(d-1\\))-faces: <b>facets</b>"
+                            ],
+                            "guid": "A.zo,Fd%Lv",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Extremal point",
+                                "For a set \\(X \\subseteq \\mathbb{R}^d\\), a point \\(x \\in X\\) is extremal if \\(x \\not\\in \\mathrm{conv}(X \\setminus \\left\\{x\\right\\})\\)."
+                            ],
+                            "guid": "HP`^F9^u@,",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vertices are extremal",
+                                "Let \\(P \\subset \\mathbb{R}^d \\) be a bounded convex polytope. Then the extremal points of \\(P\\) are exactly its vertices, and \\(P\\) is the convex hull of its vertices.<br><br>PROOF: assume that \\(P\\) is the convex hull of a finite point set. We'll fix one that is inclusion-minimal and call it \\(V_0\\). Now let \\(V_v\\) be the vertices and \\(V_e\\) the extremal points. We'll probe that \\(V_0 = V_v = V_e\\).<br><br>- \\(V_e \\subseteq V_0\\) (extremal points are inclusion-minimal): by definition of an extremal point (since \\(V_0\\) is inclusion-minimal)<br>- \\(V_v \\subseteq V_e\\) (vertices are extremal points): if \\(v\\) is a vertex then there is a hyperplane \\(h\\) such that \\(P \\cap h = \\left\\{v\\right\\}\\), and all of \\(P \\setminus \\left\\{v\\right\\}\\) lies on one of the open half-space defined by \\(h\\), therefore \\(v\\) is extremal (we can't get it by any convex combination of \\(P \\setminus \\left\\{v\\right\\}\\)<br>- \\(V_0 \\subseteq V_v\\) (minimal-inclusion points are vertices): take \\(v \\in V_0\\); by inclusion-minimality we get that \\(v \\not\\in C = \\mathrm{conv}(V_0 \\setminus {v})\\); we'll now use the separation theorem and get \\(h\\):<br><br><img src=\"paste-b86b705e34cdaa46523e269224606d4180d0aadd.jpg\"><br><br>Now call it \\(v_h\\) and move it such that it intersects \\(v\\). We want to show that \\(P \\cap h_v = {v}\\) (so \\(v\\) is a vertex). The set \\(\\mathrm{conv}(V_0) \\setminus h_v\\) is convex. The set \\(\\left(\\mathrm{conv}(V_0) \\setminus h_v\\right) \\cup \\left\\{v\\right\\}\\) is convex too. Since this set contains \\(V_0\\) and is convex, it contains \\(P\\) and so \\(P \\cap h_v = \\left\\{v\\right\\}\\):<br><br><img src=\"paste-9a3126e5722ec503982c359f8cd96e829397c2a2.jpg\">"
+                            ],
+                            "guid": "NjQIiy<%{y",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The face of a face is a face",
+                                "Let \\(P\\) be a bounded convex polytope. Let \\(F\\) be the face of \\(P\\). Then the faces of \\(F\\) are exactly those faces of \\(P\\) that are contained in \\(F\\).<br><br>PROOF: it's clear that a face of \\(P\\) contained in \\(F\\) is also a face of \\(F\\) (use ther same hyperplane).<br><br>For the reverse direction, take the face \\(f\\) of \\(F\\). Take the hyperplane from \\(F\\) witnessing \\(f\\) and rotate it by a small amount, such that the open rotated half-space contains \\(P \\setminus f\\).<br><br><img src=\"paste-55f543b4f57f29a9bab4303784d78a4be417ac5e.jpg\">"
+                            ],
+                            "guid": "I<xCjr.)Vh",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Graph of a polytope",
+                                "Each edge of a convex polytope has exactly two vertices. So the graph is defined naturally: the vertices of the polyotpe are the vertices of the graph, and two vertices are connected by an edge in the graph if they are vertices of the same edge of \\(P\\).<br><img src=\"paste-bab2704a783bb9d3826a515fe64262ad3dd4613f.jpg\"><br>For polytopes in \\(\\mathbb{R}^3\\), the graph is always planar (projection from the interior onto a circumscribed sphere).<br><br>"
+                            ],
+                            "guid": "D:KSk*9e.C",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Steinitz theorem",
+                                "A finite graph is isomorphic to the graph of a \\(3\\)-dimensional convex polytope, if and only if it is planar and vertex 3-connected."
+                            ],
+                            "guid": "F+~fc4=a7*",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Balinski's theorem",
+                                "The graph of every \\(d\\)-dimensional polytope is vertex \\(d\\)-connected."
+                            ],
+                            "guid": "q`@v;=p(t)",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The face lattice",
+                                "Let \\(\\mathcal{F}(P)\\) be the set of all faces (including the empty set) of a boudned convex polytope \\(P\\). The face lattice is a parital ordering of \\(\\mathcal{F}(P)\\) by inclusion."
+                            ],
+                            "guid": "EJC`G9;fr5",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Combinatorial equivalence",
+                                "Two convex polytopes are combinatorially equivalent, if \\(\\mathcal{F}(P)\\) and \\(\\mathcal{F}(Q)\\) are isomorphic as partially ordered sets."
+                            ],
+                            "guid": "z54I0nt@0,",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Meets and joins conditions (+ atomic, coatomic, graded latice)",
+                                "<i><font color=\"#0000ff\">Meets condition:</font>&nbsp;</i>for any two faces \\(F, G \\in \\mathcal{F}(P)\\), there exists a face \\(M \\in \\mathcal{F}(P)\\) called the meet of \\(F\\) and \\(G\\) that is contained in both \\(F\\) and \\(G\\) and contains all other faces contained in both \\(F\\) and \\(G\\)<br><br><i><font color=\"#aa0000\">Joins condition:&nbsp;</font></i>for any two faces \\(F, G \\in \\mathcal{F}(P)\\), there exists a face \\(J \\in \\mathcal{F}(P)\\) called the join of \\(F\\) and \\(G\\) that contains both \\(F\\) and \\(G\\) and is contained in all other faces that contain both \\(F\\) and \\(G\\).<br><br><img src=\"paste-52b5cd43f81087a82e7902a26c8e6ca8c379e98b.jpg\"><br><br><b>Graded: </b>each maximal chain has the same length<br><b><font color=\"#2eaa20\">Atomic:</font> </b>every face is the join of its vertices<br><b><font color=\"#ffaa00\">Coatomic:</font> </b>every face is the meet of the facets containing it"
+                            ],
+                            "guid": "DS$GO].$=1",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Face lattice and duality",
+                                "For each \\(j = -1, 0, \\ldots, d\\), the \\(j\\)-faces of \\(P\\) are in a bijective correspondence with the \\((d-j-1)\\)-faces of \\(P^*\\). This correspondence reverses inclusion: <b>the face latice of \\(P^*\\) is the face lattice of \\(P\\) turned upside down.</b>"
+                            ],
+                            "guid": "p([tAz+3Nj",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Simplicial and simple polytopes",
+                                "A polytope is called<b> simplicial</b>, if each facet contains exactly \\(d\\) vertices (alternatively if&nbsp;each<i> </i>of its facets is a simplex).<br>A \\(d\\)-dimensional polytope is called <b>simple</b>, if each of its vertices is contained in exactly \\(d\\) facets.<br><br><i>Example simplicials:</i>&nbsp;crosspolytopes<br><i>Example simples: </i>cubes<br><br><b>The dual of a simple polytope is simplicial </b>and vice versa."
+                            ],
+                            "guid": "BrxwlIuGHF",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the f-vector",
+                                "Let \\(f_j = f_j(P)\\) denote the number of \\(j\\)-faces of a polytope \\(P\\). The vector \\(\\left(f_0, f_1, \\ldots, f_d\\right)\\) is called the \\(f\\)-vector of \\(P\\)."
+                            ],
+                            "guid": "zqWYsO4Q%Q",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bounds on the number of faces of a 3-polytope",
+                                "A \\(3\\)-dimensional polytope can be thought of as a drawing of aplanar graph, so we can use the bound on faces and get \\(f_1 \\le 3n-6\\) and \\(f_2 \\le 2n - 4\\). The inequalities become equalities for simplicial polytopes (facets are triangles).<br><br>The number is<b> linear in \\(n\\)</b>, which doesn't hold for higher dimensions (becomes exponential)."
+                            ],
+                            "guid": "j6h.J)7EuS",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Moment curve",
+                                "The curve \\(\\gamma = \\left\\{\\left(t, t^2, \\ldots, t^d\\right): t \\in \\mathbb{R}\\right\\}\\) in \\(\\mathbb{R}^d\\) is called the moment curve.<br><br>For example for \\(d = 2\\) this is just \\(f(x) = x^2\\)."
+                            ],
+                            "guid": "HqQ*9s~xOS",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Moment curve and hyperplane intersections",
+                                "Any hyperplane \\(h\\) intersects the moment curve \\(\\gamma\\) in at most \\(d\\) points. If there are \\(d\\) intersections, then \\(h\\) cannot be tanget to \\(\\gamma\\) and thus at each intersection, \\(\\gamma\\) passes from one side of \\(h\\) to the other.<br><br>PROOF: we can express a hyperplane as \\(\\langle a, x \\rangle&nbsp;= b\\), or just \\(a_1x_1 + a_2x_2 + \\ldots + a_d x_d = b\\). A point of \\(\\gamma\\) has the form \\((t, t^2, \\ldots, t^d)\\) and if it lies in \\(h\\) we obtain \\(a_1t + a_2t^2 + \\ldots + a_d t^d - b = 0\\).<br><br>This means that \\(t\\) is a root of a nonzero polynomial of degree at most \\(d\\) and hence the number of intersections of \\(h\\) with \\(\\gamma\\) is at most \\(d\\). If there are \\(d\\) distinct roots, they must all be simple (no double roots).<br><br>At a simple root, the polynomial changes sign, so the curve passes from one side to another."
+                            ],
+                            "guid": "K<$V?IN{Ya",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "7",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Voronoi diagram (regions, faces)",
+                                "Let \\(P \\subset \\mathbb{R}^d\\). For each point, we define a region, which is the „sphere of influence“ of \\(p\\). It consist of all points closest to \\(p\\) amongst other points of \\(P\\). Formally \\[\\mathrm{reg}(P) = \\left\\{x \\in \\mathbb{R}^d \\mid \\mathrm{dist}(x, p) \\le \\mathrm{dist}(x, q)\\ \\text{for all}\\ q \\in P\\right\\}\\]<br><br>The Voronoi diagram is the set of all regions \\(\\mathrm{reg}(p)\\) for \\(p \\in P\\).<br><br><img src=\"paste-236e1599c0088a36da16c1a3f27943377e2c4fbe.jpg\"><br>The faces of a Voronoi diagram are the intersections of all these regions."
+                            ],
+                            "guid": "j*qs*rVl_(",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cyclic polytope",
+                                "The convex hull of finitely many points on the moment curve is called a cyclic polytope."
+                            ],
+                            "guid": "h^mG7NDVeS",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gale's evenness criterion",
+                                "Let \\(V\\) be the vertex set of a cyclic polytope \\(P\\) considered with the linear ordering \\(\\le\\) along the moment curve (larger vertices have larger values of the parameter \\(t\\). Let \\(F = \\left\\{v_1, \\ldots, v_d\\right\\} \\subseteq V\\) be a \\(d\\)-tuple of vertices of \\(P\\), where \\(v_1 &lt; v_2 &lt; \\ldots &lt; v_d\\). Then \\(F\\) determines a facet of \\(P\\) if and only if for any two vertices \\(u, v \\in V \\setminus F\\), the number of vertices \\(v_i \\in F\\) with \\(u &lt; v_i &lt; v\\) is even.<br><br>TLDR: order vertices on \\(t\\). Then \\(F \\supseteq V, |F| = d\\) determines a facet, if and only if we can't fit an odd number of vertices from \\(f\\) between two vertices not in \\(F\\).<br><br>PROOF: Let \\(h_F\\) be the hyperplane affinely spanned by \\(F\\). Then \\(F\\) determines a facet, if and only if all the points of \\(V \\setminus F\\) lie on the same side in \\(h_F\\).<br><br>Since the moment curve \\(\\gamma\\) intersects \\(h_F\\) in exactly \\(d\\) points, namely at the points in \\(F\\), it is partitioned into \\(d + 1\\) pieces (say \\(\\gamma_0, \\ldots, \\gamma_d\\), each lying completely in one of the half-spaces:<br><br>&nbsp;<br><img src=\"paste-df6b24deaa9f2ad53c6995033630d08579098965.jpg\"><br>Hence, if the vertices of \\(V \\setminus F\\) are all contained in the odd-numbered pieces \\(\\gamma_1, \\gamma_3, \\ldots\\) as in the picture, or if they are all contained in the even-numbered pieces \\(\\gamma_0, \\gamma_2, \\ldots\\), then \\(F\\) determines a facet. This condition is equivalent to Gale's criterion."
+                            ],
+                            "guid": "nSm|$v[z*u",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The number of faces of a cyclic polytope",
+                                "The number of faces of a \\(d\\)-dimensional cyclic polytope with \\(n\\) vertices (\\(n \\ge d + 1\\)) is<br>\\[\\binom{n - \\left\\lfloor d / 2 \\right\\rfloor}{\\left\\lfloor d / 2 \\right\\rfloor} + \\binom{n - \\left\\lfloor d / 2 \\right\\rfloor - 1}{\\left\\lfloor d / 2 \\right\\rfloor - 1}\\] for \\(d\\) even, and<br>\\[2 \\binom{n - \\left\\lfloor d / 2 \\right\\rfloor - 1}{ \\left\\lfloor d/2 \\right\\rfloor}\\] for \\(d\\) odd.<br><br>For fixed \\(d\\), this has the order of magnitude \\(n^{\\left\\lfloor d/2 \\right\\rfloor}\\).<br><br>PROOF: the number of facets equals the number of ways of placing \\(d\\) black cirdles and \\(n - d\\) white circles in a row such that we have an even number of black circles between each of two white circles (Gale's evenness criterion).<br><br>Let us say that an arrangement is paired, if any continuous segment of black circles has an even length (the arrangements permitted by Gale's criterion need not be paired because of the initial and final segments). The number of paired arrangements of \\(2k\\) black circles and \\(n - 2k\\) white circles is \\(\\binom{n - k}{k}\\), since by deleting every second black circle we get a one-to-one correspondence with selections of the positions of \\(k\\) black circles among \\(n - k\\) possible positions.<br><br>For \\(d = 2k + 1\\), we must have an odd number of consecutive black circles at the beginning or at the end. In both cases, we simply delete them and use the previous argument, getting the odd formula when plugging for \\(k\\).<br><br>For even, we examine two possibilities: whether the start and end number of black circles is odd or even. Summing both yields the even formula when plugging for \\(k\\)."
+                            ],
+                            "guid": "Js%{F!ShBJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Upper bound theorem",
+                                "Among all \\(d\\)-dimensional convex polytopes with \\(n\\) vertices, the cyclic polytope maximizes the number of faces in each dimension."
+                            ],
+                            "guid": "E$*J{lYSUR",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Asymptotic upper bound theorem",
+                                "A \\(d\\)-dimensional convex polytope with \\(n\\) vertices has at most \\(2 \\binom{n}{\\left\\lfloor d / 2 \\right\\rfloor}\\) facets and no more than \\(2^{d + 1} \\binom{n}{\\left\\lfloor d / 2 \\right\\rfloor}\\) faces in total. For \\(d\\) fixed, both quantities have the order of magnitude \\(n^{\\left\\lfloor d/2 \\right\\rfloor}\\)."
+                            ],
+                            "guid": "BCo$C}=8ig",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "8",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Delaunay triangulation",
+                                "Let \\(P \\subset \\mathbb{R}^2\\) be a finite point set. We'd like to construct a triangulation of \\(P\\) (subdivide \\(\\mathrm{conv}(P)\\) into triangles with vertices being the points of \\(P\\)) such that the triangles are „nice“.<br><img src=\"paste-862ac3baa658df5ee2e46a59db3793da2b6351f5.jpg\">"
+                            ],
+                            "guid": "B4J*H);@n9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unit paraboloid",
+                                "An unit paraboloid in \\(\\mathbb{R}^{d + 1}\\) is \\[U = \\left\\{x \\in \\mathbb{R}^{d + 1} \\mid x_{d + 1} = x_1^2 + x_2^2 + \\ldots + x_d^2\\right\\}\\]<br><br><i>(essentially a generalization of a parabola)</i>"
+                            ],
+                            "guid": "oHN<VTL,/Q",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Voronoi diagrams and polyhedra",
+                                "The voronoi diagram of \\(P\\) is the vertical projection of the facets of the polyhedron \\(\\bigcap_{p \\in P} \\varepsilon(p)\\), where \\(\\varepsilon(p)\\) is the hyperplane tangent to the unit paraboloid at point above \\(p\\):<br><img src=\"paste-aa0fb7c1aa80d3450c0e03f45ebb016a56070404.jpg\">"
+                            ],
+                            "guid": "e=ajEe~weT",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Number of faces in a voronoi diagram",
+                                "The maximum total number of faces of all regions of the Voronoi diagram of an \\(n\\)-point set in \\(\\mathbb{R}^d\\) is \\(\\mathcal{O}(n^{\\left\\lceil d/2 \\right\\rceil})\\)<br><br>PROOF: since the combinatorial complexity of a voronoi diagram equals the combinatorial complexity of an \\(H\\)-polyhedron in \\(\\mathbb{R}^{d + 1}\\), then by intersecting this \\(H\\)-poyhedron with a large simplex, we obtain a bounded polytope with at most \\(n + d + 2\\) facets and we have not decreased the number of facets with the previous one. Then the dual version of the asymptotic upper bound theorem implies that the total number of faces is \\(\\mathcal{O}\\left(n^{\\left\\lfloor (d + 1)/2 \\right\\rfloor = \\left\\lceil d/2 \\right\\rceil}\\right)\\)<br><br>Although the Voronoi polyhedra are kinda special, the bound is still tight."
+                            ],
+                            "guid": "wvW9CY@)3=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Power diagrams",
+                                "Generalized versions of Voronoi diagrams:<br>- each point has weight<br>- the \"power distance\" is calculated by \\(\\mathrm{dist}(x_i, p_i, w_i) = \\mathrm{dist}(x_i, p_i)^2 - w_i^2\\)<br>&nbsp;&nbsp;&nbsp; - geometrically, it's the distance of the tangent of a circle with the center \\(p_i\\) and radius \\(w_i\\)<br><br><img src=\"paste-bccb2ad6dbb90766c755a0fe1b71cc6f36eda1f1.jpg\"><br>- they are projections of \\((d+1)\\)-dimensional polyhedra<br>- they are also cuts of voronoi diagrams (using hyperplanes of lower dimensions)"
+                            ],
+                            "guid": "B&/YjatkOJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "9",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hyperplane arrangement",
+                                "An arrangement of a finite set \\(H\\) of hyperplanes in \\(\\mathbb{R}^d\\) is a partition of \\(\\mathbb{R}^d\\) into relatively open convex faces (of dimensions \\(0\\) to \\(d\\)). For example, here we have vertices, removing which yields edges, removing which yields open convex polygons (= cells).<br><img src=\"paste-8b84bb41ef5e3471cc66723410ddc47b01fcce35.jpg\"><br>Formally, the cells are the connected components of \\(\\mathbb{R}^d \\setminus \\bigcup H\\).<br>For other \\(k\\)-flats, we do the same inductively by considering intersections of hyperplanes with other hyperplanes."
+                            ],
+                            "guid": "C|6%Kn%L,=",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Simple arrangement of hyperplanes",
+                                "An arrangement of \\(H\\) is simple, if the intersection of every \\(k\\) hyperplanes is \\((d - k)\\)-dimensional (they're in general position -- each adding of a hyperplane reduces dimension by 1)."
+                            ],
+                            "guid": "t~@@v!3v*[",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Number of cells in a simple arrangement (of hyperplanes)",
+                                "The number of cells (\\(d\\)-faces) in a simple arrangement of \\(n\\) hyperplanes in \\(\\mathbb{R}^d\\) equals \\[\\phi_d(n) = \\binom{n}{0} + \\binom{n}{1} + \\ldots + \\binom{n}{d}\\]<br><br>PROOF: by double induction on \\(n, d\\).<br><br>For \\(d = 1\\), we have a line and \\(n\\) points on it. These divide it into \\(n + 1\\) one-dimensional pieces and the formula holds.<br><br>Now suppose that we are in dimension \\(d\\) and we have \\(n - 1\\) hyperplanes and we insert another one. Due to general position, the \\(n - 1\\) previous hyperplanes divide the newly inserted hyperplane \\(h\\) into \\(\\phi_{d - 1}(n - 1)\\) cells by induction.<br><br>Now each \\((d-1)\\)-dimensional cell within \\(h\\) partitions one \\(d\\)-dimensional cell into exactly two new cells. The total increase in the number of cells caused by inserting \\(h\\) is thus \\(\\phi_{d-1}(n-1)\\), so \\[\\phi_d(n) = \\phi_d(n - 1) + \\phi_{d - 1}(n - 1)\\]<br><br><img src=\"paste-44e02f0b74fe391497371f765c2d7e1a6c3cde19.jpg\"><br><br>Plugging the initial values, we can check that the formula this satisfies the reccurence.<br><br>It does."
+                            ],
+                            "guid": "H^/P4&I0ph",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "10",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Arrangement of (simple) pseudolines",
+                                "An arrangement of a finite collection of curves in a plane that satisfies the following:<br>- each curve is \\(x\\)-monotone and <b>bounded in both directions</b><br>- every two curves<b> intersect in exactly one point,</b> where they cross<br><br>They are <b>simple</b>, if no three lines cross at the same point:<br><img src=\"paste-51d15c33b603ebdc5740620df71cd33612057040.jpg\"><br>Most of what we proved for arrangements of lines holds for an arrangement of pseudolines (maximum number of vertices, edges, cells, the Szemerédi-Trotter theorem...), since we haven't used the \"straightness\" property in any of them."
+                            ],
+                            "guid": "n!Gqf-f5jc",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wiring diagram",
+                                "A redrawing of a pseudoline arrangement by polygonal lines:<br><img src=\"paste-b790edb2c131f72bbae47a6172d0494e1b5363d6.jpg\">"
+                            ],
+                            "guid": "mJcG)?M76o",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pseudoline arrangement isomorphism",
+                                "For each line, we write down the numbers of other peseudolines in the order they are encountered.&nbsp;<br><br>We now call two pseudoline arrangements <b>affinely isomorphic, </b>if each pseudoline meets the others in the same order as in the other arrangement (i. e. if they yield the same \\(\\pi_1, \\ldots, \\pi_n\\)."
+                            ],
+                            "guid": "om$r!&)jGi",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pseudoline arrangement stretchability",
+                                "An arrangement of pseudolines is stretchable, if it is affinely isomorphic to an arrangement of straight lines."
+                            ],
+                            "guid": "u<C$.!|,(K",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which numbers of pseudolines are stretchable?",
+                                "All arrangements of 8 or fewer pseudolines are stretchable, but there is an arrangement of 9 pseudolines that is not:<br><br><img src=\"paste-c3f356f4715ea084a5e37eb85ea7a5c62236f4e9.jpg\">"
+                            ],
+                            "guid": "hQ,$AZO4;;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "General arrangements",
+                                "We permit general sets (\\(A_1, \\ldots, A_n \\subseteq \\mathbb{R}^d\\)). The arrangement is now a <i>subdivision of space into connected pieces called the faces.</i><br><br>Formally, we define an equivalence relation on \\(\\mathbb{R}^d\\), where \\(x \\approx y\\) whenever \\(x\\) and \\(y\\) are in the same subcollection of the \\(A_i\\) (whenever \\(\\left\\{i \\mid x \\in A_i\\right\\} = \\left\\{i \\mid y \\in A_i\\right\\}\\). For each \\(I \\subseteq \\left\\{1, \\ldots, n\\right\\}\\), we have one possible equivalence class.<br><br>The faces of the arrangement are the connected components of the equivalence classes."
+                            ],
+                            "guid": "GB/_sVVwGL",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Arrangements of polynomials",
+                                "Quite often, we want to consider arrangements of zero sets of polynomials with real coefficients of \\(d\\) variables, with the degree at most \\(D\\) (otherwise there would be no bound on the number of connected components).<br><br><i>Don't think about them as polynomials in \\(\\mathbb{R}^2\\), where there are only a few zeroes. Instead, think of general shapes in \\(\\mathbb{R}^2\\) that can be described as an equation of multiple variables:<br><br></i><img src=\"paste-38b98b09c2e3fbaf4c62571ba41e079c35b07985.jpg\">"
+                            ],
+                            "guid": "y[Ld5~J&kY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "definition"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Milnor-Thom theorem and sign patterns",
+                                "A vector \\(\\sigma \\in \\left\\{-1, 1, 0\\right\\}^n\\) is the <b>sign pattern</b> of a collection of polynomials \\(p_i\\), if \\(\\exists x \\in \\mathbb{R}^d\\) such that \\(\\sigma_i = \\mathrm{sign}(p_i(x))\\).<br><br>Trivially, the number of sign patterns for any \\(n\\) polynomials is \\(3^n\\).<br><br>For example, for two polynomials, the \\(x\\)s in the highlightied areas yield the sign pattern \\((-1, 1)\\).<br><br><img src=\"paste-458c76fb105b0122e6e1860db7e212b97ac71b18.jpg\"><br><br>The Milnor-Thom theorem states that the number of sign patterns is at most \\(C(d, D) \\cdot n^d\\) (where \\(C(d, D)\\) is some constant in terms of \\(d\\) and \\(D\\)):<br><br>Let \\(p_1, \\ldots, p_n\\) be \\(d\\)-variable polynomials of degree at most \\(D\\). Then the number of faces of the arrangement of their zero sets, and consequently the number of sign patterns, is at most \\(2(2D)^d \\sum_{i = 0}^{d} 2^i \\binom{4n + 1}{i}\\).<br><br>This expression is bounded by \\[\\binom{50Dn}{d}^d\\]"
+                            ],
+                            "guid": "G[AM3$v<s9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Most simple pseudoline arrangements are non-stretchable",
+                                "The number of isomorphism classes of simple arrangements of \\(n\\) pseudolines is at least \\(2^{\\Omega(n^2)}\\).<br><br>PROOF: we'll make the following construction:<br><br><img src=\"paste-575683ecbd1537cccc462a4090f89a993291dfbe.jpg\"><br>Now we use Milnor-Thom theorem to estimate the number of non-isomorphic simple arrangements. Let the lines be \\(l_1, \\ldots, l_n\\). Each of them can be described as \\(y = a_ix + b_i\\), and \\(a_1 &gt; a_2 &gt; \\ldots\\) (they aren't parallel).<br><br>To determine the ordering \\(\\pi_i\\) of the line \\(l_i\\), we only need to know the ordering of the \\(x\\) coordinates of the intersections. Each intersection of two lines \\(l_i, l_j\\) is \\(\\frac{b_i - b_j}{a_j - a_i}\\).<br><br>The coordinates can be inferred from the signs of the polynomials \\(p_{ijk}(a_i, b_i, a_j, b_j, a_k, b_k)\\) (we're fixing one polynomial and compare the other two). This is no larger than the number of possible sign patterns of the \\(\\mathcal{O}(n^3)\\) polynomials in the \\(2n\\) variables.<br><br>Using Milnor-Thom yields the upper bound of \\(\\mathcal{O}\\left(n^3 \\cdot 2^{2n} = 2^{\\log \\left(n^3 \\cdot 2^n\\right)} = 2^{n \\log n}\\right)\\), which is a minor fraction of the \\(2^{\\Omega(n^2)}\\) total lines."
+                            ],
+                            "guid": "nq~Fxh)6NV",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "11",
+                                "proof"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Polytope dimension",
+                                "A dimension of a polytope is the <b>dimension of its affine hull.</b>"
+                            ],
+                            "guid": "~A-SvDWCJ",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definition"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "a8e076ee-84df-11ec-9b31-88d7f63eab01",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "5. semestr",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -22982,6 +24071,7 @@
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n background: black;\n filter: invert(100%);\n}\n",
             "flds": [
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Front",
@@ -22991,6 +24081,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Back",
@@ -23040,6 +24131,7 @@
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n background-color: black;\n filter: invert(100%);\n}\n",
             "flds": [
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Front",
@@ -23049,6 +24141,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Back",
