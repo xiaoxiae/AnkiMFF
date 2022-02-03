@@ -1,7 +1,7 @@
 # Anki MFF
 Kolekce Anki balíčků k různým předmětům na MFF (informatika).
 
-Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > Get-addons` s kódem `1788670778`), Anki restartovat a poté v `File > CrowdAnki: Import from Github` zadat `xiaoxiae/AnkiMFF`.
+Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > Get-addons` s kódem `1788670778`), Anki restartovat a v `File > CrowdAnki: Import from Github` zadat url repozitáře (`https://github.com/xiaoxiae/AnkiMFF.git`).
 
 
 ## Obsah
