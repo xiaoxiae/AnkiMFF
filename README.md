@@ -16,15 +16,16 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - C# (k předmětu „Programování 2“)
 - C (k předmětu „The C Programming Language“)
 - Lineární Algebra 2
-- Matematická Analýza 1
-	- Integrály
-	- Derivace
+- Matematická Analýza 1 s podbalíčky:
+	- Integrály (k zapamatování)
+	- Derivace (k zapamatování)
 - Počítačové Systémy
 - Matematická Analýza 2
 
 ### 3. semestr
 - Algebra
-- Algoritmy a Datové Struktury 2 (chybí geometrické a randomizované algoritmy!)
+- Algoritmy a Datové Struktury 2
+	- _chybí geometrické a randomizované algoritmy_
 - Kombinatorika a grafy
 - Matematická Analýza 2
 - Výroková a predikátová logika (EN)
@@ -36,4 +37,6 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - Pravděpodobnost a statistika
 
 ### 5. semestr
-- Základy kombinatorické a výpočetní geometrie (chybí přednášky 12 a 13!)
+- Angličtina (pár random matematických slovíček)
+- Základy kombinatorické a výpočetní geometrie 
+	- _chybí přednášky 12 a 13_
