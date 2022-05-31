@@ -601,7 +601,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Součin se singulární maticí",
+                                "Součin matice se singulární maticí",
                                 "<img src=\"paste-45447056ba028caed30f379fe9017b36cc959283.jpg\"><br><img src=\"paste-2f12b55f364580581756be498b2371183c8c5388.jpg\">"
                             ],
                             "guid": "b8U;zfa/cB",
@@ -24371,6 +24371,656 @@
             "extendRev": 0,
             "media_files": [],
             "name": "5. semestr",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "d3f0cdd0-e113-11ec-b4d2-8b82881efe93",
+                    "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "220px-Conjugate_gradient_illustration.svg.png",
+                        "220px-Hierarchy_compact_convex.png",
+                        "paste-071bb0bc767a7f10802a50d23cb3855fad25a012.jpg",
+                        "paste-0865044e0463389ac6fff103b3ab2ebd97bada75.jpg",
+                        "paste-11f0c113a8e729393549ea3c0b970599d8a9cf24.jpg",
+                        "paste-17bc4ac19c5784d40734f36bd6ab4c2a0295efa6.jpg",
+                        "paste-188412c3d871eeed6ef8f641e6103f8c8a71a916.jpg",
+                        "paste-1b49152a04d03d14a6ef2d802e03d28ebd22a392.jpg",
+                        "paste-21104a6d6840ec6bf906a91add6b76bfd705dd60.jpg",
+                        "paste-2651b49088dfbfa039a009a5beb3f568e1f63b2f.jpg",
+                        "paste-2d6287c5c8090f5b5546a1f7378a906c52510963.jpg",
+                        "paste-31a39698696ab70880e5e40af792f5bba95f7a03.jpg",
+                        "paste-326926cf209450c60089319fa77f483aadde95fe.jpg",
+                        "paste-34974e28f499438f3aa9280ad42fb7b98a3adab0.jpg",
+                        "paste-3633ea08aa73124353c33ce06bb0fc705e2fab70.jpg",
+                        "paste-3886cdf8ab097deb42c6ec555e8b01e1f9b4529c.jpg",
+                        "paste-3938be5342789f3644377807e8c47e93a374bb21.jpg",
+                        "paste-396674248d3d6899ac15811f537efbaf5e78856a.jpg",
+                        "paste-3ab3881fdf8e38ef8d2f4f96066b28be19c89b34.jpg",
+                        "paste-4256bd018449bd2678507fea73c3f8d6f8c1dc13.jpg",
+                        "paste-42d7450368e3d8f8b9cec9a8ba1671f46edde8b2.jpg",
+                        "paste-449da507dfb8e50b5c49610d1531d8cc15ace2fa.jpg",
+                        "paste-4639dfd1a91775ae96c8081e906b1b8b5591358e.jpg",
+                        "paste-4b39310edded410b94047191ca662d80f4aee873.jpg",
+                        "paste-5aa00e038d67ef0e192448726ca38196419ae275.jpg",
+                        "paste-5b408a0f4696891171b5a4199a5422a5167fda62.jpg",
+                        "paste-5cc90f64313c06071606d3973449be12d7bce1ad.jpg",
+                        "paste-5e76efc5bb7ca72b32d789f852a51750f66d0013.jpg",
+                        "paste-62db57d1c6fabb9d4b138e02cde1a37c2c1bf899.jpg",
+                        "paste-6314a79ada40a88b0e69607633a5bf57f0346a72.jpg",
+                        "paste-63a14e8ec279d0373f71ae9b19bd461221e688a3.jpg",
+                        "paste-6871d4fabf7df92fc0e601313dd61b8009f08462.jpg",
+                        "paste-76b7250d3a581aa5098f7f2858d2d18d76f38f94.jpg",
+                        "paste-76f6ab4dbf919acecaa18ab48b950bf421e8ac9e.jpg",
+                        "paste-803490bf1e7b78a466de9b1cafb5e526956ff2db.jpg",
+                        "paste-83ec2065cab6302b5dba1da15615b15b681ed651.jpg",
+                        "paste-89760e5fe87e5717aa93be2f32f7250b2e5d45a4.jpg",
+                        "paste-927e5dc8cbc67d622cd40174feeabcd584573b22.jpg",
+                        "paste-958cfbaa0ce55e374493d070da02d9d3e3fd88ac.jpg",
+                        "paste-a0a69efed4a0528d4012c8a06909a276e07e00ef.jpg",
+                        "paste-a3891862bde55b391fe23eb6b846a7b1758796e9.jpg",
+                        "paste-ac144c8ec0ff9ae2f78b783528b42b7ed3a9a063.jpg",
+                        "paste-ac20a5172a9017c2cf2b0966d3d70c4eb9c3700d.jpg",
+                        "paste-adc4e0236e4ece2a1fe776053bfd5a41f84b2b3f.jpg",
+                        "paste-b0870929d79c1a79c752ceba230c3195bc9a44d5.jpg",
+                        "paste-b9f3b2eb5c35ead3531133e48a01ebfbffab7fb3.jpg",
+                        "paste-c25b933d0be0b6121398002253dfe9cdd633da15.jpg",
+                        "paste-c2f65c4e11f2c74426ee5debc869ab7d99b1979c.jpg",
+                        "paste-c49d49ec4f3b435f13f605e82209dc4b8772aff3.jpg",
+                        "paste-c51fdc920a8bb2c6aed176ab364ae804efa39e4a.jpg",
+                        "paste-c81e4b424848d317718d17966a7c36019f663f1d.jpg",
+                        "paste-c8e1ff1c4ff036a3bc081423de8d3f44d5dcfebd.jpg",
+                        "paste-cfef80084a950adb76ccec790abd9ff2fefaa0b6.jpg",
+                        "paste-d4f4afacbc2db3ca9379f67a334d74145288296a.jpg",
+                        "paste-d52c01e0d5950d8a772764c51f2dc7972744bbd8.jpg",
+                        "paste-d8ea07046674202e77ec85baf7efdeb3ce096c5a.jpg",
+                        "paste-d95278b3601dcc1566eaa6d8fda313f64feb7f1c.jpg",
+                        "paste-d9ff1dd4dc383fb97a27b4e6e800fb356974203a.jpg",
+                        "paste-da36762296624f55923e85a287d3ad8c196d9780.jpg",
+                        "paste-dda486259cb27d1286ee34ea55fe6d54cfa361d0.jpg",
+                        "paste-f8979bc330c7a61b6e54bc675170b2b6cd9a6251.jpg",
+                        "paste-fa1709fb360d3e89d7a085e72e86bab458ff93f5.jpg"
+                    ],
+                    "name": "Spojitá optimalizace",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Popsání množiny přípustných řešení",
+                                "<img src=\"paste-11f0c113a8e729393549ea3c0b970599d8a9cf24.jpg\">"
+                            ],
+                            "guid": "Q_&PgG~85G",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Základní úpravy optimalizace (minimalizační na maximalizační, rovnosti na nerovnosti)",
+                                "<img src=\"paste-326926cf209450c60089319fa77f483aadde95fe.jpg\">"
+                            ],
+                            "guid": "u~q_yXteRB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Transformace účelové funkce a podmínek u optimalizačních úloh",
+                                "TLDR: měň si co chceš, ale nesmíš porušit podmínky (bere to \\(x\\)ka \\(\\iff\\) je to bralo i předtím) a přehodit pořadí \\(x\\)ek v účelove funkci.<br><br><img src=\"paste-927e5dc8cbc67d622cd40174feeabcd584573b22.jpg\">"
+                            ],
+                            "guid": "L1*FCuu4RC",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "1",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nutná podmínka optimality prvního řádu",
+                                "<img src=\"paste-d8ea07046674202e77ec85baf7efdeb3ce096c5a.jpg\">"
+                            ],
+                            "guid": "t2xPe3e]uY",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stacionární bod",
+                                "Bod s nulovým gradientem. Může (ale nemusí) být optimum.<br><br>Pro konvexní funkce bez omezení na otevřené množině to například optimum je vždy."
+                            ],
+                            "guid": "m#|~8m![G{",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nutná podmínka optimality druhého řádu",
+                                "<img src=\"paste-c81e4b424848d317718d17966a7c36019f663f1d.jpg\">"
+                            ],
+                            "guid": "d_ZEtZd:n`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Postačující podmínka optimality druhého řádu",
+                                "<img src=\"paste-adc4e0236e4ece2a1fe776053bfd5a41f84b2b3f.jpg\"><br><img src=\"paste-c51fdc920a8bb2c6aed176ab364ae804efa39e4a.jpg\">"
+                            ],
+                            "guid": "kfL3T(=Za-",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Positivně (semi)definitní matice",
+                                "<img src=\"paste-2d6287c5c8090f5b5546a1f7378a906c52510963.jpg\">"
+                            ],
+                            "guid": "nbPFDv0U~r",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "2",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konvexní množina",
+                                "<img src=\"paste-ac144c8ec0ff9ae2f78b783528b42b7ed3a9a063.jpg\">"
+                            ],
+                            "guid": "fp^P$9h^+f",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konvexní obal&nbsp;",
+                                "<img src=\"paste-2651b49088dfbfa039a009a5beb3f568e1f63b2f.jpg\">"
+                            ],
+                            "guid": "j}!seggm6M",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konvexní, konkávní funkce",
+                                "<img src=\"paste-d9ff1dd4dc383fb97a27b4e6e800fb356974203a.jpg\">"
+                            ],
+                            "guid": "BqBg/.0B5+",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Epigraf",
+                                "<img src=\"paste-0865044e0463389ac6fff103b3ab2ebd97bada75.jpg\"><br><img src=\"paste-31a39698696ab70880e5e40af792f5bba95f7a03.jpg\">"
+                            ],
+                            "guid": "o83EFN$v_;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Epigraf a konvexita",
+                                "<img src=\"paste-449da507dfb8e50b5c49610d1531d8cc15ace2fa.jpg\">"
+                            ],
+                            "guid": "m3-j2fJi>G",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nerovnost (\\(\\le\\)) na konvexní funkci a množině dělá konvexní množinu",
+                                "<img src=\"paste-1b49152a04d03d14a6ef2d802e03d28ebd22a392.jpg\"><br><img src=\"paste-42d7450368e3d8f8b9cec9a8ba1671f46edde8b2.jpg\">"
+                            ],
+                            "guid": "cCI,giX@(l",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Charakterizace konvexity funkce prvního řádu",
+                                "<img src=\"paste-62db57d1c6fabb9d4b138e02cde1a37c2c1bf899.jpg\"><br><img src=\"paste-cfef80084a950adb76ccec790abd9ff2fefaa0b6.jpg\"><br><img src=\"paste-3633ea08aa73124353c33ce06bb0fc705e2fab70.jpg\">"
+                            ],
+                            "guid": "i$}NR1EPJV",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Charakterizace konvexity druhého řádu",
+                                "<img src=\"paste-dda486259cb27d1286ee34ea55fe6d54cfa361d0.jpg\">"
+                            ],
+                            "guid": "dhOV/Sj.cD",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "3",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konvexní optimalizace",
+                                "<img src=\"paste-b0870929d79c1a79c752ceba230c3195bc9a44d5.jpg\">"
+                            ],
+                            "guid": "nRS4DHIOq&",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Základní vlastnosti konvexní optimalizace (o optimech)",
+                                "<img src=\"paste-d95278b3601dcc1566eaa6d8fda313f64feb7f1c.jpg\">"
+                            ],
+                            "guid": "CPh(+F*b:u",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Postačující podmínka konvexní optimalizace na&nbsp;<b>otevřené množině</b>",
+                                "<img src=\"paste-21104a6d6840ec6bf906a91add6b76bfd705dd60.jpg\">"
+                            ],
+                            "guid": "yp)JuO{q7{",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Postačující podmínka konvexní optimalizace na <b>uzavřené množině</b>",
+                                "<img src=\"paste-071bb0bc767a7f10802a50d23cb3855fad25a012.jpg\"><br><br>TLDR: Platí to buď pokud je derivace nulová (jisté optimum), nebo pokud není nulová ale jsme na kraji (takže gradient je nenulový, ale tam kde by klesal už nejsou&nbsp;\\(y\\)):<br><br><img src=\"paste-c2f65c4e11f2c74426ee5debc869ab7d99b1979c.jpg\"><br>"
+                            ],
+                            "guid": "I}n4~]Wrg&",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kvadratické programování",
+                                "<img src=\"paste-4256bd018449bd2678507fea73c3f8d6f8c1dc13.jpg\">"
+                            ],
+                            "guid": "ANa:5LXk6W",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "NP-úplnost kvadratického programování",
+                                "<img src=\"paste-188412c3d871eeed6ef8f641e6103f8c8a71a916.jpg\">"
+                            ],
+                            "guid": "kO|n0?>vRl",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Konvexní kužel",
+                                "<img src=\"paste-4639dfd1a91775ae96c8081e906b1b8b5591358e.jpg\">"
+                            ],
+                            "guid": "yWtV[})fT-",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kuželouspořádání",
+                                "<img src=\"paste-d52c01e0d5950d8a772764c51f2dc7972744bbd8.jpg\"><br><br>Operátor \\(\\mathrm{int}\\) je tu topologický vnitřek množiny.<br>Směr nerovnosti je dobré si představit na kuželu nezáporného kvadrantu."
+                            ],
+                            "guid": "loOPt=<Ls$",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Příklady kuželů a odpovídajících programů",
+                                "<img src=\"paste-f8979bc330c7a61b6e54bc675170b2b6cd9a6251.jpg\"><br><img src=\"paste-63a14e8ec279d0373f71ae9b19bd461221e688a3.jpg\"><br><img src=\"paste-c25b933d0be0b6121398002253dfe9cdd633da15.jpg\">"
+                            ],
+                            "guid": "An.m|65rNB",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "příklad"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dualita kuželového programování",
+                                "<img src=\"paste-5aa00e038d67ef0e192448726ca38196419ae275.jpg\">"
+                            ],
+                            "guid": "f5sIL4~LuM",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Slabá dualita",
+                                "<img src=\"paste-ac20a5172a9017c2cf2b0966d3d70c4eb9c3700d.jpg\">"
+                            ],
+                            "guid": "xQ#:[8,A(p",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Silná dualita",
+                                "<img src=\"paste-3938be5342789f3644377807e8c47e93a374bb21.jpg\">"
+                            ],
+                            "guid": "xY2`/!IoK-",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "důkaz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Semidefinitní programování",
+                                "<img src=\"paste-6871d4fabf7df92fc0e601313dd61b8009f08462.jpg\">"
+                            ],
+                            "guid": "scC<>)=3^;",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Elipsoidová metoda&nbsp;",
+                                "<img src=\"paste-3886cdf8ab097deb42c6ec555e8b01e1f9b4529c.jpg\">"
+                            ],
+                            "guid": "l_,t{r3|k4",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "KKT podmínky",
+                                "KKT = Karush-Kuhn-Tucker<br>-&nbsp;<a href=\"https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions\">https://en.wikipedia.org/wiki/Karush–Kuhn–Tucker_conditions</a><br>- generalizace Lagrangových multiplikátorů<br><br><img src=\"paste-34974e28f499438f3aa9280ad42fb7b98a3adab0.jpg\"><br><br>- v našem znění používáme linearitu gradientů podmínek, ty se ale pro neznámé \\(x^*\\) špatně ověřují<br>&nbsp; - alternativní je Slaterova podmínka, která má vlastní kartičku<br>&nbsp; - hezké vysvětlení, proč tohle potřebujeme:&nbsp;<a href=\"https://math.stackexchange.com/questions/3035579/when-is-licq-useful-in-kkt-conditions#3038249\">https://math.stackexchange.com/questions/3035579/when-is-licq-useful-in-kkt-conditions#3038249</a>"
+                            ],
+                            "guid": "j7BB$NGJ7e",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Line search",
+                                "<img src=\"paste-a3891862bde55b391fe23eb6b846a7b1758796e9.jpg\">"
+                            ],
+                            "guid": "k<`C]ZdR8C",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Armijovo pravidlo",
+                                "<img src=\"paste-4b39310edded410b94047191ca662d80f4aee873.jpg\"><br><img src=\"paste-17bc4ac19c5784d40734f36bd6ab4c2a0295efa6.jpg\">"
+                            ],
+                            "guid": "hl)V7j6Xj.",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Newtonova metoda",
+                                "TLDR: děláme Taylorův polynom druhého stupně (pro více dimenzí nahradíme derivaci za gradient) v bodu, který má nenulový gradient (zjistíme derivováním a nastavením na 0). Pak se vždy posuneme do nejnižšího bodu tohoto polynomu, který je níže než daný bod. Metoda konverguje, když každý polynom podrbeme za ušima.<br><br>1D varianta:<br><img src=\"paste-5b408a0f4696891171b5a4199a5422a5167fda62.jpg\"><br><img src=\"paste-5cc90f64313c06071606d3973449be12d7bce1ad.jpg\"><br><br>víceD varianta:<br><img src=\"paste-b9f3b2eb5c35ead3531133e48a01ebfbffab7fb3.jpg\"><br><img src=\"paste-6314a79ada40a88b0e69607633a5bf57f0346a72.jpg\">"
+                            ],
+                            "guid": "De@$Q.P<*W",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gradientní metody",
+                                "<img src=\"paste-3ab3881fdf8e38ef8d2f4f96066b28be19c89b34.jpg\">"
+                            ],
+                            "guid": "h(z*dKdAe9",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Penalizační a bariérové metody",
+                                "<img src=\"paste-803490bf1e7b78a466de9b1cafb5e526956ff2db.jpg\"><br><img src=\"paste-fa1709fb360d3e89d7a085e72e86bab458ff93f5.jpg\"><br><img src=\"paste-da36762296624f55923e85a287d3ad8c196d9780.jpg\"><br><img src=\"paste-396674248d3d6899ac15811f537efbaf5e78856a.jpg\"><br><img src=\"paste-d4f4afacbc2db3ca9379f67a334d74145288296a.jpg\"><br><img src=\"paste-958cfbaa0ce55e374493d070da02d9d3e3fd88ac.jpg\"><br><img src=\"paste-c49d49ec4f3b435f13f605e82209dc4b8772aff3.jpg\">"
+                            ],
+                            "guid": "FLEP:ex@e_",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Metoda sdružených gradientů",
+                                "TLDR: chceme se z daného bodu vydat nějakým směrem a posouvat se, dokud není gradient nulový (ve směru, ve kterém se posouváme). Kdybychom to ale dělali hloupě, tak kroků, které uděláme, může být strašně moc. Tenhle algoritmus to dělá tak, že vybírá směry z chytře vybrané báze tak, abychom se posunuli nejvýše&nbsp;\\(n\\)-krát (což pro obrovské systémy může být lepší).<br><br><img src=\"paste-83ec2065cab6302b5dba1da15615b15b681ed651.jpg\"><br>Hezké shrnutí:&nbsp;<a href=\"https://en.wikipedia.org/wiki/Conjugate_gradient_method\">https://en.wikipedia.org/wiki/Conjugate_gradient_method</a><br><img src=\"220px-Conjugate_gradient_illustration.svg.png\">"
+                            ],
+                            "guid": "K*<K6OU*F`",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "6",
+                                "algoritmus"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kuželové programování",
+                                "<img src=\"paste-76f6ab4dbf919acecaa18ab48b950bf421e8ac9e.jpg\">"
+                            ],
+                            "guid": "MC=+,k}^`/",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vlastnosti kuželů a dualita",
+                                "<img src=\"paste-c8e1ff1c4ff036a3bc081423de8d3f44d5dcfebd.jpg\">"
+                            ],
+                            "guid": "H1h+X6M=KE",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Slaterova podmínka",
+                                "<img src=\"paste-a0a69efed4a0528d4012c8a06909a276e07e00ef.jpg\">"
+                            ],
+                            "guid": "xe$oZ4iYpm",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Úloha pro KKT podmínky",
+                                "<img src=\"paste-5e76efc5bb7ca72b32d789f852a51750f66d0013.jpg\">"
+                            ],
+                            "guid": "wMpe6WE.U<",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hierarchie konvexního programování",
+                                "Kontext problémů, které jsme řešili.<br><br><img src=\"220px-Hierarchy_compact_convex.png\"><br><br>LP: lineární programování<br>QP: kvadratické programování<br>SOCP: kuželové kvadratické programování*<br>SDP: semidefinitní programování<br>CP: kuželové programovaní<br><br>*teda myslím...&nbsp;<a href=\"https://en.wikipedia.org/wiki/Second-order_cone_programming\">https://en.wikipedia.org/wiki/Second-order_cone_programming</a>"
+                            ],
+                            "guid": "Bm?X{fHy+8",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "4",
+                                "definice"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lagrangovy multiplikátory",
+                                "Jednodušší varianta KKT podmínek, kde uvažujeme pouze rovnicová omezení.<br><br><img src=\"paste-76b7250d3a581aa5098f7f2858d2d18d76f38f94.jpg\"><br><img src=\"paste-89760e5fe87e5717aa93be2f32f7250b2e5d45a4.jpg\"><br><br>Hezké shrnutí:&nbsp;<a href=\"https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction\">https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction</a>"
+                            ],
+                            "guid": "wdtiy0PI`~",
+                            "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
+                            "tags": [
+                                "5",
+                                "důkaz"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "6bae6e7a-e114-11ec-b4d2-8b82881efe93",
+            "deck_config_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "6. semestr",
             "notes": []
         }
     ],
