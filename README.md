@@ -1,5 +1,5 @@
 # Anki MFF
-Kolekce Anki balíčků k různým předmětům na MFF (informatika).
+Kolekce Anki balíčků k různým předmětům na MFF (obecná informatika).
 
 Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > Get-addons` s kódem `1788670778`), Anki restartovat a v `File > CrowdAnki: Import from Github` zadat url repozitáře (`https://github.com/xiaoxiae/AnkiMFF.git`).
 
@@ -40,3 +40,7 @@ Pro import balíčku si stačí plugin do Anki nainstalovat (`Tools > Add-ons > 
 - Angličtina (pár random matematických slovíček)
 - Základy kombinatorické a výpočetní geometrie 
 	- _chybí přednášky 12 a 13_
+
+### 6. semestr
+- Diskrétní a spojitá optimalizace
+	- _obsahuje pouze spojitou část_
