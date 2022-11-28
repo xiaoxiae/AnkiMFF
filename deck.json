@@ -873,8 +873,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-be8957e13dd09f8190f6574cd01f19d93790f109.jpg\">",
-                                "<img src=\"paste-5bc2dc48cf5f4cbad419b31b90e06457d8fa5462.jpg\">"
+                                "Znaménko součinu permutací",
+                                "<img src=\"paste-be8957e13dd09f8190f6574cd01f19d93790f109.jpg\"><br><img src=\"paste-5bc2dc48cf5f4cbad419b31b90e06457d8fa5462.jpg\">"
                             ],
                             "guid": "EKN^]BS<}5",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -14080,6 +14080,7 @@
                         "paste-44ff0f634cad09285869465ad95789935bbf2983.jpg",
                         "paste-47971165fe97bd90f601d9042c967638c0410c4c.jpg",
                         "paste-47d7264136480fb5274ce0e9e5e7337e9ce46757.jpg",
+                        "paste-47f0fddab09dbaf582c7fcd96e7c72787a1ec3c8.jpg",
                         "paste-4a0d2b7d77d1e553a1b15240485a8f2d4e5314bf.jpg",
                         "paste-4b0a300683bd5dfeed1f4c278dc37579aae6c4a8.jpg",
                         "paste-4f77275ad07c53cea78c2b6548d491da4390651c.jpg",
@@ -14099,6 +14100,7 @@
                         "paste-66f2ae10caca8ec00a41afb95fba5bb897ac061f.jpg",
                         "paste-68cb508103806fd940a04766dfe63c0ffb3fb1bf.jpg",
                         "paste-6edc66b086175aebe2d2044d8182d418c82b4edf.jpg",
+                        "paste-6f6f45c17a1045c22e6922989df007e5f0e464a1.jpg",
                         "paste-7091d88d31a816ed7b005883ad046c578d1eba3e.jpg",
                         "paste-71d74366b2f8d66956acd9637f5ca075acf875a5.jpg",
                         "paste-747882c119aac26ef5e111d431a654ec32f2dc87.jpg",
@@ -14150,8 +14152,7 @@
                         "paste-f1a3192db519bac6e52c71c137f904303ab5c198.jpg",
                         "paste-f57cdf1755badb7d1ea9cdaf38107990ec3c06ba.jpg",
                         "paste-f64e63bd6d5f08a252e272431bedeb80fdba3809.jpg",
-                        "paste-fd08c87304be3504cd6c0354203c74d1c299e933.jpg",
-                        "paste-fff3582bf8edf2cc7954be2f6c3dcd816d9723fb.jpg"
+                        "paste-fd08c87304be3504cd6c0354203c74d1c299e933.jpg"
                     ],
                     "name": "Matematická Analýza 2",
                     "notes": [
@@ -14522,7 +14523,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Kompaktnost podprostoru \\(\\mathrm{E}_n\\)",
+                                "Kompaktnost podprostoru \\(\\mathbb{E}_n\\)",
                                 "<img src=\"paste-66f2ae10caca8ec00a41afb95fba5bb897ac061f.jpg\">"
                             ],
                             "guid": "n)6:TY7Tb;",
@@ -14978,7 +14979,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Věta o hledání extrémů",
-                                "<img src=\"paste-fff3582bf8edf2cc7954be2f6c3dcd816d9723fb.jpg\"><div><img src=\"paste-2ec325f084550f6823f1dc5a9dea8d646cda05b5.jpg\"><br></div><div><img src=\"paste-b1d10c42359ba45ce91fc021c570f001afde8b74.jpg\"><br></div>"
+                                "<div><img src=\"paste-47f0fddab09dbaf582c7fcd96e7c72787a1ec3c8.jpg\"></div><div><img src=\"paste-6f6f45c17a1045c22e6922989df007e5f0e464a1.jpg\"><br></div><div><img src=\"paste-2ec325f084550f6823f1dc5a9dea8d646cda05b5.jpg\"><br></div><div><img src=\"paste-b1d10c42359ba45ce91fc021c570f001afde8b74.jpg\"><br></div>"
                             ],
                             "guid": "ojac:#+Lf4",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -19960,8 +19961,7 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "5",
-                                "důkaz",
-                                "státnice"
+                                "důkaz"
                             ]
                         },
                         {
@@ -20665,7 +20665,8 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "13",
-                                "definice"
+                                "definice",
+                                "státnice"
                             ]
                         },
                         {
@@ -20745,13 +20746,14 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": [
                                 "13",
-                                "definice"
+                                "definice",
+                                "státnice"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Erdös-Ko-Rado věta (a zbylé případy)",
+                                "Erdös-Ko-Rado věta",
                                 "<img src=\"paste-120b12174d7edc188b546c750e8334241a467c1d.jpg\"><br><img src=\"paste-17fd59db25c98f065521ccf0a3db832a02284692.jpg\"><br><img src=\"paste-48caa3a8b921e64f700784f2c6fb614b9e2bb66f.jpg\">"
                             ],
                             "guid": "N2-SjRuTQ`",
@@ -21786,7 +21788,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Totální unimodulární matice",
+                                "Totálně unimodulární matice",
                                 "<img src=\"paste-c8b6e83ced88b38b35df910737690aa6ffeeeac3.jpg\">"
                             ],
                             "guid": "BqDK5p-d,7",
@@ -25743,7 +25745,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "Škola",
+    "name": "MFF",
     "note_models": [
         {
             "__type__": "NoteModel",
