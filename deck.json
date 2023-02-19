@@ -155,6 +155,8 @@
                         "paste-ffb0c138cf7641b927fbb303cfa0b3322c113774.jpg"
                     ],
                     "name": "Lineární Algebra 1",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1360,7 +1362,9 @@
                                 "státnice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -1419,6 +1423,8 @@
                     ],
                     "mid": "1577559707160",
                     "name": "Úvod do počítačových sítí",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -2800,7 +2806,9 @@
                                 "státnice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "6e44c420-b23d-11ea-96ce-e442a69a5dcb",
@@ -2811,7 +2819,11 @@
             "extendRev": 50,
             "media_files": [],
             "name": "1. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -3013,6 +3025,8 @@
                         "paste-fd999d501ed41aa59a93ecae09db14026d6a9c25.jpg"
                     ],
                     "name": "Algoritmy a Datové Struktury 1",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -4044,7 +4058,9 @@
                                 "hashování"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -4269,6 +4285,8 @@
                     ],
                     "mid": 1577559707160,
                     "name": "Architektura Počítačů",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -5164,7 +5182,9 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -5251,6 +5271,8 @@
                         "paste-fc8286a03ba2598aca7ba9dd5a2480ab5ed85230.jpg"
                     ],
                     "name": "C (The C Programming Language)",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -5622,7 +5644,9 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -5747,6 +5771,8 @@
                         "paste-fb320c822103860a1ccad5f8c485d0db1f3bc220.jpg"
                     ],
                     "name": "C# (Programování 2)",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -6228,7 +6254,9 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -6427,6 +6455,8 @@
                         "paste-fde48e9ba1142d5224ff47134bc16656cb722ba1.jpg"
                     ],
                     "name": "Lineární Algebra 2",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -7819,7 +7849,9 @@
                                 "algoritmus"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -7843,6 +7875,8 @@
                                 "paste-ecade94a47d26469cc8d5c55ebe3badc581ecb57.jpg"
                             ],
                             "name": "Derivace",
+                            "newLimit": null,
+                            "newLimitToday": null,
                             "notes": [
                                 {
                                     "__type__": "Note",
@@ -7880,7 +7914,9 @@
                                         "státnice"
                                     ]
                                 }
-                            ]
+                            ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
                         },
                         {
                             "__type__": "Deck",
@@ -7910,6 +7946,8 @@
                                 "paste-fa89171f3ad95f97018f2263dce049fbcb442840.jpg"
                             ],
                             "name": "Integrály",
+                            "newLimit": null,
+                            "newLimitToday": null,
                             "notes": [
                                 {
                                     "__type__": "Note",
@@ -8007,7 +8045,9 @@
                                         "státnice"
                                     ]
                                 }
-                            ]
+                            ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
                         }
                     ],
                     "crowdanki_uuid": "15b11be8-69b7-11ea-b48d-e442a69a5dcb",
@@ -8168,6 +8208,8 @@
                         "paste-fdb4ee8105e748fd75b394f7fcbed9c96b2c74c6.jpg"
                     ],
                     "name": "Matematická Analýza 1",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -9513,7 +9555,9 @@
                                 "státnice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -9596,6 +9640,8 @@
                         "paste-fdc6c60a8d3b42103158743f97725cffcc351490.jpg"
                     ],
                     "name": "Počítačové Systémy",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -10101,7 +10147,9 @@
                                 "státnice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "6e4c91b4-b23d-11ea-96ce-e442a69a5dcb",
@@ -10112,7 +10160,11 @@
             "extendRev": 50,
             "media_files": [],
             "name": "2. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -10355,6 +10407,8 @@
                         "paste-ff47d45039ca1773bbfa8de64c0cceb8d4c5ae5c.jpg"
                     ],
                     "name": "Algebra",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -12047,7 +12101,9 @@
                                 "definice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -12202,6 +12258,8 @@
                         "paste-ffb8f571a393b311fe6811df92fca54019728807.jpg"
                     ],
                     "name": "Algoritmy a datové struktury 2",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -12866,7 +12924,9 @@
                                 "approx"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -13001,6 +13061,8 @@
                         "paste-fdaea176a559d290eb7205e9bcfddbcc35ec9ecc.jpg"
                     ],
                     "name": "Kombinatorika a grafy",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -14036,7 +14098,9 @@
                                 "státnice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -14155,6 +14219,8 @@
                         "paste-fd08c87304be3504cd6c0354203c74d1c299e933.jpg"
                     ],
                     "name": "Matematická Analýza 2",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -15157,7 +15223,9 @@
                                 "příklad"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -15348,6 +15416,8 @@
                         "paste-fdd11de9854c10e6ca940e8d88393416e76ba974.jpg"
                     ],
                     "name": "Výroková a predikátová logika (EN)",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -15927,7 +15997,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "resolution tree",
-                                "<div><img src=\"paste-f457ecfc57e541668aaf212309e3ff8f760693cd.jpg\"><img src=\"paste-6c7f8f66174694d6afe4460d6a4a2d044e2e4599.jpg\"><br></div><div>---</div><div>The tree is built bottom-up.</div>"
+                                "<div><img src=\"paste-f457ecfc57e541668aaf212309e3ff8f760693cd.jpg\"><br></div><div><img src=\"paste-6c7f8f66174694d6afe4460d6a4a2d044e2e4599.jpg\"><br></div><div>---</div><div>The tree is built bottom-up.</div>"
                             ],
                             "guid": "bD(G|K/xZ2",
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
@@ -17295,7 +17365,9 @@
                                 "predicate"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "6ddadb0e-03c9-11eb-8a34-c858c0bec5b2",
@@ -17306,7 +17378,11 @@
             "extendRev": 50,
             "media_files": [],
             "name": "3. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -17570,6 +17646,8 @@
                         "paste-ff9f66d016e6cdc033d3d8d3c0c574333fb51a7a.jpg"
                     ],
                     "name": "Automaty a Gramatiky",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -19492,7 +19570,9 @@
                                 "definice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -19641,6 +19721,8 @@
                         "paste-ff6287025c9602818d50a304d2e9ae9ef6e88147.jpg"
                     ],
                     "name": "Kombinatorika a grafy 2",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -20764,7 +20846,9 @@
                                 "státnice::formulace"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -20952,6 +21036,8 @@
                         "paste-ffb694ba9e32f353a7fa064e6e95288cb7862115.jpg"
                     ],
                     "name": "Lineární programování a kombinatorická optimalizace",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -22160,7 +22246,9 @@
                             "note_model_uuid": "14ac3a02-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -22327,6 +22415,8 @@
                         "paste-ffb380c0a7cafa21bc26700d8f6e68b5a152e39b.jpg"
                     ],
                     "name": "Pravděpodobnost a Statistika",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -23775,7 +23865,9 @@
                                 "definice"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "461c76ee-c3c3-11eb-9f02-88d7f63eab01",
@@ -23786,7 +23878,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "4. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -23802,6 +23898,8 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Angličtina",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -23943,7 +24041,9 @@
                             "note_model_uuid": "14ac8c14-69b7-11ea-b48d-e442a69a5dcb",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -24005,6 +24105,8 @@
                         "paste-f7565e43da0e227cdccc425ef5868824c9e2ea83.jpg"
                     ],
                     "name": "Základy kombinatorické a výpočetní geometrie",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -25020,7 +25122,9 @@
                                 "definition"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "a8e076ee-84df-11ec-9b31-88d7f63eab01",
@@ -25031,7 +25135,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "5. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -25110,6 +25218,8 @@
                         "paste-fa1709fb360d3e89d7a085e72e86bab458ff93f5.jpg"
                     ],
                     "name": "Spojitá optimalizace",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -25670,7 +25780,9 @@
                                 "důkaz"
                             ]
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "6bae6e7a-e114-11ec-b4d2-8b82881efe93",
@@ -25681,7 +25793,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "6. semestr",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "e50194f6-69ba-11ea-8fbe-e442a69a5dcb",
@@ -25746,6 +25862,8 @@
     "extendRev": 50,
     "media_files": [],
     "name": "MFF",
+    "newLimit": null,
+    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -25753,21 +25871,25 @@
             "css": "",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Front",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -25813,21 +25935,25 @@
             "css": "",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Front",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -25887,5 +26013,7 @@
             "vers": []
         }
     ],
-    "notes": []
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
 }
