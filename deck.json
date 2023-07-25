@@ -25880,7 +25880,7 @@
                     "plainText": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "collapsed": false,
