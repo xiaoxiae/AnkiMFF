@@ -25805,10 +25805,13 @@
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
+            "answerAction": 0,
             "autoplay": true,
             "buryInterdayLearning": false,
             "crowdanki_uuid": "14a1691a-69b7-11ea-b48d-e442a69a5dcb",
+            "desiredRetention": 0.9,
             "dyn": false,
+            "fsrsWeights": [],
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
@@ -25853,7 +25856,13 @@
                 "perDay": 2000
             },
             "reviewOrder": 0,
-            "timer": 0
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
         }
     ],
     "desc": "",
@@ -25873,32 +25882,41 @@
                 {
                     "collapsed": false,
                     "description": "",
+                    "excludeFromSearch": false,
                     "font": "Liberation Sans",
+                    "id": null,
                     "media": [],
                     "name": "Front",
                     "ord": 0,
                     "plainText": false,
+                    "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": true,
+                    "tag": null
                 },
                 {
                     "collapsed": false,
                     "description": "",
+                    "excludeFromSearch": false,
                     "font": "Liberation Sans",
+                    "id": null,
                     "media": [],
                     "name": "Back",
                     "ord": 1,
                     "plainText": false,
+                    "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": false,
+                    "tag": null
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Basic-a8710",
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
@@ -25921,6 +25939,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
+                    "id": null,
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}\n<div align=right>{{Tags}}</div>"
@@ -25937,32 +25956,41 @@
                 {
                     "collapsed": false,
                     "description": "",
+                    "excludeFromSearch": false,
                     "font": "Arial",
+                    "id": null,
                     "media": [],
                     "name": "Front",
                     "ord": 0,
                     "plainText": false,
+                    "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": false,
+                    "tag": null
                 },
                 {
                     "collapsed": false,
                     "description": "",
+                    "excludeFromSearch": false,
                     "font": "Arial",
+                    "id": null,
                     "media": [],
                     "name": "Back",
                     "ord": 1,
                     "plainText": false,
+                    "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": false,
+                    "tag": null
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-94bed",
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
@@ -25993,6 +26021,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
+                    "id": null,
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
@@ -26004,6 +26033,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
+                    "id": null,
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
